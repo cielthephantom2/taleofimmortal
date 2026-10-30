@@ -19,4 +19,4 @@ Mods/
   ImmortalModSuite.dll
 ```
 
-Phiên bản hiện tại: 1.7.45. Repo này cung cấp DLL mod tổng hợp; không chứa game, MelonLoader, bộ Việt hóa Villain hoặc ModExportData riêng.
+Phiên bản hiện tại: 1.7.48 Repo này cung cấp DLL mod tổng hợp; không chứa game, MelonLoader, bộ Việt hóa Villain hoặc ModExportData riêng.

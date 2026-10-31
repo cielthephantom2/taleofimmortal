@@ -1,25 +1,29 @@
 # Tale of Immortal — Vyyy Mod
 
-Phiên bản DLL hiện tại: **1.7.53**. Repo chứa toàn bộ thư mục `Mods` được chụp từ máy phát hành ngày 31/10/2026, gồm DLL, font và bộ dữ liệu/Việt hóa Villain. Danh sách file, kích thước và SHA-256 nằm trong `mods-files.json`.
+DLL **1.7.53**. Toàn bộ `Mods/` và `ModExportData/` được chụp từ máy phát hành ngày 31/10/2026. `mods-files.json` (schema 2) ghi đường dẫn, kích thước và SHA-256 từng file.
 
-## Cài bộ Mods đầy đủ
+## Chơi và tự cập nhật
 
-Tải repo bằng Code → Download ZIP, giải nén rồi chép thư mục `Mods` vào thư mục game cạnh `guigubahuang.exe`. Đóng game trước khi thay file. Sao lưu thư mục Mods đang dùng; không giữ song song các DLL mod độc lập cũ có chức năng trùng DLL tổng hợp.
+Tải **PlayGame.bat**, đặt cạnh `guigubahuang.exe`, đóng game rồi chạy. `ChoiGame.bat` và `Update.bat` là các bản tương đương để giữ tên quen thuộc.
 
-Cần có game và MelonLoader tương thích cài sẵn. Không chép đè UserData hoặc save của máy nhận.
+Nếu đang dùng launcher cũ chỉ cập nhật DLL, cần tải lại một trong các file batch mới này một lần.
 
-## Script cập nhật DLL
+Launcher mới kiểm tra hash toàn bộ file trong `Mods` và `ModExportData`. File đúng hash được bỏ qua. Các file thiếu hoặc khác được tải từ cùng một commit GitHub; khi có trên 8 file thay đổi, tải một archive duy nhất rồi chỉ lấy các file nằm trong manifest. Kiểm tra SHA-256/kích thước trước khi cài.
 
-Đặt `ChoiGame.bat` cạnh `guigubahuang.exe`. Script kiểm tra phiên bản theo commit, SHA-256, sao lưu DLL cũ rồi khởi động game.
+File cũ được sao lưu theo đường dẫn gốc trong `ModBackups/FullUpdate-*`. Nếu cài lỗi giữa chừng, hoàn tác các file đã thay và không mở game. Mất mạng hoặc manifest/hash không hợp lệ cũng dừng mở game. Sau khi cập nhật thành công, game tự khởi động.
 
-**Script hiện chỉ cập nhật `Mods/ImmortalModSuite.dll`, chưa đồng bộ toàn bộ thư mục Mods.** Lần cài đủ font và Việt hóa hãy chép thư mục Mods từ repo. `mod-manifest.json` vẫn dùng schema 1 để tương thích script hiện có.
+Giữ nguyên `UserData`, save và các file riêng không nằm trong manifest. File có cùng đường dẫn được repo quản lý (kể cả `Mods/Villain/config.ini`) sẽ được đồng bộ. Không tự xóa mod/file riêng ở máy nhận; hãy xử lý DLL mod cũ trùng chức năng nếu có.
 
-## Những phần máy phát hành đã chỉnh ngoài Mods
+Yêu cầu game, MelonLoader tương thích và Windows PowerShell 5.1. Launcher không cài MelonLoader hoặc cập nhật asset gốc của game.
 
-- `ModExportData/Mod_nYOYTQ/`: dữ liệu mod xuất từ ModProject, có các thay đổi bảng dữ liệu riêng. Chưa có trong repo này.
-- `UserData/ImmortalModSuite/` và `UserData/VietnameseUILayout/`: thiết lập từng máy, font và bố cục UI. Không đăng để giữ thiết lập riêng của máy nhận. DLL có cấu hình mặc định nhúng sẵn.
-- `guigubahuang_Data/resources.assets`: từng có công việc chỉnh font/asset trực tiếp, có bản sao lưu DirectFont. Repo này không phân phối asset game đó; chép Mods không tái tạo thay đổi asset ngoài Mods.
-- Các script ở thư mục game (`Update.bat` trên máy phát hành, `ChoiGame.bat` trong repo).
-- `ModSources`, `TranslationExports`, `TranslationTools`, `ModBackups`, `outputs`: source, công cụ, kết quả và backup phục vụ phát triển; không phải các file phải chép để chạy DLL.
+## Cài thủ công
 
-Repo này là bản chụp đầy đủ **Mods**, không phải toàn bộ bản game đã chỉnh sửa hoặc bộ cài MelonLoader.
+Code → Download ZIP, giải nén rồi chép `Mods/` và `ModExportData/` vào thư mục game. Sao lưu bản đang dùng và đóng game trước khi thay file.
+
+## Những thay đổi ngoài hai thư mục này
+
+- `UserData/ImmortalModSuite/` và `UserData/VietnameseUILayout/`: thiết lập riêng từng máy; không đăng. DLL có mặc định nhúng sẵn.
+- `guigubahuang_Data/resources.assets`: máy phát hành từng sửa font/texture trực tiếp. File hiện khác bản sao lưu gốc; chưa phân phối trong repo và launcher không cập nhật file này.
+- `ModSources`, `TranslationExports`, `TranslationTools`, `ModBackups`, `outputs`: source, công cụ, kết quả và backup phục vụ phát triển; không cần chép để chạy DLL.
+
+`mod-manifest.json` schema 1 vẫn giữ để launcher cũ đọc được DLL chính; launcher mới dùng `mods-files.json` schema 2.

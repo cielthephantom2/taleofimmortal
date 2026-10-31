@@ -1,5 +1,5 @@
 {
-  "schema": 1,
+  "schema": 2,
   "version": "1.7.53",
   "files": [
     {
@@ -4006,6 +4006,41 @@
       "path": "Mods/Villain.dll",
       "sha256": "76a21685bfec5f2c62437e6055fd110f2994c021c0c08308bab6c57dffa27754",
       "bytes": 50176
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModAssets/\u8fd9\u4e2a\u76ee\u5f55\u4e0b\u7684\u6240\u6709\u6587\u4ef6\u90fd\u4f1a\u88ab\u4e00\u8d77\u5bfc\u51fa\uff08\u6253\u5f00\u67e5\u770b\u8bf4\u660e\uff09.txt",
+      "sha256": "014a86b3011eb0fc316f1998b56bf1ca0c7f00a3efe5519b5af1fe6780015c73",
+      "bytes": 88
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModExcel/BuildingHospital.json",
+      "sha256": "c8a62d5b3d67804ab1da02a55df0387220d8d60b441f58d61c16e6cc51039db4",
+      "bytes": 943
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModExcel/ItemProps.json",
+      "sha256": "2ca51577a9888abc62fe87f8a3ac8887f3ced429134e790b51cb1305b910c4fa",
+      "bytes": 81
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModExcel/SchoolStock.json",
+      "sha256": "0d014f24bb3c826098fb17bc7cddd33897d8e594355c59b048965aa7fad5d319",
+      "bytes": 371
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModExcel/SchoolStore.json",
+      "sha256": "bab5a994b39f34bf61f1c5ee155c67c5ce9d0566c19ef61ef77351fc75446045",
+      "bytes": 1233
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModExportData.cache",
+      "sha256": "7799fddaeb3cbc56180e70a89ef79509fbfdb94de236b3d202d3b3023a2dddde",
+      "bytes": 3544
+    },
+    {
+      "path": "ModExportData/Mod_nYOYTQ/ModProjectPreview.png",
+      "sha256": "1e0e089c9c709f381f89177aac65629311b57acd822164d733b1950c2518c24b",
+      "bytes": 13079340
     }
   ]
 }

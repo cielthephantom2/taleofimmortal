@@ -1,1 +1,3 @@
 Mods/** -text
+ModExportData/** -text
+*.bat -text

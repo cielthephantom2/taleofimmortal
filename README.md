@@ -1,6 +1,6 @@
 # Tale of Immortal — Vyyy Mod
 
-DLL **1.7.53**. Toàn bộ `Mods/` và `ModExportData/` được chụp từ máy phát hành ngày 31/10/2026. `mods-files.json` (schema 2) ghi đường dẫn, kích thước và SHA-256 từng file.
+DLL **1.7.54**. Toàn bộ `Mods/` và `ModExportData/` được chụp từ máy phát hành ngày 31/10/2026. `mods-files.json` (schema 2) ghi đường dẫn, kích thước và SHA-256 từng file.
 
 ## Chơi và tự cập nhật
 
@@ -30,3 +30,5 @@ Code → Download ZIP, giải nén rồi chép `Mods/`, `ModExportData/` và `Us
 - `ModSources`, `TranslationExports`, `TranslationTools`, `ModBackups`, `outputs`: source, công cụ, kết quả và backup phục vụ phát triển; không cần chép để chạy DLL.
 
 `mod-manifest.json` schema 1 vẫn giữ để launcher cũ đọc được DLL chính; launcher mới dùng `mods-files.json` schema 2.
+
+Bản 1.7.54: tự theo dõi nhiệm vụ mới nhận, giữ nguyên các nhiệm vụ đang theo dõi và cho phép bỏ tick thủ công.

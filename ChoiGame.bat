@@ -18,7 +18,7 @@ function Assert-Idle {
  }
 }
 function Safe-Path([string]$relative){
- if($relative -cnotmatch '^(Mods|ModExportData)/' -or $relative.Contains('\') -or $relative.Contains(':') -or $relative -match '[\x00-\x1f]'){throw 'Invalid update path.'}
+ if(($relative -cnotmatch '^(Mods|ModExportData)/' -and $relative -cne 'UserData/VietnameseUILayout/profiles.json') -or $relative.Contains('\') -or $relative.Contains(':') -or $relative -match '[\x00-\x1f]'){throw 'Invalid update path.'}
  foreach($part in $relative.Split('/')){if(-not $part -or $part -in @('.','..') -or $part.EndsWith('.') -or $part.EndsWith(' ') -or $part -match '[<>"|?*]' -or $part -match '^(?i:CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])(?:\.|$)'){throw 'Invalid path segment.'}}
  $target=[IO.Path]::GetFullPath((Join-Path $root $relative))
  if(-not $target.StartsWith($root+'\',[StringComparison]::OrdinalIgnoreCase)){throw 'Path escaped game directory.'}

@@ -1,3 +1,4 @@
 Mods/** -text
 ModExportData/** -text
 *.bat -text
+UserData/VietnameseUILayout/profiles.json -text

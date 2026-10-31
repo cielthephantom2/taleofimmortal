@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "1.7.58",
+  "version": "1.7.72",
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/\u8fd9\u4e2a\u76ee\u5f55\u4e0b\u7684\u6240\u6709\u6587\u4ef6\u90fd\u4f1a\u88ab\u4e00\u8d77\u5bfc\u51fa\uff08\u6253\u5f00\u67e5\u770b\u8bf4\u660e\uff09.txt",
@@ -229,8 +229,8 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "sha256": "33bb8c2a2cc7c48f4ded496a476b5bf1696ae50f7b1afed10a6983ae77cb41a7",
-      "bytes": 14171136
+      "sha256": "cbef686112a0f7fb6c0ca5efe5136772b87414437cd4fb6e31362f617263276f",
+      "bytes": 14190080
     },
     {
       "path": "Mods/Villain/base/Achievement.json",
@@ -4019,8 +4019,8 @@
     },
     {
       "path": "Mods/Villain/patch_vh/LocalText.json",
-      "sha256": "8d3bbbb98833cbe8b41d5ff27d8aede761f2425b93093869d719435286e15245",
-      "bytes": 14349016
+      "sha256": "e362a814c11b85b95fa57e757fb18ae877f5e721ea65164081a10959afafaa1f",
+      "bytes": 14348699
     },
     {
       "path": "Mods/Villain/patch_vh/NpcNameFirst.json",

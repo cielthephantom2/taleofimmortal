@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "key": "stableBasics",
+    "value": "100"
+  },
+  {
+    "id": 2,
+    "key": "addStable",
+    "value": "1_2"
+  },
+  {
+    "id": 3,
+    "key": "prosperousBasics",
+    "value": "0"
+  },
+  {
+    "id": 4,
+    "key": "populationBasics",
+    "value": "100"
+  },
+  {
+    "id": 5,
+    "key": "reputationBasics",
+    "value": "100"
+  },
+  {
+    "id": 6,
+    "key": "loyaltyBasics",
+    "value": "0"
+  },
+  {
+    "id": 7,
+    "key": "addLoyalty",
+    "value": "1_1000"
+  },
+  {
+    "id": 8,
+    "key": "schollAttrBasics",
+    "value": "25000"
+  },
+  {
+    "id": 9,
+    "key": "schollBasicsMoney",
+    "value": "100"
+  },
+  {
+    "id": 10,
+    "key": "schollBasicsHerbs",
+    "value": "50"
+  },
+  {
+    "id": 11,
+    "key": "schollBasicsMine",
+    "value": "50"
+  },
+  {
+    "id": 12,
+    "key": "schollFormationBasics",
+    "value": "10000"
+  },
+  {
+    "id": 13,
+    "key": "schollFormationStable",
+    "value": "1_200"
+  },
+  {
+    "id": 14,
+    "key": "schoolOperationTime",
+    "value": "6_12"
+  },
+  {
+    "id": 15,
+    "key": "populationMin",
+    "value": "1"
+  },
+  {
+    "id": 16,
+    "key": "schoolMoneyStandard",
+    "value": "3"
+  },
+  {
+    "id": 17,
+    "key": "schoolMoneyWeight",
+    "value": "100"
+  },
+  {
+    "id": 18,
+    "key": "schoolApproveCoolDown",
+    "value": "12_24"
+  }
+]

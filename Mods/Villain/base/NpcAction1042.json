@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "attrOneMaxProb",
+    "value": 120
+  },
+  {
+    "id": 2,
+    "key": "attrTotalMaxProb",
+    "value": 600
+  },
+  {
+    "id": 3,
+    "key": "attrAddMin",
+    "value": 20
+  },
+  {
+    "id": 4,
+    "key": "attrAddMax",
+    "value": 30
+  },
+  {
+    "id": 5,
+    "key": "weightAddValue",
+    "value": 50
+  },
+  {
+    "id": 6,
+    "key": "weightRateValue",
+    "value": 250
+  }
+]

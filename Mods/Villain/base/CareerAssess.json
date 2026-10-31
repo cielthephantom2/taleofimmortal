@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "title": "careerAssess1",
+    "desc": "careerAssessDesc1",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "logCount_10",
+    "scoreParam1": "eventLogRoleBattle21312|eventLogRoleBattle21322|eventLogRoleBattle21332|eventLogRoleBattle21342|eventLogRoleBattle21352",
+    "achievementID": 300001
+  },
+  {
+    "id": 2,
+    "title": "careerAssess2",
+    "desc": "careerAssessDesc2",
+    "startScore": 600,
+    "unLockScore": 500,
+    "scoreCondition": "dramaCount_20412_-1000",
+    "scoreParam1": "0",
+    "achievementID": 300002
+  },
+  {
+    "id": 3,
+    "title": "careerAssess3",
+    "desc": "careerAssessDesc3",
+    "startScore": 600,
+    "unLockScore": 500,
+    "scoreCondition": "logTimeLastOut_40_-10",
+    "scoreParam1": "bigLogRoleChat10025",
+    "achievementID": 300003
+  },
+  {
+    "id": 4,
+    "title": "careerAssess4",
+    "desc": "careerAssessDesc4",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "logCount_50",
+    "scoreParam1": "eventLogRoleRelation211311|eventLogRoleRelation212312|eventLogRoleRelation21311|eventLogRoleRelation22311|eventLogRoleRelation27312|eventLogRoleRelation28312",
+    "achievementID": 300004
+  },
+  {
+    "id": 5,
+    "title": "careerAssess5",
+    "desc": "careerAssessDesc5",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "unitToPlayerActionCount_UnitActionRoleBattle_5",
+    "scoreParam1": "0",
+    "achievementID": 300005
+  },
+  {
+    "id": 6,
+    "title": "careerAssess6",
+    "desc": "careerAssessDesc6",
+    "startScore": 500,
+    "unLockScore": 500,
+    "scoreCondition": "potmonRaceLack_-1000",
+    "scoreParam1": "0",
+    "achievementID": 300006
+  },
+  {
+    "id": 7,
+    "title": "careerAssess7",
+    "desc": "careerAssessDesc7",
+    "startScore": 500,
+    "unLockScore": 500,
+    "scoreCondition": "pillFormulaLack_-1000",
+    "scoreParam1": "0",
+    "achievementID": 300007
+  },
+  {
+    "id": 8,
+    "title": "careerAssess8",
+    "desc": "careerAssessDesc8",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "saveNPCCount_25",
+    "scoreParam1": "0",
+    "achievementID": 300008
+  },
+  {
+    "id": 9,
+    "title": "careerAssess9",
+    "desc": "careerAssessDesc9",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleKill_5",
+    "scoreParam1": "0",
+    "achievementID": 300009
+  },
+  {
+    "id": 10,
+    "title": "careerAssess10",
+    "desc": "careerAssessDesc10",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "dramaCount_8200501_0",
+    "scoreParam1": "0",
+    "achievementID": 0
+  },
+  {
+    "id": 11,
+    "title": "careerAssess11",
+    "desc": "careerAssessDesc11",
+    "startScore": 800,
+    "unLockScore": 500,
+    "scoreCondition": "holdAllSchoolLack_-800",
+    "scoreParam1": "0",
+    "achievementID": 300011
+  },
+  {
+    "id": 12,
+    "title": "careerAssess12",
+    "desc": "careerAssessDesc12",
+    "startScore": 600,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleStealItem_-1000|playerToUnitActionCount_UnitActionRoleAskfor_1000",
+    "scoreParam1": "0",
+    "achievementID": 300012
+  },
+  {
+    "id": 13,
+    "title": "careerAssess13",
+    "desc": "careerAssessDesc13",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionSetTaoistHeart_25",
+    "scoreParam1": "0",
+    "achievementID": 300013
+  },
+  {
+    "id": 14,
+    "title": "careerAssess14",
+    "desc": "careerAssessDesc14",
+    "startScore": 700,
+    "unLockScore": 500,
+    "scoreCondition": "killNPCCount_-1000",
+    "scoreParam1": "0",
+    "achievementID": 300014
+  },
+  {
+    "id": 15,
+    "title": "careerAssess15",
+    "desc": "careerAssessDesc15",
+    "startScore": 700,
+    "unLockScore": 500,
+    "scoreCondition": "rolePlayerToNPCSuccess_UnitActionRoleTrains_-1000|roleNPCToPlayerSuccess_UnitActionRoleTrains_-1000",
+    "scoreParam1": "0",
+    "achievementID": 300015
+  },
+  {
+    "id": 16,
+    "title": "careerAssess16",
+    "desc": "careerAssessDesc16",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleTrains_2|unitToPlayerActionCount_UnitActionRoleTrains_2",
+    "scoreParam1": "0",
+    "achievementID": 300016
+  },
+  {
+    "id": 17,
+    "title": "careerAssess17",
+    "desc": "careerAssessDesc17",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "digGraveCount_10",
+    "scoreParam1": "0",
+    "achievementID": 300017
+  },
+  {
+    "id": 18,
+    "title": "careerAssess18",
+    "desc": "careerAssessDesc18",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "logCountOut_1_-1000",
+    "scoreParam1": "eventLogRoleRelation29311|eventLogRoleRelation29312",
+    "achievementID": 0
+  },
+  {
+    "id": 19,
+    "title": "careerAssess19",
+    "desc": "careerAssessDesc19",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "dramaCount_28201_10",
+    "scoreParam1": "0",
+    "achievementID": 300019
+  },
+  {
+    "id": 20,
+    "title": "careerAssess20",
+    "desc": "careerAssessDesc20",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "stealSuccessCount_5",
+    "scoreParam1": "0",
+    "achievementID": 300020
+  },
+  {
+    "id": 21,
+    "title": "careerAssess21",
+    "desc": "careerAssessDesc21",
+    "startScore": 0,
+    "unLockScore": 400,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleChat_4",
+    "scoreParam1": "0",
+    "achievementID": 300021
+  },
+  {
+    "id": 22,
+    "title": "careerAssess22",
+    "desc": "careerAssessDesc22",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleDiscovery_5|unitToPlayerActionCount_UnitActionRoleDiscovery_5",
+    "scoreParam1": "0",
+    "achievementID": 300022
+  },
+  {
+    "id": 23,
+    "title": "careerAssess23",
+    "desc": "careerAssessDesc23",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleDrill_5|unitToPlayerActionCount_UnitActionRoleDrill_5",
+    "scoreParam1": "0",
+    "achievementID": 300023
+  },
+  {
+    "id": 24,
+    "title": "careerAssess24",
+    "desc": "careerAssessDesc24",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleBattle_5|unitToPlayerActionCount_UnitActionRoleBattle_5",
+    "scoreParam1": "0",
+    "achievementID": 300024
+  },
+  {
+    "id": 25,
+    "title": "careerAssess25",
+    "desc": "careerAssessDesc25",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleGive_5",
+    "scoreParam1": "0",
+    "achievementID": 300025
+  },
+  {
+    "id": 26,
+    "title": "careerAssess26",
+    "desc": "careerAssessDesc26",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleAskfor_5",
+    "scoreParam1": "0",
+    "achievementID": 300026
+  },
+  {
+    "id": 27,
+    "title": "careerAssess27",
+    "desc": "careerAssessDesc27",
+    "startScore": 0,
+    "unLockScore": 400,
+    "scoreCondition": "logCount_20",
+    "scoreParam1": "eventLogRoleRelation212311",
+    "achievementID": 300027
+  },
+  {
+    "id": 28,
+    "title": "careerAssess28",
+    "desc": "careerAssessDesc28",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "playerToUnitActionCount_UnitActionRoleInvite_10|unitToPlayerActionCount_UnitActionRoleInvite_10",
+    "scoreParam1": "0",
+    "achievementID": 300028
+  },
+  {
+    "id": 29,
+    "title": "careerAssess29",
+    "desc": "careerAssessDesc29",
+    "startScore": 600,
+    "unLockScore": 500,
+    "scoreCondition": "logCount_-600",
+    "scoreParam1": "eventLogRoleBattle21312|eventLogRoleBattle21322|eventLogRoleBattle21332|eventLogRoleBattle21342|eventLogRoleBattle21352",
+    "achievementID": 300029
+  },
+  {
+    "id": 30,
+    "title": "careerAssess30",
+    "desc": "careerAssessDesc30",
+    "startScore": 500,
+    "unLockScore": 500,
+    "scoreCondition": "godEyeSkillsLack_-1000",
+    "scoreParam1": "0",
+    "achievementID": 300030
+  },
+  {
+    "id": 31,
+    "title": "careerAssess31",
+    "desc": "careerAssessDesc31",
+    "startScore": 0,
+    "unLockScore": 400,
+    "scoreCondition": "logCount_20",
+    "scoreParam1": "eventLogBigFightJoin6200023|eventLogBigFightJoin6200024|eventLogBigFightJoin6200025|eventLogBigFightJoin6200026",
+    "achievementID": 300031
+  },
+  {
+    "id": 32,
+    "title": "careerAssess32",
+    "desc": "careerAssessDesc32",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "attackMonstCount_200_1",
+    "scoreParam1": "0",
+    "achievementID": 300032
+  },
+  {
+    "id": 33,
+    "title": "careerAssess33",
+    "desc": "careerAssessDesc33",
+    "startScore": 500,
+    "unLockScore": 400,
+    "scoreCondition": "showGridCountLack_1000_-25",
+    "scoreParam1": "0",
+    "achievementID": 300033
+  },
+  {
+    "id": 34,
+    "title": "careerAssess34",
+    "desc": "careerAssessDesc34",
+    "startScore": 0,
+    "unLockScore": 400,
+    "scoreCondition": "dramaCount_8110202_0|dramaCount_8110215_0",
+    "scoreParam1": "0",
+    "achievementID": 0
+  },
+  {
+    "id": 35,
+    "title": "careerAssess35",
+    "desc": "careerAssessDesc35",
+    "startScore": 0,
+    "unLockScore": 400,
+    "scoreCondition": "dramaCount_8110218_0|dramaCount_8110219_0|dramaCount_8110222_0",
+    "scoreParam1": "0",
+    "achievementID": 0
+  },
+  {
+    "id": 999,
+    "title": "careerAssess999",
+    "desc": "careerAssessDesc999",
+    "startScore": 0,
+    "unLockScore": 1,
+    "scoreCondition": "0",
+    "scoreParam1": "0",
+    "achievementID": 300036
+  },
+  {
+    "id": 36,
+    "title": "careerAssess4",
+    "desc": "careerAssessDesc4",
+    "startScore": 0,
+    "unLockScore": 500,
+    "scoreCondition": "relationNpcCount_10_50|relationNpcCount_5_50",
+    "scoreParam1": "0",
+    "achievementID": 300004
+  }
+]

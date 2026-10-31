@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "attrInitMin",
+    "value": 80
+  },
+  {
+    "id": 2,
+    "key": "attrInitMax",
+    "value": 120
+  },
+  {
+    "id": 3,
+    "key": "fiveflowerMin",
+    "value": 95
+  },
+  {
+    "id": 4,
+    "key": "fiveflowerMax",
+    "value": 105
+  },
+  {
+    "id": 5,
+    "key": "fiveflowerMin1014",
+    "value": 100
+  },
+  {
+    "id": 6,
+    "key": "fiveflowerMax1014",
+    "value": 110
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "key": "maxGrade",
+    "value": 6
+  },
+  {
+    "id": 2,
+    "key": "minGrade",
+    "value": 2
+  },
+  {
+    "id": 3,
+    "key": "cdFateId",
+    "value": 8012131
+  },
+  {
+    "id": 4,
+    "key": "targetCdFateId",
+    "value": 8012132
+  },
+  {
+    "id": 5,
+    "key": "weight",
+    "value": 200
+  },
+  {
+    "id": 6,
+    "key": "resurgeTime",
+    "value": 10
+  },
+  {
+    "id": 7,
+    "key": "robAddHate",
+    "value": 200
+  },
+  {
+    "id": 8,
+    "key": "dungeonSuccessRate",
+    "value": 30
+  },
+  {
+    "id": 9,
+    "key": "dungeonHighSuccessRate",
+    "value": 70
+  },
+  {
+    "id": 10,
+    "key": "okBaseRate",
+    "value": 40
+  },
+  {
+    "id": 11,
+    "key": "npcGradeRate1",
+    "value": -30
+  },
+  {
+    "id": 12,
+    "key": "npcGradeRate2",
+    "value": -10
+  },
+  {
+    "id": 13,
+    "key": "npcGradeRate3",
+    "value": 30
+  },
+  {
+    "id": 14,
+    "key": "itemGradeRate1",
+    "value": -30
+  },
+  {
+    "id": 15,
+    "key": "itemGradeRate2",
+    "value": -10
+  },
+  {
+    "id": 16,
+    "key": "itemGradeRate3",
+    "value": 30
+  },
+  {
+    "id": 17,
+    "key": "beautyRate1",
+    "value": -60
+  },
+  {
+    "id": 18,
+    "key": "beautyRate2",
+    "value": -30
+  },
+  {
+    "id": 19,
+    "key": "beautyRate3",
+    "value": -30
+  },
+  {
+    "id": 20,
+    "key": "beautyRate4",
+    "value": 0
+  },
+  {
+    "id": 21,
+    "key": "beautyRate5",
+    "value": 10
+  },
+  {
+    "id": 22,
+    "key": "beautyRate6",
+    "value": 30
+  },
+  {
+    "id": 23,
+    "key": "beautyRate7",
+    "value": 60
+  },
+  {
+    "id": 24,
+    "key": "intimAddRate",
+    "value": 1
+  },
+  {
+    "id": 25,
+    "key": "familyAddRate",
+    "value": 30
+  },
+  {
+    "id": 26,
+    "key": "robIdleRate",
+    "value": 10
+  },
+  {
+    "id": 27,
+    "key": "familyRobIdleRate",
+    "value": -500
+  },
+  {
+    "id": 28,
+    "key": "enemyRobIdleRate",
+    "value": 500
+  },
+  {
+    "id": 29,
+    "key": "robBaseRate",
+    "value": 10
+  },
+  {
+    "id": 30,
+    "key": "itemGradeRobRate1",
+    "value": 50
+  },
+  {
+    "id": 31,
+    "key": "itemGradeRobRate2",
+    "value": -40
+  },
+  {
+    "id": 32,
+    "key": "itemGradeRobRate3",
+    "value": 30
+  },
+  {
+    "id": 33,
+    "key": "hasParentRobRate",
+    "value": -10
+  },
+  {
+    "id": 34,
+    "key": "hasMasterRobRate",
+    "value": -10
+  },
+  {
+    "id": 35,
+    "key": "hasSchoolRobRate",
+    "value": -10
+  },
+  {
+    "id": 36,
+    "key": "npcGradeRobRate1",
+    "value": -40
+  },
+  {
+    "id": 37,
+    "key": "npcGradeRobRate2",
+    "value": 30
+  },
+  {
+    "id": 38,
+    "key": "npcGradeRobRate3",
+    "value": 10
+  },
+  {
+    "id": 39,
+    "key": "familyRobRate",
+    "value": -500
+  },
+  {
+    "id": 40,
+    "key": "enemyRobRate",
+    "value": 500
+  },
+  {
+    "id": 41,
+    "key": "familyWeight",
+    "value": 10
+  },
+  {
+    "id": 42,
+    "key": "friendWeight",
+    "value": 50
+  },
+  {
+    "id": 43,
+    "key": "enemyWeight",
+    "value": 10
+  },
+  {
+    "id": 44,
+    "key": "gridWeight",
+    "value": 30
+  },
+  {
+    "id": 45,
+    "key": "targetMaxGrade",
+    "value": 8
+  },
+  {
+    "id": 46,
+    "key": "targetMinGradeDiscrepancy",
+    "value": -1
+  },
+  {
+    "id": 47,
+    "key": "targetMaxGradeDiscrepancy",
+    "value": 10
+  },
+  {
+    "id": 48,
+    "key": "invincibleTime",
+    "value": 2000
+  },
+  {
+    "id": 49,
+    "key": "seekGradeNeedNum",
+    "value": 3
+  },
+  {
+    "id": 50,
+    "key": "playerCd",
+    "value": 15
+  },
+  {
+    "id": 51,
+    "key": "playerMinCd",
+    "value": 10
+  },
+  {
+    "id": 52,
+    "key": "playerMaxCd",
+    "value": 24
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "careerKey": "careerLogFianceCount",
+    "roleLogKey": "eventLogRoleRelation29311|eventLogRoleRelation29312"
+  },
+  {
+    "id": 2,
+    "careerKey": "careerLogLoverCount",
+    "roleLogKey": "eventLogRoleRelation210311|eventLogRoleRelation210312"
+  },
+  {
+    "id": 3,
+    "careerKey": "careerLogMasterCount",
+    "roleLogKey": "eventLogRoleRelation211311"
+  },
+  {
+    "id": 4,
+    "careerKey": "careerLogStudentCount",
+    "roleLogKey": "eventLogRoleRelation212311"
+  },
+  {
+    "id": 5,
+    "careerKey": "careerLogFatherCount",
+    "roleLogKey": "bigLogRoleChat10001"
+  },
+  {
+    "id": 6,
+    "careerKey": "careerLogMotherCount",
+    "roleLogKey": "bigLogRoleChat10002"
+  },
+  {
+    "id": 7,
+    "careerKey": "careerLogSonCount",
+    "roleLogKey": "bigLogRoleChat10003"
+  },
+  {
+    "id": 8,
+    "careerKey": "careerLogDaughterCount",
+    "roleLogKey": "bigLogRoleChat10004"
+  },
+  {
+    "id": 9,
+    "careerKey": "careerLogBrotherCount",
+    "roleLogKey": "eventLogRoleRelation23311|eventLogRoleRelation23312|eventLogRoleRelation24311|eventLogRoleRelation24312"
+  },
+  {
+    "id": 10,
+    "careerKey": "careerLogSisterCount",
+    "roleLogKey": "eventLogRoleRelation25311|eventLogRoleRelation25312|eventLogRoleRelation26311|eventLogRoleRelation26312"
+  }
+]

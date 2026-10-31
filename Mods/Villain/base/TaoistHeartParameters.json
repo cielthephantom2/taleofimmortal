@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "key": "askCountMax",
+    "value": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "key": "closeValueNeed",
+    "value": [
+      120
+    ]
+  },
+  {
+    "id": 3,
+    "key": "askGroupProbability",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 4,
+    "key": "askGroupCD",
+    "value": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": 5,
+    "key": "askRelationID",
+    "value": [
+      106,
+      107
+    ]
+  },
+  {
+    "id": 6,
+    "key": "askGroupProbabilityFolk",
+    "value": [
+      25
+    ]
+  },
+  {
+    "id": 7,
+    "key": "askGroupProbabilityFolkAssign",
+    "value": [
+      50,
+      100
+    ]
+  },
+  {
+    "id": 8,
+    "key": "askGroupProbabilitySmriti",
+    "value": [
+      100
+    ]
+  },
+  {
+    "id": 9,
+    "key": "askCountMaxFeature",
+    "value": [
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "key": "closeValueNeedFeature",
+    "value": [
+      120
+    ]
+  },
+  {
+    "id": 11,
+    "key": "askGroupProbabilityFeature",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 12,
+    "key": "askGroupCDFeature",
+    "value": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": 13,
+    "key": "askGroupProbabilityFolkFeature",
+    "value": [
+      25
+    ]
+  },
+  {
+    "id": 14,
+    "key": "groupSelectCountFeature",
+    "value": [
+      6
+    ]
+  },
+  {
+    "id": 15,
+    "key": "selectFeatureCD",
+    "value": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": 16,
+    "key": "askGroupProbabilitySmritiFeature",
+    "value": [
+      100
+    ]
+  },
+  {
+    "id": 17,
+    "key": "askTaoistDramaID",
+    "value": [
+      22658
+    ]
+  },
+  {
+    "id": 18,
+    "key": "askFateLuckDramaID",
+    "value": [
+      22659
+    ]
+  },
+  {
+    "id": 19,
+    "key": "askFateLuckDramaIDHelp",
+    "value": [
+      226591
+    ]
+  },
+  {
+    "id": 20,
+    "key": "askFateLuckDramaIDCancel",
+    "value": [
+      226592
+    ]
+  }
+]

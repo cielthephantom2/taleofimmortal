@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaB",
+    "value": -5
+  },
+  {
+    "id": 3,
+    "key": "closeScorePara",
+    "value": 150
+  },
+  {
+    "id": 4,
+    "key": "hateScorePara",
+    "value": 2000
+  },
+  {
+    "id": 5,
+    "key": "requireScoreParents",
+    "value": 5000
+  },
+  {
+    "id": 6,
+    "key": "requireScoreChildren",
+    "value": 5000
+  },
+  {
+    "id": 7,
+    "key": "requireScoreBrother",
+    "value": 5000
+  },
+  {
+    "id": 8,
+    "key": "requireScoreMaster",
+    "value": 5000
+  },
+  {
+    "id": 9,
+    "key": "requireScoreStudent",
+    "value": 5000
+  },
+  {
+    "id": 10,
+    "key": "requireScoreMarry",
+    "value": 6000
+  },
+  {
+    "id": 11,
+    "key": "requireScoreLover",
+    "value": 4000
+  },
+  {
+    "id": 12,
+    "key": "eventLogFeedback10411211",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "eventLogFeedback10411221",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "key": "eventLogFeedback10411231",
+    "value": 0
+  },
+  {
+    "id": 15,
+    "key": "eventLogFeedback10411311",
+    "value": 0
+  },
+  {
+    "id": 16,
+    "key": "eventLogFeedback10411321",
+    "value": 0
+  },
+  {
+    "id": 17,
+    "key": "closeRequire",
+    "value": 120
+  },
+  {
+    "id": 18,
+    "key": "elitePowerAskRatio",
+    "value": 7000
+  },
+  {
+    "id": 19,
+    "key": "eliteDecValue",
+    "value": -1000
+  },
+  {
+    "id": 20,
+    "key": "schoolCloseRequire",
+    "value": -30
+  },
+  {
+    "id": 21,
+    "key": "schoolRequireScoreMaster",
+    "value": -999999
+  },
+  {
+    "id": 22,
+    "key": "schoolRequireScoreStudent",
+    "value": -999999
+  },
+  {
+    "id": 23,
+    "key": "requireReputationGrade1",
+    "value": 300
+  },
+  {
+    "id": 24,
+    "key": "requireReputationGrade2",
+    "value": 1200
+  },
+  {
+    "id": 25,
+    "key": "requireReputationGrade3",
+    "value": 1950
+  },
+  {
+    "id": 26,
+    "key": "requireReputationGrade4",
+    "value": 4200
+  },
+  {
+    "id": 27,
+    "key": "requireReputationGrade5",
+    "value": 6075
+  },
+  {
+    "id": 28,
+    "key": "requireReputationGrade6",
+    "value": 11700
+  },
+  {
+    "id": 29,
+    "key": "requireReputationGrade7",
+    "value": 16387
+  },
+  {
+    "id": 30,
+    "key": "requireReputationGrade8",
+    "value": 30450
+  },
+  {
+    "id": 31,
+    "key": "requireReputationGrade9",
+    "value": 42150
+  },
+  {
+    "id": 32,
+    "key": "requireReputationGrade10",
+    "value": 77310
+  },
+  {
+    "id": 33,
+    "key": "reputationGapScaleByTrait1",
+    "value": 0
+  },
+  {
+    "id": 34,
+    "key": "reputationGapScaleByTrait2",
+    "value": 50
+  },
+  {
+    "id": 35,
+    "key": "reputationGapScaleByTrait3",
+    "value": 50
+  },
+  {
+    "id": 36,
+    "key": "reputationGapScaleByTrait4",
+    "value": 50
+  },
+  {
+    "id": 37,
+    "key": "reputationGapScaleByTrait5",
+    "value": 0
+  },
+  {
+    "id": 38,
+    "key": "reputationGapScaleByTrait6",
+    "value": 0
+  },
+  {
+    "id": 39,
+    "key": "reputationGapScaleByTrait7",
+    "value": 0
+  },
+  {
+    "id": 40,
+    "key": "reputationGapScaleByTrait8",
+    "value": 200
+  },
+  {
+    "id": 41,
+    "key": "reputationGapScaleByTrait9",
+    "value": 50
+  },
+  {
+    "id": 42,
+    "key": "reputationGapScaleByTrait10",
+    "value": 50
+  },
+  {
+    "id": 43,
+    "key": "reputationGapScaleByTrait11",
+    "value": 0
+  },
+  {
+    "id": 44,
+    "key": "reputationGapScaleByTrait12",
+    "value": 50
+  },
+  {
+    "id": 45,
+    "key": "reputationGapScaleByTrait13",
+    "value": 200
+  },
+  {
+    "id": 46,
+    "key": "reputationGapScaleByTrait14",
+    "value": 150
+  },
+  {
+    "id": 47,
+    "key": "reputationGapScaleByTrait15",
+    "value": 0
+  },
+  {
+    "id": 48,
+    "key": "reputationGapScaleByTrait16",
+    "value": 0
+  },
+  {
+    "id": 49,
+    "key": "reputationGapScaleByTrait17",
+    "value": 0
+  },
+  {
+    "id": 50,
+    "key": "reputationGapScaleByTrait18",
+    "value": 200
+  },
+  {
+    "id": 51,
+    "key": "reputationGapScaleByTrait19",
+    "value": 0
+  },
+  {
+    "id": 52,
+    "key": "scoreMinScale",
+    "value": 50
+  },
+  {
+    "id": 53,
+    "key": "eventLogFeedback10411241",
+    "value": 0
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "pillOutputGrow": 10
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "pillOutputGrow": 20
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "pillOutputGrow": 30
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "pillOutputGrow": 40
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "pillOutputGrow": 50
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "pillOutputGrow": 60
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "pillOutputGrow": 70
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "pillOutputGrow": 80
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "pillOutputGrow": 90
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "pillOutputGrow": 100
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "pillOutputGrow": 110
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "pillOutputGrow": 120
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "pillOutputGrow": 130
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "pillOutputGrow": 140
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "pillOutputGrow": 150
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "careerKey": "careerLogUpgradeSuccess",
+    "roleLogKey": "bigLogRoleChat10025"
+  },
+  {
+    "id": 2,
+    "careerKey": "careerLogUpgradeFail",
+    "roleLogKey": "eventLogTotal10702"
+  },
+  {
+    "id": 3,
+    "careerKey": "careerLogSchoolJoin",
+    "roleLogKey": "eventLogTotal10801"
+  },
+  {
+    "id": 4,
+    "careerKey": "careerLogSchoolPost",
+    "roleLogKey": "eventLogTotal10805"
+  },
+  {
+    "id": 5,
+    "careerKey": "careerLogSchoolMain",
+    "roleLogKey": "eventLogTotal10807"
+  },
+  {
+    "id": 6,
+    "careerKey": "careerLogSchoolBigFight",
+    "roleLogKey": "eventLogBigFightJoin6200023|eventLogBigFightJoin6200027|eventLogBigFightJoin6200031|eventLogBigFightJoin6200035"
+  },
+  {
+    "id": 7,
+    "careerKey": "careerLogRelationMarry",
+    "roleLogKey": "eventLogRoleMarry21311"
+  },
+  {
+    "id": 8,
+    "careerKey": "careerLogRelationLover",
+    "roleLogKey": "eventLogRoleRelation29311|eventLogRoleRelation29312"
+  },
+  {
+    "id": 9,
+    "careerKey": "careerLogRelationParentbackM",
+    "roleLogKey": "eventLogRoleRelation21311"
+  },
+  {
+    "id": 10,
+    "careerKey": "careerLogRelationParentbackW",
+    "roleLogKey": "eventLogRoleRelation22311"
+  },
+  {
+    "id": 11,
+    "careerKey": "careerLogRelationBrother",
+    "roleLogKey": "eventLogRoleRelation23311|eventLogRoleRelation24311|eventLogRoleRelation23312|eventLogRoleRelation24312"
+  },
+  {
+    "id": 12,
+    "careerKey": "careerLogRelationSister",
+    "roleLogKey": "eventLogRoleRelation25311|eventLogRoleRelation26311|eventLogRoleRelation25312|eventLogRoleRelation26312"
+  },
+  {
+    "id": 13,
+    "careerKey": "careerLogRelationChildrenBackM",
+    "roleLogKey": "eventLogRoleRelation27311"
+  },
+  {
+    "id": 14,
+    "careerKey": "careerLogRelationChildrenBackW",
+    "roleLogKey": "eventLogRoleRelation28311"
+  },
+  {
+    "id": 15,
+    "careerKey": "careerLogRelationMaster",
+    "roleLogKey": "eventLogRoleRelation211311"
+  },
+  {
+    "id": 16,
+    "careerKey": "careerLogRelationStudent",
+    "roleLogKey": "eventLogRoleRelation212311"
+  },
+  {
+    "id": 17,
+    "careerKey": "careerLogRelationBreakWith",
+    "roleLogKey": "eventLogRoleBreakWith21311|eventLogRoleBreakWith21312"
+  },
+  {
+    "id": 18,
+    "careerKey": "careerLogEntryWorld",
+    "roleLogKey": "eventLogTotal10804"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "triggerPara",
+    "value": 5
+  },
+  {
+    "id": 2,
+    "key": "triggerIntervalMax",
+    "value": 36
+  },
+  {
+    "id": 3,
+    "key": "letterNumMin",
+    "value": 1
+  },
+  {
+    "id": 4,
+    "key": "letterNumMax",
+    "value": 1
+  },
+  {
+    "id": 5,
+    "key": "screenPara",
+    "value": 12
+  },
+  {
+    "id": 6,
+    "key": "letterContext",
+    "value": 401
+  }
+]

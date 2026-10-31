@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "powerBase",
+    "value": -200
+  },
+  {
+    "id": 2,
+    "key": "powerCompareMin",
+    "value": 40
+  },
+  {
+    "id": 3,
+    "key": "powerCompareMax",
+    "value": 100
+  },
+  {
+    "id": 4,
+    "key": "powerLowScore",
+    "value": -50
+  },
+  {
+    "id": 5,
+    "key": "powerHighScore",
+    "value": -100
+  },
+  {
+    "id": 6,
+    "key": "revengePara",
+    "value": -200
+  }
+]

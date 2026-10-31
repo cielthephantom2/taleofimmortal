@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "careerKey": "careerLogRoleChatCount",
+    "actionName": "UnitActionRoleChat",
+    "isSuccess": 0,
+    "player2Npc": 0
+  },
+  {
+    "id": 2,
+    "careerKey": "careerLogTrainCount",
+    "actionName": "UnitActionRoleTrains",
+    "isSuccess": 1,
+    "player2Npc": 0
+  },
+  {
+    "id": 3,
+    "careerKey": "careerLogGiveCount",
+    "actionName": "UnitActionRoleGive",
+    "isSuccess": 0,
+    "player2Npc": 1
+  },
+  {
+    "id": 4,
+    "careerKey": "careerLogAskforCount",
+    "actionName": "UnitActionRoleAskfor",
+    "isSuccess": 0,
+    "player2Npc": 1
+  },
+  {
+    "id": 5,
+    "careerKey": "careerLogStealCount",
+    "actionName": "UnitActionRoleStealItem",
+    "isSuccess": 0,
+    "player2Npc": 1
+  },
+  {
+    "id": 6,
+    "careerKey": "careerLogStealedCount",
+    "actionName": "UnitActionRoleStealItem",
+    "isSuccess": 0,
+    "player2Npc": 2
+  },
+  {
+    "id": 7,
+    "careerKey": "careerLogInviteCount",
+    "actionName": "UnitActionRoleInvite",
+    "isSuccess": 1,
+    "player2Npc": 0
+  },
+  {
+    "id": 8,
+    "careerKey": "careerLogDrillCount",
+    "actionName": "UnitActionRoleDrill",
+    "isSuccess": 1,
+    "player2Npc": 0
+  },
+  {
+    "id": 9,
+    "careerKey": "careerLogDiscoveryCount",
+    "actionName": "UnitActionRoleDiscovery",
+    "isSuccess": 1,
+    "player2Npc": 0
+  }
+]

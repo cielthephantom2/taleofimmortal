@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "departmentName": "SchoolDepartmentName1",
+    "attribute": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "departmentName": "SchoolDepartmentName2",
+    "attribute": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "departmentName": "SchoolDepartmentName3",
+    "attribute": [
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "departmentName": "SchoolDepartmentName4",
+    "attribute": [
+      8,
+      9
+    ]
+  },
+  {
+    "id": 5,
+    "departmentName": "SchoolDepartmentName5",
+    "attribute": [
+      7
+    ]
+  }
+]

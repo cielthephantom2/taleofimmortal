@@ -1,0 +1,1118 @@
+[
+  {
+    "id": 1,
+    "careerLogKey": "careerLogEntryWorld",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 2,
+    "careerLogKey": "careerLogUpgradeSuccess",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 3,
+    "careerLogKey": "careerLogUpgradeFail",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 4,
+    "careerLogKey": "careerLogSchoolMain",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 3,
+    "distance": 0
+  },
+  {
+    "id": 5,
+    "careerLogKey": "careerLogSchoolPost",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 3,
+    "distance": 5
+  },
+  {
+    "id": 6,
+    "careerLogKey": "careerLogSchoolJoin",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 3,
+    "distance": 5
+  },
+  {
+    "id": 7,
+    "careerLogKey": "careerLogSchoolBigFight",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 8,
+    "careerLogKey": "careerLogFirstBattleWin",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 4,
+    "distance": 9999
+  },
+  {
+    "id": 9,
+    "careerLogKey": "careerLogFirstBattleFail",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 4,
+    "distance": 9999
+  },
+  {
+    "id": 10,
+    "careerLogKey": "careerLogRelationMarry",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 11,
+    "careerLogKey": "careerLogRelationLover",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 12,
+    "careerLogKey": "careerLogRelationParentbackM",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 13,
+    "careerLogKey": "careerLogRelationParentbackW",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 14,
+    "careerLogKey": "careerLogRelationBrother",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 15,
+    "careerLogKey": "careerLogRelationSister",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 16,
+    "careerLogKey": "careerLogNPCUpgradeSucc",
+    "uiType": 1,
+    "type": 101,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 17,
+    "careerLogKey": "careerLogNPCUpgradeFail",
+    "uiType": 1,
+    "type": 101,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 18,
+    "careerLogKey": "careerLogExitSchool",
+    "uiType": 1,
+    "type": 101,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 19,
+    "careerLogKey": "careerLogFirstSchoolResBattle",
+    "uiType": 1,
+    "type": 102,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 20,
+    "careerLogKey": "careerLogFirstSchoolBattle",
+    "uiType": 1,
+    "type": 102,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 21,
+    "careerLogKey": "careerLogRelationChildrenBackM",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 22,
+    "careerLogKey": "careerLogRelationChildrenBackW",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 23,
+    "careerLogKey": "careerLogRelationMaster",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 24,
+    "careerLogKey": "careerLogRelationStudent",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 1,
+    "distance": 5
+  },
+  {
+    "id": 25,
+    "careerLogKey": "careerLogRelationBreakWith",
+    "uiType": 1,
+    "type": 101,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 26,
+    "careerLogKey": "careerLogFirstRoleInviteSucc",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 27,
+    "careerLogKey": "careerLogFirstRoleInviteFail",
+    "uiType": 1,
+    "type": 102,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 28,
+    "careerLogKey": "careerLogFirstRoleTrain",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 29,
+    "careerLogKey": "careerLogFirstRoleStealSucc",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 30,
+    "careerLogKey": "careerLogFirstRoleStealFail",
+    "uiType": 1,
+    "type": 102,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 31,
+    "careerLogKey": "careerLogFirstRoleEscape",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 32,
+    "careerLogKey": "careerLogFirstRoleSave",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 33,
+    "careerLogKey": "careerLogFirstRoleBreedTaoistSeed",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 34,
+    "careerLogKey": "careerLogFairyLeague",
+    "uiType": 1,
+    "type": 105,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 35,
+    "careerLogKey": "careerLogFairyLeagueLeader",
+    "uiType": 1,
+    "type": 105,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 36,
+    "careerLogKey": "careerLogRoleAppellation1001",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 37,
+    "careerLogKey": "careerLogRoleAppellation1002",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 38,
+    "careerLogKey": "careerLogRoleAppellation1003",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 39,
+    "careerLogKey": "careerLogRoleAppellation1004",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 40,
+    "careerLogKey": "careerLogRoleAppellation1005",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 41,
+    "careerLogKey": "careerLogRoleAppellation1006",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 42,
+    "careerLogKey": "careerLogRoleAppellation1007",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 43,
+    "careerLogKey": "careerLogRoleAppellation1008",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 44,
+    "careerLogKey": "careerLogRoleAppellation1009",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 45,
+    "careerLogKey": "careerLogRoleAppellation1010",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 46,
+    "careerLogKey": "careerLogRoleAppellation1011",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 47,
+    "careerLogKey": "careerLogRoleAppellation1012",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 48,
+    "careerLogKey": "careerLogRoleAppellation1101",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 49,
+    "careerLogKey": "careerLogRoleAppellation1102",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 50,
+    "careerLogKey": "careerLogRoleAppellation1103",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 51,
+    "careerLogKey": "careerLogRoleAppellation1104",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 52,
+    "careerLogKey": "careerLogRoleAppellation1105",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 53,
+    "careerLogKey": "careerLogRoleAppellation1106",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 54,
+    "careerLogKey": "careerLogRoleAppellation1107",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 55,
+    "careerLogKey": "careerLogRoleAppellation1108",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 56,
+    "careerLogKey": "careerLogRoleAppellation1109",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 57,
+    "careerLogKey": "careerLogRoleAppellation1110",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 58,
+    "careerLogKey": "careerLogRoleAppellation1111",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 59,
+    "careerLogKey": "careerLogRoleAppellation1112",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 60,
+    "careerLogKey": "careerLogRoleAppellation1201",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 61,
+    "careerLogKey": "careerLogRoleAppellation1202",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 62,
+    "careerLogKey": "careerLogRoleAppellation1203",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 63,
+    "careerLogKey": "careerLogRoleAppellation1204",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 64,
+    "careerLogKey": "careerLogRoleAppellation1205",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 65,
+    "careerLogKey": "careerLogRoleAppellation1206",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 66,
+    "careerLogKey": "careerLogRoleAppellation1207",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 67,
+    "careerLogKey": "careerLogRoleAppellation1208",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 68,
+    "careerLogKey": "careerLogRoleAppellation1209",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 69,
+    "careerLogKey": "careerLogRoleAppellation1210",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 70,
+    "careerLogKey": "careerLogRoleAppellation1211",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 71,
+    "careerLogKey": "careerLogRoleAppellation1212",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 72,
+    "careerLogKey": "careerLogRoleAppellation1301",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 73,
+    "careerLogKey": "careerLogRoleAppellation1302",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 74,
+    "careerLogKey": "careerLogRoleAppellation1303",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 75,
+    "careerLogKey": "careerLogRoleAppellation1304",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 76,
+    "careerLogKey": "careerLogRoleAppellation1305",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 77,
+    "careerLogKey": "careerLogRoleAppellation1306",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 78,
+    "careerLogKey": "careerLogRoleAppellation1307",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 79,
+    "careerLogKey": "careerLogRoleAppellation1308",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 80,
+    "careerLogKey": "careerLogRoleAppellation1309",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 81,
+    "careerLogKey": "careerLogRoleAppellation1310",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 82,
+    "careerLogKey": "careerLogRoleAppellation1311",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 83,
+    "careerLogKey": "careerLogRoleAppellation1312",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 84,
+    "careerLogKey": "careerLogRoleAppellation1401",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 85,
+    "careerLogKey": "careerLogRoleAppellation1402",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 86,
+    "careerLogKey": "careerLogRoleAppellation1403",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 87,
+    "careerLogKey": "careerLogRoleAppellation1404",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 88,
+    "careerLogKey": "careerLogRoleAppellation1405",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 89,
+    "careerLogKey": "careerLogRoleAppellation1406",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 90,
+    "careerLogKey": "careerLogRoleAppellation1407",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 91,
+    "careerLogKey": "careerLogRoleAppellation1408",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 92,
+    "careerLogKey": "careerLogRoleAppellation1409",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 93,
+    "careerLogKey": "careerLogRoleAppellation1410",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 94,
+    "careerLogKey": "careerLogRoleAppellation1411",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 95,
+    "careerLogKey": "careerLogRoleAppellation1412",
+    "uiType": 1,
+    "type": 102,
+    "show": 1,
+    "groupId": 2,
+    "distance": 20
+  },
+  {
+    "id": 96,
+    "careerLogKey": "careerLogRoleChatCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 97,
+    "careerLogKey": "careerLogTrainCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 98,
+    "careerLogKey": "careerLogGiveCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 99,
+    "careerLogKey": "careerLogAskforCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 100,
+    "careerLogKey": "careerLogStealCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 101,
+    "careerLogKey": "careerLogStealedCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 102,
+    "careerLogKey": "careerLogInviteCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 103,
+    "careerLogKey": "careerLogDrillCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 104,
+    "careerLogKey": "careerLogDiscoveryCount",
+    "uiType": 2,
+    "type": 103,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 105,
+    "careerLogKey": "careerLogKillNPCCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 106,
+    "careerLogKey": "careerLogKillBossCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 107,
+    "careerLogKey": "careerLogKillMonsterCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 108,
+    "careerLogKey": "careerLogDigGraveCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 0,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 109,
+    "careerLogKey": "careerLogRefineElixirCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 110,
+    "careerLogKey": "careerLogRefineWeaponCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 111,
+    "careerLogKey": "careerLogSymbolCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 112,
+    "careerLogKey": "careerLogGeomanticCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 113,
+    "careerLogKey": "careerLogHerbCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 114,
+    "careerLogKey": "careerLogMineCount",
+    "uiType": 2,
+    "type": 104,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 115,
+    "careerLogKey": "careerLogFianceCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 116,
+    "careerLogKey": "careerLogLoverCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 117,
+    "careerLogKey": "careerLogMasterCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 118,
+    "careerLogKey": "careerLogStudentCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 119,
+    "careerLogKey": "careerLogFatherCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 120,
+    "careerLogKey": "careerLogMotherCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 121,
+    "careerLogKey": "careerLogSonCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 122,
+    "careerLogKey": "careerLogDaughterCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 123,
+    "careerLogKey": "careerLogBrotherCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  },
+  {
+    "id": 124,
+    "careerLogKey": "careerLogSisterCount",
+    "uiType": 2,
+    "type": 107,
+    "show": 1,
+    "groupId": 0,
+    "distance": 0
+  }
+]

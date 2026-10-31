@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "key": "spRate1",
+    "value": 130
+  },
+  {
+    "id": 2,
+    "key": "spLevelCount1",
+    "value": 3
+  },
+  {
+    "id": 3,
+    "key": "spRate2",
+    "value": 100
+  },
+  {
+    "id": 4,
+    "key": "spLevelCount2",
+    "value": 2
+  },
+  {
+    "id": 5,
+    "key": "spRate3",
+    "value": 60
+  },
+  {
+    "id": 6,
+    "key": "spLevelCount3",
+    "value": 1
+  },
+  {
+    "id": 7,
+    "key": "weightAdd",
+    "value": 2000
+  },
+  {
+    "id": 8,
+    "key": "failedRate",
+    "value": 30
+  }
+]

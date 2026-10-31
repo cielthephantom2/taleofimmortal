@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "key": "populationCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0
+  },
+  {
+    "id": 2,
+    "key": "outerCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0
+  },
+  {
+    "id": 3,
+    "key": "innerCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0
+  },
+  {
+    "id": 4,
+    "key": "inheritCost",
+    "area2": 1.0,
+    "area4": 1.0,
+    "area6": 1.0,
+    "area8": 1.0,
+    "area10": 1.0
+  },
+  {
+    "id": 5,
+    "key": "reputation",
+    "area2": 0.3,
+    "area4": 0.3,
+    "area6": 0.3,
+    "area8": 0.3,
+    "area10": 0.3
+  },
+  {
+    "id": 6,
+    "key": "royalty",
+    "area2": 0.0,
+    "area4": 0.0,
+    "area6": 0.0,
+    "area8": 0.0,
+    "area10": 0.0
+  },
+  {
+    "id": 7,
+    "key": "formation",
+    "area2": 0.0,
+    "area4": 0.0,
+    "area6": 0.0,
+    "area8": 0.0,
+    "area10": 0.0
+  },
+  {
+    "id": 8,
+    "key": "stable",
+    "area2": 0.6,
+    "area4": 0.6,
+    "area6": 0.6,
+    "area8": 0.6,
+    "area10": 0.6
+  }
+]

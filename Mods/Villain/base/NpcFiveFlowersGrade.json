@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "key": "gradeEqualPlayerRate",
+    "value": "20"
+  },
+  {
+    "id": 2,
+    "key": "gradeOverPlayerRate",
+    "value": "5"
+  },
+  {
+    "id": 3,
+    "key": "goal129Weight",
+    "value": "100000"
+  },
+  {
+    "id": 4,
+    "key": "goal105Weight",
+    "value": "100000"
+  }
+]

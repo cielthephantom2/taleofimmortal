@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "key": "fb10ParaA",
+    "value": 1.5
+  },
+  {
+    "id": 2,
+    "key": "fb11ParaA",
+    "value": 0.5
+  },
+  {
+    "id": 4,
+    "key": "fb11ParaB",
+    "value": 1.5
+  },
+  {
+    "id": 5,
+    "key": "fb12ParaA",
+    "value": 90.0
+  },
+  {
+    "id": 6,
+    "key": "fb12ParaB",
+    "value": 1.5
+  },
+  {
+    "id": 7,
+    "key": "fb13ParaA",
+    "value": -2.0
+  },
+  {
+    "id": 8,
+    "key": "fb13ParaB",
+    "value": 10.0
+  },
+  {
+    "id": 9,
+    "key": "fb13ParaC",
+    "value": 90.0
+  },
+  {
+    "id": 10,
+    "key": "fb14ParaA",
+    "value": 80.0
+  },
+  {
+    "id": 11,
+    "key": "fb14ParaB",
+    "value": 300.0
+  },
+  {
+    "id": 12,
+    "key": "fb15ParaA",
+    "value": 3.0
+  },
+  {
+    "id": 13,
+    "key": "fb17ParaA",
+    "value": 50.0
+  },
+  {
+    "id": 14,
+    "key": "fb18ParaA",
+    "value": 20.0
+  },
+  {
+    "id": 15,
+    "key": "fb18ParaB",
+    "value": 0.1
+  },
+  {
+    "id": 16,
+    "key": "fb21ParaA",
+    "value": 15.0
+  },
+  {
+    "id": 17,
+    "key": "fb21ParaB",
+    "value": 30.0
+  },
+  {
+    "id": 18,
+    "key": "fb21ParaC",
+    "value": 5.0
+  },
+  {
+    "id": 19,
+    "key": "fb21ParaD",
+    "value": 15.0
+  },
+  {
+    "id": 20,
+    "key": "fb21ParaE",
+    "value": -0.5
+  },
+  {
+    "id": 21,
+    "key": "fb21ParaF",
+    "value": 90.0
+  },
+  {
+    "id": 22,
+    "key": "fb21ParaG",
+    "value": 20.0
+  },
+  {
+    "id": 23,
+    "key": "fb22ParaA",
+    "value": 50.0
+  },
+  {
+    "id": 24,
+    "key": "fb22ParaB",
+    "value": 0.64
+  },
+  {
+    "id": 25,
+    "key": "fb23ParaA",
+    "value": 40.0
+  },
+  {
+    "id": 26,
+    "key": "fb23ParaB",
+    "value": 50.0
+  },
+  {
+    "id": 27,
+    "key": "fb23ParaC",
+    "value": 45.0
+  },
+  {
+    "id": 28,
+    "key": "fb24ParaA",
+    "value": -80.0
+  },
+  {
+    "id": 29,
+    "key": "fb24ParaB",
+    "value": 225.0
+  },
+  {
+    "id": 30,
+    "key": "fb24ParaC",
+    "value": 100.0
+  },
+  {
+    "id": 31,
+    "key": "fb25ParaA",
+    "value": 10.0
+  },
+  {
+    "id": 32,
+    "key": "fb25ParaB",
+    "value": 1500.0
+  },
+  {
+    "id": 33,
+    "key": "fb25ParaC",
+    "value": 0.03
+  },
+  {
+    "id": 34,
+    "key": "fb26ParaA",
+    "value": 33.33
+  },
+  {
+    "id": 35,
+    "key": "fb26ParaB",
+    "value": 50.0
+  },
+  {
+    "id": 36,
+    "key": "fb26ParaC",
+    "value": 30.0
+  },
+  {
+    "id": 37,
+    "key": "fb26ParaD",
+    "value": 10.0
+  },
+  {
+    "id": 38,
+    "key": "fb26ParaE",
+    "value": -10.0
+  },
+  {
+    "id": 39,
+    "key": "fb26ParaF",
+    "value": 80.0
+  },
+  {
+    "id": 40,
+    "key": "fb28ParaA",
+    "value": 50.0
+  },
+  {
+    "id": 41,
+    "key": "fb28ParaB",
+    "value": 100.0
+  },
+  {
+    "id": 42,
+    "key": "fb27ParaA",
+    "value": 0.5
+  },
+  {
+    "id": 43,
+    "key": "fb27ParaB",
+    "value": -999.0
+  },
+  {
+    "id": 44,
+    "key": "fb27ParaC",
+    "value": -999.0
+  },
+  {
+    "id": 45,
+    "key": "fb27ParaD",
+    "value": -999.0
+  },
+  {
+    "id": 46,
+    "key": "fb27ParaE",
+    "value": -999.0
+  },
+  {
+    "id": 47,
+    "key": "fb27ParaF",
+    "value": -999.0
+  },
+  {
+    "id": 48,
+    "key": "fb27ParaG",
+    "value": -999.0
+  },
+  {
+    "id": 49,
+    "key": "fb27ParaH",
+    "value": 30.0
+  },
+  {
+    "id": 50,
+    "key": "fb27ParaI",
+    "value": 10.0
+  },
+  {
+    "id": 51,
+    "key": "fb27ParaJ",
+    "value": -30.0
+  },
+  {
+    "id": 52,
+    "key": "fb27ParaK",
+    "value": 294.0
+  },
+  {
+    "id": 53,
+    "key": "fb30ParaA",
+    "value": 95.0
+  },
+  {
+    "id": 54,
+    "key": "fb30ParaB",
+    "value": 5.0
+  },
+  {
+    "id": 55,
+    "key": "fb30ParaC",
+    "value": 100.0
+  },
+  {
+    "id": 56,
+    "key": "fb30ParaD",
+    "value": 1.0
+  },
+  {
+    "id": 57,
+    "key": "fb31ParaA",
+    "value": -10.0
+  },
+  {
+    "id": 58,
+    "key": "fb31ParaB",
+    "value": 2.0
+  },
+  {
+    "id": 59,
+    "key": "fb31ParaC",
+    "value": 5.0
+  },
+  {
+    "id": 60,
+    "key": "fb31ParaD",
+    "value": 20.0
+  },
+  {
+    "id": 61,
+    "key": "fb31ParaE",
+    "value": -10.0
+  },
+  {
+    "id": 62,
+    "key": "fb31ParaF",
+    "value": -10.0
+  },
+  {
+    "id": 63,
+    "key": "fb31ParaG",
+    "value": -10.0
+  },
+  {
+    "id": 64,
+    "key": "fb31ParaH",
+    "value": -3.0
+  },
+  {
+    "id": 65,
+    "key": "fb31ParaI",
+    "value": 15.0
+  },
+  {
+    "id": 66,
+    "key": "fb31ParaJ",
+    "value": 5.0
+  },
+  {
+    "id": 67,
+    "key": "fb31ParaK",
+    "value": 8.0
+  },
+  {
+    "id": 68,
+    "key": "fb31ParaL",
+    "value": 2.0
+  },
+  {
+    "id": 69,
+    "key": "fb31ParaM",
+    "value": 5.0
+  },
+  {
+    "id": 70,
+    "key": "fb31ParaN",
+    "value": 2.0
+  },
+  {
+    "id": 71,
+    "key": "fb31ParaO",
+    "value": 1.0
+  },
+  {
+    "id": 72,
+    "key": "fb31ParaP",
+    "value": -5.0
+  },
+  {
+    "id": 73,
+    "key": "fb31ParaQ",
+    "value": -20.0
+  },
+  {
+    "id": 74,
+    "key": "fb32ParaA",
+    "value": -10.0
+  },
+  {
+    "id": 75,
+    "key": "fb32ParaB",
+    "value": 2.0
+  },
+  {
+    "id": 76,
+    "key": "fb32ParaC",
+    "value": 5.0
+  },
+  {
+    "id": 77,
+    "key": "fb32ParaD",
+    "value": 20.0
+  },
+  {
+    "id": 78,
+    "key": "fb32ParaE",
+    "value": 10.0
+  },
+  {
+    "id": 79,
+    "key": "fb32ParaF",
+    "value": -5.0
+  },
+  {
+    "id": 80,
+    "key": "fb32ParaG",
+    "value": -10.0
+  },
+  {
+    "id": 81,
+    "key": "fb32ParaH",
+    "value": 5.0
+  },
+  {
+    "id": 82,
+    "key": "fb32ParaI",
+    "value": 5.0
+  },
+  {
+    "id": 83,
+    "key": "fb32ParaJ",
+    "value": -5.0
+  },
+  {
+    "id": 84,
+    "key": "fb32ParaK",
+    "value": 15.0
+  },
+  {
+    "id": 85,
+    "key": "fb32ParaL",
+    "value": 5.0
+  },
+  {
+    "id": 86,
+    "key": "fb32ParaM",
+    "value": 8.0
+  },
+  {
+    "id": 87,
+    "key": "fb32ParaN",
+    "value": 2.0
+  },
+  {
+    "id": 88,
+    "key": "fb32ParaO",
+    "value": 5.0
+  },
+  {
+    "id": 89,
+    "key": "fb32ParaP",
+    "value": 2.0
+  },
+  {
+    "id": 90,
+    "key": "fb32ParaQ",
+    "value": 1.0
+  },
+  {
+    "id": 91,
+    "key": "fb32ParaR",
+    "value": -5.0
+  },
+  {
+    "id": 92,
+    "key": "fb32ParaS",
+    "value": -20.0
+  },
+  {
+    "id": 93,
+    "key": "fb32ParaT",
+    "value": 375.0
+  },
+  {
+    "id": 94,
+    "key": "fb32ParaU",
+    "value": -1.4
+  },
+  {
+    "id": 95,
+    "key": "fb32ParaV",
+    "value": -20.0
+  },
+  {
+    "id": 96,
+    "key": "fb32ParaW",
+    "value": 20.0
+  },
+  {
+    "id": 97,
+    "key": "fb33ParaA",
+    "value": -10.0
+  },
+  {
+    "id": 98,
+    "key": "fb33ParaB",
+    "value": 2.0
+  },
+  {
+    "id": 99,
+    "key": "fb33ParaC",
+    "value": 5.0
+  },
+  {
+    "id": 100,
+    "key": "fb33ParaD",
+    "value": 20.0
+  },
+  {
+    "id": 101,
+    "key": "fb33ParaE",
+    "value": 10.0
+  },
+  {
+    "id": 102,
+    "key": "fb33ParaF",
+    "value": -5.0
+  },
+  {
+    "id": 103,
+    "key": "fb33ParaG",
+    "value": -10.0
+  },
+  {
+    "id": 104,
+    "key": "fb33ParaH",
+    "value": 5.0
+  },
+  {
+    "id": 105,
+    "key": "fb33ParaI",
+    "value": 5.0
+  },
+  {
+    "id": 106,
+    "key": "fb33ParaJ",
+    "value": 15.0
+  },
+  {
+    "id": 107,
+    "key": "fb33ParaK",
+    "value": 5.0
+  },
+  {
+    "id": 108,
+    "key": "fb33ParaL",
+    "value": 8.0
+  },
+  {
+    "id": 109,
+    "key": "fb33ParaM",
+    "value": 2.0
+  },
+  {
+    "id": 110,
+    "key": "fb33ParaN",
+    "value": 5.0
+  },
+  {
+    "id": 111,
+    "key": "fb33ParaO",
+    "value": 2.0
+  },
+  {
+    "id": 112,
+    "key": "fb33ParaP",
+    "value": 1.0
+  },
+  {
+    "id": 113,
+    "key": "fb33ParaQ",
+    "value": -5.0
+  },
+  {
+    "id": 114,
+    "key": "fb33ParaR",
+    "value": -20.0
+  },
+  {
+    "id": 115,
+    "key": "fb33ParaS",
+    "value": 15.0
+  }
+]

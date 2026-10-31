@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "entryID": 11001,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 2,
+    "entryID": 11001,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 3,
+    "entryID": 11001,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 4,
+    "entryID": 11001,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 5,
+    "entryID": 11001,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 6,
+    "entryID": 11001,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 7,
+    "entryID": 11001,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 8,
+    "entryID": 11001,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 9,
+    "entryID": 11001,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 10,
+    "entryID": 11001,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 11,
+    "entryID": 11002,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 12,
+    "entryID": 11002,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 13,
+    "entryID": 11002,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 14,
+    "entryID": 11002,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 15,
+    "entryID": 11002,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 16,
+    "entryID": 11002,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 17,
+    "entryID": 11002,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 18,
+    "entryID": 11002,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 19,
+    "entryID": 11002,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 20,
+    "entryID": 11002,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 21,
+    "entryID": 11003,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 22,
+    "entryID": 11003,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 23,
+    "entryID": 11003,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 24,
+    "entryID": 11003,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 25,
+    "entryID": 11003,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 26,
+    "entryID": 11003,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 27,
+    "entryID": 11003,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 28,
+    "entryID": 11003,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 29,
+    "entryID": 11003,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 30,
+    "entryID": 11003,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 31,
+    "entryID": 11004,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 32,
+    "entryID": 11004,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 33,
+    "entryID": 11004,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 34,
+    "entryID": 11004,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 35,
+    "entryID": 11004,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 36,
+    "entryID": 11004,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 37,
+    "entryID": 11004,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 38,
+    "entryID": 11004,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 39,
+    "entryID": 11004,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 40,
+    "entryID": 11004,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 41,
+    "entryID": 11005,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 42,
+    "entryID": 11005,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 43,
+    "entryID": 11005,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 44,
+    "entryID": 11005,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 45,
+    "entryID": 11005,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 46,
+    "entryID": 11005,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 47,
+    "entryID": 11005,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 48,
+    "entryID": 11005,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 49,
+    "entryID": 11005,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 50,
+    "entryID": 11005,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 51,
+    "entryID": 12001,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 52,
+    "entryID": 12001,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 53,
+    "entryID": 12001,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 54,
+    "entryID": 12001,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 55,
+    "entryID": 12001,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 56,
+    "entryID": 12001,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 57,
+    "entryID": 12001,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 58,
+    "entryID": 12001,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 59,
+    "entryID": 12001,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 60,
+    "entryID": 12001,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 61,
+    "entryID": 12002,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 62,
+    "entryID": 12002,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 63,
+    "entryID": 12002,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 64,
+    "entryID": 12002,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 65,
+    "entryID": 12002,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 66,
+    "entryID": 12002,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 67,
+    "entryID": 12002,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 68,
+    "entryID": 12002,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 69,
+    "entryID": 12002,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 70,
+    "entryID": 12002,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 71,
+    "entryID": 12003,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 72,
+    "entryID": 12003,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 73,
+    "entryID": 12003,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 74,
+    "entryID": 12003,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 75,
+    "entryID": 12003,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 76,
+    "entryID": 12003,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 77,
+    "entryID": 12003,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 78,
+    "entryID": 12003,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 79,
+    "entryID": 12003,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 80,
+    "entryID": 12003,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 81,
+    "entryID": 12004,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 82,
+    "entryID": 12004,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 83,
+    "entryID": 12004,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 84,
+    "entryID": 12004,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 85,
+    "entryID": 12004,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 86,
+    "entryID": 12004,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 87,
+    "entryID": 12004,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 88,
+    "entryID": 12004,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 89,
+    "entryID": 12004,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 90,
+    "entryID": 12004,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 91,
+    "entryID": 12005,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 92,
+    "entryID": 12005,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 93,
+    "entryID": 12005,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 94,
+    "entryID": 12005,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 95,
+    "entryID": 12005,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 96,
+    "entryID": 12005,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 97,
+    "entryID": 12005,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 98,
+    "entryID": 12005,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 99,
+    "entryID": 12005,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 100,
+    "entryID": 12005,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 101,
+    "entryID": 12006,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 102,
+    "entryID": 12006,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 103,
+    "entryID": 12006,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 104,
+    "entryID": 12006,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 105,
+    "entryID": 12006,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 106,
+    "entryID": 12006,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 107,
+    "entryID": 12006,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 108,
+    "entryID": 12006,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 109,
+    "entryID": 12006,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 110,
+    "entryID": 12006,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 111,
+    "entryID": 12007,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 112,
+    "entryID": 12007,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 113,
+    "entryID": 12007,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 114,
+    "entryID": 12007,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 115,
+    "entryID": 12007,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 116,
+    "entryID": 12007,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 117,
+    "entryID": 12007,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 118,
+    "entryID": 12007,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 119,
+    "entryID": 12007,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 120,
+    "entryID": 12007,
+    "level": 10,
+    "maxExp": 1800
+  },
+  {
+    "id": 121,
+    "entryID": 12008,
+    "level": 1,
+    "maxExp": 0
+  },
+  {
+    "id": 122,
+    "entryID": 12008,
+    "level": 2,
+    "maxExp": 200
+  },
+  {
+    "id": 123,
+    "entryID": 12008,
+    "level": 3,
+    "maxExp": 400
+  },
+  {
+    "id": 124,
+    "entryID": 12008,
+    "level": 4,
+    "maxExp": 600
+  },
+  {
+    "id": 125,
+    "entryID": 12008,
+    "level": 5,
+    "maxExp": 800
+  },
+  {
+    "id": 126,
+    "entryID": 12008,
+    "level": 6,
+    "maxExp": 1000
+  },
+  {
+    "id": 127,
+    "entryID": 12008,
+    "level": 7,
+    "maxExp": 1200
+  },
+  {
+    "id": 128,
+    "entryID": 12008,
+    "level": 8,
+    "maxExp": 1400
+  },
+  {
+    "id": 129,
+    "entryID": 12008,
+    "level": 9,
+    "maxExp": 1600
+  },
+  {
+    "id": 130,
+    "entryID": 12008,
+    "level": 10,
+    "maxExp": 1800
+  }
+]

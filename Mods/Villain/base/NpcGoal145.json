@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "key": "gradeBas1",
+    "value": 10
+  },
+  {
+    "id": 2,
+    "key": "gradeBas2",
+    "value": 30
+  },
+  {
+    "id": 3,
+    "key": "gradeBas3",
+    "value": 60
+  },
+  {
+    "id": 4,
+    "key": "gradeBas4",
+    "value": 100
+  },
+  {
+    "id": 5,
+    "key": "gradeBas5",
+    "value": 150
+  },
+  {
+    "id": 6,
+    "key": "gradeBas6",
+    "value": 210
+  },
+  {
+    "id": 7,
+    "key": "gradeBas7",
+    "value": 280
+  },
+  {
+    "id": 8,
+    "key": "gradeBas8",
+    "value": 380
+  },
+  {
+    "id": 9,
+    "key": "gradeBas9",
+    "value": 500
+  },
+  {
+    "id": 10,
+    "key": "gradeBas10",
+    "value": 640
+  },
+  {
+    "id": 11,
+    "key": "gradeWeight",
+    "value": 50
+  },
+  {
+    "id": 12,
+    "key": "gradeWeightLow1",
+    "value": 20
+  },
+  {
+    "id": 13,
+    "key": "gradeWeightLow2",
+    "value": 20
+  },
+  {
+    "id": 14,
+    "key": "gradeWeightLow3",
+    "value": 10
+  },
+  {
+    "id": 15,
+    "key": "gradeWeightLow4",
+    "value": 0
+  },
+  {
+    "id": 16,
+    "key": "successRate",
+    "value": 40
+  },
+  {
+    "id": 17,
+    "key": "gradeReward1",
+    "value": 8015241
+  },
+  {
+    "id": 18,
+    "key": "gradeReward2",
+    "value": 8015242
+  },
+  {
+    "id": 19,
+    "key": "gradeReward3",
+    "value": 8015243
+  },
+  {
+    "id": 20,
+    "key": "gradeReward4",
+    "value": 8015244
+  },
+  {
+    "id": 21,
+    "key": "gradeReward5",
+    "value": 8015245
+  },
+  {
+    "id": 22,
+    "key": "gradeReward6",
+    "value": 8015246
+  },
+  {
+    "id": 23,
+    "key": "gradeReward7",
+    "value": 8015247
+  },
+  {
+    "id": 24,
+    "key": "gradeReward8",
+    "value": 8015248
+  },
+  {
+    "id": 25,
+    "key": "gradeReward9",
+    "value": 8015249
+  },
+  {
+    "id": 26,
+    "key": "gradeReward10",
+    "value": 8015250
+  }
+]

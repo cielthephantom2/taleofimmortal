@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "key": "formulaDifficultyParaA",
+    "value": -999
+  },
+  {
+    "id": 2,
+    "key": "formulaDifficultyParaB",
+    "value": -25
+  },
+  {
+    "id": 3,
+    "key": "formulaDifficultyParaC",
+    "value": 0
+  },
+  {
+    "id": 4,
+    "key": "formulaDifficultyParaD",
+    "value": 25
+  },
+  {
+    "id": 5,
+    "key": "formulaDifficultyParaE",
+    "value": 50
+  },
+  {
+    "id": 6,
+    "key": "fillSpeedStandard",
+    "value": 175
+  },
+  {
+    "id": 7,
+    "key": "fillSpeedParaA",
+    "value": 100
+  },
+  {
+    "id": 8,
+    "key": "fillSpeedParaB",
+    "value": 1
+  },
+  {
+    "id": 9,
+    "key": "fillSpeedParaC",
+    "value": 3
+  },
+  {
+    "id": 10,
+    "key": "fillSpeedMin",
+    "value": 125
+  },
+  {
+    "id": 11,
+    "key": "fillSpeedMax",
+    "value": 1750
+  },
+  {
+    "id": 12,
+    "key": "distanceScoreParaA",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "distanceScoreParaB",
+    "value": 3
+  },
+  {
+    "id": 14,
+    "key": "distanceScoreParaC",
+    "value": 8
+  },
+  {
+    "id": 15,
+    "key": "distanceScoreParaD",
+    "value": 15
+  },
+  {
+    "id": 16,
+    "key": "ballHeight",
+    "value": 10000
+  },
+  {
+    "id": 17,
+    "key": "autoFillSpeed",
+    "value": 500
+  },
+  {
+    "id": 18,
+    "key": "pillLevelPara",
+    "value": 100
+  },
+  {
+    "id": 19,
+    "key": "durableCostNormal",
+    "value": 1
+  },
+  {
+    "id": 20,
+    "key": "durableCostBomb",
+    "value": 5
+  },
+  {
+    "id": 21,
+    "key": "elementProgressMin",
+    "value": 20
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "level": 0,
+    "gradeMin": 1,
+    "gradeMax": 1
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "gradeMin": 1,
+    "gradeMax": 2
+  },
+  {
+    "id": 3,
+    "level": 2,
+    "gradeMin": 3,
+    "gradeMax": 4
+  },
+  {
+    "id": 4,
+    "level": 3,
+    "gradeMin": 5,
+    "gradeMax": 6
+  },
+  {
+    "id": 5,
+    "level": 4,
+    "gradeMin": 7,
+    "gradeMax": 8
+  },
+  {
+    "id": 6,
+    "level": 5,
+    "gradeMin": 9,
+    "gradeMax": 10
+  }
+]

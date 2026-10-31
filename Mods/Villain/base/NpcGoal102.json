@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "key": "weightSkillScore",
+    "value": 20
+  },
+  {
+    "id": 2,
+    "key": "weightSkillScoreAbility",
+    "value": 10
+  },
+  {
+    "id": 3,
+    "key": "weightGradeScore",
+    "value": 10000
+  },
+  {
+    "id": 4,
+    "key": "weightSkillScoreRate",
+    "value": 10
+  },
+  {
+    "id": 5,
+    "key": "weightSkillScoreRateBuy",
+    "value": 20
+  },
+  {
+    "id": 6,
+    "key": "weightMax",
+    "value": 40000
+  },
+  {
+    "id": 7,
+    "key": "weightAbilityPointMaxRate",
+    "value": 85
+  },
+  {
+    "id": 8,
+    "key": "weightBas",
+    "value": 85
+  },
+  {
+    "id": 9,
+    "key": "lookBookBasicsProbability",
+    "value": 8000
+  },
+  {
+    "id": 10,
+    "key": "lookBookSchoolProbability",
+    "value": 4500
+  },
+  {
+    "id": 11,
+    "key": "lookBookWeightAdd",
+    "value": 20000
+  }
+]

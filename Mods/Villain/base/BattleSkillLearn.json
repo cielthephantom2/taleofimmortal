@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "key": "speedMin",
+    "value": 50
+  },
+  {
+    "id": 2,
+    "key": "speedMax",
+    "value": 70
+  },
+  {
+    "id": 3,
+    "key": "paraA",
+    "value": 2
+  },
+  {
+    "id": 4,
+    "key": "paraB",
+    "value": 27
+  },
+  {
+    "id": 5,
+    "key": "turnMin",
+    "value": 100
+  },
+  {
+    "id": 6,
+    "key": "turnMax",
+    "value": 200
+  },
+  {
+    "id": 7,
+    "key": "distance",
+    "value": 1000
+  },
+  {
+    "id": 8,
+    "key": "paraC",
+    "value": 4000
+  },
+  {
+    "id": 9,
+    "key": "paraD",
+    "value": 1000
+  },
+  {
+    "id": 10,
+    "key": "paraE",
+    "value": 10000
+  },
+  {
+    "id": 11,
+    "key": "paraF",
+    "value": 10000
+  },
+  {
+    "id": 12,
+    "key": "speedTimesMin",
+    "value": 100
+  },
+  {
+    "id": 13,
+    "key": "speedTimesMax",
+    "value": 400
+  },
+  {
+    "id": 14,
+    "key": "sRangeMin",
+    "value": 30
+  },
+  {
+    "id": 15,
+    "key": "sRangeMax",
+    "value": 70
+  },
+  {
+    "id": 16,
+    "key": "timeBas",
+    "value": 9000
+  },
+  {
+    "id": 17,
+    "key": "timeAdd",
+    "value": 1000
+  },
+  {
+    "id": 18,
+    "key": "paraH",
+    "value": 15
+  },
+  {
+    "id": 19,
+    "key": "paraI",
+    "value": -20
+  },
+  {
+    "id": 20,
+    "key": "paraJ",
+    "value": 30
+  },
+  {
+    "id": 21,
+    "key": "paraK",
+    "value": 7
+  },
+  {
+    "id": 22,
+    "key": "paraL",
+    "value": 30
+  },
+  {
+    "id": 23,
+    "key": "paraM",
+    "value": 9
+  },
+  {
+    "id": 24,
+    "key": "paraN",
+    "value": 50
+  },
+  {
+    "id": 25,
+    "key": "paraP",
+    "value": 800
+  },
+  {
+    "id": 26,
+    "key": "probMin",
+    "value": 30
+  },
+  {
+    "id": 27,
+    "key": "probMax",
+    "value": 90
+  },
+  {
+    "id": 28,
+    "key": "initMoodCostMin",
+    "value": 5
+  },
+  {
+    "id": 29,
+    "key": "initMoodCostMax",
+    "value": 10
+  },
+  {
+    "id": 30,
+    "key": "missCostProb",
+    "value": 50
+  },
+  {
+    "id": 31,
+    "key": "moodCostLimited",
+    "value": 30
+  },
+  {
+    "id": 32,
+    "key": "expTimes1",
+    "value": 100
+  },
+  {
+    "id": 33,
+    "key": "expTimes2",
+    "value": 139
+  },
+  {
+    "id": 34,
+    "key": "expTimes3",
+    "value": 197
+  },
+  {
+    "id": 35,
+    "key": "expTimes4",
+    "value": 267
+  },
+  {
+    "id": 36,
+    "key": "expTimes5",
+    "value": 336
+  },
+  {
+    "id": 37,
+    "key": "expTimes6",
+    "value": 423
+  },
+  {
+    "id": 38,
+    "key": "expTimes7",
+    "value": 535
+  },
+  {
+    "id": 39,
+    "key": "expTimes8",
+    "value": 678
+  },
+  {
+    "id": 40,
+    "key": "expTimes9",
+    "value": 678
+  },
+  {
+    "id": 41,
+    "key": "expTimes10",
+    "value": 678
+  },
+  {
+    "id": 42,
+    "key": "scoreMin",
+    "value": 50
+  },
+  {
+    "id": 43,
+    "key": "speed1",
+    "value": 0
+  },
+  {
+    "id": 44,
+    "key": "speed2",
+    "value": 160
+  },
+  {
+    "id": 45,
+    "key": "speed3",
+    "value": 220
+  },
+  {
+    "id": 46,
+    "key": "speed4",
+    "value": 280
+  },
+  {
+    "id": 47,
+    "key": "speed5",
+    "value": 340
+  }
+]

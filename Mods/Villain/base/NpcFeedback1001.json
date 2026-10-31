@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "key": "powerBase",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "key": "powerCompareMin",
+    "value": 0
+  },
+  {
+    "id": 3,
+    "key": "powerCompareMax",
+    "value": 90
+  },
+  {
+    "id": 4,
+    "key": "powerLowScore",
+    "value": 0
+  },
+  {
+    "id": 5,
+    "key": "powerHighScore",
+    "value": -40
+  },
+  {
+    "id": 6,
+    "key": "itemScoreParaA",
+    "value": 50
+  },
+  {
+    "id": 7,
+    "key": "itemScoreParaB",
+    "value": 1
+  },
+  {
+    "id": 8,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 9,
+    "key": "matchScoreParaB",
+    "value": 2
+  },
+  {
+    "id": 10,
+    "key": "closeScorePara",
+    "value": -50
+  },
+  {
+    "id": 11,
+    "key": "hateScorePara",
+    "value": -100
+  },
+  {
+    "id": 12,
+    "key": "eventLogFeedback100111211",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "eventLogFeedback100111221",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "key": "eventLogFeedback100111231",
+    "value": 0
+  },
+  {
+    "id": 15,
+    "key": "eventLogFeedback100111311",
+    "value": 0
+  },
+  {
+    "id": 16,
+    "key": "eventLogFeedback100111321",
+    "value": 0
+  }
+]

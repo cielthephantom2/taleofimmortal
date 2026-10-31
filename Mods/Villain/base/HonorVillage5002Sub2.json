@@ -1,0 +1,422 @@
+[
+  {
+    "id": 9001,
+    "skill": 11,
+    "level": 1,
+    "group": 1,
+    "cost": 25
+  },
+  {
+    "id": 9002,
+    "skill": 11,
+    "level": 2,
+    "group": 1,
+    "cost": 50
+  },
+  {
+    "id": 9003,
+    "skill": 11,
+    "level": 3,
+    "group": 1,
+    "cost": 100
+  },
+  {
+    "id": 9004,
+    "skill": 11,
+    "level": 4,
+    "group": 1,
+    "cost": 175
+  },
+  {
+    "id": 9005,
+    "skill": 11,
+    "level": 5,
+    "group": 1,
+    "cost": 300
+  },
+  {
+    "id": 9006,
+    "skill": 11,
+    "level": 6,
+    "group": 1,
+    "cost": 500
+  },
+  {
+    "id": 9011,
+    "skill": 12,
+    "level": 1,
+    "group": 2,
+    "cost": 25
+  },
+  {
+    "id": 9012,
+    "skill": 12,
+    "level": 2,
+    "group": 2,
+    "cost": 50
+  },
+  {
+    "id": 9013,
+    "skill": 12,
+    "level": 3,
+    "group": 2,
+    "cost": 100
+  },
+  {
+    "id": 9014,
+    "skill": 12,
+    "level": 4,
+    "group": 2,
+    "cost": 175
+  },
+  {
+    "id": 9015,
+    "skill": 12,
+    "level": 5,
+    "group": 2,
+    "cost": 300
+  },
+  {
+    "id": 9016,
+    "skill": 12,
+    "level": 6,
+    "group": 2,
+    "cost": 500
+  },
+  {
+    "id": 9021,
+    "skill": 13,
+    "level": 1,
+    "group": 3,
+    "cost": 25
+  },
+  {
+    "id": 9022,
+    "skill": 13,
+    "level": 2,
+    "group": 3,
+    "cost": 50
+  },
+  {
+    "id": 9023,
+    "skill": 13,
+    "level": 3,
+    "group": 3,
+    "cost": 100
+  },
+  {
+    "id": 9024,
+    "skill": 13,
+    "level": 4,
+    "group": 3,
+    "cost": 175
+  },
+  {
+    "id": 9025,
+    "skill": 13,
+    "level": 5,
+    "group": 3,
+    "cost": 300
+  },
+  {
+    "id": 9026,
+    "skill": 13,
+    "level": 6,
+    "group": 3,
+    "cost": 500
+  },
+  {
+    "id": 9031,
+    "skill": 14,
+    "level": 1,
+    "group": 3,
+    "cost": 25
+  },
+  {
+    "id": 9032,
+    "skill": 14,
+    "level": 2,
+    "group": 3,
+    "cost": 50
+  },
+  {
+    "id": 9033,
+    "skill": 14,
+    "level": 3,
+    "group": 3,
+    "cost": 100
+  },
+  {
+    "id": 9034,
+    "skill": 14,
+    "level": 4,
+    "group": 3,
+    "cost": 175
+  },
+  {
+    "id": 9035,
+    "skill": 14,
+    "level": 5,
+    "group": 3,
+    "cost": 300
+  },
+  {
+    "id": 9036,
+    "skill": 14,
+    "level": 6,
+    "group": 3,
+    "cost": 500
+  },
+  {
+    "id": 9041,
+    "skill": 15,
+    "level": 1,
+    "group": 3,
+    "cost": 25
+  },
+  {
+    "id": 9042,
+    "skill": 15,
+    "level": 2,
+    "group": 3,
+    "cost": 50
+  },
+  {
+    "id": 9043,
+    "skill": 15,
+    "level": 3,
+    "group": 3,
+    "cost": 100
+  },
+  {
+    "id": 9044,
+    "skill": 15,
+    "level": 4,
+    "group": 3,
+    "cost": 175
+  },
+  {
+    "id": 9045,
+    "skill": 15,
+    "level": 5,
+    "group": 3,
+    "cost": 300
+  },
+  {
+    "id": 9046,
+    "skill": 15,
+    "level": 6,
+    "group": 3,
+    "cost": 500
+  },
+  {
+    "id": 9051,
+    "skill": 16,
+    "level": 1,
+    "group": 4,
+    "cost": 25
+  },
+  {
+    "id": 9052,
+    "skill": 16,
+    "level": 2,
+    "group": 4,
+    "cost": 50
+  },
+  {
+    "id": 9053,
+    "skill": 16,
+    "level": 3,
+    "group": 4,
+    "cost": 100
+  },
+  {
+    "id": 9054,
+    "skill": 16,
+    "level": 4,
+    "group": 4,
+    "cost": 175
+  },
+  {
+    "id": 9055,
+    "skill": 16,
+    "level": 5,
+    "group": 4,
+    "cost": 300
+  },
+  {
+    "id": 9056,
+    "skill": 16,
+    "level": 6,
+    "group": 4,
+    "cost": 500
+  },
+  {
+    "id": 9061,
+    "skill": 17,
+    "level": 1,
+    "group": 5,
+    "cost": 25
+  },
+  {
+    "id": 9062,
+    "skill": 17,
+    "level": 2,
+    "group": 5,
+    "cost": 50
+  },
+  {
+    "id": 9063,
+    "skill": 17,
+    "level": 3,
+    "group": 5,
+    "cost": 100
+  },
+  {
+    "id": 9064,
+    "skill": 17,
+    "level": 4,
+    "group": 5,
+    "cost": 175
+  },
+  {
+    "id": 9065,
+    "skill": 17,
+    "level": 5,
+    "group": 5,
+    "cost": 300
+  },
+  {
+    "id": 9066,
+    "skill": 17,
+    "level": 6,
+    "group": 5,
+    "cost": 500
+  },
+  {
+    "id": 9071,
+    "skill": 18,
+    "level": 1,
+    "group": 6,
+    "cost": 25
+  },
+  {
+    "id": 9072,
+    "skill": 18,
+    "level": 2,
+    "group": 6,
+    "cost": 50
+  },
+  {
+    "id": 9073,
+    "skill": 18,
+    "level": 3,
+    "group": 6,
+    "cost": 100
+  },
+  {
+    "id": 9074,
+    "skill": 18,
+    "level": 4,
+    "group": 6,
+    "cost": 175
+  },
+  {
+    "id": 9075,
+    "skill": 18,
+    "level": 5,
+    "group": 6,
+    "cost": 300
+  },
+  {
+    "id": 9076,
+    "skill": 18,
+    "level": 6,
+    "group": 6,
+    "cost": 500
+  },
+  {
+    "id": 9081,
+    "skill": 19,
+    "level": 1,
+    "group": 7,
+    "cost": 25
+  },
+  {
+    "id": 9082,
+    "skill": 19,
+    "level": 2,
+    "group": 7,
+    "cost": 50
+  },
+  {
+    "id": 9083,
+    "skill": 19,
+    "level": 3,
+    "group": 7,
+    "cost": 100
+  },
+  {
+    "id": 9084,
+    "skill": 19,
+    "level": 4,
+    "group": 7,
+    "cost": 175
+  },
+  {
+    "id": 9085,
+    "skill": 19,
+    "level": 5,
+    "group": 7,
+    "cost": 300
+  },
+  {
+    "id": 9086,
+    "skill": 19,
+    "level": 6,
+    "group": 7,
+    "cost": 500
+  },
+  {
+    "id": 9091,
+    "skill": 20,
+    "level": 1,
+    "group": 8,
+    "cost": 25
+  },
+  {
+    "id": 9092,
+    "skill": 20,
+    "level": 2,
+    "group": 8,
+    "cost": 50
+  },
+  {
+    "id": 9093,
+    "skill": 20,
+    "level": 3,
+    "group": 8,
+    "cost": 100
+  },
+  {
+    "id": 9094,
+    "skill": 20,
+    "level": 4,
+    "group": 8,
+    "cost": 175
+  },
+  {
+    "id": 9095,
+    "skill": 20,
+    "level": 5,
+    "group": 8,
+    "cost": 300
+  },
+  {
+    "id": 9096,
+    "skill": 20,
+    "level": 6,
+    "group": 8,
+    "cost": 500
+  }
+]

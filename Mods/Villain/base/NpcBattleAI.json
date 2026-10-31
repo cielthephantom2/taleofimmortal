@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "group": 1001,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999999",
+    "active": "0"
+  },
+  {
+    "id": 2,
+    "group": 1001,
+    "trigger": "skill_2",
+    "condition": "cdTime_3_1_9999999|buffCalOverCd_2_3141111_&24111_sfcd&_3",
+    "active": "0"
+  },
+  {
+    "id": 3,
+    "group": 1001,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 4,
+    "group": 1001,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 5,
+    "group": 1002,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999999",
+    "active": "0"
+  },
+  {
+    "id": 6,
+    "group": 1002,
+    "trigger": "time_2000",
+    "condition": "shield_&15112_hdsx|x0.8|f0&_999999999",
+    "active": "chase_&25114_range|x0.7|f0&_2000_0"
+  },
+  {
+    "id": 7,
+    "group": 1002,
+    "trigger": "skill_2",
+    "condition": "shield_&15112_hdsx|x0.8|f0&_999999999|distance_0_&25114_range|x0.9|f0&",
+    "active": "0"
+  },
+  {
+    "id": 8,
+    "group": 1002,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999|shield_&15112_hdsx|x0.3|f0&_999999999|distance_0_&25114_range|x0.9|f0&",
+    "active": "0"
+  },
+  {
+    "id": 9,
+    "group": 1002,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_10000_999999|shield_&15112_hdsx|x0.1|f0&_999999999|distance_0_&25114_range|x0.9|f0&",
+    "active": "0"
+  },
+  {
+    "id": 10,
+    "group": 1003,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999999",
+    "active": "0"
+  },
+  {
+    "id": 11,
+    "group": 1003,
+    "trigger": "skill_2",
+    "condition": "cdTime_3_1_9999999|buffCalOverCd_2_3141111_&24111_sfcd|x-0.001|x2|f2&_3",
+    "active": "0"
+  },
+  {
+    "id": 12,
+    "group": 1003,
+    "trigger": "skill_2",
+    "condition": "cdOk_3_1_999999|buffCount_2_3141111_&14111_layCount&_99999",
+    "active": "0"
+  },
+  {
+    "id": 13,
+    "group": 1003,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 14,
+    "group": 1003,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 15,
+    "group": 1004,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999999",
+    "active": "0"
+  },
+  {
+    "id": 16,
+    "group": 1004,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 17,
+    "group": 1004,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999|distance_0_500",
+    "active": "0"
+  },
+  {
+    "id": 18,
+    "group": 1004,
+    "trigger": "skill_2",
+    "condition": "cdTime_3_1_9999999|buffCalOverCd_2_312111_&24111_sfcd&_3|distance_0_500",
+    "active": "0"
+  },
+  {
+    "id": 19,
+    "group": 1004,
+    "trigger": "time_3000",
+    "condition": "enemyDis_0_200",
+    "active": "chase_200_5000_0"
+  },
+  {
+    "id": 20,
+    "group": 1005,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999999",
+    "active": "0"
+  },
+  {
+    "id": 21,
+    "group": 1005,
+    "trigger": "skill_2",
+    "condition": "cdTime_3_1_9999999|buffCalOverCd_2_3141111_&24111_sfcd&_3",
+    "active": "0"
+  },
+  {
+    "id": 22,
+    "group": 1005,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 23,
+    "group": 1005,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 24,
+    "group": 1006,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999999",
+    "active": "0"
+  },
+  {
+    "id": 25,
+    "group": 1006,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 26,
+    "group": 1006,
+    "trigger": "skill_2",
+    "condition": "cdTime_3_1_9999999|buffCalOverCd_2_313112_&24111_sfcd|x-0.001|x2|f2&_3||distance_0_500",
+    "active": "0"
+  },
+  {
+    "id": 27,
+    "group": 1006,
+    "trigger": "skill_2",
+    "condition": "cdOk_2_5000_999999|distance_0_500",
+    "active": "0"
+  },
+  {
+    "id": 28,
+    "group": 1006,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 29,
+    "group": 1007,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 30,
+    "group": 1007,
+    "trigger": "time_1000",
+    "condition": "enemyDis_0_200",
+    "active": "chase_200_5000_0"
+  },
+  {
+    "id": 31,
+    "group": 1008,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 32,
+    "group": 1008,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 33,
+    "group": 1009,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 34,
+    "group": 1009,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 35,
+    "group": 1010,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 36,
+    "group": 1010,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 37,
+    "group": 1011,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 38,
+    "group": 1011,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 39,
+    "group": 1012,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 40,
+    "group": 1012,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 41,
+    "group": 1013,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 42,
+    "group": 1013,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 43,
+    "group": 1014,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 44,
+    "group": 1014,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 45,
+    "group": 1015,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 46,
+    "group": 1015,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 47,
+    "group": 1016,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 48,
+    "group": 1016,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 49,
+    "group": 1017,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_1000_100"
+  },
+  {
+    "id": 50,
+    "group": 1017,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  },
+  {
+    "id": 51,
+    "group": 3001,
+    "trigger": "init_0",
+    "condition": "0",
+    "active": "stepLoopTime_500_100"
+  },
+  {
+    "id": 52,
+    "group": 3001,
+    "trigger": "skill_4",
+    "condition": "cdOk_4_500_1000",
+    "active": "0"
+  },
+  {
+    "id": 53,
+    "group": 3001,
+    "trigger": "time_7000",
+    "condition": "enemyDis_0_200",
+    "active": "away_2000_5000_0"
+  }
+]

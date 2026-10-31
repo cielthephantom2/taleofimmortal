@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "powerRatio": 120,
+    "premoteTime": "1_3"
+  },
+  {
+    "id": 2,
+    "powerRatio": 110,
+    "premoteTime": "4_6"
+  },
+  {
+    "id": 3,
+    "powerRatio": 100,
+    "premoteTime": "7_9"
+  },
+  {
+    "id": 4,
+    "powerRatio": 90,
+    "premoteTime": "10_12"
+  },
+  {
+    "id": 5,
+    "powerRatio": 80,
+    "premoteTime": "13_15"
+  },
+  {
+    "id": 6,
+    "powerRatio": 70,
+    "premoteTime": "16_18"
+  },
+  {
+    "id": 7,
+    "powerRatio": 60,
+    "premoteTime": "19_21"
+  },
+  {
+    "id": 8,
+    "powerRatio": 50,
+    "premoteTime": "22_24"
+  },
+  {
+    "id": 9,
+    "powerRatio": 40,
+    "premoteTime": "25_27"
+  },
+  {
+    "id": 10,
+    "powerRatio": 30,
+    "premoteTime": "28_30"
+  },
+  {
+    "id": 11,
+    "powerRatio": 20,
+    "premoteTime": "31_33"
+  },
+  {
+    "id": 12,
+    "powerRatio": 0,
+    "premoteTime": "34_36"
+  }
+]

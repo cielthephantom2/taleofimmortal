@@ -1,0 +1,974 @@
+[
+  {
+    "id": 1,
+    "area": 2,
+    "territory": 1,
+    "reputationRequire": 10,
+    "peopleRequire": 2,
+    "moneyCost": 2000,
+    "mineCost": 0
+  },
+  {
+    "id": 2,
+    "area": 2,
+    "territory": 2,
+    "reputationRequire": 41,
+    "peopleRequire": 8,
+    "moneyCost": 3000,
+    "mineCost": 0
+  },
+  {
+    "id": 3,
+    "area": 2,
+    "territory": 3,
+    "reputationRequire": 93,
+    "peopleRequire": 18,
+    "moneyCost": 4000,
+    "mineCost": 0
+  },
+  {
+    "id": 4,
+    "area": 2,
+    "territory": 4,
+    "reputationRequire": 170,
+    "peopleRequire": 33,
+    "moneyCost": 5000,
+    "mineCost": 0
+  },
+  {
+    "id": 5,
+    "area": 2,
+    "territory": 5,
+    "reputationRequire": 260,
+    "peopleRequire": 52,
+    "moneyCost": 5633,
+    "mineCost": 0
+  },
+  {
+    "id": 6,
+    "area": 2,
+    "territory": 6,
+    "reputationRequire": 380,
+    "peopleRequire": 75,
+    "moneyCost": 8111,
+    "mineCost": 0
+  },
+  {
+    "id": 7,
+    "area": 2,
+    "territory": 7,
+    "reputationRequire": 510,
+    "peopleRequire": 100,
+    "moneyCost": 11040,
+    "mineCost": 0
+  },
+  {
+    "id": 8,
+    "area": 2,
+    "territory": 8,
+    "reputationRequire": 670,
+    "peopleRequire": 130,
+    "moneyCost": 14420,
+    "mineCost": 0
+  },
+  {
+    "id": 9,
+    "area": 2,
+    "territory": 9,
+    "reputationRequire": 850,
+    "peopleRequire": 170,
+    "moneyCost": 18250,
+    "mineCost": 0
+  },
+  {
+    "id": 10,
+    "area": 2,
+    "territory": 10,
+    "reputationRequire": 1000,
+    "peopleRequire": 210,
+    "moneyCost": 22531,
+    "mineCost": 0
+  },
+  {
+    "id": 11,
+    "area": 2,
+    "territory": 11,
+    "reputationRequire": 1300,
+    "peopleRequire": 250,
+    "moneyCost": 27263,
+    "mineCost": 0
+  },
+  {
+    "id": 12,
+    "area": 4,
+    "territory": 1,
+    "reputationRequire": 10,
+    "peopleRequire": 2,
+    "moneyCost": 2000,
+    "mineCost": 0
+  },
+  {
+    "id": 13,
+    "area": 4,
+    "territory": 2,
+    "reputationRequire": 44,
+    "peopleRequire": 8,
+    "moneyCost": 3000,
+    "mineCost": 0
+  },
+  {
+    "id": 14,
+    "area": 4,
+    "territory": 3,
+    "reputationRequire": 99,
+    "peopleRequire": 18,
+    "moneyCost": 4000,
+    "mineCost": 0
+  },
+  {
+    "id": 15,
+    "area": 4,
+    "territory": 4,
+    "reputationRequire": 180,
+    "peopleRequire": 33,
+    "moneyCost": 5000,
+    "mineCost": 0
+  },
+  {
+    "id": 16,
+    "area": 4,
+    "territory": 5,
+    "reputationRequire": 280,
+    "peopleRequire": 52,
+    "moneyCost": 8906,
+    "mineCost": 0
+  },
+  {
+    "id": 17,
+    "area": 4,
+    "territory": 6,
+    "reputationRequire": 400,
+    "peopleRequire": 75,
+    "moneyCost": 12825,
+    "mineCost": 0
+  },
+  {
+    "id": 18,
+    "area": 4,
+    "territory": 7,
+    "reputationRequire": 540,
+    "peopleRequire": 100,
+    "moneyCost": 17456,
+    "mineCost": 0
+  },
+  {
+    "id": 19,
+    "area": 4,
+    "territory": 8,
+    "reputationRequire": 710,
+    "peopleRequire": 130,
+    "moneyCost": 22800,
+    "mineCost": 0
+  },
+  {
+    "id": 20,
+    "area": 4,
+    "territory": 9,
+    "reputationRequire": 900,
+    "peopleRequire": 170,
+    "moneyCost": 28856,
+    "mineCost": 0
+  },
+  {
+    "id": 21,
+    "area": 4,
+    "territory": 10,
+    "reputationRequire": 1100,
+    "peopleRequire": 210,
+    "moneyCost": 35625,
+    "mineCost": 0
+  },
+  {
+    "id": 22,
+    "area": 4,
+    "territory": 11,
+    "reputationRequire": 1300,
+    "peopleRequire": 250,
+    "moneyCost": 43106,
+    "mineCost": 0
+  },
+  {
+    "id": 23,
+    "area": 4,
+    "territory": 12,
+    "reputationRequire": 1600,
+    "peopleRequire": 300,
+    "moneyCost": 51300,
+    "mineCost": 0
+  },
+  {
+    "id": 24,
+    "area": 4,
+    "territory": 13,
+    "reputationRequire": 1900,
+    "peopleRequire": 350,
+    "moneyCost": 60206,
+    "mineCost": 0
+  },
+  {
+    "id": 25,
+    "area": 4,
+    "territory": 14,
+    "reputationRequire": 2200,
+    "peopleRequire": 410,
+    "moneyCost": 69825,
+    "mineCost": 0
+  },
+  {
+    "id": 26,
+    "area": 6,
+    "territory": 1,
+    "reputationRequire": 13,
+    "peopleRequire": 2,
+    "moneyCost": 2000,
+    "mineCost": 0
+  },
+  {
+    "id": 27,
+    "area": 6,
+    "territory": 2,
+    "reputationRequire": 54,
+    "peopleRequire": 8,
+    "moneyCost": 3000,
+    "mineCost": 0
+  },
+  {
+    "id": 28,
+    "area": 6,
+    "territory": 3,
+    "reputationRequire": 120,
+    "peopleRequire": 18,
+    "moneyCost": 4000,
+    "mineCost": 0
+  },
+  {
+    "id": 29,
+    "area": 6,
+    "territory": 4,
+    "reputationRequire": 220,
+    "peopleRequire": 33,
+    "moneyCost": 5000,
+    "mineCost": 0
+  },
+  {
+    "id": 30,
+    "area": 6,
+    "territory": 5,
+    "reputationRequire": 340,
+    "peopleRequire": 52,
+    "moneyCost": 13268,
+    "mineCost": 0
+  },
+  {
+    "id": 31,
+    "area": 6,
+    "territory": 6,
+    "reputationRequire": 490,
+    "peopleRequire": 75,
+    "moneyCost": 19106,
+    "mineCost": 0
+  },
+  {
+    "id": 32,
+    "area": 6,
+    "territory": 7,
+    "reputationRequire": 670,
+    "peopleRequire": 100,
+    "moneyCost": 26006,
+    "mineCost": 0
+  },
+  {
+    "id": 33,
+    "area": 6,
+    "territory": 8,
+    "reputationRequire": 880,
+    "peopleRequire": 130,
+    "moneyCost": 33967,
+    "mineCost": 0
+  },
+  {
+    "id": 34,
+    "area": 6,
+    "territory": 9,
+    "reputationRequire": 1100,
+    "peopleRequire": 170,
+    "moneyCost": 42990,
+    "mineCost": 0
+  },
+  {
+    "id": 35,
+    "area": 6,
+    "territory": 10,
+    "reputationRequire": 1400,
+    "peopleRequire": 210,
+    "moneyCost": 53074,
+    "mineCost": 0
+  },
+  {
+    "id": 36,
+    "area": 6,
+    "territory": 11,
+    "reputationRequire": 1700,
+    "peopleRequire": 250,
+    "moneyCost": 64219,
+    "mineCost": 0
+  },
+  {
+    "id": 37,
+    "area": 6,
+    "territory": 12,
+    "reputationRequire": 2000,
+    "peopleRequire": 300,
+    "moneyCost": 76426,
+    "mineCost": 0
+  },
+  {
+    "id": 38,
+    "area": 6,
+    "territory": 13,
+    "reputationRequire": 2300,
+    "peopleRequire": 350,
+    "moneyCost": 89694,
+    "mineCost": 0
+  },
+  {
+    "id": 39,
+    "area": 6,
+    "territory": 14,
+    "reputationRequire": 2700,
+    "peopleRequire": 410,
+    "moneyCost": 104024,
+    "mineCost": 0
+  },
+  {
+    "id": 40,
+    "area": 6,
+    "territory": 15,
+    "reputationRequire": 3100,
+    "peopleRequire": 470,
+    "moneyCost": 119415,
+    "mineCost": 0
+  },
+  {
+    "id": 41,
+    "area": 6,
+    "territory": 16,
+    "reputationRequire": 3500,
+    "peopleRequire": 540,
+    "moneyCost": 135868,
+    "mineCost": 0
+  },
+  {
+    "id": 42,
+    "area": 6,
+    "territory": 17,
+    "reputationRequire": 4000,
+    "peopleRequire": 610,
+    "moneyCost": 153383,
+    "mineCost": 0
+  },
+  {
+    "id": 43,
+    "area": 8,
+    "territory": 1,
+    "reputationRequire": 18,
+    "peopleRequire": 2,
+    "moneyCost": 2000,
+    "mineCost": 0
+  },
+  {
+    "id": 44,
+    "area": 8,
+    "territory": 2,
+    "reputationRequire": 73,
+    "peopleRequire": 8,
+    "moneyCost": 3000,
+    "mineCost": 0
+  },
+  {
+    "id": 45,
+    "area": 8,
+    "territory": 3,
+    "reputationRequire": 170,
+    "peopleRequire": 18,
+    "moneyCost": 4000,
+    "mineCost": 0
+  },
+  {
+    "id": 46,
+    "area": 8,
+    "territory": 4,
+    "reputationRequire": 300,
+    "peopleRequire": 33,
+    "moneyCost": 5000,
+    "mineCost": 0
+  },
+  {
+    "id": 47,
+    "area": 8,
+    "territory": 5,
+    "reputationRequire": 460,
+    "peopleRequire": 52,
+    "moneyCost": 21662,
+    "mineCost": 0
+  },
+  {
+    "id": 48,
+    "area": 8,
+    "territory": 6,
+    "reputationRequire": 670,
+    "peopleRequire": 75,
+    "moneyCost": 31193,
+    "mineCost": 0
+  },
+  {
+    "id": 49,
+    "area": 8,
+    "territory": 7,
+    "reputationRequire": 910,
+    "peopleRequire": 100,
+    "moneyCost": 42457,
+    "mineCost": 0
+  },
+  {
+    "id": 50,
+    "area": 8,
+    "territory": 8,
+    "reputationRequire": 1200,
+    "peopleRequire": 130,
+    "moneyCost": 55454,
+    "mineCost": 0
+  },
+  {
+    "id": 51,
+    "area": 8,
+    "territory": 9,
+    "reputationRequire": 1500,
+    "peopleRequire": 170,
+    "moneyCost": 70184,
+    "mineCost": 0
+  },
+  {
+    "id": 52,
+    "area": 8,
+    "territory": 10,
+    "reputationRequire": 1900,
+    "peopleRequire": 210,
+    "moneyCost": 86648,
+    "mineCost": 0
+  },
+  {
+    "id": 53,
+    "area": 8,
+    "territory": 11,
+    "reputationRequire": 2200,
+    "peopleRequire": 250,
+    "moneyCost": 104843,
+    "mineCost": 0
+  },
+  {
+    "id": 54,
+    "area": 8,
+    "territory": 12,
+    "reputationRequire": 2700,
+    "peopleRequire": 300,
+    "moneyCost": 124772,
+    "mineCost": 0
+  },
+  {
+    "id": 55,
+    "area": 8,
+    "territory": 13,
+    "reputationRequire": 3100,
+    "peopleRequire": 350,
+    "moneyCost": 146434,
+    "mineCost": 0
+  },
+  {
+    "id": 56,
+    "area": 8,
+    "territory": 14,
+    "reputationRequire": 3600,
+    "peopleRequire": 410,
+    "moneyCost": 169829,
+    "mineCost": 0
+  },
+  {
+    "id": 57,
+    "area": 8,
+    "territory": 15,
+    "reputationRequire": 4200,
+    "peopleRequire": 470,
+    "moneyCost": 194957,
+    "mineCost": 0
+  },
+  {
+    "id": 58,
+    "area": 8,
+    "territory": 16,
+    "reputationRequire": 4700,
+    "peopleRequire": 540,
+    "moneyCost": 221818,
+    "mineCost": 0
+  },
+  {
+    "id": 59,
+    "area": 8,
+    "territory": 17,
+    "reputationRequire": 5400,
+    "peopleRequire": 610,
+    "moneyCost": 250411,
+    "mineCost": 0
+  },
+  {
+    "id": 60,
+    "area": 8,
+    "territory": 18,
+    "reputationRequire": 6000,
+    "peopleRequire": 680,
+    "moneyCost": 280738,
+    "mineCost": 0
+  },
+  {
+    "id": 61,
+    "area": 8,
+    "territory": 19,
+    "reputationRequire": 6700,
+    "peopleRequire": 760,
+    "moneyCost": 312797,
+    "mineCost": 0
+  },
+  {
+    "id": 62,
+    "area": 8,
+    "territory": 20,
+    "reputationRequire": 7400,
+    "peopleRequire": 840,
+    "moneyCost": 346590,
+    "mineCost": 0
+  },
+  {
+    "id": 63,
+    "area": 9,
+    "territory": 1,
+    "reputationRequire": 24,
+    "peopleRequire": 2,
+    "moneyCost": 2000,
+    "mineCost": 0
+  },
+  {
+    "id": 64,
+    "area": 9,
+    "territory": 2,
+    "reputationRequire": 100,
+    "peopleRequire": 8,
+    "moneyCost": 3000,
+    "mineCost": 0
+  },
+  {
+    "id": 65,
+    "area": 9,
+    "territory": 3,
+    "reputationRequire": 230,
+    "peopleRequire": 18,
+    "moneyCost": 4000,
+    "mineCost": 0
+  },
+  {
+    "id": 66,
+    "area": 9,
+    "territory": 4,
+    "reputationRequire": 400,
+    "peopleRequire": 33,
+    "moneyCost": 5000,
+    "mineCost": 0
+  },
+  {
+    "id": 67,
+    "area": 9,
+    "territory": 5,
+    "reputationRequire": 630,
+    "peopleRequire": 52,
+    "moneyCost": 36519,
+    "mineCost": 0
+  },
+  {
+    "id": 68,
+    "area": 9,
+    "territory": 6,
+    "reputationRequire": 900,
+    "peopleRequire": 75,
+    "moneyCost": 52587,
+    "mineCost": 0
+  },
+  {
+    "id": 69,
+    "area": 9,
+    "territory": 7,
+    "reputationRequire": 1200,
+    "peopleRequire": 100,
+    "moneyCost": 71577,
+    "mineCost": 0
+  },
+  {
+    "id": 70,
+    "area": 9,
+    "territory": 8,
+    "reputationRequire": 1600,
+    "peopleRequire": 130,
+    "moneyCost": 93488,
+    "mineCost": 0
+  },
+  {
+    "id": 71,
+    "area": 9,
+    "territory": 9,
+    "reputationRequire": 2000,
+    "peopleRequire": 170,
+    "moneyCost": 118321,
+    "mineCost": 0
+  },
+  {
+    "id": 72,
+    "area": 9,
+    "territory": 10,
+    "reputationRequire": 2500,
+    "peopleRequire": 210,
+    "moneyCost": 146076,
+    "mineCost": 0
+  },
+  {
+    "id": 73,
+    "area": 9,
+    "territory": 11,
+    "reputationRequire": 3000,
+    "peopleRequire": 250,
+    "moneyCost": 176751,
+    "mineCost": 0
+  },
+  {
+    "id": 74,
+    "area": 9,
+    "territory": 12,
+    "reputationRequire": 3600,
+    "peopleRequire": 300,
+    "moneyCost": 210349,
+    "mineCost": 0
+  },
+  {
+    "id": 75,
+    "area": 9,
+    "territory": 13,
+    "reputationRequire": 4200,
+    "peopleRequire": 350,
+    "moneyCost": 246868,
+    "mineCost": 0
+  },
+  {
+    "id": 76,
+    "area": 9,
+    "territory": 14,
+    "reputationRequire": 4900,
+    "peopleRequire": 410,
+    "moneyCost": 286308,
+    "mineCost": 0
+  },
+  {
+    "id": 77,
+    "area": 9,
+    "territory": 15,
+    "reputationRequire": 5700,
+    "peopleRequire": 470,
+    "moneyCost": 328670,
+    "mineCost": 0
+  },
+  {
+    "id": 78,
+    "area": 9,
+    "territory": 16,
+    "reputationRequire": 6400,
+    "peopleRequire": 540,
+    "moneyCost": 373954,
+    "mineCost": 0
+  },
+  {
+    "id": 79,
+    "area": 9,
+    "territory": 17,
+    "reputationRequire": 7300,
+    "peopleRequire": 610,
+    "moneyCost": 422159,
+    "mineCost": 0
+  },
+  {
+    "id": 80,
+    "area": 9,
+    "territory": 18,
+    "reputationRequire": 8100,
+    "peopleRequire": 680,
+    "moneyCost": 473285,
+    "mineCost": 0
+  },
+  {
+    "id": 81,
+    "area": 9,
+    "territory": 19,
+    "reputationRequire": 9100,
+    "peopleRequire": 760,
+    "moneyCost": 527333,
+    "mineCost": 0
+  },
+  {
+    "id": 82,
+    "area": 9,
+    "territory": 20,
+    "reputationRequire": 10000,
+    "peopleRequire": 840,
+    "moneyCost": 584302,
+    "mineCost": 0
+  },
+  {
+    "id": 83,
+    "area": 9,
+    "territory": 21,
+    "reputationRequire": 11000,
+    "peopleRequire": 920,
+    "moneyCost": 644193,
+    "mineCost": 0
+  },
+  {
+    "id": 84,
+    "area": 9,
+    "territory": 22,
+    "reputationRequire": 12000,
+    "peopleRequire": 1000,
+    "moneyCost": 707006,
+    "mineCost": 0
+  },
+  {
+    "id": 85,
+    "area": 9,
+    "territory": 23,
+    "reputationRequire": 13000,
+    "peopleRequire": 1100,
+    "moneyCost": 772740,
+    "mineCost": 0
+  },
+  {
+    "id": 86,
+    "area": 10,
+    "territory": 1,
+    "reputationRequire": 24,
+    "peopleRequire": 2,
+    "moneyCost": 2000,
+    "mineCost": 0
+  },
+  {
+    "id": 87,
+    "area": 10,
+    "territory": 2,
+    "reputationRequire": 100,
+    "peopleRequire": 8,
+    "moneyCost": 3000,
+    "mineCost": 0
+  },
+  {
+    "id": 88,
+    "area": 10,
+    "territory": 3,
+    "reputationRequire": 230,
+    "peopleRequire": 18,
+    "moneyCost": 4000,
+    "mineCost": 0
+  },
+  {
+    "id": 89,
+    "area": 10,
+    "territory": 4,
+    "reputationRequire": 400,
+    "peopleRequire": 33,
+    "moneyCost": 5000,
+    "mineCost": 0
+  },
+  {
+    "id": 90,
+    "area": 10,
+    "territory": 5,
+    "reputationRequire": 630,
+    "peopleRequire": 52,
+    "moneyCost": 36519,
+    "mineCost": 0
+  },
+  {
+    "id": 91,
+    "area": 10,
+    "territory": 6,
+    "reputationRequire": 900,
+    "peopleRequire": 75,
+    "moneyCost": 52587,
+    "mineCost": 0
+  },
+  {
+    "id": 92,
+    "area": 10,
+    "territory": 7,
+    "reputationRequire": 1200,
+    "peopleRequire": 100,
+    "moneyCost": 71577,
+    "mineCost": 0
+  },
+  {
+    "id": 93,
+    "area": 10,
+    "territory": 8,
+    "reputationRequire": 1600,
+    "peopleRequire": 130,
+    "moneyCost": 93488,
+    "mineCost": 0
+  },
+  {
+    "id": 94,
+    "area": 10,
+    "territory": 9,
+    "reputationRequire": 2000,
+    "peopleRequire": 170,
+    "moneyCost": 118321,
+    "mineCost": 0
+  },
+  {
+    "id": 95,
+    "area": 10,
+    "territory": 10,
+    "reputationRequire": 2500,
+    "peopleRequire": 210,
+    "moneyCost": 146076,
+    "mineCost": 0
+  },
+  {
+    "id": 96,
+    "area": 10,
+    "territory": 11,
+    "reputationRequire": 3000,
+    "peopleRequire": 250,
+    "moneyCost": 176751,
+    "mineCost": 0
+  },
+  {
+    "id": 97,
+    "area": 10,
+    "territory": 12,
+    "reputationRequire": 3600,
+    "peopleRequire": 300,
+    "moneyCost": 210349,
+    "mineCost": 0
+  },
+  {
+    "id": 98,
+    "area": 10,
+    "territory": 13,
+    "reputationRequire": 4200,
+    "peopleRequire": 350,
+    "moneyCost": 246868,
+    "mineCost": 0
+  },
+  {
+    "id": 99,
+    "area": 10,
+    "territory": 14,
+    "reputationRequire": 4900,
+    "peopleRequire": 410,
+    "moneyCost": 286308,
+    "mineCost": 0
+  },
+  {
+    "id": 100,
+    "area": 10,
+    "territory": 15,
+    "reputationRequire": 5700,
+    "peopleRequire": 470,
+    "moneyCost": 328670,
+    "mineCost": 0
+  },
+  {
+    "id": 101,
+    "area": 10,
+    "territory": 16,
+    "reputationRequire": 6400,
+    "peopleRequire": 540,
+    "moneyCost": 373954,
+    "mineCost": 0
+  },
+  {
+    "id": 102,
+    "area": 10,
+    "territory": 17,
+    "reputationRequire": 7300,
+    "peopleRequire": 610,
+    "moneyCost": 422159,
+    "mineCost": 0
+  },
+  {
+    "id": 103,
+    "area": 10,
+    "territory": 18,
+    "reputationRequire": 8100,
+    "peopleRequire": 680,
+    "moneyCost": 473285,
+    "mineCost": 0
+  },
+  {
+    "id": 104,
+    "area": 10,
+    "territory": 19,
+    "reputationRequire": 9100,
+    "peopleRequire": 760,
+    "moneyCost": 527333,
+    "mineCost": 0
+  },
+  {
+    "id": 105,
+    "area": 10,
+    "territory": 20,
+    "reputationRequire": 10000,
+    "peopleRequire": 840,
+    "moneyCost": 584302,
+    "mineCost": 0
+  },
+  {
+    "id": 106,
+    "area": 10,
+    "territory": 21,
+    "reputationRequire": 11000,
+    "peopleRequire": 920,
+    "moneyCost": 644193,
+    "mineCost": 0
+  },
+  {
+    "id": 107,
+    "area": 10,
+    "territory": 22,
+    "reputationRequire": 12000,
+    "peopleRequire": 1000,
+    "moneyCost": 707006,
+    "mineCost": 0
+  },
+  {
+    "id": 108,
+    "area": 10,
+    "territory": 23,
+    "reputationRequire": 13000,
+    "peopleRequire": 1100,
+    "moneyCost": 772740,
+    "mineCost": 0
+  }
+]

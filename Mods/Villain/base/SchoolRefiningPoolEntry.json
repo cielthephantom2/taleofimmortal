@@ -1,0 +1,254 @@
+[
+  {
+    "id": 10001,
+    "effectID": 9902101,
+    "roleEffectID": 9902101,
+    "activeCost": 100,
+    "isUpGrade": 0,
+    "types": 0,
+    "icon": "tili"
+  },
+  {
+    "id": 11001,
+    "effectID": 9902102,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 1,
+    "icon": "huafu"
+  },
+  {
+    "id": 11002,
+    "effectID": 9902103,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 1,
+    "icon": "hudun"
+  },
+  {
+    "id": 11003,
+    "effectID": 9902104,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 1,
+    "icon": "tili"
+  },
+  {
+    "id": 11004,
+    "effectID": 9902105,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 1,
+    "icon": "tili"
+  },
+  {
+    "id": 11005,
+    "effectID": 9902106,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 1,
+    "icon": "tili"
+  },
+  {
+    "id": 12001,
+    "effectID": 9902201,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12002,
+    "effectID": 9902202,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12003,
+    "effectID": 9902203,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12004,
+    "effectID": 9902204,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12005,
+    "effectID": 9902205,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12006,
+    "effectID": 9902206,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12007,
+    "effectID": 9902207,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12008,
+    "effectID": 9902208,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12009,
+    "effectID": 9902209,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12010,
+    "effectID": 9902210,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12011,
+    "effectID": 9902211,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12012,
+    "effectID": 9902212,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12013,
+    "effectID": 9902213,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12014,
+    "effectID": 9902214,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12015,
+    "effectID": 9902215,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12016,
+    "effectID": 9902216,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12017,
+    "effectID": 9902217,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12018,
+    "effectID": 9902218,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12019,
+    "effectID": 9902219,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12020,
+    "effectID": 9902220,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12021,
+    "effectID": 9902221,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  },
+  {
+    "id": 12022,
+    "effectID": 9902222,
+    "roleEffectID": 0,
+    "activeCost": 100,
+    "isUpGrade": 1,
+    "types": 2,
+    "icon": "tili"
+  }
+]

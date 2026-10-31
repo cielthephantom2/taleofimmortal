@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "key": "testInterval",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "key": "discipleCountMax",
+    "value": 5
+  },
+  {
+    "id": 3,
+    "key": "inheritDiscipleCountMax",
+    "value": 8
+  },
+  {
+    "id": 4,
+    "key": "discipleBreakWithProbability",
+    "value": 2500
+  },
+  {
+    "id": 5,
+    "key": "breakWithRelationCD",
+    "value": 3
+  }
+]

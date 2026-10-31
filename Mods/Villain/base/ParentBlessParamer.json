@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "key": "parentBlessRateToPlayer",
+    "value": "80"
+  },
+  {
+    "id": 2,
+    "key": "parentBlessRateToNPC",
+    "value": "70"
+  },
+  {
+    "id": 3,
+    "key": "trait1Rate",
+    "value": "15"
+  },
+  {
+    "id": 4,
+    "key": "trait2Rate",
+    "value": "10"
+  },
+  {
+    "id": 5,
+    "key": "trait3Rate",
+    "value": "25"
+  },
+  {
+    "id": 6,
+    "key": "trait4Rate",
+    "value": "10"
+  },
+  {
+    "id": 7,
+    "key": "trait5Rate",
+    "value": "10"
+  },
+  {
+    "id": 8,
+    "key": "trait6Rate",
+    "value": "10"
+  },
+  {
+    "id": 9,
+    "key": "trait7Rate",
+    "value": "10"
+  },
+  {
+    "id": 10,
+    "key": "trait8Rate",
+    "value": "30"
+  },
+  {
+    "id": 11,
+    "key": "trait9Rate",
+    "value": "0"
+  },
+  {
+    "id": 12,
+    "key": "trait10Rate",
+    "value": "35"
+  },
+  {
+    "id": 13,
+    "key": "trait11Rate",
+    "value": "0"
+  },
+  {
+    "id": 14,
+    "key": "trait12Rate",
+    "value": "15"
+  },
+  {
+    "id": 15,
+    "key": "trait13Rate",
+    "value": "0"
+  },
+  {
+    "id": 16,
+    "key": "trait14Rate",
+    "value": "0"
+  },
+  {
+    "id": 17,
+    "key": "trait15Rate",
+    "value": "0"
+  },
+  {
+    "id": 18,
+    "key": "trait16Rate",
+    "value": "0"
+  },
+  {
+    "id": 19,
+    "key": "trait17Rate",
+    "value": "0"
+  },
+  {
+    "id": 20,
+    "key": "trait18Rate",
+    "value": "0"
+  },
+  {
+    "id": 21,
+    "key": "trait19Rate",
+    "value": "0"
+  },
+  {
+    "id": 22,
+    "key": "npcBlessAIDataTrait",
+    "value": "3_8_10_12"
+  },
+  {
+    "id": 23,
+    "key": "playerIsParentDialogue",
+    "value": "6469501"
+  },
+  {
+    "id": 24,
+    "key": "playerIsParentBless1Option",
+    "value": "6469511"
+  },
+  {
+    "id": 25,
+    "key": "playerIsParentBless2Option",
+    "value": "6469611"
+  },
+  {
+    "id": 26,
+    "key": "playerIsParentBless3Option",
+    "value": "6469711"
+  },
+  {
+    "id": 27,
+    "key": "playerIsParentBless1Success",
+    "value": "6469521"
+  },
+  {
+    "id": 28,
+    "key": "playerIsParentBless1Fail",
+    "value": "6469531"
+  },
+  {
+    "id": 29,
+    "key": "playerIsParentBless2Success",
+    "value": "6469621"
+  },
+  {
+    "id": 30,
+    "key": "playerIsParentBless2Fail",
+    "value": "6469631"
+  },
+  {
+    "id": 31,
+    "key": "playerIsParentBless3Success",
+    "value": "6469721"
+  },
+  {
+    "id": 32,
+    "key": "playerIsParentBless3Fail",
+    "value": "6469731"
+  },
+  {
+    "id": 33,
+    "key": "playerIsParentBlessKillerLog01",
+    "value": "playerIsParentBlessKillerLog01"
+  },
+  {
+    "id": 34,
+    "key": "playerIsParentBlessKillerLog11",
+    "value": "playerIsParentBlessKillerLog11"
+  },
+  {
+    "id": 35,
+    "key": "playerIsParentBlessVictimLog01",
+    "value": "playerIsParentBlessVictimLog01"
+  },
+  {
+    "id": 36,
+    "key": "playerIsParentBlessVictimLog11",
+    "value": "playerIsParentBlessVictimLog11"
+  },
+  {
+    "id": 37,
+    "key": "playerIsParentBlessNegotiatorLog01",
+    "value": "playerIsParentBlessNegotiatorLog01"
+  },
+  {
+    "id": 38,
+    "key": "playerIsParentBlessNegotiatorLog11",
+    "value": "playerIsParentBlessNegotiatorLog11"
+  },
+  {
+    "id": 39,
+    "key": "mediationPlayerVictimProb",
+    "value": "50"
+  },
+  {
+    "id": 40,
+    "key": "mediationPlayerKlerProb",
+    "value": "20"
+  },
+  {
+    "id": 41,
+    "key": "mediationNpcProb",
+    "value": "30"
+  },
+  {
+    "id": 42,
+    "key": "mediationPlayerCD",
+    "value": "3_6"
+  },
+  {
+    "id": 43,
+    "key": "mediationNpcCD",
+    "value": "1_6"
+  },
+  {
+    "id": 44,
+    "key": "mediationRemoveCD",
+    "value": "6"
+  },
+  {
+    "id": 45,
+    "key": "npcMediationDialogue",
+    "value": "0"
+  },
+  {
+    "id": 46,
+    "key": "playerMediationDialogue",
+    "value": "0"
+  }
+]

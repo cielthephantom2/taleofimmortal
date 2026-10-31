@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "key": "succeedProbParaA",
+    "value": 10
+  },
+  {
+    "id": 2,
+    "key": "succeedProbParaB",
+    "value": 10
+  },
+  {
+    "id": 3,
+    "key": "costItemPara",
+    "value": 2
+  },
+  {
+    "id": 4,
+    "key": "masteryMin",
+    "value": 5000
+  },
+  {
+    "id": 5,
+    "key": "masteryMax",
+    "value": 15000
+  },
+  {
+    "id": 6,
+    "key": "hurtProb",
+    "value": 50
+  },
+  {
+    "id": 7,
+    "key": "masteryAbilityMin",
+    "value": 3000
+  },
+  {
+    "id": 8,
+    "key": "masteryAbilityMax",
+    "value": 5000
+  },
+  {
+    "id": 9,
+    "key": "useItemMin",
+    "value": 3
+  },
+  {
+    "id": 10,
+    "key": "useItemMax",
+    "value": 5
+  }
+]

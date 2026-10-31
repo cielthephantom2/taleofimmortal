@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "careerKey": "careerLogKillNPCCount"
+  },
+  {
+    "id": 2,
+    "careerKey": "careerLogKillBossCount"
+  },
+  {
+    "id": 3,
+    "careerKey": "careerLogKillMonsterCount"
+  },
+  {
+    "id": 4,
+    "careerKey": "careerLogDigGraveCount"
+  },
+  {
+    "id": 5,
+    "careerKey": "careerLogRefineElixirCount"
+  },
+  {
+    "id": 6,
+    "careerKey": "careerLogRefineWeaponCount"
+  },
+  {
+    "id": 7,
+    "careerKey": "careerLogSymbolCount"
+  },
+  {
+    "id": 8,
+    "careerKey": "careerLogGeomanticCount"
+  },
+  {
+    "id": 9,
+    "careerKey": "careerLogHerbCount"
+  },
+  {
+    "id": 10,
+    "careerKey": "careerLogMineCount"
+  }
+]

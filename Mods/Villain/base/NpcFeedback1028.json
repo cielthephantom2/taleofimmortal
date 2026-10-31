@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2,
+    "key": "auctionGoalID",
+    "value": 205
+  },
+  {
+    "id": 3,
+    "key": "limitedPriceParaA",
+    "value": 10
+  },
+  {
+    "id": 4,
+    "key": "limitedPriceParaB",
+    "value": 10
+  },
+  {
+    "id": 5,
+    "key": "delayOfferProbA",
+    "value": 70
+  },
+  {
+    "id": 6,
+    "key": "delayOfferProbB",
+    "value": 20
+  },
+  {
+    "id": 7,
+    "key": "delayOfferProbC",
+    "value": 10
+  },
+  {
+    "id": 8,
+    "key": "offerPriceProbA",
+    "value": 50
+  },
+  {
+    "id": 9,
+    "key": "offerPriceProbB",
+    "value": 100
+  },
+  {
+    "id": 10,
+    "key": "offerPriceMin",
+    "value": 1
+  },
+  {
+    "id": 11,
+    "key": "offerPriceMax",
+    "value": 15
+  },
+  {
+    "id": 12,
+    "key": "itemScoreParaA",
+    "value": 100
+  },
+  {
+    "id": 13,
+    "key": "itemScoreParaB",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "key": "angryPriceMin",
+    "value": 2
+  },
+  {
+    "id": 15,
+    "key": "angryPriceMax",
+    "value": 5
+  },
+  {
+    "id": 16,
+    "key": "auctionaAddRateMin",
+    "value": 5
+  },
+  {
+    "id": 17,
+    "key": "auctionaAddRateMax",
+    "value": 30
+  },
+  {
+    "id": 18,
+    "key": "martialPriceMaxMul",
+    "value": 10
+  },
+  {
+    "id": 19,
+    "key": "auctionaAddScoreRate",
+    "value": 1
+  }
+]

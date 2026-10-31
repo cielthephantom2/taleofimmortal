@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "key": "fb13ParaA",
+    "value": 2.0
+  },
+  {
+    "id": 2,
+    "key": "fb17ParaB",
+    "value": 100.0
+  },
+  {
+    "id": 3,
+    "key": "fb24ParaA",
+    "value": -80.0
+  },
+  {
+    "id": 4,
+    "key": "fb24ParaB",
+    "value": 225.0
+  },
+  {
+    "id": 5,
+    "key": "fb24ParaC",
+    "value": 100.0
+  }
+]

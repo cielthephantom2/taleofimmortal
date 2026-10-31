@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "areaId": 2,
+    "numberMin": 3,
+    "numberMax": 3
+  },
+  {
+    "id": 2,
+    "areaId": 4,
+    "numberMin": 3,
+    "numberMax": 3
+  },
+  {
+    "id": 3,
+    "areaId": 6,
+    "numberMin": 3,
+    "numberMax": 3
+  },
+  {
+    "id": 4,
+    "areaId": 8,
+    "numberMin": 3,
+    "numberMax": 3
+  },
+  {
+    "id": 5,
+    "areaId": 9,
+    "numberMin": 3,
+    "numberMax": 3
+  },
+  {
+    "id": 6,
+    "areaId": 10,
+    "numberMin": 3,
+    "numberMax": 3
+  }
+]

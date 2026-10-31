@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "loyalty": 100,
+    "populationReduce": 0,
+    "outMemberReduce": 0,
+    "inMemberReduce": 0
+  },
+  {
+    "id": 2,
+    "loyalty": 95,
+    "populationReduce": 0,
+    "outMemberReduce": 0,
+    "inMemberReduce": 0
+  },
+  {
+    "id": 3,
+    "loyalty": 90,
+    "populationReduce": 0,
+    "outMemberReduce": 0,
+    "inMemberReduce": 0
+  },
+  {
+    "id": 4,
+    "loyalty": 85,
+    "populationReduce": 0,
+    "outMemberReduce": 0,
+    "inMemberReduce": 0
+  },
+  {
+    "id": 5,
+    "loyalty": 80,
+    "populationReduce": 0,
+    "outMemberReduce": 0,
+    "inMemberReduce": 0
+  },
+  {
+    "id": 6,
+    "loyalty": 75,
+    "populationReduce": 250,
+    "outMemberReduce": 250,
+    "inMemberReduce": 250
+  },
+  {
+    "id": 7,
+    "loyalty": 70,
+    "populationReduce": 500,
+    "outMemberReduce": 500,
+    "inMemberReduce": 500
+  },
+  {
+    "id": 8,
+    "loyalty": 65,
+    "populationReduce": 750,
+    "outMemberReduce": 750,
+    "inMemberReduce": 750
+  },
+  {
+    "id": 9,
+    "loyalty": 60,
+    "populationReduce": 1000,
+    "outMemberReduce": 1000,
+    "inMemberReduce": 1000
+  },
+  {
+    "id": 10,
+    "loyalty": 55,
+    "populationReduce": 1250,
+    "outMemberReduce": 1250,
+    "inMemberReduce": 1250
+  },
+  {
+    "id": 11,
+    "loyalty": 50,
+    "populationReduce": 1500,
+    "outMemberReduce": 1500,
+    "inMemberReduce": 1500
+  },
+  {
+    "id": 12,
+    "loyalty": 45,
+    "populationReduce": 1750,
+    "outMemberReduce": 1750,
+    "inMemberReduce": 1750
+  },
+  {
+    "id": 13,
+    "loyalty": 40,
+    "populationReduce": 2000,
+    "outMemberReduce": 2000,
+    "inMemberReduce": 2000
+  },
+  {
+    "id": 14,
+    "loyalty": 35,
+    "populationReduce": 2250,
+    "outMemberReduce": 2250,
+    "inMemberReduce": 2250
+  },
+  {
+    "id": 15,
+    "loyalty": 30,
+    "populationReduce": 2500,
+    "outMemberReduce": 2500,
+    "inMemberReduce": 2500
+  },
+  {
+    "id": 16,
+    "loyalty": 25,
+    "populationReduce": 2750,
+    "outMemberReduce": 2750,
+    "inMemberReduce": 2750
+  },
+  {
+    "id": 17,
+    "loyalty": 20,
+    "populationReduce": 3000,
+    "outMemberReduce": 3000,
+    "inMemberReduce": 3000
+  },
+  {
+    "id": 18,
+    "loyalty": 15,
+    "populationReduce": 3250,
+    "outMemberReduce": 3250,
+    "inMemberReduce": 3250
+  },
+  {
+    "id": 19,
+    "loyalty": 10,
+    "populationReduce": 3500,
+    "outMemberReduce": 3500,
+    "inMemberReduce": 3500
+  },
+  {
+    "id": 20,
+    "loyalty": 5,
+    "populationReduce": 3750,
+    "outMemberReduce": 3750,
+    "inMemberReduce": 3750
+  },
+  {
+    "id": 21,
+    "loyalty": 0,
+    "populationReduce": 4000,
+    "outMemberReduce": 4000,
+    "inMemberReduce": 4000
+  }
+]

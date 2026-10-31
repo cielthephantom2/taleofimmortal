@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "key": "buildMinDisSchool",
+    "value": "20"
+  },
+  {
+    "id": 2,
+    "key": "buildMinDisMainTown",
+    "value": "15"
+  },
+  {
+    "id": 3,
+    "key": "buildMinDis",
+    "value": "10"
+  },
+  {
+    "id": 4,
+    "key": "mapSize",
+    "value": "200_200"
+  },
+  {
+    "id": 5,
+    "key": "playerPoint",
+    "value": "3_1"
+  },
+  {
+    "id": 6,
+    "key": "playerPointR",
+    "value": "0"
+  },
+  {
+    "id": 7,
+    "key": "randomDire",
+    "value": "100_50"
+  },
+  {
+    "id": 8,
+    "key": "commonAreaEmptyGrid",
+    "value": "5"
+  },
+  {
+    "id": 9,
+    "key": "emptyGridR",
+    "value": "1_1"
+  },
+  {
+    "id": 10,
+    "key": "areaEmptyGridRate",
+    "value": "3"
+  },
+  {
+    "id": 11,
+    "key": "areaPointOffset",
+    "value": "1_4"
+  },
+  {
+    "id": 12,
+    "key": "areaPointEdge",
+    "value": "1"
+  },
+  {
+    "id": 13,
+    "key": "lineWidth",
+    "value": "5_7"
+  },
+  {
+    "id": 14,
+    "key": "terrSpecialBuildMinDis",
+    "value": "8"
+  },
+  {
+    "id": 15,
+    "key": "buildClearEdgePoint",
+    "value": "2"
+  },
+  {
+    "id": 16,
+    "key": "buildMinBlockDis",
+    "value": "3"
+  },
+  {
+    "id": 17,
+    "key": "area10InRaidus",
+    "value": "10"
+  },
+  {
+    "id": 18,
+    "key": "outRadius1",
+    "value": "67"
+  },
+  {
+    "id": 19,
+    "key": "outRadius2",
+    "value": "21"
+  },
+  {
+    "id": 20,
+    "key": "defGridCount1",
+    "value": "2"
+  },
+  {
+    "id": 21,
+    "key": "defGridCount2",
+    "value": "2"
+  },
+  {
+    "id": 22,
+    "key": "xingtianRaidus",
+    "value": "10"
+  }
+]

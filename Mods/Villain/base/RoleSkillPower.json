@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "skillType": 1,
+    "skillGrade": 1,
+    "skillLevel": 1,
+    "fixedPower": 70
+  },
+  {
+    "id": 2,
+    "skillType": 1,
+    "skillGrade": 1,
+    "skillLevel": 2,
+    "fixedPower": 140
+  },
+  {
+    "id": 3,
+    "skillType": 1,
+    "skillGrade": 1,
+    "skillLevel": 3,
+    "fixedPower": 211
+  },
+  {
+    "id": 4,
+    "skillType": 1,
+    "skillGrade": 1,
+    "skillLevel": 4,
+    "fixedPower": 281
+  },
+  {
+    "id": 5,
+    "skillType": 1,
+    "skillGrade": 1,
+    "skillLevel": 5,
+    "fixedPower": 351
+  },
+  {
+    "id": 6,
+    "skillType": 1,
+    "skillGrade": 1,
+    "skillLevel": 6,
+    "fixedPower": 439
+  },
+  {
+    "id": 7,
+    "skillType": 1,
+    "skillGrade": 2,
+    "skillLevel": 1,
+    "fixedPower": 178
+  },
+  {
+    "id": 8,
+    "skillType": 1,
+    "skillGrade": 2,
+    "skillLevel": 2,
+    "fixedPower": 356
+  },
+  {
+    "id": 9,
+    "skillType": 1,
+    "skillGrade": 2,
+    "skillLevel": 3,
+    "fixedPower": 534
+  },
+  {
+    "id": 10,
+    "skillType": 1,
+    "skillGrade": 2,
+    "skillLevel": 4,
+    "fixedPower": 713
+  },
+  {
+    "id": 11,
+    "skillType": 1,
+    "skillGrade": 2,
+    "skillLevel": 5,
+    "fixedPower": 891
+  },
+  {
+    "id": 12,
+    "skillType": 1,
+    "skillGrade": 2,
+    "skillLevel": 6,
+    "fixedPower": 1114
+  },
+  {
+    "id": 13,
+    "skillType": 1,
+    "skillGrade": 3,
+    "skillLevel": 1,
+    "fixedPower": 423
+  },
+  {
+    "id": 14,
+    "skillType": 1,
+    "skillGrade": 3,
+    "skillLevel": 2,
+    "fixedPower": 846
+  },
+  {
+    "id": 15,
+    "skillType": 1,
+    "skillGrade": 3,
+    "skillLevel": 3,
+    "fixedPower": 1270
+  },
+  {
+    "id": 16,
+    "skillType": 1,
+    "skillGrade": 3,
+    "skillLevel": 4,
+    "fixedPower": 1693
+  },
+  {
+    "id": 17,
+    "skillType": 1,
+    "skillGrade": 3,
+    "skillLevel": 5,
+    "fixedPower": 2116
+  },
+  {
+    "id": 18,
+    "skillType": 1,
+    "skillGrade": 3,
+    "skillLevel": 6,
+    "fixedPower": 2645
+  },
+  {
+    "id": 19,
+    "skillType": 1,
+    "skillGrade": 4,
+    "skillLevel": 1,
+    "fixedPower": 804
+  },
+  {
+    "id": 20,
+    "skillType": 1,
+    "skillGrade": 4,
+    "skillLevel": 2,
+    "fixedPower": 1608
+  },
+  {
+    "id": 21,
+    "skillType": 1,
+    "skillGrade": 4,
+    "skillLevel": 3,
+    "fixedPower": 2413
+  },
+  {
+    "id": 22,
+    "skillType": 1,
+    "skillGrade": 4,
+    "skillLevel": 4,
+    "fixedPower": 3217
+  },
+  {
+    "id": 23,
+    "skillType": 1,
+    "skillGrade": 4,
+    "skillLevel": 5,
+    "fixedPower": 4021
+  },
+  {
+    "id": 24,
+    "skillType": 1,
+    "skillGrade": 4,
+    "skillLevel": 6,
+    "fixedPower": 5027
+  },
+  {
+    "id": 25,
+    "skillType": 1,
+    "skillGrade": 5,
+    "skillLevel": 1,
+    "fixedPower": 1528
+  },
+  {
+    "id": 26,
+    "skillType": 1,
+    "skillGrade": 5,
+    "skillLevel": 2,
+    "fixedPower": 3056
+  },
+  {
+    "id": 27,
+    "skillType": 1,
+    "skillGrade": 5,
+    "skillLevel": 3,
+    "fixedPower": 4584
+  },
+  {
+    "id": 28,
+    "skillType": 1,
+    "skillGrade": 5,
+    "skillLevel": 4,
+    "fixedPower": 6113
+  },
+  {
+    "id": 29,
+    "skillType": 1,
+    "skillGrade": 5,
+    "skillLevel": 5,
+    "fixedPower": 7641
+  },
+  {
+    "id": 30,
+    "skillType": 1,
+    "skillGrade": 5,
+    "skillLevel": 6,
+    "fixedPower": 9551
+  },
+  {
+    "id": 31,
+    "skillType": 1,
+    "skillGrade": 6,
+    "skillLevel": 1,
+    "fixedPower": 2903
+  },
+  {
+    "id": 32,
+    "skillType": 1,
+    "skillGrade": 6,
+    "skillLevel": 2,
+    "fixedPower": 5807
+  },
+  {
+    "id": 33,
+    "skillType": 1,
+    "skillGrade": 6,
+    "skillLevel": 3,
+    "fixedPower": 8711
+  },
+  {
+    "id": 34,
+    "skillType": 1,
+    "skillGrade": 6,
+    "skillLevel": 4,
+    "fixedPower": 11615
+  },
+  {
+    "id": 35,
+    "skillType": 1,
+    "skillGrade": 6,
+    "skillLevel": 5,
+    "fixedPower": 14518
+  },
+  {
+    "id": 36,
+    "skillType": 1,
+    "skillGrade": 6,
+    "skillLevel": 6,
+    "fixedPower": 18148
+  },
+  {
+    "id": 37,
+    "skillType": 1,
+    "skillGrade": 7,
+    "skillLevel": 1,
+    "fixedPower": 5517
+  },
+  {
+    "id": 38,
+    "skillType": 1,
+    "skillGrade": 7,
+    "skillLevel": 2,
+    "fixedPower": 11034
+  },
+  {
+    "id": 39,
+    "skillType": 1,
+    "skillGrade": 7,
+    "skillLevel": 3,
+    "fixedPower": 16551
+  },
+  {
+    "id": 40,
+    "skillType": 1,
+    "skillGrade": 7,
+    "skillLevel": 4,
+    "fixedPower": 22068
+  },
+  {
+    "id": 41,
+    "skillType": 1,
+    "skillGrade": 7,
+    "skillLevel": 5,
+    "fixedPower": 27585
+  },
+  {
+    "id": 42,
+    "skillType": 1,
+    "skillGrade": 7,
+    "skillLevel": 6,
+    "fixedPower": 34482
+  },
+  {
+    "id": 43,
+    "skillType": 1,
+    "skillGrade": 8,
+    "skillLevel": 1,
+    "fixedPower": 10482
+  },
+  {
+    "id": 44,
+    "skillType": 1,
+    "skillGrade": 8,
+    "skillLevel": 2,
+    "fixedPower": 20965
+  },
+  {
+    "id": 45,
+    "skillType": 1,
+    "skillGrade": 8,
+    "skillLevel": 3,
+    "fixedPower": 31448
+  },
+  {
+    "id": 46,
+    "skillType": 1,
+    "skillGrade": 8,
+    "skillLevel": 4,
+    "fixedPower": 41930
+  },
+  {
+    "id": 47,
+    "skillType": 1,
+    "skillGrade": 8,
+    "skillLevel": 5,
+    "fixedPower": 52413
+  },
+  {
+    "id": 48,
+    "skillType": 1,
+    "skillGrade": 8,
+    "skillLevel": 6,
+    "fixedPower": 65516
+  },
+  {
+    "id": 49,
+    "skillType": 1,
+    "skillGrade": 9,
+    "skillLevel": 1,
+    "fixedPower": 19917
+  },
+  {
+    "id": 50,
+    "skillType": 1,
+    "skillGrade": 9,
+    "skillLevel": 2,
+    "fixedPower": 39834
+  },
+  {
+    "id": 51,
+    "skillType": 1,
+    "skillGrade": 9,
+    "skillLevel": 3,
+    "fixedPower": 59751
+  },
+  {
+    "id": 52,
+    "skillType": 1,
+    "skillGrade": 9,
+    "skillLevel": 4,
+    "fixedPower": 79668
+  },
+  {
+    "id": 53,
+    "skillType": 1,
+    "skillGrade": 9,
+    "skillLevel": 5,
+    "fixedPower": 99585
+  },
+  {
+    "id": 54,
+    "skillType": 1,
+    "skillGrade": 9,
+    "skillLevel": 6,
+    "fixedPower": 124481
+  },
+  {
+    "id": 55,
+    "skillType": 1,
+    "skillGrade": 10,
+    "skillLevel": 1,
+    "fixedPower": 37842
+  },
+  {
+    "id": 56,
+    "skillType": 1,
+    "skillGrade": 10,
+    "skillLevel": 2,
+    "fixedPower": 75684
+  },
+  {
+    "id": 57,
+    "skillType": 1,
+    "skillGrade": 10,
+    "skillLevel": 3,
+    "fixedPower": 113527
+  },
+  {
+    "id": 58,
+    "skillType": 1,
+    "skillGrade": 10,
+    "skillLevel": 4,
+    "fixedPower": 151369
+  },
+  {
+    "id": 59,
+    "skillType": 1,
+    "skillGrade": 10,
+    "skillLevel": 5,
+    "fixedPower": 189212
+  },
+  {
+    "id": 60,
+    "skillType": 1,
+    "skillGrade": 10,
+    "skillLevel": 6,
+    "fixedPower": 236515
+  },
+  {
+    "id": 61,
+    "skillType": 2,
+    "skillGrade": 1,
+    "skillLevel": 1,
+    "fixedPower": 70
+  },
+  {
+    "id": 62,
+    "skillType": 2,
+    "skillGrade": 1,
+    "skillLevel": 2,
+    "fixedPower": 140
+  },
+  {
+    "id": 63,
+    "skillType": 2,
+    "skillGrade": 1,
+    "skillLevel": 3,
+    "fixedPower": 211
+  },
+  {
+    "id": 64,
+    "skillType": 2,
+    "skillGrade": 1,
+    "skillLevel": 4,
+    "fixedPower": 281
+  },
+  {
+    "id": 65,
+    "skillType": 2,
+    "skillGrade": 1,
+    "skillLevel": 5,
+    "fixedPower": 351
+  },
+  {
+    "id": 66,
+    "skillType": 2,
+    "skillGrade": 1,
+    "skillLevel": 6,
+    "fixedPower": 439
+  },
+  {
+    "id": 67,
+    "skillType": 2,
+    "skillGrade": 2,
+    "skillLevel": 1,
+    "fixedPower": 178
+  },
+  {
+    "id": 68,
+    "skillType": 2,
+    "skillGrade": 2,
+    "skillLevel": 2,
+    "fixedPower": 356
+  },
+  {
+    "id": 69,
+    "skillType": 2,
+    "skillGrade": 2,
+    "skillLevel": 3,
+    "fixedPower": 534
+  },
+  {
+    "id": 70,
+    "skillType": 2,
+    "skillGrade": 2,
+    "skillLevel": 4,
+    "fixedPower": 713
+  },
+  {
+    "id": 71,
+    "skillType": 2,
+    "skillGrade": 2,
+    "skillLevel": 5,
+    "fixedPower": 891
+  },
+  {
+    "id": 72,
+    "skillType": 2,
+    "skillGrade": 2,
+    "skillLevel": 6,
+    "fixedPower": 1114
+  },
+  {
+    "id": 73,
+    "skillType": 2,
+    "skillGrade": 3,
+    "skillLevel": 1,
+    "fixedPower": 423
+  },
+  {
+    "id": 74,
+    "skillType": 2,
+    "skillGrade": 3,
+    "skillLevel": 2,
+    "fixedPower": 846
+  },
+  {
+    "id": 75,
+    "skillType": 2,
+    "skillGrade": 3,
+    "skillLevel": 3,
+    "fixedPower": 1270
+  },
+  {
+    "id": 76,
+    "skillType": 2,
+    "skillGrade": 3,
+    "skillLevel": 4,
+    "fixedPower": 1693
+  },
+  {
+    "id": 77,
+    "skillType": 2,
+    "skillGrade": 3,
+    "skillLevel": 5,
+    "fixedPower": 2116
+  },
+  {
+    "id": 78,
+    "skillType": 2,
+    "skillGrade": 3,
+    "skillLevel": 6,
+    "fixedPower": 2645
+  },
+  {
+    "id": 79,
+    "skillType": 2,
+    "skillGrade": 4,
+    "skillLevel": 1,
+    "fixedPower": 804
+  },
+  {
+    "id": 80,
+    "skillType": 2,
+    "skillGrade": 4,
+    "skillLevel": 2,
+    "fixedPower": 1608
+  },
+  {
+    "id": 81,
+    "skillType": 2,
+    "skillGrade": 4,
+    "skillLevel": 3,
+    "fixedPower": 2413
+  },
+  {
+    "id": 82,
+    "skillType": 2,
+    "skillGrade": 4,
+    "skillLevel": 4,
+    "fixedPower": 3217
+  },
+  {
+    "id": 83,
+    "skillType": 2,
+    "skillGrade": 4,
+    "skillLevel": 5,
+    "fixedPower": 4021
+  },
+  {
+    "id": 84,
+    "skillType": 2,
+    "skillGrade": 4,
+    "skillLevel": 6,
+    "fixedPower": 5027
+  },
+  {
+    "id": 85,
+    "skillType": 2,
+    "skillGrade": 5,
+    "skillLevel": 1,
+    "fixedPower": 1528
+  },
+  {
+    "id": 86,
+    "skillType": 2,
+    "skillGrade": 5,
+    "skillLevel": 2,
+    "fixedPower": 3056
+  },
+  {
+    "id": 87,
+    "skillType": 2,
+    "skillGrade": 5,
+    "skillLevel": 3,
+    "fixedPower": 4584
+  },
+  {
+    "id": 88,
+    "skillType": 2,
+    "skillGrade": 5,
+    "skillLevel": 4,
+    "fixedPower": 6113
+  },
+  {
+    "id": 89,
+    "skillType": 2,
+    "skillGrade": 5,
+    "skillLevel": 5,
+    "fixedPower": 7641
+  },
+  {
+    "id": 90,
+    "skillType": 2,
+    "skillGrade": 5,
+    "skillLevel": 6,
+    "fixedPower": 9551
+  },
+  {
+    "id": 91,
+    "skillType": 2,
+    "skillGrade": 6,
+    "skillLevel": 1,
+    "fixedPower": 2903
+  },
+  {
+    "id": 92,
+    "skillType": 2,
+    "skillGrade": 6,
+    "skillLevel": 2,
+    "fixedPower": 5807
+  },
+  {
+    "id": 93,
+    "skillType": 2,
+    "skillGrade": 6,
+    "skillLevel": 3,
+    "fixedPower": 8711
+  },
+  {
+    "id": 94,
+    "skillType": 2,
+    "skillGrade": 6,
+    "skillLevel": 4,
+    "fixedPower": 11615
+  },
+  {
+    "id": 95,
+    "skillType": 2,
+    "skillGrade": 6,
+    "skillLevel": 5,
+    "fixedPower": 14518
+  },
+  {
+    "id": 96,
+    "skillType": 2,
+    "skillGrade": 6,
+    "skillLevel": 6,
+    "fixedPower": 18148
+  },
+  {
+    "id": 97,
+    "skillType": 2,
+    "skillGrade": 7,
+    "skillLevel": 1,
+    "fixedPower": 5517
+  },
+  {
+    "id": 98,
+    "skillType": 2,
+    "skillGrade": 7,
+    "skillLevel": 2,
+    "fixedPower": 11034
+  },
+  {
+    "id": 99,
+    "skillType": 2,
+    "skillGrade": 7,
+    "skillLevel": 3,
+    "fixedPower": 16551
+  },
+  {
+    "id": 100,
+    "skillType": 2,
+    "skillGrade": 7,
+    "skillLevel": 4,
+    "fixedPower": 22068
+  },
+  {
+    "id": 101,
+    "skillType": 2,
+    "skillGrade": 7,
+    "skillLevel": 5,
+    "fixedPower": 27585
+  },
+  {
+    "id": 102,
+    "skillType": 2,
+    "skillGrade": 7,
+    "skillLevel": 6,
+    "fixedPower": 34482
+  },
+  {
+    "id": 103,
+    "skillType": 2,
+    "skillGrade": 8,
+    "skillLevel": 1,
+    "fixedPower": 10482
+  },
+  {
+    "id": 104,
+    "skillType": 2,
+    "skillGrade": 8,
+    "skillLevel": 2,
+    "fixedPower": 20965
+  },
+  {
+    "id": 105,
+    "skillType": 2,
+    "skillGrade": 8,
+    "skillLevel": 3,
+    "fixedPower": 31448
+  },
+  {
+    "id": 106,
+    "skillType": 2,
+    "skillGrade": 8,
+    "skillLevel": 4,
+    "fixedPower": 41930
+  },
+  {
+    "id": 107,
+    "skillType": 2,
+    "skillGrade": 8,
+    "skillLevel": 5,
+    "fixedPower": 52413
+  },
+  {
+    "id": 108,
+    "skillType": 2,
+    "skillGrade": 8,
+    "skillLevel": 6,
+    "fixedPower": 65516
+  },
+  {
+    "id": 109,
+    "skillType": 2,
+    "skillGrade": 9,
+    "skillLevel": 1,
+    "fixedPower": 19917
+  },
+  {
+    "id": 110,
+    "skillType": 2,
+    "skillGrade": 9,
+    "skillLevel": 2,
+    "fixedPower": 39834
+  },
+  {
+    "id": 111,
+    "skillType": 2,
+    "skillGrade": 9,
+    "skillLevel": 3,
+    "fixedPower": 59751
+  },
+  {
+    "id": 112,
+    "skillType": 2,
+    "skillGrade": 9,
+    "skillLevel": 4,
+    "fixedPower": 79668
+  },
+  {
+    "id": 113,
+    "skillType": 2,
+    "skillGrade": 9,
+    "skillLevel": 5,
+    "fixedPower": 99585
+  },
+  {
+    "id": 114,
+    "skillType": 2,
+    "skillGrade": 9,
+    "skillLevel": 6,
+    "fixedPower": 124481
+  },
+  {
+    "id": 115,
+    "skillType": 2,
+    "skillGrade": 10,
+    "skillLevel": 1,
+    "fixedPower": 37842
+  },
+  {
+    "id": 116,
+    "skillType": 2,
+    "skillGrade": 10,
+    "skillLevel": 2,
+    "fixedPower": 75684
+  },
+  {
+    "id": 117,
+    "skillType": 2,
+    "skillGrade": 10,
+    "skillLevel": 3,
+    "fixedPower": 113527
+  },
+  {
+    "id": 118,
+    "skillType": 2,
+    "skillGrade": 10,
+    "skillLevel": 4,
+    "fixedPower": 151369
+  },
+  {
+    "id": 119,
+    "skillType": 2,
+    "skillGrade": 10,
+    "skillLevel": 5,
+    "fixedPower": 189212
+  },
+  {
+    "id": 120,
+    "skillType": 2,
+    "skillGrade": 10,
+    "skillLevel": 6,
+    "fixedPower": 236515
+  },
+  {
+    "id": 121,
+    "skillType": 3,
+    "skillGrade": 1,
+    "skillLevel": 1,
+    "fixedPower": 70
+  },
+  {
+    "id": 122,
+    "skillType": 3,
+    "skillGrade": 1,
+    "skillLevel": 2,
+    "fixedPower": 140
+  },
+  {
+    "id": 123,
+    "skillType": 3,
+    "skillGrade": 1,
+    "skillLevel": 3,
+    "fixedPower": 211
+  },
+  {
+    "id": 124,
+    "skillType": 3,
+    "skillGrade": 1,
+    "skillLevel": 4,
+    "fixedPower": 281
+  },
+  {
+    "id": 125,
+    "skillType": 3,
+    "skillGrade": 1,
+    "skillLevel": 5,
+    "fixedPower": 351
+  },
+  {
+    "id": 126,
+    "skillType": 3,
+    "skillGrade": 1,
+    "skillLevel": 6,
+    "fixedPower": 439
+  },
+  {
+    "id": 127,
+    "skillType": 3,
+    "skillGrade": 2,
+    "skillLevel": 1,
+    "fixedPower": 178
+  },
+  {
+    "id": 128,
+    "skillType": 3,
+    "skillGrade": 2,
+    "skillLevel": 2,
+    "fixedPower": 356
+  },
+  {
+    "id": 129,
+    "skillType": 3,
+    "skillGrade": 2,
+    "skillLevel": 3,
+    "fixedPower": 534
+  },
+  {
+    "id": 130,
+    "skillType": 3,
+    "skillGrade": 2,
+    "skillLevel": 4,
+    "fixedPower": 713
+  },
+  {
+    "id": 131,
+    "skillType": 3,
+    "skillGrade": 2,
+    "skillLevel": 5,
+    "fixedPower": 891
+  },
+  {
+    "id": 132,
+    "skillType": 3,
+    "skillGrade": 2,
+    "skillLevel": 6,
+    "fixedPower": 1114
+  },
+  {
+    "id": 133,
+    "skillType": 3,
+    "skillGrade": 3,
+    "skillLevel": 1,
+    "fixedPower": 423
+  },
+  {
+    "id": 134,
+    "skillType": 3,
+    "skillGrade": 3,
+    "skillLevel": 2,
+    "fixedPower": 846
+  },
+  {
+    "id": 135,
+    "skillType": 3,
+    "skillGrade": 3,
+    "skillLevel": 3,
+    "fixedPower": 1270
+  },
+  {
+    "id": 136,
+    "skillType": 3,
+    "skillGrade": 3,
+    "skillLevel": 4,
+    "fixedPower": 1693
+  },
+  {
+    "id": 137,
+    "skillType": 3,
+    "skillGrade": 3,
+    "skillLevel": 5,
+    "fixedPower": 2116
+  },
+  {
+    "id": 138,
+    "skillType": 3,
+    "skillGrade": 3,
+    "skillLevel": 6,
+    "fixedPower": 2645
+  },
+  {
+    "id": 139,
+    "skillType": 3,
+    "skillGrade": 4,
+    "skillLevel": 1,
+    "fixedPower": 804
+  },
+  {
+    "id": 140,
+    "skillType": 3,
+    "skillGrade": 4,
+    "skillLevel": 2,
+    "fixedPower": 1608
+  },
+  {
+    "id": 141,
+    "skillType": 3,
+    "skillGrade": 4,
+    "skillLevel": 3,
+    "fixedPower": 2413
+  },
+  {
+    "id": 142,
+    "skillType": 3,
+    "skillGrade": 4,
+    "skillLevel": 4,
+    "fixedPower": 3217
+  },
+  {
+    "id": 143,
+    "skillType": 3,
+    "skillGrade": 4,
+    "skillLevel": 5,
+    "fixedPower": 4021
+  },
+  {
+    "id": 144,
+    "skillType": 3,
+    "skillGrade": 4,
+    "skillLevel": 6,
+    "fixedPower": 5027
+  },
+  {
+    "id": 145,
+    "skillType": 3,
+    "skillGrade": 5,
+    "skillLevel": 1,
+    "fixedPower": 1528
+  },
+  {
+    "id": 146,
+    "skillType": 3,
+    "skillGrade": 5,
+    "skillLevel": 2,
+    "fixedPower": 3056
+  },
+  {
+    "id": 147,
+    "skillType": 3,
+    "skillGrade": 5,
+    "skillLevel": 3,
+    "fixedPower": 4584
+  },
+  {
+    "id": 148,
+    "skillType": 3,
+    "skillGrade": 5,
+    "skillLevel": 4,
+    "fixedPower": 6113
+  },
+  {
+    "id": 149,
+    "skillType": 3,
+    "skillGrade": 5,
+    "skillLevel": 5,
+    "fixedPower": 7641
+  },
+  {
+    "id": 150,
+    "skillType": 3,
+    "skillGrade": 5,
+    "skillLevel": 6,
+    "fixedPower": 9551
+  },
+  {
+    "id": 151,
+    "skillType": 3,
+    "skillGrade": 6,
+    "skillLevel": 1,
+    "fixedPower": 2903
+  },
+  {
+    "id": 152,
+    "skillType": 3,
+    "skillGrade": 6,
+    "skillLevel": 2,
+    "fixedPower": 5807
+  },
+  {
+    "id": 153,
+    "skillType": 3,
+    "skillGrade": 6,
+    "skillLevel": 3,
+    "fixedPower": 8711
+  },
+  {
+    "id": 154,
+    "skillType": 3,
+    "skillGrade": 6,
+    "skillLevel": 4,
+    "fixedPower": 11615
+  },
+  {
+    "id": 155,
+    "skillType": 3,
+    "skillGrade": 6,
+    "skillLevel": 5,
+    "fixedPower": 14518
+  },
+  {
+    "id": 156,
+    "skillType": 3,
+    "skillGrade": 6,
+    "skillLevel": 6,
+    "fixedPower": 18148
+  },
+  {
+    "id": 157,
+    "skillType": 3,
+    "skillGrade": 7,
+    "skillLevel": 1,
+    "fixedPower": 5517
+  },
+  {
+    "id": 158,
+    "skillType": 3,
+    "skillGrade": 7,
+    "skillLevel": 2,
+    "fixedPower": 11034
+  },
+  {
+    "id": 159,
+    "skillType": 3,
+    "skillGrade": 7,
+    "skillLevel": 3,
+    "fixedPower": 16551
+  },
+  {
+    "id": 160,
+    "skillType": 3,
+    "skillGrade": 7,
+    "skillLevel": 4,
+    "fixedPower": 22068
+  },
+  {
+    "id": 161,
+    "skillType": 3,
+    "skillGrade": 7,
+    "skillLevel": 5,
+    "fixedPower": 27585
+  },
+  {
+    "id": 162,
+    "skillType": 3,
+    "skillGrade": 7,
+    "skillLevel": 6,
+    "fixedPower": 34482
+  },
+  {
+    "id": 163,
+    "skillType": 3,
+    "skillGrade": 8,
+    "skillLevel": 1,
+    "fixedPower": 10482
+  },
+  {
+    "id": 164,
+    "skillType": 3,
+    "skillGrade": 8,
+    "skillLevel": 2,
+    "fixedPower": 20965
+  },
+  {
+    "id": 165,
+    "skillType": 3,
+    "skillGrade": 8,
+    "skillLevel": 3,
+    "fixedPower": 31448
+  },
+  {
+    "id": 166,
+    "skillType": 3,
+    "skillGrade": 8,
+    "skillLevel": 4,
+    "fixedPower": 41930
+  },
+  {
+    "id": 167,
+    "skillType": 3,
+    "skillGrade": 8,
+    "skillLevel": 5,
+    "fixedPower": 52413
+  },
+  {
+    "id": 168,
+    "skillType": 3,
+    "skillGrade": 8,
+    "skillLevel": 6,
+    "fixedPower": 65516
+  },
+  {
+    "id": 169,
+    "skillType": 3,
+    "skillGrade": 9,
+    "skillLevel": 1,
+    "fixedPower": 19917
+  },
+  {
+    "id": 170,
+    "skillType": 3,
+    "skillGrade": 9,
+    "skillLevel": 2,
+    "fixedPower": 39834
+  },
+  {
+    "id": 171,
+    "skillType": 3,
+    "skillGrade": 9,
+    "skillLevel": 3,
+    "fixedPower": 59751
+  },
+  {
+    "id": 172,
+    "skillType": 3,
+    "skillGrade": 9,
+    "skillLevel": 4,
+    "fixedPower": 79668
+  },
+  {
+    "id": 173,
+    "skillType": 3,
+    "skillGrade": 9,
+    "skillLevel": 5,
+    "fixedPower": 99585
+  },
+  {
+    "id": 174,
+    "skillType": 3,
+    "skillGrade": 9,
+    "skillLevel": 6,
+    "fixedPower": 124481
+  },
+  {
+    "id": 175,
+    "skillType": 3,
+    "skillGrade": 10,
+    "skillLevel": 1,
+    "fixedPower": 37842
+  },
+  {
+    "id": 176,
+    "skillType": 3,
+    "skillGrade": 10,
+    "skillLevel": 2,
+    "fixedPower": 75684
+  },
+  {
+    "id": 177,
+    "skillType": 3,
+    "skillGrade": 10,
+    "skillLevel": 3,
+    "fixedPower": 113527
+  },
+  {
+    "id": 178,
+    "skillType": 3,
+    "skillGrade": 10,
+    "skillLevel": 4,
+    "fixedPower": 151369
+  },
+  {
+    "id": 179,
+    "skillType": 3,
+    "skillGrade": 10,
+    "skillLevel": 5,
+    "fixedPower": 189212
+  },
+  {
+    "id": 180,
+    "skillType": 3,
+    "skillGrade": 10,
+    "skillLevel": 6,
+    "fixedPower": 236515
+  },
+  {
+    "id": 181,
+    "skillType": 4,
+    "skillGrade": 1,
+    "skillLevel": 1,
+    "fixedPower": 35
+  },
+  {
+    "id": 182,
+    "skillType": 4,
+    "skillGrade": 1,
+    "skillLevel": 2,
+    "fixedPower": 70
+  },
+  {
+    "id": 183,
+    "skillType": 4,
+    "skillGrade": 1,
+    "skillLevel": 3,
+    "fixedPower": 105
+  },
+  {
+    "id": 184,
+    "skillType": 4,
+    "skillGrade": 1,
+    "skillLevel": 4,
+    "fixedPower": 140
+  },
+  {
+    "id": 185,
+    "skillType": 4,
+    "skillGrade": 1,
+    "skillLevel": 5,
+    "fixedPower": 175
+  },
+  {
+    "id": 186,
+    "skillType": 4,
+    "skillGrade": 1,
+    "skillLevel": 6,
+    "fixedPower": 219
+  },
+  {
+    "id": 187,
+    "skillType": 4,
+    "skillGrade": 2,
+    "skillLevel": 1,
+    "fixedPower": 89
+  },
+  {
+    "id": 188,
+    "skillType": 4,
+    "skillGrade": 2,
+    "skillLevel": 2,
+    "fixedPower": 178
+  },
+  {
+    "id": 189,
+    "skillType": 4,
+    "skillGrade": 2,
+    "skillLevel": 3,
+    "fixedPower": 267
+  },
+  {
+    "id": 190,
+    "skillType": 4,
+    "skillGrade": 2,
+    "skillLevel": 4,
+    "fixedPower": 356
+  },
+  {
+    "id": 191,
+    "skillType": 4,
+    "skillGrade": 2,
+    "skillLevel": 5,
+    "fixedPower": 445
+  },
+  {
+    "id": 192,
+    "skillType": 4,
+    "skillGrade": 2,
+    "skillLevel": 6,
+    "fixedPower": 557
+  },
+  {
+    "id": 193,
+    "skillType": 4,
+    "skillGrade": 3,
+    "skillLevel": 1,
+    "fixedPower": 211
+  },
+  {
+    "id": 194,
+    "skillType": 4,
+    "skillGrade": 3,
+    "skillLevel": 2,
+    "fixedPower": 423
+  },
+  {
+    "id": 195,
+    "skillType": 4,
+    "skillGrade": 3,
+    "skillLevel": 3,
+    "fixedPower": 635
+  },
+  {
+    "id": 196,
+    "skillType": 4,
+    "skillGrade": 3,
+    "skillLevel": 4,
+    "fixedPower": 846
+  },
+  {
+    "id": 197,
+    "skillType": 4,
+    "skillGrade": 3,
+    "skillLevel": 5,
+    "fixedPower": 1058
+  },
+  {
+    "id": 198,
+    "skillType": 4,
+    "skillGrade": 3,
+    "skillLevel": 6,
+    "fixedPower": 1322
+  },
+  {
+    "id": 199,
+    "skillType": 4,
+    "skillGrade": 4,
+    "skillLevel": 1,
+    "fixedPower": 402
+  },
+  {
+    "id": 200,
+    "skillType": 4,
+    "skillGrade": 4,
+    "skillLevel": 2,
+    "fixedPower": 804
+  },
+  {
+    "id": 201,
+    "skillType": 4,
+    "skillGrade": 4,
+    "skillLevel": 3,
+    "fixedPower": 1206
+  },
+  {
+    "id": 202,
+    "skillType": 4,
+    "skillGrade": 4,
+    "skillLevel": 4,
+    "fixedPower": 1608
+  },
+  {
+    "id": 203,
+    "skillType": 4,
+    "skillGrade": 4,
+    "skillLevel": 5,
+    "fixedPower": 2010
+  },
+  {
+    "id": 204,
+    "skillType": 4,
+    "skillGrade": 4,
+    "skillLevel": 6,
+    "fixedPower": 2513
+  },
+  {
+    "id": 205,
+    "skillType": 4,
+    "skillGrade": 5,
+    "skillLevel": 1,
+    "fixedPower": 764
+  },
+  {
+    "id": 206,
+    "skillType": 4,
+    "skillGrade": 5,
+    "skillLevel": 2,
+    "fixedPower": 1528
+  },
+  {
+    "id": 207,
+    "skillType": 4,
+    "skillGrade": 5,
+    "skillLevel": 3,
+    "fixedPower": 2292
+  },
+  {
+    "id": 208,
+    "skillType": 4,
+    "skillGrade": 5,
+    "skillLevel": 4,
+    "fixedPower": 3056
+  },
+  {
+    "id": 209,
+    "skillType": 4,
+    "skillGrade": 5,
+    "skillLevel": 5,
+    "fixedPower": 3820
+  },
+  {
+    "id": 210,
+    "skillType": 4,
+    "skillGrade": 5,
+    "skillLevel": 6,
+    "fixedPower": 4775
+  },
+  {
+    "id": 211,
+    "skillType": 4,
+    "skillGrade": 6,
+    "skillLevel": 1,
+    "fixedPower": 1451
+  },
+  {
+    "id": 212,
+    "skillType": 4,
+    "skillGrade": 6,
+    "skillLevel": 2,
+    "fixedPower": 2903
+  },
+  {
+    "id": 213,
+    "skillType": 4,
+    "skillGrade": 6,
+    "skillLevel": 3,
+    "fixedPower": 4355
+  },
+  {
+    "id": 214,
+    "skillType": 4,
+    "skillGrade": 6,
+    "skillLevel": 4,
+    "fixedPower": 5807
+  },
+  {
+    "id": 215,
+    "skillType": 4,
+    "skillGrade": 6,
+    "skillLevel": 5,
+    "fixedPower": 7259
+  },
+  {
+    "id": 216,
+    "skillType": 4,
+    "skillGrade": 6,
+    "skillLevel": 6,
+    "fixedPower": 9074
+  },
+  {
+    "id": 217,
+    "skillType": 4,
+    "skillGrade": 7,
+    "skillLevel": 1,
+    "fixedPower": 2758
+  },
+  {
+    "id": 218,
+    "skillType": 4,
+    "skillGrade": 7,
+    "skillLevel": 2,
+    "fixedPower": 5517
+  },
+  {
+    "id": 219,
+    "skillType": 4,
+    "skillGrade": 7,
+    "skillLevel": 3,
+    "fixedPower": 8275
+  },
+  {
+    "id": 220,
+    "skillType": 4,
+    "skillGrade": 7,
+    "skillLevel": 4,
+    "fixedPower": 11034
+  },
+  {
+    "id": 221,
+    "skillType": 4,
+    "skillGrade": 7,
+    "skillLevel": 5,
+    "fixedPower": 13792
+  },
+  {
+    "id": 222,
+    "skillType": 4,
+    "skillGrade": 7,
+    "skillLevel": 6,
+    "fixedPower": 17241
+  },
+  {
+    "id": 223,
+    "skillType": 4,
+    "skillGrade": 8,
+    "skillLevel": 1,
+    "fixedPower": 5241
+  },
+  {
+    "id": 224,
+    "skillType": 4,
+    "skillGrade": 8,
+    "skillLevel": 2,
+    "fixedPower": 10482
+  },
+  {
+    "id": 225,
+    "skillType": 4,
+    "skillGrade": 8,
+    "skillLevel": 3,
+    "fixedPower": 15724
+  },
+  {
+    "id": 226,
+    "skillType": 4,
+    "skillGrade": 8,
+    "skillLevel": 4,
+    "fixedPower": 20965
+  },
+  {
+    "id": 227,
+    "skillType": 4,
+    "skillGrade": 8,
+    "skillLevel": 5,
+    "fixedPower": 26206
+  },
+  {
+    "id": 228,
+    "skillType": 4,
+    "skillGrade": 8,
+    "skillLevel": 6,
+    "fixedPower": 32758
+  },
+  {
+    "id": 229,
+    "skillType": 4,
+    "skillGrade": 9,
+    "skillLevel": 1,
+    "fixedPower": 9958
+  },
+  {
+    "id": 230,
+    "skillType": 4,
+    "skillGrade": 9,
+    "skillLevel": 2,
+    "fixedPower": 19917
+  },
+  {
+    "id": 231,
+    "skillType": 4,
+    "skillGrade": 9,
+    "skillLevel": 3,
+    "fixedPower": 29875
+  },
+  {
+    "id": 232,
+    "skillType": 4,
+    "skillGrade": 9,
+    "skillLevel": 4,
+    "fixedPower": 39834
+  },
+  {
+    "id": 233,
+    "skillType": 4,
+    "skillGrade": 9,
+    "skillLevel": 5,
+    "fixedPower": 49792
+  },
+  {
+    "id": 234,
+    "skillType": 4,
+    "skillGrade": 9,
+    "skillLevel": 6,
+    "fixedPower": 62240
+  },
+  {
+    "id": 235,
+    "skillType": 4,
+    "skillGrade": 10,
+    "skillLevel": 1,
+    "fixedPower": 18921
+  },
+  {
+    "id": 236,
+    "skillType": 4,
+    "skillGrade": 10,
+    "skillLevel": 2,
+    "fixedPower": 37842
+  },
+  {
+    "id": 237,
+    "skillType": 4,
+    "skillGrade": 10,
+    "skillLevel": 3,
+    "fixedPower": 56763
+  },
+  {
+    "id": 238,
+    "skillType": 4,
+    "skillGrade": 10,
+    "skillLevel": 4,
+    "fixedPower": 75684
+  },
+  {
+    "id": 239,
+    "skillType": 4,
+    "skillGrade": 10,
+    "skillLevel": 5,
+    "fixedPower": 94606
+  },
+  {
+    "id": 240,
+    "skillType": 4,
+    "skillGrade": 10,
+    "skillLevel": 6,
+    "fixedPower": 118257
+  },
+  {
+    "id": 241,
+    "skillType": 5,
+    "skillGrade": 1,
+    "skillLevel": 1,
+    "fixedPower": 70
+  },
+  {
+    "id": 242,
+    "skillType": 5,
+    "skillGrade": 1,
+    "skillLevel": 2,
+    "fixedPower": 140
+  },
+  {
+    "id": 243,
+    "skillType": 5,
+    "skillGrade": 1,
+    "skillLevel": 3,
+    "fixedPower": 211
+  },
+  {
+    "id": 244,
+    "skillType": 5,
+    "skillGrade": 1,
+    "skillLevel": 4,
+    "fixedPower": 281
+  },
+  {
+    "id": 245,
+    "skillType": 5,
+    "skillGrade": 1,
+    "skillLevel": 5,
+    "fixedPower": 351
+  },
+  {
+    "id": 246,
+    "skillType": 5,
+    "skillGrade": 1,
+    "skillLevel": 6,
+    "fixedPower": 439
+  },
+  {
+    "id": 247,
+    "skillType": 5,
+    "skillGrade": 2,
+    "skillLevel": 1,
+    "fixedPower": 178
+  },
+  {
+    "id": 248,
+    "skillType": 5,
+    "skillGrade": 2,
+    "skillLevel": 2,
+    "fixedPower": 356
+  },
+  {
+    "id": 249,
+    "skillType": 5,
+    "skillGrade": 2,
+    "skillLevel": 3,
+    "fixedPower": 534
+  },
+  {
+    "id": 250,
+    "skillType": 5,
+    "skillGrade": 2,
+    "skillLevel": 4,
+    "fixedPower": 713
+  },
+  {
+    "id": 251,
+    "skillType": 5,
+    "skillGrade": 2,
+    "skillLevel": 5,
+    "fixedPower": 891
+  },
+  {
+    "id": 252,
+    "skillType": 5,
+    "skillGrade": 2,
+    "skillLevel": 6,
+    "fixedPower": 1114
+  },
+  {
+    "id": 253,
+    "skillType": 5,
+    "skillGrade": 3,
+    "skillLevel": 1,
+    "fixedPower": 423
+  },
+  {
+    "id": 254,
+    "skillType": 5,
+    "skillGrade": 3,
+    "skillLevel": 2,
+    "fixedPower": 846
+  },
+  {
+    "id": 255,
+    "skillType": 5,
+    "skillGrade": 3,
+    "skillLevel": 3,
+    "fixedPower": 1270
+  },
+  {
+    "id": 256,
+    "skillType": 5,
+    "skillGrade": 3,
+    "skillLevel": 4,
+    "fixedPower": 1693
+  },
+  {
+    "id": 257,
+    "skillType": 5,
+    "skillGrade": 3,
+    "skillLevel": 5,
+    "fixedPower": 2116
+  },
+  {
+    "id": 258,
+    "skillType": 5,
+    "skillGrade": 3,
+    "skillLevel": 6,
+    "fixedPower": 2645
+  },
+  {
+    "id": 259,
+    "skillType": 5,
+    "skillGrade": 4,
+    "skillLevel": 1,
+    "fixedPower": 804
+  },
+  {
+    "id": 260,
+    "skillType": 5,
+    "skillGrade": 4,
+    "skillLevel": 2,
+    "fixedPower": 1608
+  },
+  {
+    "id": 261,
+    "skillType": 5,
+    "skillGrade": 4,
+    "skillLevel": 3,
+    "fixedPower": 2413
+  },
+  {
+    "id": 262,
+    "skillType": 5,
+    "skillGrade": 4,
+    "skillLevel": 4,
+    "fixedPower": 3217
+  },
+  {
+    "id": 263,
+    "skillType": 5,
+    "skillGrade": 4,
+    "skillLevel": 5,
+    "fixedPower": 4021
+  },
+  {
+    "id": 264,
+    "skillType": 5,
+    "skillGrade": 4,
+    "skillLevel": 6,
+    "fixedPower": 5027
+  },
+  {
+    "id": 265,
+    "skillType": 5,
+    "skillGrade": 5,
+    "skillLevel": 1,
+    "fixedPower": 1528
+  },
+  {
+    "id": 266,
+    "skillType": 5,
+    "skillGrade": 5,
+    "skillLevel": 2,
+    "fixedPower": 3056
+  },
+  {
+    "id": 267,
+    "skillType": 5,
+    "skillGrade": 5,
+    "skillLevel": 3,
+    "fixedPower": 4584
+  },
+  {
+    "id": 268,
+    "skillType": 5,
+    "skillGrade": 5,
+    "skillLevel": 4,
+    "fixedPower": 6113
+  },
+  {
+    "id": 269,
+    "skillType": 5,
+    "skillGrade": 5,
+    "skillLevel": 5,
+    "fixedPower": 7641
+  },
+  {
+    "id": 270,
+    "skillType": 5,
+    "skillGrade": 5,
+    "skillLevel": 6,
+    "fixedPower": 9551
+  },
+  {
+    "id": 271,
+    "skillType": 5,
+    "skillGrade": 6,
+    "skillLevel": 1,
+    "fixedPower": 2903
+  },
+  {
+    "id": 272,
+    "skillType": 5,
+    "skillGrade": 6,
+    "skillLevel": 2,
+    "fixedPower": 5807
+  },
+  {
+    "id": 273,
+    "skillType": 5,
+    "skillGrade": 6,
+    "skillLevel": 3,
+    "fixedPower": 8711
+  },
+  {
+    "id": 274,
+    "skillType": 5,
+    "skillGrade": 6,
+    "skillLevel": 4,
+    "fixedPower": 11615
+  },
+  {
+    "id": 275,
+    "skillType": 5,
+    "skillGrade": 6,
+    "skillLevel": 5,
+    "fixedPower": 14518
+  },
+  {
+    "id": 276,
+    "skillType": 5,
+    "skillGrade": 6,
+    "skillLevel": 6,
+    "fixedPower": 18148
+  },
+  {
+    "id": 277,
+    "skillType": 5,
+    "skillGrade": 7,
+    "skillLevel": 1,
+    "fixedPower": 5517
+  },
+  {
+    "id": 278,
+    "skillType": 5,
+    "skillGrade": 7,
+    "skillLevel": 2,
+    "fixedPower": 11034
+  },
+  {
+    "id": 279,
+    "skillType": 5,
+    "skillGrade": 7,
+    "skillLevel": 3,
+    "fixedPower": 16551
+  },
+  {
+    "id": 280,
+    "skillType": 5,
+    "skillGrade": 7,
+    "skillLevel": 4,
+    "fixedPower": 22068
+  },
+  {
+    "id": 281,
+    "skillType": 5,
+    "skillGrade": 7,
+    "skillLevel": 5,
+    "fixedPower": 27585
+  },
+  {
+    "id": 282,
+    "skillType": 5,
+    "skillGrade": 7,
+    "skillLevel": 6,
+    "fixedPower": 34482
+  },
+  {
+    "id": 283,
+    "skillType": 5,
+    "skillGrade": 8,
+    "skillLevel": 1,
+    "fixedPower": 10482
+  },
+  {
+    "id": 284,
+    "skillType": 5,
+    "skillGrade": 8,
+    "skillLevel": 2,
+    "fixedPower": 20965
+  },
+  {
+    "id": 285,
+    "skillType": 5,
+    "skillGrade": 8,
+    "skillLevel": 3,
+    "fixedPower": 31448
+  },
+  {
+    "id": 286,
+    "skillType": 5,
+    "skillGrade": 8,
+    "skillLevel": 4,
+    "fixedPower": 41930
+  },
+  {
+    "id": 287,
+    "skillType": 5,
+    "skillGrade": 8,
+    "skillLevel": 5,
+    "fixedPower": 52413
+  },
+  {
+    "id": 288,
+    "skillType": 5,
+    "skillGrade": 8,
+    "skillLevel": 6,
+    "fixedPower": 65516
+  },
+  {
+    "id": 289,
+    "skillType": 5,
+    "skillGrade": 9,
+    "skillLevel": 1,
+    "fixedPower": 19917
+  },
+  {
+    "id": 290,
+    "skillType": 5,
+    "skillGrade": 9,
+    "skillLevel": 2,
+    "fixedPower": 39834
+  },
+  {
+    "id": 291,
+    "skillType": 5,
+    "skillGrade": 9,
+    "skillLevel": 3,
+    "fixedPower": 59751
+  },
+  {
+    "id": 292,
+    "skillType": 5,
+    "skillGrade": 9,
+    "skillLevel": 4,
+    "fixedPower": 79668
+  },
+  {
+    "id": 293,
+    "skillType": 5,
+    "skillGrade": 9,
+    "skillLevel": 5,
+    "fixedPower": 99585
+  },
+  {
+    "id": 294,
+    "skillType": 5,
+    "skillGrade": 9,
+    "skillLevel": 6,
+    "fixedPower": 124481
+  },
+  {
+    "id": 295,
+    "skillType": 5,
+    "skillGrade": 10,
+    "skillLevel": 1,
+    "fixedPower": 37842
+  },
+  {
+    "id": 296,
+    "skillType": 5,
+    "skillGrade": 10,
+    "skillLevel": 2,
+    "fixedPower": 75684
+  },
+  {
+    "id": 297,
+    "skillType": 5,
+    "skillGrade": 10,
+    "skillLevel": 3,
+    "fixedPower": 113527
+  },
+  {
+    "id": 298,
+    "skillType": 5,
+    "skillGrade": 10,
+    "skillLevel": 4,
+    "fixedPower": 151369
+  },
+  {
+    "id": 299,
+    "skillType": 5,
+    "skillGrade": 10,
+    "skillLevel": 5,
+    "fixedPower": 189212
+  },
+  {
+    "id": 300,
+    "skillType": 5,
+    "skillGrade": 10,
+    "skillLevel": 6,
+    "fixedPower": 236515
+  }
+]

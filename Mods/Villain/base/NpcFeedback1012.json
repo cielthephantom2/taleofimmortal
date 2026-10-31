@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaB",
+    "value": 2
+  },
+  {
+    "id": 3,
+    "key": "closeScorePara",
+    "value": -50
+  },
+  {
+    "id": 4,
+    "key": "energyScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 5,
+    "key": "energyScoreParaB",
+    "value": -3000
+  },
+  {
+    "id": 6,
+    "key": "powerBase",
+    "value": -1
+  },
+  {
+    "id": 7,
+    "key": "powerCompareMin",
+    "value": 75
+  },
+  {
+    "id": 8,
+    "key": "powerCompareMax",
+    "value": 150
+  },
+  {
+    "id": 9,
+    "key": "powerLowScore",
+    "value": 100
+  },
+  {
+    "id": 10,
+    "key": "powerHighScore",
+    "value": 50
+  },
+  {
+    "id": 11,
+    "key": "eventLogFeedback101211211",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "key": "eventLogFeedback101211221",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "eventLogFeedback101211231",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "key": "eventLogFeedback101211311",
+    "value": 0
+  },
+  {
+    "id": 15,
+    "key": "eventLogFeedback101211321",
+    "value": 0
+  },
+  {
+    "id": 16,
+    "key": "eliteMatchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 17,
+    "key": "eliteMatchScoreParaB",
+    "value": 2
+  },
+  {
+    "id": 18,
+    "key": "eliteCloseScorePara",
+    "value": -50
+  },
+  {
+    "id": 19,
+    "key": "eliteEnergyScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 20,
+    "key": "eliteEnergyScoreParaB",
+    "value": -3000
+  },
+  {
+    "id": 21,
+    "key": "elitePowerBase",
+    "value": -1
+  },
+  {
+    "id": 22,
+    "key": "elitePowerAskRatio",
+    "value": 7000
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "herbalOutput": 36
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "herbalOutput": 49
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "herbalOutput": 64
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "herbalOutput": 81
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "herbalOutput": 100
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "herbalOutput": 144
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "herbalOutput": 196
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "herbalOutput": 256
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "herbalOutput": 324
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "herbalOutput": 400
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "herbalOutput": 484
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "herbalOutput": 576
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "herbalOutput": 676
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "herbalOutput": 784
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "herbalOutput": 900
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 101,
+    "npcSpecialId": 1003,
+    "school": 0
+  },
+  {
+    "id": 102,
+    "npcSpecialId": 1003,
+    "school": 0
+  },
+  {
+    "id": 220,
+    "npcSpecialId": 1005,
+    "school": 0
+  },
+  {
+    "id": 230,
+    "npcSpecialId": 1006,
+    "school": 0
+  },
+  {
+    "id": 301,
+    "npcSpecialId": 1007,
+    "school": 0
+  },
+  {
+    "id": 302,
+    "npcSpecialId": 1008,
+    "school": 0
+  },
+  {
+    "id": 303,
+    "npcSpecialId": 1009,
+    "school": 0
+  },
+  {
+    "id": 240,
+    "npcSpecialId": 1010,
+    "school": 0
+  },
+  {
+    "id": 241,
+    "npcSpecialId": 1012,
+    "school": 0
+  },
+  {
+    "id": 242,
+    "npcSpecialId": 1011,
+    "school": 0
+  },
+  {
+    "id": 243,
+    "npcSpecialId": 1013,
+    "school": 0
+  },
+  {
+    "id": 244,
+    "npcSpecialId": 1014,
+    "school": 0
+  }
+]

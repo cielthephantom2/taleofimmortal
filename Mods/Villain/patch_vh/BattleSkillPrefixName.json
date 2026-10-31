@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "index": 1,
+    "text": "飞",
+    "en": "Phi"
+  },
+  {
+    "id": 2,
+    "index": 1,
+    "text": "舞",
+    "en": "Vũ"
+  },
+  {
+    "id": 3,
+    "index": 1,
+    "text": "吹",
+    "en": "Xuy"
+  },
+  {
+    "id": 4,
+    "index": 1,
+    "text": "落",
+    "en": "Lạc"
+  },
+  {
+    "id": 5,
+    "index": 1,
+    "text": "飘",
+    "en": "Phiêu"
+  },
+  {
+    "id": 6,
+    "index": 1,
+    "text": "斩",
+    "en": "Trảm"
+  },
+  {
+    "id": 7,
+    "index": 1,
+    "text": "断",
+    "en": "Đoạn"
+  },
+  {
+    "id": 8,
+    "index": 1,
+    "text": "凝",
+    "en": "Ngưng"
+  },
+  {
+    "id": 9,
+    "index": 1,
+    "text": "破",
+    "en": "Phá"
+  },
+  {
+    "id": 10,
+    "index": 1,
+    "text": "握",
+    "en": "Ác"
+  },
+  {
+    "id": 11,
+    "index": 1,
+    "text": "撕",
+    "en": "Tê"
+  },
+  {
+    "id": 12,
+    "index": 1,
+    "text": "聚",
+    "en": "Tụ"
+  },
+  {
+    "id": 13,
+    "index": 1,
+    "text": "归",
+    "en": "Quy"
+  },
+  {
+    "id": 14,
+    "index": 1,
+    "text": "炼",
+    "en": "Luyện"
+  },
+  {
+    "id": 15,
+    "index": 1,
+    "text": "焚",
+    "en": "Phần"
+  },
+  {
+    "id": 16,
+    "index": 1,
+    "text": "崩",
+    "en": "Băng"
+  },
+  {
+    "id": 17,
+    "index": 1,
+    "text": "灼",
+    "en": "Chước"
+  },
+  {
+    "id": 18,
+    "index": 1,
+    "text": "定",
+    "en": "Định"
+  },
+  {
+    "id": 19,
+    "index": 1,
+    "text": "穿",
+    "en": "Xuyên"
+  },
+  {
+    "id": 20,
+    "index": 1,
+    "text": "封",
+    "en": "Phong"
+  },
+  {
+    "id": 21,
+    "index": 1,
+    "text": "月",
+    "en": "Nguyệt"
+  },
+  {
+    "id": 22,
+    "index": 1,
+    "text": "龙",
+    "en": "Long"
+  },
+  {
+    "id": 23,
+    "index": 1,
+    "text": "星",
+    "en": "Tinh"
+  },
+  {
+    "id": 24,
+    "index": 1,
+    "text": "云",
+    "en": "Vân"
+  },
+  {
+    "id": 25,
+    "index": 1,
+    "text": "血",
+    "en": "Huyết"
+  },
+  {
+    "id": 26,
+    "index": 1,
+    "text": "神",
+    "en": "Thần"
+  },
+  {
+    "id": 27,
+    "index": 1,
+    "text": "魔",
+    "en": "Ma"
+  },
+  {
+    "id": 28,
+    "index": 1,
+    "text": "苍",
+    "en": "Thương"
+  },
+  {
+    "id": 29,
+    "index": 1,
+    "text": "冥",
+    "en": "Minh"
+  },
+  {
+    "id": 30,
+    "index": 1,
+    "text": "暴",
+    "en": "Bạo"
+  },
+  {
+    "id": 31,
+    "index": 1,
+    "text": "狂",
+    "en": "Cuồng"
+  },
+  {
+    "id": 32,
+    "index": 1,
+    "text": "掣",
+    "en": "Xế"
+  },
+  {
+    "id": 33,
+    "index": 1,
+    "text": "噬",
+    "en": "Phệ"
+  },
+  {
+    "id": 34,
+    "index": 1,
+    "text": "化",
+    "en": "Hóa"
+  },
+  {
+    "id": 35,
+    "index": 1,
+    "text": "弑",
+    "en": "Thí"
+  },
+  {
+    "id": 36,
+    "index": 1,
+    "text": "无",
+    "en": "Vô"
+  },
+  {
+    "id": 37,
+    "index": 1,
+    "text": "孤",
+    "en": "Cô"
+  },
+  {
+    "id": 38,
+    "index": 1,
+    "text": "流",
+    "en": "Lưu"
+  },
+  {
+    "id": 39,
+    "index": 1,
+    "text": "伏",
+    "en": "Phục"
+  },
+  {
+    "id": 40,
+    "index": 1,
+    "text": "摧",
+    "en": "Tồi"
+  },
+  {
+    "id": 41,
+    "index": 1,
+    "text": "镇",
+    "en": "Trấn"
+  },
+  {
+    "id": 42,
+    "index": 1,
+    "text": "渡",
+    "en": "Độ"
+  },
+  {
+    "id": 43,
+    "index": 1,
+    "text": "夺",
+    "en": "Đoạt"
+  },
+  {
+    "id": 44,
+    "index": 1,
+    "text": "碎",
+    "en": "Toái"
+  },
+  {
+    "id": 45,
+    "index": 1,
+    "text": "灭",
+    "en": "Diệt"
+  },
+  {
+    "id": 46,
+    "index": 1,
+    "text": "轻",
+    "en": "Khinh"
+  },
+  {
+    "id": 47,
+    "index": 1,
+    "text": "绝",
+    "en": "Tuyệt"
+  },
+  {
+    "id": 48,
+    "index": 1,
+    "text": "幽",
+    "en": "U"
+  },
+  {
+    "id": 49,
+    "index": 1,
+    "text": "青",
+    "en": "Thanh"
+  },
+  {
+    "id": 50,
+    "index": 1,
+    "text": "赤",
+    "en": "Xích"
+  },
+  {
+    "id": 51,
+    "index": 1,
+    "text": "金",
+    "en": "Kim"
+  },
+  {
+    "id": 52,
+    "index": 1,
+    "text": "黑",
+    "en": "Hắc"
+  },
+  {
+    "id": 53,
+    "index": 1,
+    "text": "红",
+    "en": "Hồng"
+  },
+  {
+    "id": 54,
+    "index": 1,
+    "text": "银",
+    "en": "Ngân"
+  },
+  {
+    "id": 55,
+    "index": 1,
+    "text": "禁",
+    "en": "Cấm"
+  },
+  {
+    "id": 56,
+    "index": 1,
+    "text": "残",
+    "en": "Tàn"
+  },
+  {
+    "id": 57,
+    "index": 1,
+    "text": "天",
+    "en": "Thiên"
+  },
+  {
+    "id": 58,
+    "index": 1,
+    "text": "幻",
+    "en": "Huyễn"
+  },
+  {
+    "id": 59,
+    "index": 1,
+    "text": "疾",
+    "en": "Tật"
+  },
+  {
+    "id": 60,
+    "index": 1,
+    "text": "怒",
+    "en": "Nộ"
+  },
+  {
+    "id": 61,
+    "index": 1,
+    "text": "炽",
+    "en": "Sí"
+  },
+  {
+    "id": 62,
+    "index": 1,
+    "text": "灵",
+    "en": "Linh"
+  },
+  {
+    "id": 63,
+    "index": 1,
+    "text": "墨",
+    "en": "Mặc"
+  },
+  {
+    "id": 64,
+    "index": 1,
+    "text": "锁",
+    "en": "Tỏa"
+  },
+  {
+    "id": 65,
+    "index": 1,
+    "text": "御",
+    "en": "Ngự"
+  },
+  {
+    "id": 66,
+    "index": 1,
+    "text": "虚",
+    "en": "Hư"
+  },
+  {
+    "id": 67,
+    "index": 1,
+    "text": "暗",
+    "en": "Ám"
+  },
+  {
+    "id": 68,
+    "index": 1,
+    "text": "邪",
+    "en": "Tà"
+  },
+  {
+    "id": 69,
+    "index": 1,
+    "text": "荒",
+    "en": "Hoang"
+  },
+  {
+    "id": 70,
+    "index": 1,
+    "text": "蚀",
+    "en": "Thực"
+  },
+  {
+    "id": 71,
+    "index": 1,
+    "text": "寂",
+    "en": "Tịch"
+  },
+  {
+    "id": 72,
+    "index": 1,
+    "text": "爆",
+    "en": "Bạo"
+  },
+  {
+    "id": 73,
+    "index": 1,
+    "text": "裂",
+    "en": "Liệt"
+  },
+  {
+    "id": 74,
+    "index": 1,
+    "text": "劫",
+    "en": "Kiếp"
+  },
+  {
+    "id": 75,
+    "index": 1,
+    "text": "贯",
+    "en": "Quán"
+  },
+  {
+    "id": 76,
+    "index": 1,
+    "text": "震",
+    "en": "Chấn"
+  },
+  {
+    "id": 77,
+    "index": 1,
+    "text": "玄",
+    "en": "Huyền"
+  },
+  {
+    "id": 78,
+    "index": 1,
+    "text": "碧",
+    "en": "Bích"
+  },
+  {
+    "id": 79,
+    "index": 1,
+    "text": "紫",
+    "en": "Tử"
+  },
+  {
+    "id": 80,
+    "index": 1,
+    "text": "煞",
+    "en": "Sát"
+  },
+  {
+    "id": 81,
+    "index": 1,
+    "text": "逐",
+    "en": "Trục"
+  },
+  {
+    "id": 82,
+    "index": 1,
+    "text": "极",
+    "en": "Cực"
+  },
+  {
+    "id": 83,
+    "index": 1,
+    "text": "沧",
+    "en": "Thương"
+  },
+  {
+    "id": 84,
+    "index": 1,
+    "text": "元",
+    "en": "Nguyên"
+  },
+  {
+    "id": 85,
+    "index": 1,
+    "text": "融",
+    "en": "Dung"
+  },
+  {
+    "id": 86,
+    "index": 1,
+    "text": "轰",
+    "en": "Oanh"
+  },
+  {
+    "id": 87,
+    "index": 1,
+    "text": "独",
+    "en": "Độc"
+  },
+  {
+    "id": 88,
+    "index": 1,
+    "text": "折",
+    "en": "Chiết"
+  },
+  {
+    "id": 89,
+    "index": 1,
+    "text": "阳",
+    "en": "Dương"
+  },
+  {
+    "id": 90,
+    "index": 1,
+    "text": "雨",
+    "en": "Vũ"
+  },
+  {
+    "id": 91,
+    "index": 1,
+    "text": "追",
+    "en": "Truy"
+  },
+  {
+    "id": 92,
+    "index": 1,
+    "text": "白",
+    "en": "Bạch"
+  },
+  {
+    "id": 93,
+    "index": 1,
+    "text": "夜",
+    "en": "Dạ"
+  },
+  {
+    "id": 94,
+    "index": 1,
+    "text": "吞",
+    "en": "Thôn"
+  },
+  {
+    "id": 95,
+    "index": 1,
+    "text": "迅",
+    "en": "Tấn"
+  },
+  {
+    "id": 96,
+    "index": 1,
+    "text": "溟",
+    "en": "Minh"
+  },
+  {
+    "id": 97,
+    "index": 1,
+    "text": "凌",
+    "en": "Lăng"
+  },
+  {
+    "id": 98,
+    "index": 1,
+    "text": "燎",
+    "en": "Liệu"
+  },
+  {
+    "id": 99,
+    "index": 1,
+    "text": "影",
+    "en": "Ảnh"
+  },
+  {
+    "id": 100,
+    "index": 1,
+    "text": "霸",
+    "en": "Bá"
+  },
+  {
+    "id": 101,
+    "index": 1,
+    "text": "凛",
+    "en": "Lẫm"
+  },
+  {
+    "id": 102,
+    "index": 1,
+    "text": "刹",
+    "en": "Sát"
+  },
+  {
+    "id": 103,
+    "index": 1,
+    "text": "清",
+    "en": "Thanh"
+  },
+  {
+    "id": 104,
+    "index": 1,
+    "text": "啸",
+    "en": "Khiếu"
+  },
+  {
+    "id": 105,
+    "index": 1,
+    "text": "腾",
+    "en": "Đằng"
+  },
+  {
+    "id": 106,
+    "index": 1,
+    "text": "惊",
+    "en": "Kinh"
+  },
+  {
+    "id": 107,
+    "index": 1,
+    "text": "念",
+    "en": "Niệm"
+  },
+  {
+    "id": 108,
+    "index": 1,
+    "text": "遮",
+    "en": "Già"
+  },
+  {
+    "id": 109,
+    "index": 1,
+    "text": "远",
+    "en": "Viễn"
+  },
+  {
+    "id": 110,
+    "index": 1,
+    "text": "陨",
+    "en": "Vẫn"
+  },
+  {
+    "id": 111,
+    "index": 1,
+    "text": "冲",
+    "en": "Xung"
+  },
+  {
+    "id": 112,
+    "index": 1,
+    "text": "奔",
+    "en": "Bôn"
+  },
+  {
+    "id": 113,
+    "index": 1,
+    "text": "烈",
+    "en": "Liệt"
+  },
+  {
+    "id": 114,
+    "index": 1,
+    "text": "半",
+    "en": "Bán"
+  },
+  {
+    "id": 115,
+    "index": 1,
+    "text": "重",
+    "en": "Trọng"
+  },
+  {
+    "id": 116,
+    "index": 1,
+    "text": "太",
+    "en": "Thái"
+  },
+  {
+    "id": 117,
+    "index": 1,
+    "text": "弥",
+    "en": "Di"
+  },
+  {
+    "id": 118,
+    "index": 1,
+    "text": "漫",
+    "en": "Mạn"
+  },
+  {
+    "id": 119,
+    "index": 1,
+    "text": "诛",
+    "en": "Tru"
+  },
+  {
+    "id": 120,
+    "index": 1,
+    "text": "逆",
+    "en": "Nghịch"
+  },
+  {
+    "id": 121,
+    "index": 1,
+    "text": "劈",
+    "en": "Phách"
+  },
+  {
+    "id": 122,
+    "index": 1,
+    "text": "卷",
+    "en": "Quyển"
+  },
+  {
+    "id": 123,
+    "index": 1,
+    "text": "荡",
+    "en": "Đãng"
+  },
+  {
+    "id": 124,
+    "index": 1,
+    "text": "横",
+    "en": "Hoành"
+  },
+  {
+    "id": 125,
+    "index": 1,
+    "text": "柔",
+    "en": "Nhu"
+  },
+  {
+    "id": 126,
+    "index": 1,
+    "text": "禅",
+    "en": "Thiền"
+  },
+  {
+    "id": 127,
+    "index": 1,
+    "text": "仙",
+    "en": "Tiên"
+  },
+  {
+    "id": 128,
+    "index": 1,
+    "text": "炙",
+    "en": "Chích"
+  },
+  {
+    "id": 129,
+    "index": 1,
+    "text": "狱",
+    "en": "Ngục"
+  },
+  {
+    "id": 130,
+    "index": 1,
+    "text": "灾",
+    "en": "Tai"
+  },
+  {
+    "id": 131,
+    "index": 1,
+    "text": "阴",
+    "en": "Âm"
+  },
+  {
+    "id": 132,
+    "index": 1,
+    "text": "朔",
+    "en": "Sóc"
+  },
+  {
+    "id": 133,
+    "index": 1,
+    "text": "罡",
+    "en": "Cương"
+  },
+  {
+    "id": 134,
+    "index": 1,
+    "text": "朽",
+    "en": "Hủ"
+  },
+  {
+    "id": 135,
+    "index": 1,
+    "text": "虎",
+    "en": "Hổ"
+  },
+  {
+    "id": 136,
+    "index": 1,
+    "text": "意",
+    "en": "Ý"
+  },
+  {
+    "id": 137,
+    "index": 1,
+    "text": "锻",
+    "en": "Đoán"
+  },
+  {
+    "id": 138,
+    "index": 1,
+    "text": "脱",
+    "en": "Thoát"
+  },
+  {
+    "id": 139,
+    "index": 1,
+    "text": "汲",
+    "en": "Cấp"
+  },
+  {
+    "id": 140,
+    "index": 1,
+    "text": "嗜",
+    "en": "Thị"
+  },
+  {
+    "id": 141,
+    "index": 1,
+    "text": "旋",
+    "en": "Toàn"
+  },
+  {
+    "id": 142,
+    "index": 1,
+    "text": "闪",
+    "en": "Thiểm"
+  },
+  {
+    "id": 143,
+    "index": 1,
+    "text": "瞬",
+    "en": "Thuấn"
+  },
+  {
+    "id": 144,
+    "index": 1,
+    "text": "恨",
+    "en": "Hận"
+  },
+  {
+    "id": 145,
+    "index": 1,
+    "text": "巨",
+    "en": "Cự"
+  },
+  {
+    "id": 146,
+    "index": 1,
+    "text": "覆",
+    "en": "Phúc"
+  },
+  {
+    "id": 147,
+    "index": 1,
+    "text": "鬼",
+    "en": "Quỷ"
+  },
+  {
+    "id": 148,
+    "index": 1,
+    "text": "降",
+    "en": "Hàng"
+  },
+  {
+    "id": 149,
+    "index": 1,
+    "text": "六",
+    "en": "Lục"
+  },
+  {
+    "id": 150,
+    "index": 1,
+    "text": "如",
+    "en": "Như"
+  },
+  {
+    "id": 151,
+    "index": 1,
+    "text": "囚",
+    "en": "Tù"
+  },
+  {
+    "id": 152,
+    "index": 1,
+    "text": "合",
+    "en": "Hợp"
+  },
+  {
+    "id": 153,
+    "index": 1,
+    "text": "明",
+    "en": "Minh"
+  },
+  {
+    "id": 154,
+    "index": 1,
+    "text": "绮",
+    "en": "Ỷ"
+  },
+  {
+    "id": 155,
+    "index": 1,
+    "text": "梵",
+    "en": "Phạm"
+  },
+  {
+    "id": 156,
+    "index": 1,
+    "text": "离",
+    "en": "Ly"
+  },
+  {
+    "id": 157,
+    "index": 1,
+    "text": "辰",
+    "en": "Thần"
+  },
+  {
+    "id": 158,
+    "index": 1,
+    "text": "九",
+    "en": "Cửu"
+  },
+  {
+    "id": 159,
+    "index": 1,
+    "text": "混",
+    "en": "Hỗn"
+  },
+  {
+    "id": 160,
+    "index": 1,
+    "text": "擎",
+    "en": "Kình"
+  },
+  {
+    "id": 161,
+    "index": 1,
+    "text": "真",
+    "en": "Chân"
+  },
+  {
+    "id": 162,
+    "index": 1,
+    "text": "纯",
+    "en": "Thuần"
+  },
+  {
+    "id": 163,
+    "index": 1,
+    "text": "精",
+    "en": "Tinh"
+  },
+  {
+    "id": 164,
+    "index": 1,
+    "text": "尖",
+    "en": "Tiêm"
+  },
+  {
+    "id": 165,
+    "index": 1,
+    "text": "回",
+    "en": "Hồi"
+  },
+  {
+    "id": 166,
+    "index": 1,
+    "text": "两",
+    "en": "Lưỡng"
+  },
+  {
+    "id": 167,
+    "index": 1,
+    "text": "一",
+    "en": "Nhất"
+  },
+  {
+    "id": 168,
+    "index": 1,
+    "text": "浮",
+    "en": "Phù"
+  },
+  {
+    "id": 169,
+    "index": 1,
+    "text": "万",
+    "en": "Vạn"
+  },
+  {
+    "id": 170,
+    "index": 1,
+    "text": "烬",
+    "en": "Tẫn"
+  },
+  {
+    "id": 171,
+    "index": 1,
+    "text": "摄",
+    "en": "Nhiếp"
+  },
+  {
+    "id": 172,
+    "index": 1,
+    "text": "三",
+    "en": "Tam"
+  },
+  {
+    "id": 173,
+    "index": 1,
+    "text": "道",
+    "en": "Đạo"
+  },
+  {
+    "id": 174,
+    "index": 1,
+    "text": "戾",
+    "en": "Lệ"
+  },
+  {
+    "id": 175,
+    "index": 1,
+    "text": "少",
+    "en": "Thiếu"
+  },
+  {
+    "id": 176,
+    "index": 1,
+    "text": "耀",
+    "en": "Diệu"
+  },
+  {
+    "id": 177,
+    "index": 1,
+    "text": "空",
+    "en": "Không"
+  },
+  {
+    "id": 178,
+    "index": 1,
+    "text": "形",
+    "en": "Hình"
+  },
+  {
+    "id": 179,
+    "index": 1,
+    "text": "望",
+    "en": "Vọng"
+  },
+  {
+    "id": 180,
+    "index": 1,
+    "text": "涅",
+    "en": "Niết"
+  },
+  {
+    "id": 181,
+    "index": 1,
+    "text": "燃",
+    "en": "Nhiên"
+  },
+  {
+    "id": 182,
+    "index": 1,
+    "text": "开",
+    "en": "Khai"
+  },
+  {
+    "id": 183,
+    "index": 1,
+    "text": "正",
+    "en": "Chính"
+  },
+  {
+    "id": 184,
+    "index": 1,
+    "text": "浑",
+    "en": "Hồn"
+  },
+  {
+    "id": 185,
+    "index": 1,
+    "text": "朝",
+    "en": "Triêu"
+  },
+  {
+    "id": 186,
+    "index": 1,
+    "text": "分",
+    "en": "Phân"
+  },
+  {
+    "id": 187,
+    "index": 1,
+    "text": "双",
+    "en": "Song"
+  },
+  {
+    "id": 188,
+    "index": 1,
+    "text": "踏",
+    "en": "Đạp"
+  },
+  {
+    "id": 189,
+    "index": 1,
+    "text": "湮",
+    "en": "Yên"
+  },
+  {
+    "id": 190,
+    "index": 1,
+    "text": "凶",
+    "en": "Hung"
+  },
+  {
+    "id": 191,
+    "index": 1,
+    "text": "猛",
+    "en": "Mãnh"
+  },
+  {
+    "id": 192,
+    "index": 1,
+    "text": "索",
+    "en": "Tác"
+  },
+  {
+    "id": 193,
+    "index": 1,
+    "text": "缚",
+    "en": "Phược"
+  },
+  {
+    "id": 194,
+    "index": 1,
+    "text": "散",
+    "en": "Tán"
+  },
+  {
+    "id": 195,
+    "index": 1,
+    "text": "逸",
+    "en": "Dật"
+  },
+  {
+    "id": 196,
+    "index": 1,
+    "text": "隐",
+    "en": "Ẩn"
+  },
+  {
+    "id": 197,
+    "index": 1,
+    "text": "千",
+    "en": "Thiên"
+  },
+  {
+    "id": 198,
+    "index": 1,
+    "text": "乾",
+    "en": "Càn"
+  },
+  {
+    "id": 199,
+    "index": 1,
+    "text": "四",
+    "en": "Tứ"
+  },
+  {
+    "id": 200,
+    "index": 1,
+    "text": "移",
+    "en": "Di"
+  },
+  {
+    "id": 201,
+    "index": 2,
+    "text": "云",
+    "en": "Vân"
+  },
+  {
+    "id": 202,
+    "index": 2,
+    "text": "羽",
+    "en": "Vũ"
+  },
+  {
+    "id": 203,
+    "index": 2,
+    "text": "雨",
+    "en": "Vũ"
+  },
+  {
+    "id": 204,
+    "index": 2,
+    "text": "雪",
+    "en": "Tuyết"
+  },
+  {
+    "id": 205,
+    "index": 2,
+    "text": "花",
+    "en": "Hoa"
+  },
+  {
+    "id": 206,
+    "index": 2,
+    "text": "星",
+    "en": "Tinh"
+  },
+  {
+    "id": 207,
+    "index": 2,
+    "text": "月",
+    "en": "Nguyệt"
+  },
+  {
+    "id": 208,
+    "index": 2,
+    "text": "天",
+    "en": "Thiên"
+  },
+  {
+    "id": 209,
+    "index": 2,
+    "text": "空",
+    "en": "Không"
+  },
+  {
+    "id": 210,
+    "index": 2,
+    "text": "魂",
+    "en": "Hồn"
+  },
+  {
+    "id": 211,
+    "index": 2,
+    "text": "霜",
+    "en": "Sương"
+  },
+  {
+    "id": 212,
+    "index": 2,
+    "text": "神",
+    "en": "Thần"
+  },
+  {
+    "id": 213,
+    "index": 2,
+    "text": "元",
+    "en": "Nguyên"
+  },
+  {
+    "id": 214,
+    "index": 2,
+    "text": "气",
+    "en": "Khí"
+  },
+  {
+    "id": 215,
+    "index": 2,
+    "text": "日",
+    "en": "Nhật"
+  },
+  {
+    "id": 216,
+    "index": 2,
+    "text": "仞",
+    "en": "Nhận"
+  },
+  {
+    "id": 217,
+    "index": 2,
+    "text": "冥",
+    "en": "Minh"
+  },
+  {
+    "id": 218,
+    "index": 2,
+    "text": "灵",
+    "en": "Linh"
+  },
+  {
+    "id": 219,
+    "index": 2,
+    "text": "影",
+    "en": "Ảnh"
+  },
+  {
+    "id": 220,
+    "index": 2,
+    "text": "尘",
+    "en": "Trần"
+  },
+  {
+    "id": 221,
+    "index": 2,
+    "text": "音",
+    "en": "Âm"
+  },
+  {
+    "id": 222,
+    "index": 2,
+    "text": "阳",
+    "en": "Dương"
+  },
+  {
+    "id": 223,
+    "index": 2,
+    "text": "痕",
+    "en": "Ngân"
+  },
+  {
+    "id": 224,
+    "index": 2,
+    "text": "龙",
+    "en": "Long"
+  },
+  {
+    "id": 225,
+    "index": 2,
+    "text": "血",
+    "en": "Huyết"
+  },
+  {
+    "id": 226,
+    "index": 2,
+    "text": "锋",
+    "en": "Phong"
+  },
+  {
+    "id": 227,
+    "index": 2,
+    "text": "心",
+    "en": "Tâm"
+  },
+  {
+    "id": 228,
+    "index": 2,
+    "text": "山",
+    "en": "Sơn"
+  },
+  {
+    "id": 229,
+    "index": 2,
+    "text": "阴",
+    "en": "Âm"
+  },
+  {
+    "id": 230,
+    "index": 2,
+    "text": "翼",
+    "en": "Dực"
+  },
+  {
+    "id": 231,
+    "index": 2,
+    "text": "梦",
+    "en": "Mộng"
+  },
+  {
+    "id": 232,
+    "index": 2,
+    "text": "光",
+    "en": "Quang"
+  },
+  {
+    "id": 233,
+    "index": 2,
+    "text": "莲",
+    "en": "Liên"
+  },
+  {
+    "id": 234,
+    "index": 2,
+    "text": "域",
+    "en": "Vực"
+  },
+  {
+    "id": 235,
+    "index": 2,
+    "text": "魔",
+    "en": "Ma"
+  },
+  {
+    "id": 236,
+    "index": 2,
+    "text": "鸦",
+    "en": "Nha"
+  },
+  {
+    "id": 237,
+    "index": 2,
+    "text": "狱",
+    "en": "Ngục"
+  },
+  {
+    "id": 238,
+    "index": 2,
+    "text": "邪",
+    "en": "Tà"
+  },
+  {
+    "id": 239,
+    "index": 2,
+    "text": "烟",
+    "en": "Yên"
+  },
+  {
+    "id": 240,
+    "index": 2,
+    "text": "墨",
+    "en": "Mặc"
+  },
+  {
+    "id": 241,
+    "index": 2,
+    "text": "雷",
+    "en": "Lôi"
+  },
+  {
+    "id": 242,
+    "index": 2,
+    "text": "樱",
+    "en": "Anh"
+  },
+  {
+    "id": 243,
+    "index": 2,
+    "text": "夜",
+    "en": "Dạ"
+  },
+  {
+    "id": 244,
+    "index": 2,
+    "text": "玉",
+    "en": "Ngọc"
+  },
+  {
+    "id": 245,
+    "index": 2,
+    "text": "寒",
+    "en": "Hàn"
+  },
+  {
+    "id": 246,
+    "index": 2,
+    "text": "煞",
+    "en": "Sát"
+  },
+  {
+    "id": 247,
+    "index": 2,
+    "text": "岩",
+    "en": "Nham"
+  },
+  {
+    "id": 248,
+    "index": 2,
+    "text": "道",
+    "en": "Đạo"
+  },
+  {
+    "id": 249,
+    "index": 2,
+    "text": "虎",
+    "en": "Hổ"
+  },
+  {
+    "id": 250,
+    "index": 2,
+    "text": "岳",
+    "en": "Nhạc"
+  },
+  {
+    "id": 251,
+    "index": 2,
+    "text": "魄",
+    "en": "Phách"
+  },
+  {
+    "id": 252,
+    "index": 2,
+    "text": "瘴",
+    "en": "Chướng"
+  },
+  {
+    "id": 253,
+    "index": 2,
+    "text": "衡",
+    "en": "Hành"
+  },
+  {
+    "id": 254,
+    "index": 2,
+    "text": "隐",
+    "en": "Ẩn"
+  },
+  {
+    "id": 255,
+    "index": 2,
+    "text": "劫",
+    "en": "Kiếp"
+  },
+  {
+    "id": 256,
+    "index": 2,
+    "text": "形",
+    "en": "Hình"
+  },
+  {
+    "id": 257,
+    "index": 2,
+    "text": "溟",
+    "en": "Minh"
+  },
+  {
+    "id": 258,
+    "index": 2,
+    "text": "圣",
+    "en": "Thánh"
+  },
+  {
+    "id": 259,
+    "index": 2,
+    "text": "鬼",
+    "en": "Quỷ"
+  },
+  {
+    "id": 260,
+    "index": 2,
+    "text": "璃",
+    "en": "Ly"
+  },
+  {
+    "id": 261,
+    "index": 2,
+    "text": "霄",
+    "en": "Tiêu"
+  },
+  {
+    "id": 262,
+    "index": 2,
+    "text": "脉",
+    "en": "Mạch"
+  },
+  {
+    "id": 263,
+    "index": 2,
+    "text": "舞",
+    "en": "Vũ"
+  },
+  {
+    "id": 264,
+    "index": 2,
+    "text": "曜",
+    "en": "Diệu"
+  },
+  {
+    "id": 265,
+    "index": 2,
+    "text": "落",
+    "en": "Lạc"
+  },
+  {
+    "id": 266,
+    "index": 2,
+    "text": "飘",
+    "en": "Phiêu"
+  },
+  {
+    "id": 267,
+    "index": 2,
+    "text": "凝",
+    "en": "Ngưng"
+  },
+  {
+    "id": 268,
+    "index": 2,
+    "text": "清",
+    "en": "Thanh"
+  },
+  {
+    "id": 269,
+    "index": 2,
+    "text": "灭",
+    "en": "Diệt"
+  },
+  {
+    "id": 270,
+    "index": 2,
+    "text": "渡",
+    "en": "Độ"
+  },
+  {
+    "id": 271,
+    "index": 2,
+    "text": "啸",
+    "en": "Khiếu"
+  },
+  {
+    "id": 272,
+    "index": 2,
+    "text": "凛",
+    "en": "Lẫm"
+  },
+  {
+    "id": 273,
+    "index": 2,
+    "text": "瑕",
+    "en": "Hà"
+  },
+  {
+    "id": 274,
+    "index": 2,
+    "text": "虹",
+    "en": "Hồng"
+  },
+  {
+    "id": 275,
+    "index": 2,
+    "text": "念",
+    "en": "Niệm"
+  },
+  {
+    "id": 276,
+    "index": 2,
+    "text": "沧",
+    "en": "Thương"
+  },
+  {
+    "id": 277,
+    "index": 2,
+    "text": "岚",
+    "en": "Lam"
+  },
+  {
+    "id": 278,
+    "index": 2,
+    "text": "破",
+    "en": "Phá"
+  },
+  {
+    "id": 279,
+    "index": 2,
+    "text": "碎",
+    "en": "Toái"
+  },
+  {
+    "id": 280,
+    "index": 2,
+    "text": "化",
+    "en": "Hóa"
+  },
+  {
+    "id": 281,
+    "index": 2,
+    "text": "雾",
+    "en": "Vụ"
+  },
+  {
+    "id": 282,
+    "index": 2,
+    "text": "吟",
+    "en": "Ngâm"
+  },
+  {
+    "id": 283,
+    "index": 2,
+    "text": "荒",
+    "en": "Hoang"
+  },
+  {
+    "id": 284,
+    "index": 2,
+    "text": "陨",
+    "en": "Vẫn"
+  },
+  {
+    "id": 285,
+    "index": 2,
+    "text": "界",
+    "en": "Giới"
+  },
+  {
+    "id": 286,
+    "index": 2,
+    "text": "虚",
+    "en": "Hư"
+  },
+  {
+    "id": 287,
+    "index": 2,
+    "text": "沙",
+    "en": "Sa"
+  },
+  {
+    "id": 288,
+    "index": 2,
+    "text": "涛",
+    "en": "Đào"
+  },
+  {
+    "id": 289,
+    "index": 2,
+    "text": "浪",
+    "en": "Lãng"
+  },
+  {
+    "id": 290,
+    "index": 2,
+    "text": "波",
+    "en": "Ba"
+  },
+  {
+    "id": 291,
+    "index": 2,
+    "text": "澜",
+    "en": "Lan"
+  },
+  {
+    "id": 292,
+    "index": 2,
+    "text": "幽",
+    "en": "U"
+  },
+  {
+    "id": 293,
+    "index": 2,
+    "text": "辰",
+    "en": "Thần"
+  },
+  {
+    "id": 294,
+    "index": 2,
+    "text": "桥",
+    "en": "Kiều"
+  },
+  {
+    "id": 295,
+    "index": 2,
+    "text": "谷",
+    "en": "Cốc"
+  },
+  {
+    "id": 296,
+    "index": 2,
+    "text": "崖",
+    "en": "Nhai"
+  },
+  {
+    "id": 297,
+    "index": 2,
+    "text": "峰",
+    "en": "Phong"
+  },
+  {
+    "id": 298,
+    "index": 2,
+    "text": "湖",
+    "en": "Hồ"
+  },
+  {
+    "id": 299,
+    "index": 2,
+    "text": "川",
+    "en": "Xuyên"
+  },
+  {
+    "id": 300,
+    "index": 2,
+    "text": "河",
+    "en": "Hà"
+  },
+  {
+    "id": 301,
+    "index": 2,
+    "text": "江",
+    "en": "Giang"
+  },
+  {
+    "id": 302,
+    "index": 2,
+    "text": "海",
+    "en": "Hải"
+  },
+  {
+    "id": 303,
+    "index": 2,
+    "text": "印",
+    "en": "Ấn"
+  },
+  {
+    "id": 304,
+    "index": 2,
+    "text": "钟",
+    "en": "Chung"
+  },
+  {
+    "id": 305,
+    "index": 2,
+    "text": "鼎",
+    "en": "Đỉnh"
+  },
+  {
+    "id": 306,
+    "index": 2,
+    "text": "幻",
+    "en": "Huyễn"
+  },
+  {
+    "id": 307,
+    "index": 2,
+    "text": "妖",
+    "en": "Yêu"
+  },
+  {
+    "id": 308,
+    "index": 2,
+    "text": "仙",
+    "en": "Tiên"
+  },
+  {
+    "id": 309,
+    "index": 2,
+    "text": "武",
+    "en": "Vũ"
+  },
+  {
+    "id": 310,
+    "index": 2,
+    "text": "雀",
+    "en": "Tước"
+  },
+  {
+    "id": 311,
+    "index": 2,
+    "text": "刚",
+    "en": "Cương"
+  },
+  {
+    "id": 312,
+    "index": 2,
+    "text": "扫",
+    "en": "Tảo"
+  },
+  {
+    "id": 313,
+    "index": 2,
+    "text": "背",
+    "en": "Bối"
+  },
+  {
+    "id": 314,
+    "index": 2,
+    "text": "地",
+    "en": "Địa"
+  },
+  {
+    "id": 315,
+    "index": 2,
+    "text": "体",
+    "en": "Thể"
+  },
+  {
+    "id": 316,
+    "index": 2,
+    "text": "野",
+    "en": "Dã"
+  },
+  {
+    "id": 317,
+    "index": 2,
+    "text": "动",
+    "en": "Động"
+  },
+  {
+    "id": 318,
+    "index": 2,
+    "text": "壳",
+    "en": "Xác"
+  },
+  {
+    "id": 319,
+    "index": 2,
+    "text": "戾",
+    "en": "Lệ"
+  },
+  {
+    "id": 320,
+    "index": 2,
+    "text": "英",
+    "en": "Anh"
+  },
+  {
+    "id": 321,
+    "index": 2,
+    "text": "枫",
+    "en": "Phong"
+  },
+  {
+    "id": 322,
+    "index": 2,
+    "text": "雁",
+    "en": "Nhạn"
+  },
+  {
+    "id": 323,
+    "index": 2,
+    "text": "霞",
+    "en": "Hà"
+  },
+  {
+    "id": 324,
+    "index": 2,
+    "text": "凤",
+    "en": "Phượng"
+  },
+  {
+    "id": 325,
+    "index": 2,
+    "text": "合",
+    "en": "Hợp"
+  },
+  {
+    "id": 326,
+    "index": 2,
+    "text": "孤",
+    "en": "Cô"
+  },
+  {
+    "id": 327,
+    "index": 2,
+    "text": "来",
+    "en": "Lai"
+  },
+  {
+    "id": 328,
+    "index": 2,
+    "text": "相",
+    "en": "Tương"
+  },
+  {
+    "id": 329,
+    "index": 2,
+    "text": "罡",
+    "en": "Cương"
+  },
+  {
+    "id": 330,
+    "index": 2,
+    "text": "仪",
+    "en": "Nghi"
+  },
+  {
+    "id": 331,
+    "index": 2,
+    "text": "象",
+    "en": "Tượng"
+  },
+  {
+    "id": 332,
+    "index": 2,
+    "text": "卦",
+    "en": "Quái"
+  },
+  {
+    "id": 333,
+    "index": 2,
+    "text": "军",
+    "en": "Quân"
+  },
+  {
+    "id": 334,
+    "index": 2,
+    "text": "镜",
+    "en": "Kính"
+  },
+  {
+    "id": 335,
+    "index": 2,
+    "text": "柔",
+    "en": "Nhu"
+  },
+  {
+    "id": 336,
+    "index": 2,
+    "text": "和",
+    "en": "Hòa"
+  },
+  {
+    "id": 337,
+    "index": 2,
+    "text": "封",
+    "en": "Phong"
+  },
+  {
+    "id": 338,
+    "index": 2,
+    "text": "世",
+    "en": "Thế"
+  },
+  {
+    "id": 339,
+    "index": 2,
+    "text": "绝",
+    "en": "Tuyệt"
+  },
+  {
+    "id": 340,
+    "index": 2,
+    "text": "焰",
+    "en": "Diễm"
+  },
+  {
+    "id": 341,
+    "index": 2,
+    "text": "明",
+    "en": "Minh"
+  },
+  {
+    "id": 342,
+    "index": 2,
+    "text": "宫",
+    "en": "Cung"
+  },
+  {
+    "id": 343,
+    "index": 2,
+    "text": "残",
+    "en": "Tàn"
+  },
+  {
+    "id": 344,
+    "index": 2,
+    "text": "行",
+    "en": "Hành"
+  },
+  {
+    "id": 345,
+    "index": 2,
+    "text": "战",
+    "en": "Chiến"
+  },
+  {
+    "id": 346,
+    "index": 2,
+    "text": "屠",
+    "en": "Đồ"
+  },
+  {
+    "id": 347,
+    "index": 2,
+    "text": "刃",
+    "en": "Nhận"
+  },
+  {
+    "id": 348,
+    "index": 2,
+    "text": "极",
+    "en": "Cực"
+  },
+  {
+    "id": 349,
+    "index": 2,
+    "text": "剑",
+    "en": "Kiếm"
+  },
+  {
+    "id": 350,
+    "index": 2,
+    "text": "玑",
+    "en": "Cơ"
+  },
+  {
+    "id": 351,
+    "index": 2,
+    "text": "絮",
+    "en": "Nhứ"
+  },
+  {
+    "id": 352,
+    "index": 2,
+    "text": "芒",
+    "en": "Mang"
+  },
+  {
+    "id": 353,
+    "index": 2,
+    "text": "穹",
+    "en": "Khung"
+  },
+  {
+    "id": 354,
+    "index": 2,
+    "text": "斗",
+    "en": "Đấu"
+  },
+  {
+    "id": 355,
+    "index": 2,
+    "text": "真",
+    "en": "Chân"
+  },
+  {
+    "id": 356,
+    "index": 2,
+    "text": "蒙",
+    "en": "Mông"
+  },
+  {
+    "id": 357,
+    "index": 2,
+    "text": "璇",
+    "en": "Tuyền"
+  },
+  {
+    "id": 358,
+    "index": 2,
+    "text": "夕",
+    "en": "Tịch"
+  },
+  {
+    "id": 359,
+    "index": 2,
+    "text": "叶",
+    "en": "Diệp"
+  },
+  {
+    "id": 360,
+    "index": 2,
+    "text": "蚀",
+    "en": "Thực"
+  },
+  {
+    "id": 361,
+    "index": 2,
+    "text": "意",
+    "en": "Ý"
+  },
+  {
+    "id": 362,
+    "index": 2,
+    "text": "衍",
+    "en": "Diễn"
+  },
+  {
+    "id": 363,
+    "index": 2,
+    "text": "盈",
+    "en": "Doanh"
+  },
+  {
+    "id": 364,
+    "index": 2,
+    "text": "情",
+    "en": "Tình"
+  },
+  {
+    "id": 365,
+    "index": 2,
+    "text": "瑶",
+    "en": "Dao"
+  },
+  {
+    "id": 366,
+    "index": 2,
+    "text": "罗",
+    "en": "La"
+  },
+  {
+    "id": 367,
+    "index": 2,
+    "text": "宇",
+    "en": "Vũ"
+  },
+  {
+    "id": 368,
+    "index": 2,
+    "text": "湘",
+    "en": "Tương"
+  },
+  {
+    "id": 369,
+    "index": 2,
+    "text": "磐",
+    "en": "Bàn"
+  },
+  {
+    "id": 370,
+    "index": 2,
+    "text": "泽",
+    "en": "Trạch"
+  },
+  {
+    "id": 371,
+    "index": 2,
+    "text": "玄",
+    "en": "Huyền"
+  },
+  {
+    "id": 372,
+    "index": 2,
+    "text": "生",
+    "en": "Sinh"
+  },
+  {
+    "id": 373,
+    "index": 2,
+    "text": "初",
+    "en": "Sơ"
+  },
+  {
+    "id": 374,
+    "index": 2,
+    "text": "枢",
+    "en": "Xu"
+  },
+  {
+    "id": 375,
+    "index": 2,
+    "text": "苍",
+    "en": "Thương"
+  },
+  {
+    "id": 376,
+    "index": 2,
+    "text": "曲",
+    "en": "Khúc"
+  },
+  {
+    "id": 377,
+    "index": 2,
+    "text": "权",
+    "en": "Quyền"
+  },
+  {
+    "id": 378,
+    "index": 2,
+    "text": "炼",
+    "en": "Luyện"
+  },
+  {
+    "id": 379,
+    "index": 2,
+    "text": "殒",
+    "en": "Vẫn"
+  },
+  {
+    "id": 380,
+    "index": 2,
+    "text": "垢",
+    "en": "Cấu"
+  },
+  {
+    "id": 381,
+    "index": 2,
+    "text": "缘",
+    "en": "Duyên"
+  },
+  {
+    "id": 382,
+    "index": 2,
+    "text": "双",
+    "en": "Song"
+  },
+  {
+    "id": 383,
+    "index": 2,
+    "text": "禅",
+    "en": "Thiền"
+  },
+  {
+    "id": 384,
+    "index": 2,
+    "text": "蕴",
+    "en": "Uẩn"
+  },
+  {
+    "id": 385,
+    "index": 2,
+    "text": "命",
+    "en": "Mệnh"
+  },
+  {
+    "id": 386,
+    "index": 2,
+    "text": "刹",
+    "en": "Sát"
+  },
+  {
+    "id": 387,
+    "index": 2,
+    "text": "纹",
+    "en": "Văn"
+  },
+  {
+    "id": 388,
+    "index": 2,
+    "text": "燃",
+    "en": "Nhiên"
+  },
+  {
+    "id": 389,
+    "index": 2,
+    "text": "翎",
+    "en": "Linh"
+  },
+  {
+    "id": 390,
+    "index": 2,
+    "text": "魅",
+    "en": "Mị"
+  },
+  {
+    "id": 391,
+    "index": 2,
+    "text": "微",
+    "en": "Vi"
+  },
+  {
+    "id": 392,
+    "index": 2,
+    "text": "春",
+    "en": "Xuân"
+  },
+  {
+    "id": 393,
+    "index": 2,
+    "text": "鸿",
+    "en": "Hồng"
+  },
+  {
+    "id": 394,
+    "index": 2,
+    "text": "寰",
+    "en": "Hoàn"
+  },
+  {
+    "id": 395,
+    "index": 2,
+    "text": "巽",
+    "en": "Tốn"
+  },
+  {
+    "id": 396,
+    "index": 2,
+    "text": "潇",
+    "en": "Tiêu"
+  },
+  {
+    "id": 397,
+    "index": 2,
+    "text": "南",
+    "en": "Nam"
+  },
+  {
+    "id": 398,
+    "index": 2,
+    "text": "东",
+    "en": "Đông"
+  },
+  {
+    "id": 399,
+    "index": 2,
+    "text": "北",
+    "en": "Bắc"
+  },
+  {
+    "id": 400,
+    "index": 2,
+    "text": "秋",
+    "en": "Thu"
+  }
+]

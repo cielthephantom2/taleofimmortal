@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "key": "powerBase",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "key": "powerCompareMin",
+    "value": 0
+  },
+  {
+    "id": 3,
+    "key": "powerCompareMax",
+    "value": 90
+  },
+  {
+    "id": 4,
+    "key": "powerLowScore",
+    "value": 0
+  },
+  {
+    "id": 5,
+    "key": "powerHighScore",
+    "value": -40
+  },
+  {
+    "id": 6,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 7,
+    "key": "matchScoreParaB",
+    "value": 3
+  },
+  {
+    "id": 8,
+    "key": "hateScorePara",
+    "value": -100
+  },
+  {
+    "id": 9,
+    "key": "eventLogFeedback10111211",
+    "value": 0
+  },
+  {
+    "id": 10,
+    "key": "eventLogFeedback10111221",
+    "value": 0
+  },
+  {
+    "id": 11,
+    "key": "eventLogFeedback10111231",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "key": "eventLogFeedback10111311",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "eventLogFeedback10111321",
+    "value": 0
+  }
+]

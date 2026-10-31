@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "key": "matchScoreParaA",
+    "value": 6000
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaB",
+    "value": 20
+  },
+  {
+    "id": 3,
+    "key": "closeScorePara",
+    "value": -35
+  },
+  {
+    "id": 4,
+    "key": "hateScorePara",
+    "value": -50
+  },
+  {
+    "id": 5,
+    "key": "itemScoreParaA",
+    "value": 50
+  },
+  {
+    "id": 6,
+    "key": "itemScoreParaB",
+    "value": 1
+  },
+  {
+    "id": 7,
+    "key": "itemScoreRequire",
+    "value": 100
+  },
+  {
+    "id": 8,
+    "key": "itemLevelRequire",
+    "value": 4
+  },
+  {
+    "id": 9,
+    "key": "eventLogFeedback102011211",
+    "value": 0
+  },
+  {
+    "id": 10,
+    "key": "eventLogFeedback102011221",
+    "value": 0
+  },
+  {
+    "id": 11,
+    "key": "eventLogFeedback102011231",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "key": "eventLogFeedback102011311",
+    "value": 0
+  },
+  {
+    "id": 13,
+    "key": "eventLogFeedback102011321",
+    "value": 0
+  },
+  {
+    "id": 14,
+    "key": "needClose",
+    "value": 120
+  },
+  {
+    "id": 15,
+    "key": "eliteMatchScoreParaA",
+    "value": 6000
+  },
+  {
+    "id": 16,
+    "key": "eliteMatchScoreParaB",
+    "value": 20
+  },
+  {
+    "id": 17,
+    "key": "eliteCloseScorePara",
+    "value": -35
+  },
+  {
+    "id": 18,
+    "key": "eliteHateScorePara",
+    "value": -50
+  },
+  {
+    "id": 19,
+    "key": "elitePowerAskRatio",
+    "value": 7000
+  }
+]

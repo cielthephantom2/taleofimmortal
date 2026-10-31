@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "key": "weightParaA",
+    "value": 3000
+  },
+  {
+    "id": 2,
+    "key": "healthyID",
+    "value": 1025
+  },
+  {
+    "id": 3,
+    "key": "weightHealthy",
+    "value": 500
+  },
+  {
+    "id": 4,
+    "key": "hobbyID",
+    "value": 1041
+  },
+  {
+    "id": 5,
+    "key": "useItemID",
+    "value": 1029
+  },
+  {
+    "id": 6,
+    "key": "weightUseItem",
+    "value": 1000
+  },
+  {
+    "id": 7,
+    "key": "findItemID",
+    "value": 103
+  },
+  {
+    "id": 8,
+    "key": "weightFindItem",
+    "value": 100
+  },
+  {
+    "id": 9,
+    "key": "weightHobby",
+    "value": 100
+  },
+  {
+    "id": 10,
+    "key": "durationMax",
+    "value": 120
+  }
+]

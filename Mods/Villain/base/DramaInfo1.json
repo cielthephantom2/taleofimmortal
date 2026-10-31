@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "key": "view",
+    "value": "5"
+  },
+  {
+    "id": 2,
+    "key": "point1",
+    "value": "99,182"
+  },
+  {
+    "id": 3,
+    "key": "point1Function",
+    "value": "addTask_2110102|moveCam_1020|dramaInfo1CostPause"
+  },
+  {
+    "id": 4,
+    "key": "point2",
+    "value": "82,197"
+  },
+  {
+    "id": 5,
+    "key": "point2Function",
+    "value": "finishTask_2110106|createEventPoint_232_77_198_0|dramaInfo1CostPause|moveCam_1021|addTask_2110113"
+  },
+  {
+    "id": 6,
+    "key": "point3",
+    "value": "21,197"
+  },
+  {
+    "id": 7,
+    "key": "point3Function",
+    "value": "finishTask_2110106|addTask_2110114|dramaInfo1CostPause|moveCam_1019"
+  },
+  {
+    "id": 8,
+    "key": "dieFunction",
+    "value": "callDrama_760721|finishTask_2110106"
+  },
+  {
+    "id": 9,
+    "key": "maxHP",
+    "value": "5000"
+  },
+  {
+    "id": 10,
+    "key": "maxEnergy",
+    "value": "1500"
+  },
+  {
+    "id": 11,
+    "key": "maxHealth",
+    "value": "1000"
+  },
+  {
+    "id": 12,
+    "key": "costHP",
+    "value": "-300"
+  },
+  {
+    "id": 13,
+    "key": "costEnergy",
+    "value": "-100"
+  },
+  {
+    "id": 14,
+    "key": "costHealth",
+    "value": "-50"
+  },
+  {
+    "id": 15,
+    "key": "energyLevel1",
+    "value": "0_1"
+  },
+  {
+    "id": 16,
+    "key": "energyLevel2",
+    "value": "300_2"
+  },
+  {
+    "id": 17,
+    "key": "energyLevel3",
+    "value": "600_3"
+  },
+  {
+    "id": 18,
+    "key": "energyLevel4",
+    "value": "900_4"
+  },
+  {
+    "id": 19,
+    "key": "energyLevel5",
+    "value": "1200_5"
+  },
+  {
+    "id": 20,
+    "key": "luck",
+    "value": "501|502|503"
+  },
+  {
+    "id": 21,
+    "key": "healthLevel1",
+    "value": "0_80"
+  },
+  {
+    "id": 22,
+    "key": "healthLevel2",
+    "value": "200_60"
+  },
+  {
+    "id": 23,
+    "key": "healthLevel3",
+    "value": "400_40"
+  },
+  {
+    "id": 24,
+    "key": "healthLevel4",
+    "value": "600_20"
+  },
+  {
+    "id": 25,
+    "key": "healthLevel5",
+    "value": "800_0"
+  },
+  {
+    "id": 26,
+    "key": "giveItems",
+    "value": "6361016_3000_0_0|6361026_0_1000_1000"
+  }
+]

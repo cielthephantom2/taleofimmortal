@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "key": "weightBase",
+    "value": 1000
+  },
+  {
+    "id": 2,
+    "key": "searchRange",
+    "value": 15
+  },
+  {
+    "id": 3,
+    "key": "powerCompareMin",
+    "value": 60
+  },
+  {
+    "id": 4,
+    "key": "powerCompareMax",
+    "value": 80
+  },
+  {
+    "id": 5,
+    "key": "weightPowerLow",
+    "value": -3
+  },
+  {
+    "id": 6,
+    "key": "weightPowerHigh",
+    "value": -5
+  },
+  {
+    "id": 7,
+    "key": "weightHate",
+    "value": 15
+  },
+  {
+    "id": 8,
+    "key": "weightRequire",
+    "value": 0
+  },
+  {
+    "id": 9,
+    "key": "firstMatchNum",
+    "value": 10
+  }
+]

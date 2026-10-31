@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "key": "defameRateA",
+    "value": 25
+  },
+  {
+    "id": 2,
+    "key": "defameRateB",
+    "value": 30
+  },
+  {
+    "id": 3,
+    "key": "notifyRate",
+    "value": 40
+  },
+  {
+    "id": 4,
+    "key": "notifyDramaID",
+    "value": 731301
+  },
+  {
+    "id": 5,
+    "key": "weightAdd",
+    "value": 2000000
+  }
+]

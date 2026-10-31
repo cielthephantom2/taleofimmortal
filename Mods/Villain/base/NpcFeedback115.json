@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "key": "matchScoreParaA",
+    "value": [
+      3000
+    ]
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaB",
+    "value": [
+      -5
+    ]
+  },
+  {
+    "id": 3,
+    "key": "closeScorePara",
+    "value": [
+      150
+    ]
+  },
+  {
+    "id": 4,
+    "key": "hateScorePara",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "id": 5,
+    "key": "schoolValueParaA",
+    "value": [
+      -1
+    ]
+  },
+  {
+    "id": 6,
+    "key": "schoolValueParaB",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 7,
+    "key": "requireScore",
+    "value": [
+      1000
+    ]
+  },
+  {
+    "id": 8,
+    "key": "eliteRequireScore",
+    "value": [
+      1600
+    ]
+  },
+  {
+    "id": 9,
+    "key": "elitePowerAskRatio",
+    "value": [
+      7000
+    ]
+  },
+  {
+    "id": 10,
+    "key": "eliteDecValue",
+    "value": [
+      -1000
+    ]
+  },
+  {
+    "id": 11,
+    "key": "relationID",
+    "value": [
+      8,
+      9
+    ]
+  },
+  {
+    "id": 12,
+    "key": "populationDecValue",
+    "value": [
+      -500
+    ]
+  },
+  {
+    "id": 13,
+    "key": "elitePopulationDecValue",
+    "value": [
+      -1000
+    ]
+  },
+  {
+    "id": 14,
+    "key": "postAddValue6",
+    "value": []
+  },
+  {
+    "id": 15,
+    "key": "postAddValue5",
+    "value": [
+      50
+    ]
+  },
+  {
+    "id": 16,
+    "key": "postAddValue4",
+    "value": [
+      200
+    ]
+  },
+  {
+    "id": 17,
+    "key": "postAddValue3",
+    "value": [
+      300
+    ]
+  },
+  {
+    "id": 18,
+    "key": "postAddValue2",
+    "value": [
+      600
+    ]
+  }
+]

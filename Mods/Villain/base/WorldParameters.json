@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "key": "defendCostDay",
+    "value": 3
+  },
+  {
+    "id": 2,
+    "key": "beautyGrowStable",
+    "value": 5
+  },
+  {
+    "id": 3,
+    "key": "blockAttributeValue1",
+    "value": 100
+  },
+  {
+    "id": 4,
+    "key": "blockAttributeValue2",
+    "value": 200
+  },
+  {
+    "id": 5,
+    "key": "blockAttributeValue3",
+    "value": 300
+  },
+  {
+    "id": 6,
+    "key": "refillBlockCount",
+    "value": 460
+  },
+  {
+    "id": 7,
+    "key": "refillBlockRequire",
+    "value": 25
+  },
+  {
+    "id": 8,
+    "key": "refillBlockNormalMin",
+    "value": 150
+  },
+  {
+    "id": 9,
+    "key": "refillBlockNormalMax",
+    "value": 450
+  },
+  {
+    "id": 10,
+    "key": "refillBlockSpecialMin",
+    "value": 150
+  },
+  {
+    "id": 11,
+    "key": "refillBlockSpecialMax",
+    "value": 700
+  },
+  {
+    "id": 12,
+    "key": "refillBlockDistance",
+    "value": 3
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "grade": 1,
+    "level": 1,
+    "power": 8,
+    "spirit": 10,
+    "spCost": 13
+  },
+  {
+    "id": 2,
+    "grade": 1,
+    "level": 2,
+    "power": 10,
+    "spirit": 10,
+    "spCost": 13
+  },
+  {
+    "id": 3,
+    "grade": 1,
+    "level": 3,
+    "power": 12,
+    "spirit": 10,
+    "spCost": 13
+  },
+  {
+    "id": 4,
+    "grade": 1,
+    "level": 4,
+    "power": 14,
+    "spirit": 10,
+    "spCost": 13
+  },
+  {
+    "id": 5,
+    "grade": 1,
+    "level": 5,
+    "power": 16,
+    "spirit": 10,
+    "spCost": 13
+  },
+  {
+    "id": 6,
+    "grade": 1,
+    "level": 6,
+    "power": 20,
+    "spirit": 10,
+    "spCost": 13
+  },
+  {
+    "id": 7,
+    "grade": 2,
+    "level": 1,
+    "power": 12,
+    "spirit": 10,
+    "spCost": 18
+  },
+  {
+    "id": 8,
+    "grade": 2,
+    "level": 2,
+    "power": 16,
+    "spirit": 10,
+    "spCost": 18
+  },
+  {
+    "id": 9,
+    "grade": 2,
+    "level": 3,
+    "power": 19,
+    "spirit": 10,
+    "spCost": 18
+  },
+  {
+    "id": 10,
+    "grade": 2,
+    "level": 4,
+    "power": 22,
+    "spirit": 10,
+    "spCost": 18
+  },
+  {
+    "id": 11,
+    "grade": 2,
+    "level": 5,
+    "power": 25,
+    "spirit": 10,
+    "spCost": 18
+  },
+  {
+    "id": 12,
+    "grade": 2,
+    "level": 6,
+    "power": 32,
+    "spirit": 10,
+    "spCost": 18
+  },
+  {
+    "id": 13,
+    "grade": 3,
+    "level": 1,
+    "power": 20,
+    "spirit": 10,
+    "spCost": 25
+  },
+  {
+    "id": 14,
+    "grade": 3,
+    "level": 2,
+    "power": 25,
+    "spirit": 10,
+    "spCost": 25
+  },
+  {
+    "id": 15,
+    "grade": 3,
+    "level": 3,
+    "power": 30,
+    "spirit": 10,
+    "spCost": 25
+  },
+  {
+    "id": 16,
+    "grade": 3,
+    "level": 4,
+    "power": 35,
+    "spirit": 10,
+    "spCost": 25
+  },
+  {
+    "id": 17,
+    "grade": 3,
+    "level": 5,
+    "power": 40,
+    "spirit": 10,
+    "spCost": 25
+  },
+  {
+    "id": 18,
+    "grade": 3,
+    "level": 6,
+    "power": 51,
+    "spirit": 10,
+    "spCost": 25
+  },
+  {
+    "id": 19,
+    "grade": 4,
+    "level": 1,
+    "power": 32,
+    "spirit": 10,
+    "spCost": 36
+  },
+  {
+    "id": 20,
+    "grade": 4,
+    "level": 2,
+    "power": 40,
+    "spirit": 10,
+    "spCost": 36
+  },
+  {
+    "id": 21,
+    "grade": 4,
+    "level": 3,
+    "power": 49,
+    "spirit": 10,
+    "spCost": 36
+  },
+  {
+    "id": 22,
+    "grade": 4,
+    "level": 4,
+    "power": 57,
+    "spirit": 10,
+    "spCost": 36
+  },
+  {
+    "id": 23,
+    "grade": 4,
+    "level": 5,
+    "power": 65,
+    "spirit": 10,
+    "spCost": 36
+  },
+  {
+    "id": 24,
+    "grade": 4,
+    "level": 6,
+    "power": 81,
+    "spirit": 10,
+    "spCost": 36
+  },
+  {
+    "id": 25,
+    "grade": 5,
+    "level": 1,
+    "power": 52,
+    "spirit": 10,
+    "spCost": 52
+  },
+  {
+    "id": 26,
+    "grade": 5,
+    "level": 2,
+    "power": 65,
+    "spirit": 10,
+    "spCost": 52
+  },
+  {
+    "id": 27,
+    "grade": 5,
+    "level": 3,
+    "power": 78,
+    "spirit": 10,
+    "spCost": 52
+  },
+  {
+    "id": 28,
+    "grade": 5,
+    "level": 4,
+    "power": 91,
+    "spirit": 10,
+    "spCost": 52
+  },
+  {
+    "id": 29,
+    "grade": 5,
+    "level": 5,
+    "power": 104,
+    "spirit": 10,
+    "spCost": 52
+  },
+  {
+    "id": 30,
+    "grade": 5,
+    "level": 6,
+    "power": 131,
+    "spirit": 10,
+    "spCost": 52
+  },
+  {
+    "id": 31,
+    "grade": 6,
+    "level": 1,
+    "power": 83,
+    "spirit": 10,
+    "spCost": 76
+  },
+  {
+    "id": 32,
+    "grade": 6,
+    "level": 2,
+    "power": 104,
+    "spirit": 10,
+    "spCost": 76
+  },
+  {
+    "id": 33,
+    "grade": 6,
+    "level": 3,
+    "power": 125,
+    "spirit": 10,
+    "spCost": 76
+  },
+  {
+    "id": 34,
+    "grade": 6,
+    "level": 4,
+    "power": 146,
+    "spirit": 10,
+    "spCost": 76
+  },
+  {
+    "id": 35,
+    "grade": 6,
+    "level": 5,
+    "power": 167,
+    "spirit": 10,
+    "spCost": 76
+  },
+  {
+    "id": 36,
+    "grade": 6,
+    "level": 6,
+    "power": 209,
+    "spirit": 10,
+    "spCost": 76
+  },
+  {
+    "id": 37,
+    "grade": 7,
+    "level": 1,
+    "power": 134,
+    "spirit": 10,
+    "spCost": 111
+  },
+  {
+    "id": 38,
+    "grade": 7,
+    "level": 2,
+    "power": 167,
+    "spirit": 10,
+    "spCost": 111
+  },
+  {
+    "id": 39,
+    "grade": 7,
+    "level": 3,
+    "power": 201,
+    "spirit": 10,
+    "spCost": 111
+  },
+  {
+    "id": 40,
+    "grade": 7,
+    "level": 4,
+    "power": 234,
+    "spirit": 10,
+    "spCost": 111
+  },
+  {
+    "id": 41,
+    "grade": 7,
+    "level": 5,
+    "power": 268,
+    "spirit": 10,
+    "spCost": 111
+  },
+  {
+    "id": 42,
+    "grade": 7,
+    "level": 6,
+    "power": 335,
+    "spirit": 10,
+    "spCost": 111
+  },
+  {
+    "id": 43,
+    "grade": 8,
+    "level": 1,
+    "power": 214,
+    "spirit": 10,
+    "spCost": 165
+  },
+  {
+    "id": 44,
+    "grade": 8,
+    "level": 2,
+    "power": 268,
+    "spirit": 10,
+    "spCost": 165
+  },
+  {
+    "id": 45,
+    "grade": 8,
+    "level": 3,
+    "power": 322,
+    "spirit": 10,
+    "spCost": 165
+  },
+  {
+    "id": 46,
+    "grade": 8,
+    "level": 4,
+    "power": 375,
+    "spirit": 10,
+    "spCost": 165
+  },
+  {
+    "id": 47,
+    "grade": 8,
+    "level": 5,
+    "power": 429,
+    "spirit": 10,
+    "spCost": 165
+  },
+  {
+    "id": 48,
+    "grade": 8,
+    "level": 6,
+    "power": 536,
+    "spirit": 10,
+    "spCost": 165
+  },
+  {
+    "id": 49,
+    "grade": 9,
+    "level": 1,
+    "power": 343,
+    "spirit": 10,
+    "spCost": 245
+  },
+  {
+    "id": 50,
+    "grade": 9,
+    "level": 2,
+    "power": 429,
+    "spirit": 10,
+    "spCost": 245
+  },
+  {
+    "id": 51,
+    "grade": 9,
+    "level": 3,
+    "power": 515,
+    "spirit": 10,
+    "spCost": 245
+  },
+  {
+    "id": 52,
+    "grade": 9,
+    "level": 4,
+    "power": 601,
+    "spirit": 10,
+    "spCost": 245
+  },
+  {
+    "id": 53,
+    "grade": 9,
+    "level": 5,
+    "power": 687,
+    "spirit": 10,
+    "spCost": 245
+  },
+  {
+    "id": 54,
+    "grade": 9,
+    "level": 6,
+    "power": 858,
+    "spirit": 10,
+    "spCost": 245
+  },
+  {
+    "id": 55,
+    "grade": 10,
+    "level": 1,
+    "power": 549,
+    "spirit": 10,
+    "spCost": 366
+  },
+  {
+    "id": 56,
+    "grade": 10,
+    "level": 2,
+    "power": 687,
+    "spirit": 10,
+    "spCost": 366
+  },
+  {
+    "id": 57,
+    "grade": 10,
+    "level": 3,
+    "power": 824,
+    "spirit": 10,
+    "spCost": 366
+  },
+  {
+    "id": 58,
+    "grade": 10,
+    "level": 4,
+    "power": 962,
+    "spirit": 10,
+    "spCost": 366
+  },
+  {
+    "id": 59,
+    "grade": 10,
+    "level": 5,
+    "power": 1099,
+    "spirit": 10,
+    "spCost": 366
+  },
+  {
+    "id": 60,
+    "grade": 10,
+    "level": 6,
+    "power": 1374,
+    "spirit": 10,
+    "spCost": 366
+  }
+]

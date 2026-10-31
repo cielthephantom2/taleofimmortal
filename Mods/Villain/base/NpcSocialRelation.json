@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "key": "noMarriedWeight",
+    "value": 50
+  },
+  {
+    "id": 2,
+    "key": "marriedWeight",
+    "value": 50
+  },
+  {
+    "id": 3,
+    "key": "noChildrenWeight",
+    "value": 10
+  },
+  {
+    "id": 4,
+    "key": "children1Weight",
+    "value": 120
+  },
+  {
+    "id": 5,
+    "key": "children2Weight",
+    "value": 60
+  },
+  {
+    "id": 6,
+    "key": "children3Weight",
+    "value": 50
+  },
+  {
+    "id": 7,
+    "key": "noStudentsWeightBase",
+    "value": 10
+  },
+  {
+    "id": 8,
+    "key": "noStudentsWeightCut",
+    "value": 10
+  },
+  {
+    "id": 9,
+    "key": "students1Weight",
+    "value": 120
+  },
+  {
+    "id": 10,
+    "key": "students2Weight",
+    "value": 60
+  },
+  {
+    "id": 11,
+    "key": "students3Weight",
+    "value": 50
+  },
+  {
+    "id": 12,
+    "key": "marriedMatchScore",
+    "value": 6500
+  },
+  {
+    "id": 13,
+    "key": "childrenMatchScore",
+    "value": 6000
+  },
+  {
+    "id": 14,
+    "key": "studentsMatchScore",
+    "value": 6000
+  },
+  {
+    "id": 15,
+    "key": "childrenBackwardMatchProb",
+    "value": 10
+  },
+  {
+    "id": 16,
+    "key": "childrenBackwardMatchScore",
+    "value": 2000
+  },
+  {
+    "id": 17,
+    "key": "schoolSameScore",
+    "value": 800000
+  },
+  {
+    "id": 18,
+    "key": "schoolBackwardScore",
+    "value": 2000
+  },
+  {
+    "id": 19,
+    "key": "marriedAgeRequire",
+    "value": 22
+  },
+  {
+    "id": 20,
+    "key": "femaleOlderProb",
+    "value": 0
+  },
+  {
+    "id": 21,
+    "key": "schoolPostRelation",
+    "value": 3
+  },
+  {
+    "id": 22,
+    "key": "relationAreaMin",
+    "value": -2
+  },
+  {
+    "id": 23,
+    "key": "relationAreaMax",
+    "value": 0
+  },
+  {
+    "id": 24,
+    "key": "relationInitClose",
+    "value": 100
+  },
+  {
+    "id": 25,
+    "key": "friendCountBasePara",
+    "value": 5
+  },
+  {
+    "id": 26,
+    "key": "friendCountReduce",
+    "value": 2
+  },
+  {
+    "id": 27,
+    "key": "friendCountAdd",
+    "value": 2
+  },
+  {
+    "id": 28,
+    "key": "friendCountMax",
+    "value": 5
+  },
+  {
+    "id": 29,
+    "key": "friendStandSame",
+    "value": 2000
+  },
+  {
+    "id": 30,
+    "key": "friendStandEnemy",
+    "value": 2000
+  },
+  {
+    "id": 31,
+    "key": "friendFamilyScore",
+    "value": 4000
+  },
+  {
+    "id": 32,
+    "key": "friendSchoolScore",
+    "value": 2000
+  },
+  {
+    "id": 33,
+    "key": "friendClosePara",
+    "value": 180
+  },
+  {
+    "id": 34,
+    "key": "powerMatchScoreBase",
+    "value": 24000
+  },
+  {
+    "id": 35,
+    "key": "powerMatchMin",
+    "value": 33
+  },
+  {
+    "id": 36,
+    "key": "powerMatchMax",
+    "value": 300
+  },
+  {
+    "id": 37,
+    "key": "powerMatchScoreReduce",
+    "value": 10000
+  },
+  {
+    "id": 38,
+    "key": "gradeScoreBase",
+    "value": 9000
+  },
+  {
+    "id": 39,
+    "key": "gradeScoreReduce",
+    "value": 2000
+  },
+  {
+    "id": 40,
+    "key": "enemyCountBasePara",
+    "value": 10
+  },
+  {
+    "id": 41,
+    "key": "enemyCountReduce",
+    "value": 1
+  },
+  {
+    "id": 42,
+    "key": "enemyCountAdd",
+    "value": 1
+  },
+  {
+    "id": 43,
+    "key": "enemyCountMax",
+    "value": 5
+  },
+  {
+    "id": 44,
+    "key": "enemyMatchCountMax",
+    "value": 20
+  },
+  {
+    "id": 45,
+    "key": "enemyHateParaA",
+    "value": 10
+  },
+  {
+    "id": 46,
+    "key": "enemyHateParaB",
+    "value": 180
+  },
+  {
+    "id": 47,
+    "key": "enemyScoreRequire",
+    "value": -3000
+  },
+  {
+    "id": 48,
+    "key": "schoolPostRange",
+    "value": 10
+  },
+  {
+    "id": 49,
+    "key": "schoolPostStudentProbAdd",
+    "value": 100
+  },
+  {
+    "id": 50,
+    "key": "schoolPostSameSchoolAdd",
+    "value": 2000
+  },
+  {
+    "id": 51,
+    "key": "schoolPostInheritAdd",
+    "value": 3000
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "weightMonth",
+    "value": 2
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 3,
+    "key": "matchScoreParaB",
+    "value": -2
+  },
+  {
+    "id": 4,
+    "key": "closeScorePara",
+    "value": 20
+  },
+  {
+    "id": 5,
+    "key": "scoreRequire",
+    "value": 1000
+  },
+  {
+    "id": 6,
+    "key": "firstMatchNum",
+    "value": 10
+  }
+]

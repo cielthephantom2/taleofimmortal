@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "key": "okBaseRate",
+    "value": 40
+  },
+  {
+    "id": 2,
+    "key": "npcGradeRate1",
+    "value": -30
+  },
+  {
+    "id": 3,
+    "key": "npcGradeRate2",
+    "value": -10
+  },
+  {
+    "id": 4,
+    "key": "npcGradeRate3",
+    "value": 30
+  },
+  {
+    "id": 5,
+    "key": "itemGradeRate1",
+    "value": 50
+  },
+  {
+    "id": 6,
+    "key": "itemGradeRate2",
+    "value": -40
+  },
+  {
+    "id": 7,
+    "key": "itemGradeRate3",
+    "value": 30
+  },
+  {
+    "id": 8,
+    "key": "beautyRate1",
+    "value": -60
+  },
+  {
+    "id": 9,
+    "key": "beautyRate2",
+    "value": -30
+  },
+  {
+    "id": 10,
+    "key": "beautyRate3",
+    "value": -30
+  },
+  {
+    "id": 11,
+    "key": "beautyRate4",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "key": "beautyRate5",
+    "value": 10
+  },
+  {
+    "id": 13,
+    "key": "beautyRate6",
+    "value": 30
+  },
+  {
+    "id": 14,
+    "key": "beautyRate7",
+    "value": 60
+  },
+  {
+    "id": 15,
+    "key": "intimAddRate",
+    "value": 1
+  },
+  {
+    "id": 16,
+    "key": "familyAddRate",
+    "value": 30
+  },
+  {
+    "id": 17,
+    "key": "robIdleRate",
+    "value": 10
+  },
+  {
+    "id": 18,
+    "key": "familyRobIdleRate",
+    "value": -500
+  },
+  {
+    "id": 19,
+    "key": "enemyRobIdleRate",
+    "value": 500
+  },
+  {
+    "id": 20,
+    "key": "robBaseRate",
+    "value": 10
+  },
+  {
+    "id": 21,
+    "key": "itemGradeRobRate1",
+    "value": 50
+  },
+  {
+    "id": 22,
+    "key": "itemGradeRobRate2",
+    "value": -40
+  },
+  {
+    "id": 23,
+    "key": "itemGradeRobRate3",
+    "value": 30
+  },
+  {
+    "id": 24,
+    "key": "hasParentRobRate",
+    "value": -10
+  },
+  {
+    "id": 25,
+    "key": "hasMasterRobRate",
+    "value": -10
+  },
+  {
+    "id": 26,
+    "key": "hasSchoolRobRate",
+    "value": -10
+  },
+  {
+    "id": 27,
+    "key": "npcGradeRobRate1",
+    "value": -40
+  },
+  {
+    "id": 28,
+    "key": "npcGradeRobRate2",
+    "value": 30
+  },
+  {
+    "id": 29,
+    "key": "npcGradeRobRate3",
+    "value": 10
+  },
+  {
+    "id": 30,
+    "key": "familyRobRate",
+    "value": -500
+  },
+  {
+    "id": 31,
+    "key": "enemyRobRate",
+    "value": 500
+  },
+  {
+    "id": 32,
+    "key": "resurgeTime",
+    "value": 10
+  },
+  {
+    "id": 33,
+    "key": "invincibleTime",
+    "value": 2000
+  }
+]

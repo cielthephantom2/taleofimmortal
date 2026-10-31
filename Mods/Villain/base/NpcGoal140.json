@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "key": "ownAppellationMinTime",
+    "value": 3
+  },
+  {
+    "id": 2,
+    "key": "selectPlayerRoleTimeMin",
+    "value": 3
+  },
+  {
+    "id": 3,
+    "key": "selectPlayerRoleTimeMax",
+    "value": 6
+  },
+  {
+    "id": 4,
+    "key": "askPowerValueA",
+    "value": 70
+  },
+  {
+    "id": 5,
+    "key": "askPowerProbability",
+    "value": 0
+  }
+]

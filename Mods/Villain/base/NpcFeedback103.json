@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "key": "begBaseProb",
+    "value": 50
+  },
+  {
+    "id": 2,
+    "key": "begGradeProb",
+    "value": -15
+  },
+  {
+    "id": 3,
+    "key": "begSelfishProb",
+    "value": 2
+  },
+  {
+    "id": 4,
+    "key": "begItemCountMin",
+    "value": 1
+  },
+  {
+    "id": 5,
+    "key": "begItemCountMax",
+    "value": 4
+  },
+  {
+    "id": 6,
+    "key": "begItemValueRank",
+    "value": 5
+  },
+  {
+    "id": 7,
+    "key": "eventLogFeedback10311211",
+    "value": 0
+  },
+  {
+    "id": 8,
+    "key": "eventLogFeedback10311221",
+    "value": 0
+  },
+  {
+    "id": 9,
+    "key": "eventLogFeedback10311231",
+    "value": 0
+  },
+  {
+    "id": 10,
+    "key": "eventLogFeedback10311311",
+    "value": 0
+  },
+  {
+    "id": 11,
+    "key": "eventLogFeedback10311321",
+    "value": 0
+  }
+]

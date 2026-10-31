@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "key": "addScore",
+    "value": 20
+  },
+  {
+    "id": 2,
+    "key": "succeedProb",
+    "value": 100
+  },
+  {
+    "id": 3,
+    "key": "growUpDelay",
+    "value": 12
+  },
+  {
+    "id": 4,
+    "key": "weightBase",
+    "value": 100
+  },
+  {
+    "id": 5,
+    "key": "weightBest",
+    "value": 30
+  },
+  {
+    "id": 6,
+    "key": "wingManFixCount",
+    "value": 3
+  },
+  {
+    "id": 7,
+    "key": "wingManEffectCount",
+    "value": 5
+  },
+  {
+    "id": 8,
+    "key": "wingManUpFixRate",
+    "value": 50
+  }
+]

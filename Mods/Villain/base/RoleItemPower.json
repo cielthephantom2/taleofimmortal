@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "itemGrade": 1,
+    "itemLevel": 1,
+    "fixedPower": 56
+  },
+  {
+    "id": 2,
+    "itemGrade": 1,
+    "itemLevel": 2,
+    "fixedPower": 112
+  },
+  {
+    "id": 3,
+    "itemGrade": 1,
+    "itemLevel": 3,
+    "fixedPower": 168
+  },
+  {
+    "id": 4,
+    "itemGrade": 1,
+    "itemLevel": 4,
+    "fixedPower": 225
+  },
+  {
+    "id": 5,
+    "itemGrade": 1,
+    "itemLevel": 5,
+    "fixedPower": 281
+  },
+  {
+    "id": 6,
+    "itemGrade": 1,
+    "itemLevel": 6,
+    "fixedPower": 351
+  },
+  {
+    "id": 7,
+    "itemGrade": 2,
+    "itemLevel": 1,
+    "fixedPower": 142
+  },
+  {
+    "id": 8,
+    "itemGrade": 2,
+    "itemLevel": 2,
+    "fixedPower": 285
+  },
+  {
+    "id": 9,
+    "itemGrade": 2,
+    "itemLevel": 3,
+    "fixedPower": 427
+  },
+  {
+    "id": 10,
+    "itemGrade": 2,
+    "itemLevel": 4,
+    "fixedPower": 570
+  },
+  {
+    "id": 11,
+    "itemGrade": 2,
+    "itemLevel": 5,
+    "fixedPower": 713
+  },
+  {
+    "id": 12,
+    "itemGrade": 2,
+    "itemLevel": 6,
+    "fixedPower": 891
+  },
+  {
+    "id": 13,
+    "itemGrade": 3,
+    "itemLevel": 1,
+    "fixedPower": 338
+  },
+  {
+    "id": 14,
+    "itemGrade": 3,
+    "itemLevel": 2,
+    "fixedPower": 677
+  },
+  {
+    "id": 15,
+    "itemGrade": 3,
+    "itemLevel": 3,
+    "fixedPower": 1016
+  },
+  {
+    "id": 16,
+    "itemGrade": 3,
+    "itemLevel": 4,
+    "fixedPower": 1354
+  },
+  {
+    "id": 17,
+    "itemGrade": 3,
+    "itemLevel": 5,
+    "fixedPower": 1693
+  },
+  {
+    "id": 18,
+    "itemGrade": 3,
+    "itemLevel": 6,
+    "fixedPower": 2116
+  },
+  {
+    "id": 19,
+    "itemGrade": 4,
+    "itemLevel": 1,
+    "fixedPower": 643
+  },
+  {
+    "id": 20,
+    "itemGrade": 4,
+    "itemLevel": 2,
+    "fixedPower": 1286
+  },
+  {
+    "id": 21,
+    "itemGrade": 4,
+    "itemLevel": 3,
+    "fixedPower": 1930
+  },
+  {
+    "id": 22,
+    "itemGrade": 4,
+    "itemLevel": 4,
+    "fixedPower": 2573
+  },
+  {
+    "id": 23,
+    "itemGrade": 4,
+    "itemLevel": 5,
+    "fixedPower": 3217
+  },
+  {
+    "id": 24,
+    "itemGrade": 4,
+    "itemLevel": 6,
+    "fixedPower": 4021
+  },
+  {
+    "id": 25,
+    "itemGrade": 5,
+    "itemLevel": 1,
+    "fixedPower": 1222
+  },
+  {
+    "id": 26,
+    "itemGrade": 5,
+    "itemLevel": 2,
+    "fixedPower": 2445
+  },
+  {
+    "id": 27,
+    "itemGrade": 5,
+    "itemLevel": 3,
+    "fixedPower": 3667
+  },
+  {
+    "id": 28,
+    "itemGrade": 5,
+    "itemLevel": 4,
+    "fixedPower": 4890
+  },
+  {
+    "id": 29,
+    "itemGrade": 5,
+    "itemLevel": 5,
+    "fixedPower": 6113
+  },
+  {
+    "id": 30,
+    "itemGrade": 5,
+    "itemLevel": 6,
+    "fixedPower": 7641
+  },
+  {
+    "id": 31,
+    "itemGrade": 6,
+    "itemLevel": 1,
+    "fixedPower": 2323
+  },
+  {
+    "id": 32,
+    "itemGrade": 6,
+    "itemLevel": 2,
+    "fixedPower": 4646
+  },
+  {
+    "id": 33,
+    "itemGrade": 6,
+    "itemLevel": 3,
+    "fixedPower": 6969
+  },
+  {
+    "id": 34,
+    "itemGrade": 6,
+    "itemLevel": 4,
+    "fixedPower": 9292
+  },
+  {
+    "id": 35,
+    "itemGrade": 6,
+    "itemLevel": 5,
+    "fixedPower": 11615
+  },
+  {
+    "id": 36,
+    "itemGrade": 6,
+    "itemLevel": 6,
+    "fixedPower": 14518
+  },
+  {
+    "id": 37,
+    "itemGrade": 7,
+    "itemLevel": 1,
+    "fixedPower": 4413
+  },
+  {
+    "id": 38,
+    "itemGrade": 7,
+    "itemLevel": 2,
+    "fixedPower": 8827
+  },
+  {
+    "id": 39,
+    "itemGrade": 7,
+    "itemLevel": 3,
+    "fixedPower": 13241
+  },
+  {
+    "id": 40,
+    "itemGrade": 7,
+    "itemLevel": 4,
+    "fixedPower": 17655
+  },
+  {
+    "id": 41,
+    "itemGrade": 7,
+    "itemLevel": 5,
+    "fixedPower": 22068
+  },
+  {
+    "id": 42,
+    "itemGrade": 7,
+    "itemLevel": 6,
+    "fixedPower": 27585
+  },
+  {
+    "id": 43,
+    "itemGrade": 8,
+    "itemLevel": 1,
+    "fixedPower": 8386
+  },
+  {
+    "id": 44,
+    "itemGrade": 8,
+    "itemLevel": 2,
+    "fixedPower": 16772
+  },
+  {
+    "id": 45,
+    "itemGrade": 8,
+    "itemLevel": 3,
+    "fixedPower": 25158
+  },
+  {
+    "id": 46,
+    "itemGrade": 8,
+    "itemLevel": 4,
+    "fixedPower": 33544
+  },
+  {
+    "id": 47,
+    "itemGrade": 8,
+    "itemLevel": 5,
+    "fixedPower": 41930
+  },
+  {
+    "id": 48,
+    "itemGrade": 8,
+    "itemLevel": 6,
+    "fixedPower": 52413
+  },
+  {
+    "id": 49,
+    "itemGrade": 9,
+    "itemLevel": 1,
+    "fixedPower": 15933
+  },
+  {
+    "id": 50,
+    "itemGrade": 9,
+    "itemLevel": 2,
+    "fixedPower": 31867
+  },
+  {
+    "id": 51,
+    "itemGrade": 9,
+    "itemLevel": 3,
+    "fixedPower": 47801
+  },
+  {
+    "id": 52,
+    "itemGrade": 9,
+    "itemLevel": 4,
+    "fixedPower": 63734
+  },
+  {
+    "id": 53,
+    "itemGrade": 9,
+    "itemLevel": 5,
+    "fixedPower": 79668
+  },
+  {
+    "id": 54,
+    "itemGrade": 9,
+    "itemLevel": 6,
+    "fixedPower": 99585
+  },
+  {
+    "id": 55,
+    "itemGrade": 10,
+    "itemLevel": 1,
+    "fixedPower": 30273
+  },
+  {
+    "id": 56,
+    "itemGrade": 10,
+    "itemLevel": 2,
+    "fixedPower": 60547
+  },
+  {
+    "id": 57,
+    "itemGrade": 10,
+    "itemLevel": 3,
+    "fixedPower": 90821
+  },
+  {
+    "id": 58,
+    "itemGrade": 10,
+    "itemLevel": 4,
+    "fixedPower": 121095
+  },
+  {
+    "id": 59,
+    "itemGrade": 10,
+    "itemLevel": 5,
+    "fixedPower": 151369
+  },
+  {
+    "id": 60,
+    "itemGrade": 10,
+    "itemLevel": 6,
+    "fixedPower": 189212
+  }
+]

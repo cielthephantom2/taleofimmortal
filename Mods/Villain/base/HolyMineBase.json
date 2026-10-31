@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1102,
+    "item": 5011035,
+    "magicID": 1,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220211
+  },
+  {
+    "id": 1103,
+    "item": 5011035,
+    "magicID": 2,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220212
+  },
+  {
+    "id": 1104,
+    "item": 5011035,
+    "magicID": 3,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220213
+  },
+  {
+    "id": 1105,
+    "item": 5011035,
+    "magicID": 4,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220214
+  },
+  {
+    "id": 1106,
+    "item": 5011035,
+    "magicID": 5,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220215
+  },
+  {
+    "id": 1107,
+    "item": 5011035,
+    "magicID": 6,
+    "addValue": 10,
+    "requireValue": 100,
+    "output": 220216
+  }
+]

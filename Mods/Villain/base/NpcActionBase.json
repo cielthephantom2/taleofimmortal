@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1001,
+    "actionType": 1001,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1002,
+    "actionType": 1002,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1003,
+    "actionType": 1003,
+    "weightBase": 100,
+    "weightCharacter": "1_-50|2_0|3_20|4_0|5_0|6_50|7_20",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1004,
+    "actionType": 1004,
+    "weightBase": 200,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_gouwu"
+  },
+  {
+    "id": 1005,
+    "actionType": 1005,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1006,
+    "actionType": 1006,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1007,
+    "actionType": 1007,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1008,
+    "actionType": 1008,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_xuexi"
+  },
+  {
+    "id": 1009,
+    "actionType": 1009,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_xiulian"
+  },
+  {
+    "id": 1010,
+    "actionType": 1010,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_xiulian"
+  },
+  {
+    "id": 1011,
+    "actionType": 1011,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1012,
+    "actionType": 1012,
+    "weightBase": 10,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11",
+    "runTip": "0"
+  },
+  {
+    "id": 1013,
+    "actionType": 1013,
+    "weightBase": 200,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1014,
+    "actionType": 1014,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1015,
+    "actionType": 1015,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1016,
+    "actionType": 1016,
+    "weightBase": 100,
+    "weightCharacter": "1_-50|2_0|3_20|4_0|5_0|6_50|7_20",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11",
+    "runTip": "runNPCGoalTip_xunchou"
+  },
+  {
+    "id": 1017,
+    "actionType": 1017,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1018,
+    "actionType": 1018,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1019,
+    "actionType": 1019,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1020,
+    "actionType": 1020,
+    "weightBase": 100,
+    "weightCharacter": "1_100|2_50|3_80|4_0|5_-20|6_-80|7_-50",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11",
+    "runTip": "0"
+  },
+  {
+    "id": 1021,
+    "actionType": 1021,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1022,
+    "actionType": 1022,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1023,
+    "actionType": 1023,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1024,
+    "actionType": 1024,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1025,
+    "actionType": 1025,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1026,
+    "actionType": 1026,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1027,
+    "actionType": 1027,
+    "weightBase": 50,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1028,
+    "actionType": 1028,
+    "weightBase": 50,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1029,
+    "actionType": 1029,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1030,
+    "actionType": 1030,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11",
+    "runTip": "runNPCGoalTip_jiaotan"
+  },
+  {
+    "id": 1031,
+    "actionType": 1031,
+    "weightBase": 10,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11|12|13|14|15",
+    "runTip": "runNPCGoalTip_aiqing"
+  },
+  {
+    "id": 1032,
+    "actionType": 1032,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1033,
+    "actionType": 1033,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1034,
+    "actionType": 1034,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_huifu"
+  },
+  {
+    "id": 1035,
+    "actionType": 1035,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_miji"
+  },
+  {
+    "id": 1036,
+    "actionType": 1036,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_miji"
+  },
+  {
+    "id": 1037,
+    "actionType": 1037,
+    "weightBase": 10,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11",
+    "runTip": "runNPCGoalTip_lundao"
+  },
+  {
+    "id": 1038,
+    "actionType": 1038,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_tupo"
+  },
+  {
+    "id": 1039,
+    "actionType": 1039,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1040,
+    "actionType": 1040,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1041,
+    "actionType": 1041,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1042,
+    "actionType": 1042,
+    "weightBase": 300,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1043,
+    "actionType": 1043,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1044,
+    "actionType": 1044,
+    "weightBase": 10,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "11|12|13|14|15",
+    "runTip": "runNPCGoalTip_aiqing"
+  },
+  {
+    "id": 1045,
+    "actionType": 1045,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1046,
+    "actionType": 1046,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1047,
+    "actionType": 1047,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1048,
+    "actionType": 1048,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1049,
+    "actionType": 1049,
+    "weightBase": 100,
+    "weightCharacter": "18_100",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1050,
+    "actionType": 1050,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1051,
+    "actionType": 1051,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_zudui"
+  },
+  {
+    "id": 1052,
+    "actionType": 1052,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_zudui"
+  },
+  {
+    "id": 1053,
+    "actionType": 1053,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_chicu"
+  },
+  {
+    "id": 1054,
+    "actionType": 1054,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 1055,
+    "actionType": 1055,
+    "weightBase": 100,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "0"
+  },
+  {
+    "id": 2002,
+    "actionType": 2002,
+    "weightBase": 0,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_zhuren"
+  },
+  {
+    "id": 2003,
+    "actionType": 2003,
+    "weightBase": 0,
+    "weightCharacter": "0",
+    "hobbyID": 0,
+    "weightHobby": 0,
+    "filterID": "0",
+    "runTip": "runNPCGoalTip_zhuren"
+  }
+]

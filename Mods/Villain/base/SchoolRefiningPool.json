@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "maxExp": 0,
+    "hole": 1,
+    "areaLimit": 2,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 2,
+    "maxExp": 1000,
+    "hole": 1,
+    "areaLimit": 2,
+    "addExp": 1,
+    "dramaID": 70171
+  },
+  {
+    "id": 3,
+    "maxExp": 2000,
+    "hole": 1,
+    "areaLimit": 4,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 4,
+    "maxExp": 3000,
+    "hole": 1,
+    "areaLimit": 4,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 5,
+    "maxExp": 4000,
+    "hole": 1,
+    "areaLimit": 6,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 6,
+    "maxExp": 5000,
+    "hole": 1,
+    "areaLimit": 6,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 7,
+    "maxExp": 6000,
+    "hole": 1,
+    "areaLimit": 8,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 8,
+    "maxExp": 7000,
+    "hole": 1,
+    "areaLimit": 8,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 9,
+    "maxExp": 8000,
+    "hole": 1,
+    "areaLimit": 10,
+    "addExp": 1,
+    "dramaID": -1
+  },
+  {
+    "id": 10,
+    "maxExp": 9000,
+    "hole": 1,
+    "areaLimit": 10,
+    "addExp": 1,
+    "dramaID": -1
+  }
+]

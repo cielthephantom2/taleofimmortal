@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "writingBasic",
+    "value": 500.0
+  },
+  {
+    "id": 2,
+    "key": "writingCondone",
+    "value": 2000.0
+  },
+  {
+    "id": 3,
+    "key": "writingTimes",
+    "value": 50.0
+  },
+  {
+    "id": 4,
+    "key": "resultOk",
+    "value": 6000.0
+  },
+  {
+    "id": 5,
+    "key": "resultGood",
+    "value": 8000.0
+  },
+  {
+    "id": 6,
+    "key": "resultNice",
+    "value": 10000.0
+  }
+]

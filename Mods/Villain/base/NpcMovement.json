@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "key": "timeCostPara",
+    "value": 750
+  },
+  {
+    "id": 2,
+    "key": "energyCostPara",
+    "value": 30
+  },
+  {
+    "id": 3,
+    "key": "moveDistanceMax",
+    "value": 30
+  },
+  {
+    "id": 4,
+    "key": "lostProb",
+    "value": 5
+  },
+  {
+    "id": 5,
+    "key": "lostOffsetPosition",
+    "value": 3
+  },
+  {
+    "id": 6,
+    "key": "carryCargoOverloadMin",
+    "value": 5
+  },
+  {
+    "id": 7,
+    "key": "carryCargoOverloadMax",
+    "value": 10
+  },
+  {
+    "id": 8,
+    "key": "fortuitousProb",
+    "value": 30
+  },
+  {
+    "id": 9,
+    "key": "moveTownRate",
+    "value": 90
+  }
+]

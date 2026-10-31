@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "grade": 1,
+    "phase": 1,
+    "bas": 3,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 2,
+    "grade": 1,
+    "phase": 2,
+    "bas": 3,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 3,
+    "grade": 1,
+    "phase": 3,
+    "bas": 3,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 4,
+    "grade": 2,
+    "phase": 1,
+    "bas": 3,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 5,
+    "grade": 2,
+    "phase": 2,
+    "bas": 4,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 6,
+    "grade": 2,
+    "phase": 3,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 7,
+    "grade": 3,
+    "phase": 1,
+    "bas": 4,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 8,
+    "grade": 3,
+    "phase": 2,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 9,
+    "grade": 3,
+    "phase": 3,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 10,
+    "grade": 4,
+    "phase": 1,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 11,
+    "grade": 4,
+    "phase": 2,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 12,
+    "grade": 4,
+    "phase": 3,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 13,
+    "grade": 5,
+    "phase": 1,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 14,
+    "grade": 5,
+    "phase": 2,
+    "bas": 8,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 15,
+    "grade": 5,
+    "phase": 3,
+    "bas": 8,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 16,
+    "grade": 6,
+    "phase": 1,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 17,
+    "grade": 6,
+    "phase": 2,
+    "bas": 8,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 18,
+    "grade": 6,
+    "phase": 3,
+    "bas": 8,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 19,
+    "grade": 7,
+    "phase": 1,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 20,
+    "grade": 7,
+    "phase": 2,
+    "bas": 8,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 21,
+    "grade": 7,
+    "phase": 3,
+    "bas": 8,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 22,
+    "grade": 8,
+    "phase": 1,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 23,
+    "grade": 8,
+    "phase": 2,
+    "bas": 7,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 24,
+    "grade": 8,
+    "phase": 3,
+    "bas": 9,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 25,
+    "grade": 9,
+    "phase": 1,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 26,
+    "grade": 9,
+    "phase": 2,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 27,
+    "grade": 9,
+    "phase": 3,
+    "bas": 7,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 28,
+    "grade": 10,
+    "phase": 1,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 29,
+    "grade": 10,
+    "phase": 2,
+    "bas": 6,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  },
+  {
+    "id": 30,
+    "grade": 10,
+    "phase": 3,
+    "bas": 5,
+    "totalSchoolMoney": 0,
+    "close": 0,
+    "gradeUp": 0
+  }
+]

@@ -1,0 +1,3278 @@
+[
+  {
+    "id": 1,
+    "gender": 0,
+    "weight": 100,
+    "name": "越",
+    "en": "Việt "
+  },
+  {
+    "id": 2,
+    "gender": 0,
+    "weight": 100,
+    "name": "耿",
+    "en": "Cảnh "
+  },
+  {
+    "id": 3,
+    "gender": 0,
+    "weight": 100,
+    "name": "俞",
+    "en": "Du "
+  },
+  {
+    "id": 4,
+    "gender": 0,
+    "weight": 100,
+    "name": "温",
+    "en": "Ôn "
+  },
+  {
+    "id": 5,
+    "gender": 0,
+    "weight": 100,
+    "name": "平",
+    "en": "Bình "
+  },
+  {
+    "id": 6,
+    "gender": 0,
+    "weight": 100,
+    "name": "何",
+    "en": "Hà "
+  },
+  {
+    "id": 7,
+    "gender": 0,
+    "weight": 100,
+    "name": "宁",
+    "en": "Ninh "
+  },
+  {
+    "id": 8,
+    "gender": 0,
+    "weight": 100,
+    "name": "蒋",
+    "en": "Tưởng "
+  },
+  {
+    "id": 9,
+    "gender": 0,
+    "weight": 100,
+    "name": "司",
+    "en": "Tư "
+  },
+  {
+    "id": 10,
+    "gender": 0,
+    "weight": 100,
+    "name": "粱",
+    "en": "Lương "
+  },
+  {
+    "id": 11,
+    "gender": 0,
+    "weight": 100,
+    "name": "左",
+    "en": "Tả "
+  },
+  {
+    "id": 12,
+    "gender": 0,
+    "weight": 100,
+    "name": "曾",
+    "en": "Tăng "
+  },
+  {
+    "id": 13,
+    "gender": 0,
+    "weight": 100,
+    "name": "后",
+    "en": "Hậu "
+  },
+  {
+    "id": 14,
+    "gender": 0,
+    "weight": 100,
+    "name": "褚",
+    "en": "Chử "
+  },
+  {
+    "id": 15,
+    "gender": 0,
+    "weight": 100,
+    "name": "卢",
+    "en": "Lư "
+  },
+  {
+    "id": 16,
+    "gender": 0,
+    "weight": 100,
+    "name": "巫",
+    "en": "Vu "
+  },
+  {
+    "id": 17,
+    "gender": 0,
+    "weight": 100,
+    "name": "牧",
+    "en": "Mục "
+  },
+  {
+    "id": 18,
+    "gender": 0,
+    "weight": 100,
+    "name": "殷",
+    "en": "Ân "
+  },
+  {
+    "id": 19,
+    "gender": 0,
+    "weight": 100,
+    "name": "利",
+    "en": "Lợi "
+  },
+  {
+    "id": 20,
+    "gender": 0,
+    "weight": 100,
+    "name": "牛",
+    "en": "Ngưu "
+  },
+  {
+    "id": 21,
+    "gender": 0,
+    "weight": 100,
+    "name": "瞿",
+    "en": "Cù "
+  },
+  {
+    "id": 22,
+    "gender": 0,
+    "weight": 100,
+    "name": "闵",
+    "en": "Mẫn "
+  },
+  {
+    "id": 23,
+    "gender": 0,
+    "weight": 100,
+    "name": "齐",
+    "en": "Tề "
+  },
+  {
+    "id": 24,
+    "gender": 0,
+    "weight": 100,
+    "name": "蓝",
+    "en": "Lam "
+  },
+  {
+    "id": 25,
+    "gender": 0,
+    "weight": 100,
+    "name": "充",
+    "en": "Sung "
+  },
+  {
+    "id": 26,
+    "gender": 0,
+    "weight": 100,
+    "name": "伊",
+    "en": "Y "
+  },
+  {
+    "id": 27,
+    "gender": 0,
+    "weight": 100,
+    "name": "李",
+    "en": "Lý "
+  },
+  {
+    "id": 28,
+    "gender": 0,
+    "weight": 100,
+    "name": "费",
+    "en": "Phí "
+  },
+  {
+    "id": 29,
+    "gender": 0,
+    "weight": 100,
+    "name": "慕容",
+    "en": "Mộ Dung "
+  },
+  {
+    "id": 30,
+    "gender": 0,
+    "weight": 100,
+    "name": "翁",
+    "en": "Ông "
+  },
+  {
+    "id": 31,
+    "gender": 0,
+    "weight": 100,
+    "name": "叶",
+    "en": "Diệp "
+  },
+  {
+    "id": 32,
+    "gender": 0,
+    "weight": 100,
+    "name": "阚",
+    "en": "Hám "
+  },
+  {
+    "id": 33,
+    "gender": 0,
+    "weight": 100,
+    "name": "融",
+    "en": "Dung "
+  },
+  {
+    "id": 34,
+    "gender": 0,
+    "weight": 100,
+    "name": "康",
+    "en": "Khang "
+  },
+  {
+    "id": 35,
+    "gender": 0,
+    "weight": 100,
+    "name": "臧",
+    "en": "Tang "
+  },
+  {
+    "id": 36,
+    "gender": 0,
+    "weight": 100,
+    "name": "厉",
+    "en": "Lệ "
+  },
+  {
+    "id": 37,
+    "gender": 0,
+    "weight": 100,
+    "name": "沙",
+    "en": "Sa "
+  },
+  {
+    "id": 38,
+    "gender": 0,
+    "weight": 100,
+    "name": "房",
+    "en": "Phòng "
+  },
+  {
+    "id": 39,
+    "gender": 0,
+    "weight": 100,
+    "name": "仇",
+    "en": "Cừu "
+  },
+  {
+    "id": 40,
+    "gender": 0,
+    "weight": 100,
+    "name": "邵",
+    "en": "Thiệu "
+  },
+  {
+    "id": 41,
+    "gender": 0,
+    "weight": 100,
+    "name": "任",
+    "en": "Nhậm "
+  },
+  {
+    "id": 42,
+    "gender": 0,
+    "weight": 100,
+    "name": "夏侯",
+    "en": "Hạ Hầu "
+  },
+  {
+    "id": 43,
+    "gender": 0,
+    "weight": 100,
+    "name": "诸",
+    "en": "Chư "
+  },
+  {
+    "id": 44,
+    "gender": 0,
+    "weight": 100,
+    "name": "唐",
+    "en": "Đường "
+  },
+  {
+    "id": 45,
+    "gender": 0,
+    "weight": 100,
+    "name": "仲孙",
+    "en": "Trọng Tôn "
+  },
+  {
+    "id": 46,
+    "gender": 0,
+    "weight": 100,
+    "name": "许",
+    "en": "Hứa "
+  },
+  {
+    "id": 47,
+    "gender": 0,
+    "weight": 100,
+    "name": "云",
+    "en": "Vân "
+  },
+  {
+    "id": 48,
+    "gender": 0,
+    "weight": 100,
+    "name": "马",
+    "en": "Mã "
+  },
+  {
+    "id": 49,
+    "gender": 0,
+    "weight": 100,
+    "name": "夏",
+    "en": "Hạ "
+  },
+  {
+    "id": 50,
+    "gender": 0,
+    "weight": 100,
+    "name": "葛",
+    "en": "Cát "
+  },
+  {
+    "id": 51,
+    "gender": 0,
+    "weight": 100,
+    "name": "寇",
+    "en": "Khấu "
+  },
+  {
+    "id": 52,
+    "gender": 0,
+    "weight": 100,
+    "name": "倪",
+    "en": "Nghê "
+  },
+  {
+    "id": 53,
+    "gender": 0,
+    "weight": 100,
+    "name": "景",
+    "en": "Cảnh "
+  },
+  {
+    "id": 54,
+    "gender": 0,
+    "weight": 100,
+    "name": "拓拔",
+    "en": "Thác Bạt "
+  },
+  {
+    "id": 55,
+    "gender": 0,
+    "weight": 100,
+    "name": "鄂",
+    "en": "Ngạc "
+  },
+  {
+    "id": 56,
+    "gender": 0,
+    "weight": 100,
+    "name": "童",
+    "en": "Đồng "
+  },
+  {
+    "id": 57,
+    "gender": 0,
+    "weight": 100,
+    "name": "项",
+    "en": "Hạng "
+  },
+  {
+    "id": 58,
+    "gender": 0,
+    "weight": 100,
+    "name": "谢",
+    "en": "Tạ "
+  },
+  {
+    "id": 59,
+    "gender": 0,
+    "weight": 100,
+    "name": "廖",
+    "en": "Liêu "
+  },
+  {
+    "id": 60,
+    "gender": 0,
+    "weight": 100,
+    "name": "空",
+    "en": "Không "
+  },
+  {
+    "id": 61,
+    "gender": 0,
+    "weight": 100,
+    "name": "勾",
+    "en": "Câu "
+  },
+  {
+    "id": 62,
+    "gender": 0,
+    "weight": 100,
+    "name": "宦",
+    "en": "Hoạn "
+  },
+  {
+    "id": 63,
+    "gender": 0,
+    "weight": 100,
+    "name": "孔",
+    "en": "Khổng "
+  },
+  {
+    "id": 64,
+    "gender": 0,
+    "weight": 100,
+    "name": "羊",
+    "en": "Dương "
+  },
+  {
+    "id": 65,
+    "gender": 0,
+    "weight": 100,
+    "name": "鱼",
+    "en": "Ngư "
+  },
+  {
+    "id": 66,
+    "gender": 0,
+    "weight": 100,
+    "name": "黎",
+    "en": "Lê "
+  },
+  {
+    "id": 67,
+    "gender": 0,
+    "weight": 100,
+    "name": "罗",
+    "en": "La "
+  },
+  {
+    "id": 68,
+    "gender": 0,
+    "weight": 100,
+    "name": "桂",
+    "en": "Quế "
+  },
+  {
+    "id": 69,
+    "gender": 0,
+    "weight": 100,
+    "name": "轩辕",
+    "en": "Hiên Viên "
+  },
+  {
+    "id": 70,
+    "gender": 0,
+    "weight": 100,
+    "name": "公孙",
+    "en": "Công Tôn "
+  },
+  {
+    "id": 71,
+    "gender": 0,
+    "weight": 100,
+    "name": "冷",
+    "en": "Lãnh "
+  },
+  {
+    "id": 72,
+    "gender": 0,
+    "weight": 100,
+    "name": "郗",
+    "en": "Si "
+  },
+  {
+    "id": 73,
+    "gender": 0,
+    "weight": 100,
+    "name": "卓",
+    "en": "Trác "
+  },
+  {
+    "id": 74,
+    "gender": 0,
+    "weight": 100,
+    "name": "樊",
+    "en": "Phiền "
+  },
+  {
+    "id": 75,
+    "gender": 0,
+    "weight": 100,
+    "name": "胡",
+    "en": "Hồ "
+  },
+  {
+    "id": 76,
+    "gender": 0,
+    "weight": 100,
+    "name": "仲",
+    "en": "Trọng "
+  },
+  {
+    "id": 77,
+    "gender": 0,
+    "weight": 100,
+    "name": "浦",
+    "en": "Phổ "
+  },
+  {
+    "id": 78,
+    "gender": 0,
+    "weight": 100,
+    "name": "余",
+    "en": "Dư "
+  },
+  {
+    "id": 79,
+    "gender": 0,
+    "weight": 100,
+    "name": "蔚",
+    "en": "Úy "
+  },
+  {
+    "id": 80,
+    "gender": 0,
+    "weight": 100,
+    "name": "骆",
+    "en": "Lạc "
+  },
+  {
+    "id": 81,
+    "gender": 0,
+    "weight": 100,
+    "name": "上官",
+    "en": "Thượng Quan "
+  },
+  {
+    "id": 82,
+    "gender": 0,
+    "weight": 100,
+    "name": "竺",
+    "en": "Trúc "
+  },
+  {
+    "id": 83,
+    "gender": 0,
+    "weight": 100,
+    "name": "钟离",
+    "en": "Chung Ly "
+  },
+  {
+    "id": 84,
+    "gender": 0,
+    "weight": 100,
+    "name": "胥",
+    "en": "Tư "
+  },
+  {
+    "id": 85,
+    "gender": 0,
+    "weight": 100,
+    "name": "戚",
+    "en": "Thích "
+  },
+  {
+    "id": 86,
+    "gender": 0,
+    "weight": 100,
+    "name": "米",
+    "en": "Mễ "
+  },
+  {
+    "id": 87,
+    "gender": 0,
+    "weight": 100,
+    "name": "韩",
+    "en": "Hàn "
+  },
+  {
+    "id": 88,
+    "gender": 0,
+    "weight": 100,
+    "name": "包",
+    "en": "Bao "
+  },
+  {
+    "id": 89,
+    "gender": 0,
+    "weight": 100,
+    "name": "宇文",
+    "en": "Vũ Văn "
+  },
+  {
+    "id": 90,
+    "gender": 0,
+    "weight": 100,
+    "name": "桑",
+    "en": "Tang "
+  },
+  {
+    "id": 91,
+    "gender": 0,
+    "weight": 100,
+    "name": "戎",
+    "en": "Nhung "
+  },
+  {
+    "id": 92,
+    "gender": 0,
+    "weight": 100,
+    "name": "淳于",
+    "en": "Thuần Vu "
+  },
+  {
+    "id": 93,
+    "gender": 0,
+    "weight": 100,
+    "name": "明",
+    "en": "Minh "
+  },
+  {
+    "id": 94,
+    "gender": 0,
+    "weight": 100,
+    "name": "武",
+    "en": "Vũ "
+  },
+  {
+    "id": 95,
+    "gender": 0,
+    "weight": 100,
+    "name": "广",
+    "en": "Quảng "
+  },
+  {
+    "id": 96,
+    "gender": 0,
+    "weight": 100,
+    "name": "殴",
+    "en": "Ẩu "
+  },
+  {
+    "id": 97,
+    "gender": 0,
+    "weight": 100,
+    "name": "祝",
+    "en": "Chúc "
+  },
+  {
+    "id": 98,
+    "gender": 0,
+    "weight": 100,
+    "name": "薄",
+    "en": "Bạc "
+  },
+  {
+    "id": 99,
+    "gender": 0,
+    "weight": 100,
+    "name": "彭",
+    "en": "Bành "
+  },
+  {
+    "id": 100,
+    "gender": 0,
+    "weight": 100,
+    "name": "辛",
+    "en": "Tân "
+  },
+  {
+    "id": 101,
+    "gender": 0,
+    "weight": 100,
+    "name": "汤",
+    "en": "Thang "
+  },
+  {
+    "id": 102,
+    "gender": 0,
+    "weight": 100,
+    "name": "隗",
+    "en": "Ngỗi "
+  },
+  {
+    "id": 103,
+    "gender": 0,
+    "weight": 100,
+    "name": "焦",
+    "en": "Tiêu "
+  },
+  {
+    "id": 104,
+    "gender": 0,
+    "weight": 100,
+    "name": "成",
+    "en": "Thành "
+  },
+  {
+    "id": 105,
+    "gender": 0,
+    "weight": 100,
+    "name": "皮",
+    "en": "Bì "
+  },
+  {
+    "id": 106,
+    "gender": 0,
+    "weight": 100,
+    "name": "班",
+    "en": "Ban "
+  },
+  {
+    "id": 107,
+    "gender": 0,
+    "weight": 100,
+    "name": "居",
+    "en": "Cư "
+  },
+  {
+    "id": 108,
+    "gender": 0,
+    "weight": 100,
+    "name": "益",
+    "en": "Ích "
+  },
+  {
+    "id": 109,
+    "gender": 0,
+    "weight": 100,
+    "name": "梅",
+    "en": "Mai "
+  },
+  {
+    "id": 110,
+    "gender": 0,
+    "weight": 100,
+    "name": "郎",
+    "en": "Lang "
+  },
+  {
+    "id": 111,
+    "gender": 0,
+    "weight": 100,
+    "name": "祁",
+    "en": "Kỳ "
+  },
+  {
+    "id": 112,
+    "gender": 0,
+    "weight": 100,
+    "name": "阙",
+    "en": "Khuyết "
+  },
+  {
+    "id": 113,
+    "gender": 0,
+    "weight": 100,
+    "name": "周",
+    "en": "Chu "
+  },
+  {
+    "id": 114,
+    "gender": 0,
+    "weight": 100,
+    "name": "步",
+    "en": "Bộ "
+  },
+  {
+    "id": 115,
+    "gender": 0,
+    "weight": 100,
+    "name": "黄",
+    "en": "Hoàng "
+  },
+  {
+    "id": 116,
+    "gender": 0,
+    "weight": 100,
+    "name": "阎",
+    "en": "Diêm "
+  },
+  {
+    "id": 117,
+    "gender": 0,
+    "weight": 100,
+    "name": "柳",
+    "en": "Liễu "
+  },
+  {
+    "id": 118,
+    "gender": 0,
+    "weight": 100,
+    "name": "邢",
+    "en": "Hình "
+  },
+  {
+    "id": 119,
+    "gender": 0,
+    "weight": 100,
+    "name": "莫",
+    "en": "Mạc "
+  },
+  {
+    "id": 120,
+    "gender": 0,
+    "weight": 100,
+    "name": "汪",
+    "en": "Uông "
+  },
+  {
+    "id": 121,
+    "gender": 0,
+    "weight": 100,
+    "name": "彭",
+    "en": "Bành "
+  },
+  {
+    "id": 122,
+    "gender": 0,
+    "weight": 100,
+    "name": "禹",
+    "en": "Vũ "
+  },
+  {
+    "id": 123,
+    "gender": 0,
+    "weight": 100,
+    "name": "庄",
+    "en": "Trang "
+  },
+  {
+    "id": 124,
+    "gender": 0,
+    "weight": 100,
+    "name": "桑",
+    "en": "Tang "
+  },
+  {
+    "id": 125,
+    "gender": 0,
+    "weight": 100,
+    "name": "堵",
+    "en": "Đổ "
+  },
+  {
+    "id": 126,
+    "gender": 0,
+    "weight": 100,
+    "name": "贝",
+    "en": "Bối "
+  },
+  {
+    "id": 127,
+    "gender": 0,
+    "weight": 100,
+    "name": "颜",
+    "en": "Nhan "
+  },
+  {
+    "id": 128,
+    "gender": 0,
+    "weight": 100,
+    "name": "邬",
+    "en": "Ô "
+  },
+  {
+    "id": 129,
+    "gender": 0,
+    "weight": 100,
+    "name": "古",
+    "en": "Cổ "
+  },
+  {
+    "id": 130,
+    "gender": 0,
+    "weight": 100,
+    "name": "龙",
+    "en": "Long "
+  },
+  {
+    "id": 131,
+    "gender": 0,
+    "weight": 100,
+    "name": "简",
+    "en": "Giản "
+  },
+  {
+    "id": 132,
+    "gender": 0,
+    "weight": 100,
+    "name": "钮",
+    "en": "Nữu "
+  },
+  {
+    "id": 133,
+    "gender": 0,
+    "weight": 100,
+    "name": "秋",
+    "en": "Thu "
+  },
+  {
+    "id": 134,
+    "gender": 0,
+    "weight": 100,
+    "name": "游",
+    "en": "Du "
+  },
+  {
+    "id": 135,
+    "gender": 0,
+    "weight": 100,
+    "name": "管",
+    "en": "Quản "
+  },
+  {
+    "id": 136,
+    "gender": 0,
+    "weight": 100,
+    "name": "湛",
+    "en": "Trạm "
+  },
+  {
+    "id": 137,
+    "gender": 0,
+    "weight": 100,
+    "name": "孙",
+    "en": "Tôn "
+  },
+  {
+    "id": 138,
+    "gender": 0,
+    "weight": 100,
+    "name": "窦",
+    "en": "Đậu "
+  },
+  {
+    "id": 139,
+    "gender": 0,
+    "weight": 100,
+    "name": "魏",
+    "en": "Ngụy "
+  },
+  {
+    "id": 140,
+    "gender": 0,
+    "weight": 100,
+    "name": "呼延",
+    "en": "Hô Diên "
+  },
+  {
+    "id": 141,
+    "gender": 0,
+    "weight": 100,
+    "name": "雷",
+    "en": "Lôi "
+  },
+  {
+    "id": 142,
+    "gender": 0,
+    "weight": 100,
+    "name": "应",
+    "en": "Ứng "
+  },
+  {
+    "id": 143,
+    "gender": 0,
+    "weight": 100,
+    "name": "严",
+    "en": "Nghiêm "
+  },
+  {
+    "id": 144,
+    "gender": 0,
+    "weight": 100,
+    "name": "皇甫",
+    "en": "Hoàng Phủ "
+  },
+  {
+    "id": 145,
+    "gender": 0,
+    "weight": 100,
+    "name": "凌",
+    "en": "Lăng "
+  },
+  {
+    "id": 146,
+    "gender": 0,
+    "weight": 100,
+    "name": "红",
+    "en": "Hồng "
+  },
+  {
+    "id": 147,
+    "gender": 0,
+    "weight": 100,
+    "name": "滕",
+    "en": "Đằng "
+  },
+  {
+    "id": 148,
+    "gender": 0,
+    "weight": 100,
+    "name": "那",
+    "en": "Na "
+  },
+  {
+    "id": 149,
+    "gender": 0,
+    "weight": 100,
+    "name": "燕",
+    "en": "Yến "
+  },
+  {
+    "id": 150,
+    "gender": 0,
+    "weight": 100,
+    "name": "邓",
+    "en": "Đặng "
+  },
+  {
+    "id": 151,
+    "gender": 0,
+    "weight": 100,
+    "name": "艾",
+    "en": "Ngải "
+  },
+  {
+    "id": 152,
+    "gender": 0,
+    "weight": 100,
+    "name": "宫",
+    "en": "Cung "
+  },
+  {
+    "id": 153,
+    "gender": 0,
+    "weight": 100,
+    "name": "蓬",
+    "en": "Bồng "
+  },
+  {
+    "id": 154,
+    "gender": 0,
+    "weight": 100,
+    "name": "寿",
+    "en": "Thọ "
+  },
+  {
+    "id": 155,
+    "gender": 0,
+    "weight": 100,
+    "name": "吕",
+    "en": "Lữ "
+  },
+  {
+    "id": 156,
+    "gender": 0,
+    "weight": 100,
+    "name": "傅",
+    "en": "Phó "
+  },
+  {
+    "id": 157,
+    "gender": 0,
+    "weight": 100,
+    "name": "巩",
+    "en": "Củng "
+  },
+  {
+    "id": 158,
+    "gender": 0,
+    "weight": 100,
+    "name": "杭",
+    "en": "Hàng "
+  },
+  {
+    "id": 159,
+    "gender": 0,
+    "weight": 100,
+    "name": "毕",
+    "en": "Tất "
+  },
+  {
+    "id": 160,
+    "gender": 0,
+    "weight": 100,
+    "name": "鲍",
+    "en": "Bảo "
+  },
+  {
+    "id": 161,
+    "gender": 0,
+    "weight": 100,
+    "name": "权",
+    "en": "Quyền "
+  },
+  {
+    "id": 162,
+    "gender": 0,
+    "weight": 100,
+    "name": "白",
+    "en": "Bạch "
+  },
+  {
+    "id": 163,
+    "gender": 0,
+    "weight": 100,
+    "name": "虞",
+    "en": "Ngu "
+  },
+  {
+    "id": 164,
+    "gender": 0,
+    "weight": 100,
+    "name": "沈",
+    "en": "Thẩm "
+  },
+  {
+    "id": 165,
+    "gender": 0,
+    "weight": 100,
+    "name": "苍",
+    "en": "Thương "
+  },
+  {
+    "id": 166,
+    "gender": 0,
+    "weight": 100,
+    "name": "范",
+    "en": "Phạm "
+  },
+  {
+    "id": 167,
+    "gender": 0,
+    "weight": 100,
+    "name": "边",
+    "en": "Biên "
+  },
+  {
+    "id": 168,
+    "gender": 0,
+    "weight": 100,
+    "name": "百里",
+    "en": "Bách Lý "
+  },
+  {
+    "id": 169,
+    "gender": 0,
+    "weight": 100,
+    "name": "杜",
+    "en": "Đỗ "
+  },
+  {
+    "id": 170,
+    "gender": 0,
+    "weight": 100,
+    "name": "南宫",
+    "en": "Nam Cung "
+  },
+  {
+    "id": 171,
+    "gender": 0,
+    "weight": 100,
+    "name": "庚",
+    "en": "Canh "
+  },
+  {
+    "id": 172,
+    "gender": 0,
+    "weight": 100,
+    "name": "田",
+    "en": "Điền "
+  },
+  {
+    "id": 173,
+    "gender": 0,
+    "weight": 100,
+    "name": "裘",
+    "en": "Cừu "
+  },
+  {
+    "id": 174,
+    "gender": 0,
+    "weight": 100,
+    "name": "贺",
+    "en": "Hạ "
+  },
+  {
+    "id": 175,
+    "gender": 0,
+    "weight": 100,
+    "name": "戴",
+    "en": "Đái "
+  },
+  {
+    "id": 176,
+    "gender": 0,
+    "weight": 100,
+    "name": "郜",
+    "en": "Hồ "
+  },
+  {
+    "id": 177,
+    "gender": 0,
+    "weight": 100,
+    "name": "苏",
+    "en": "Tô "
+  },
+  {
+    "id": 178,
+    "gender": 0,
+    "weight": 100,
+    "name": "甄",
+    "en": "Chân "
+  },
+  {
+    "id": 179,
+    "gender": 0,
+    "weight": 100,
+    "name": "程",
+    "en": "Trình "
+  },
+  {
+    "id": 180,
+    "gender": 0,
+    "weight": 100,
+    "name": "吴",
+    "en": "Ngô "
+  },
+  {
+    "id": 181,
+    "gender": 0,
+    "weight": 100,
+    "name": "狄",
+    "en": "Địch "
+  },
+  {
+    "id": 182,
+    "gender": 0,
+    "weight": 100,
+    "name": "萧",
+    "en": "Tiêu "
+  },
+  {
+    "id": 183,
+    "gender": 0,
+    "weight": 100,
+    "name": "毋",
+    "en": "Vô "
+  },
+  {
+    "id": 184,
+    "gender": 0,
+    "weight": 100,
+    "name": "蒲",
+    "en": "Bồ "
+  },
+  {
+    "id": 185,
+    "gender": 0,
+    "weight": 100,
+    "name": "崔",
+    "en": "Thôi "
+  },
+  {
+    "id": 186,
+    "gender": 0,
+    "weight": 100,
+    "name": "荀",
+    "en": "Tuân "
+  },
+  {
+    "id": 187,
+    "gender": 0,
+    "weight": 100,
+    "name": "尚",
+    "en": "Thượng "
+  },
+  {
+    "id": 188,
+    "gender": 0,
+    "weight": 100,
+    "name": "闻",
+    "en": "Văn "
+  },
+  {
+    "id": 189,
+    "gender": 0,
+    "weight": 100,
+    "name": "张",
+    "en": "Trương "
+  },
+  {
+    "id": 190,
+    "gender": 0,
+    "weight": 100,
+    "name": "冉",
+    "en": "Nhiễm "
+  },
+  {
+    "id": 191,
+    "gender": 0,
+    "weight": 100,
+    "name": "匡",
+    "en": "Khuông "
+  },
+  {
+    "id": 192,
+    "gender": 0,
+    "weight": 100,
+    "name": "林",
+    "en": "Lâm "
+  },
+  {
+    "id": 193,
+    "gender": 0,
+    "weight": 100,
+    "name": "郏",
+    "en": "Giáp "
+  },
+  {
+    "id": 194,
+    "gender": 0,
+    "weight": 100,
+    "name": "赖",
+    "en": "Lại "
+  },
+  {
+    "id": 195,
+    "gender": 0,
+    "weight": 100,
+    "name": "欧阳",
+    "en": "Âu Dương "
+  },
+  {
+    "id": 196,
+    "gender": 0,
+    "weight": 100,
+    "name": "姜",
+    "en": "Khương "
+  },
+  {
+    "id": 197,
+    "gender": 0,
+    "weight": 100,
+    "name": "陈",
+    "en": "Trần "
+  },
+  {
+    "id": 198,
+    "gender": 0,
+    "weight": 100,
+    "name": "段",
+    "en": "Đoạn "
+  },
+  {
+    "id": 199,
+    "gender": 0,
+    "weight": 100,
+    "name": "敖",
+    "en": "Ngao "
+  },
+  {
+    "id": 200,
+    "gender": 0,
+    "weight": 100,
+    "name": "苗",
+    "en": "Miêu "
+  },
+  {
+    "id": 201,
+    "gender": 0,
+    "weight": 100,
+    "name": "穆",
+    "en": "Mục "
+  },
+  {
+    "id": 202,
+    "gender": 0,
+    "weight": 100,
+    "name": "路",
+    "en": "Lộ "
+  },
+  {
+    "id": 203,
+    "gender": 0,
+    "weight": 100,
+    "name": "柯",
+    "en": "Kha "
+  },
+  {
+    "id": 204,
+    "gender": 0,
+    "weight": 100,
+    "name": "关",
+    "en": "Quan "
+  },
+  {
+    "id": 205,
+    "gender": 0,
+    "weight": 100,
+    "name": "山",
+    "en": "Sơn "
+  },
+  {
+    "id": 206,
+    "gender": 0,
+    "weight": 100,
+    "name": "巴",
+    "en": "Ba "
+  },
+  {
+    "id": 207,
+    "gender": 0,
+    "weight": 100,
+    "name": "易",
+    "en": "Dịch "
+  },
+  {
+    "id": 208,
+    "gender": 0,
+    "weight": 100,
+    "name": "卜",
+    "en": "Bặc "
+  },
+  {
+    "id": 209,
+    "gender": 0,
+    "weight": 100,
+    "name": "宣",
+    "en": "Tuyên "
+  },
+  {
+    "id": 210,
+    "gender": 0,
+    "weight": 100,
+    "name": "高",
+    "en": "Cao "
+  },
+  {
+    "id": 211,
+    "gender": 0,
+    "weight": 100,
+    "name": "霍",
+    "en": "Hoắc "
+  },
+  {
+    "id": 212,
+    "gender": 0,
+    "weight": 100,
+    "name": "谭",
+    "en": "Đàm "
+  },
+  {
+    "id": 213,
+    "gender": 0,
+    "weight": 100,
+    "name": "梅",
+    "en": "Mai "
+  },
+  {
+    "id": 214,
+    "gender": 0,
+    "weight": 100,
+    "name": "须",
+    "en": "Tu "
+  },
+  {
+    "id": 215,
+    "gender": 0,
+    "weight": 100,
+    "name": "鲁",
+    "en": "Lỗ "
+  },
+  {
+    "id": 216,
+    "gender": 0,
+    "weight": 100,
+    "name": "廉",
+    "en": "Liêm "
+  },
+  {
+    "id": 217,
+    "gender": 0,
+    "weight": 100,
+    "name": "伏",
+    "en": "Phục "
+  },
+  {
+    "id": 218,
+    "gender": 0,
+    "weight": 100,
+    "name": "舒",
+    "en": "Thư "
+  },
+  {
+    "id": 219,
+    "gender": 0,
+    "weight": 100,
+    "name": "郭",
+    "en": "Quách "
+  },
+  {
+    "id": 220,
+    "gender": 0,
+    "weight": 100,
+    "name": "连",
+    "en": "Liên "
+  },
+  {
+    "id": 221,
+    "gender": 0,
+    "weight": 100,
+    "name": "满",
+    "en": "Mãn "
+  },
+  {
+    "id": 222,
+    "gender": 0,
+    "weight": 100,
+    "name": "祖",
+    "en": "Tổ "
+  },
+  {
+    "id": 223,
+    "gender": 0,
+    "weight": 100,
+    "name": "钟",
+    "en": "Chung "
+  },
+  {
+    "id": 224,
+    "gender": 0,
+    "weight": 100,
+    "name": "花",
+    "en": "Hoa "
+  },
+  {
+    "id": 225,
+    "gender": 0,
+    "weight": 100,
+    "name": "熊",
+    "en": "Hùng "
+  },
+  {
+    "id": 226,
+    "gender": 0,
+    "weight": 100,
+    "name": "贾",
+    "en": "Giả "
+  },
+  {
+    "id": 227,
+    "gender": 0,
+    "weight": 100,
+    "name": "庞",
+    "en": "Bàng "
+  },
+  {
+    "id": 228,
+    "gender": 0,
+    "weight": 100,
+    "name": "丰",
+    "en": "Phong "
+  },
+  {
+    "id": 229,
+    "gender": 0,
+    "weight": 100,
+    "name": "戈",
+    "en": "Qua "
+  },
+  {
+    "id": 230,
+    "gender": 0,
+    "weight": 100,
+    "name": "侯",
+    "en": "Hầu "
+  },
+  {
+    "id": 231,
+    "gender": 0,
+    "weight": 100,
+    "name": "容",
+    "en": "Dung "
+  },
+  {
+    "id": 232,
+    "gender": 0,
+    "weight": 100,
+    "name": "汲",
+    "en": "Cấp "
+  },
+  {
+    "id": 233,
+    "gender": 0,
+    "weight": 100,
+    "name": "蒯",
+    "en": "Khoái "
+  },
+  {
+    "id": 234,
+    "gender": 0,
+    "weight": 100,
+    "name": "晏",
+    "en": "Yến "
+  },
+  {
+    "id": 235,
+    "gender": 0,
+    "weight": 100,
+    "name": "姬",
+    "en": "Cơ "
+  },
+  {
+    "id": 236,
+    "gender": 0,
+    "weight": 100,
+    "name": "郁",
+    "en": "Úc "
+  },
+  {
+    "id": 237,
+    "gender": 0,
+    "weight": 100,
+    "name": "季",
+    "en": "Quý "
+  },
+  {
+    "id": 238,
+    "gender": 0,
+    "weight": 100,
+    "name": "司空",
+    "en": "Tư Không "
+  },
+  {
+    "id": 239,
+    "gender": 0,
+    "weight": 100,
+    "name": "于",
+    "en": "Vu "
+  },
+  {
+    "id": 240,
+    "gender": 0,
+    "weight": 100,
+    "name": "车",
+    "en": "Xa "
+  },
+  {
+    "id": 241,
+    "gender": 0,
+    "weight": 100,
+    "name": "都",
+    "en": "Đô "
+  },
+  {
+    "id": 242,
+    "gender": 0,
+    "weight": 100,
+    "name": "伍",
+    "en": "Ngũ "
+  },
+  {
+    "id": 243,
+    "gender": 0,
+    "weight": 100,
+    "name": "申",
+    "en": "Thân "
+  },
+  {
+    "id": 244,
+    "gender": 0,
+    "weight": 100,
+    "name": "扶",
+    "en": "Phù "
+  },
+  {
+    "id": 245,
+    "gender": 0,
+    "weight": 100,
+    "name": "屈",
+    "en": "Khuất "
+  },
+  {
+    "id": 246,
+    "gender": 0,
+    "weight": 100,
+    "name": "柴",
+    "en": "Sài "
+  },
+  {
+    "id": 247,
+    "gender": 0,
+    "weight": 100,
+    "name": "翟",
+    "en": "Địch "
+  },
+  {
+    "id": 248,
+    "gender": 0,
+    "weight": 100,
+    "name": "蔡",
+    "en": "Thái "
+  },
+  {
+    "id": 249,
+    "gender": 0,
+    "weight": 100,
+    "name": "全",
+    "en": "Toàn "
+  },
+  {
+    "id": 250,
+    "gender": 0,
+    "weight": 100,
+    "name": "农",
+    "en": "Nông "
+  },
+  {
+    "id": 251,
+    "gender": 0,
+    "weight": 100,
+    "name": "茅",
+    "en": "Mao "
+  },
+  {
+    "id": 252,
+    "gender": 0,
+    "weight": 100,
+    "name": "东",
+    "en": "Đông "
+  },
+  {
+    "id": 253,
+    "gender": 0,
+    "weight": 100,
+    "name": "慎",
+    "en": "Thận "
+  },
+  {
+    "id": 254,
+    "gender": 0,
+    "weight": 100,
+    "name": "解",
+    "en": "Giải "
+  },
+  {
+    "id": 255,
+    "gender": 0,
+    "weight": 100,
+    "name": "昌",
+    "en": "Xương "
+  },
+  {
+    "id": 256,
+    "gender": 0,
+    "weight": 100,
+    "name": "暨",
+    "en": "Kỵ "
+  },
+  {
+    "id": 257,
+    "gender": 0,
+    "weight": 100,
+    "name": "万",
+    "en": "Vạn "
+  },
+  {
+    "id": 258,
+    "gender": 0,
+    "weight": 100,
+    "name": "弘",
+    "en": "Hoằng "
+  },
+  {
+    "id": 259,
+    "gender": 0,
+    "weight": 100,
+    "name": "宋",
+    "en": "Tống "
+  },
+  {
+    "id": 260,
+    "gender": 0,
+    "weight": 100,
+    "name": "史",
+    "en": "Sử "
+  },
+  {
+    "id": 261,
+    "gender": 0,
+    "weight": 100,
+    "name": "蓟",
+    "en": "Kế "
+  },
+  {
+    "id": 262,
+    "gender": 0,
+    "weight": 100,
+    "name": "栾",
+    "en": "Loan "
+  },
+  {
+    "id": 263,
+    "gender": 0,
+    "weight": 100,
+    "name": "闻人",
+    "en": "Văn Nhân "
+  },
+  {
+    "id": 264,
+    "gender": 0,
+    "weight": 100,
+    "name": "甘",
+    "en": "Cam "
+  },
+  {
+    "id": 265,
+    "gender": 0,
+    "weight": 100,
+    "name": "郦",
+    "en": "Ly "
+  },
+  {
+    "id": 266,
+    "gender": 0,
+    "weight": 100,
+    "name": "陆",
+    "en": "Lục "
+  },
+  {
+    "id": 267,
+    "gender": 0,
+    "weight": 100,
+    "name": "隆",
+    "en": "Long "
+  },
+  {
+    "id": 268,
+    "gender": 0,
+    "weight": 100,
+    "name": "邱",
+    "en": "Khâu "
+  },
+  {
+    "id": 269,
+    "gender": 0,
+    "weight": 100,
+    "name": "西门",
+    "en": "Tây Môn "
+  },
+  {
+    "id": 270,
+    "gender": 0,
+    "weight": 100,
+    "name": "雍",
+    "en": "Ung "
+  },
+  {
+    "id": 271,
+    "gender": 0,
+    "weight": 100,
+    "name": "储",
+    "en": "Ninh "
+  },
+  {
+    "id": 272,
+    "gender": 0,
+    "weight": 100,
+    "name": "盛",
+    "en": "Thịnh "
+  },
+  {
+    "id": 273,
+    "gender": 0,
+    "weight": 100,
+    "name": "长孙",
+    "en": "Trưởng Tôn "
+  },
+  {
+    "id": 274,
+    "gender": 0,
+    "weight": 100,
+    "name": "聂",
+    "en": "Nhiếp "
+  },
+  {
+    "id": 275,
+    "gender": 0,
+    "weight": 100,
+    "name": "贡",
+    "en": "Cống "
+  },
+  {
+    "id": 276,
+    "gender": 0,
+    "weight": 100,
+    "name": "南宫",
+    "en": "Nam Cung "
+  },
+  {
+    "id": 277,
+    "gender": 0,
+    "weight": 100,
+    "name": "幸",
+    "en": "Hạnh "
+  },
+  {
+    "id": 278,
+    "gender": 0,
+    "weight": 100,
+    "name": "吉",
+    "en": "Cát "
+  },
+  {
+    "id": 279,
+    "gender": 0,
+    "weight": 100,
+    "name": "巫马",
+    "en": "Vu Mã "
+  },
+  {
+    "id": 280,
+    "gender": 0,
+    "weight": 100,
+    "name": "鞠",
+    "en": "Cúc "
+  },
+  {
+    "id": 281,
+    "gender": 0,
+    "weight": 100,
+    "name": "冀",
+    "en": "Ký "
+  },
+  {
+    "id": 282,
+    "gender": 0,
+    "weight": 100,
+    "name": "富",
+    "en": "Phú "
+  },
+  {
+    "id": 283,
+    "gender": 0,
+    "weight": 100,
+    "name": "曹",
+    "en": "Tào "
+  },
+  {
+    "id": 284,
+    "gender": 0,
+    "weight": 100,
+    "name": "濮",
+    "en": "Bộc "
+  },
+  {
+    "id": 285,
+    "gender": 0,
+    "weight": 100,
+    "name": "蔺",
+    "en": "Lận "
+  },
+  {
+    "id": 286,
+    "gender": 0,
+    "weight": 100,
+    "name": "邹",
+    "en": "Trâu "
+  },
+  {
+    "id": 287,
+    "gender": 0,
+    "weight": 100,
+    "name": "慕",
+    "en": "Mộ "
+  },
+  {
+    "id": 288,
+    "gender": 0,
+    "weight": 100,
+    "name": "董",
+    "en": "Đổng "
+  },
+  {
+    "id": 289,
+    "gender": 0,
+    "weight": 100,
+    "name": "戚",
+    "en": "Thích "
+  },
+  {
+    "id": 290,
+    "gender": 0,
+    "weight": 100,
+    "name": "封",
+    "en": "Phong "
+  },
+  {
+    "id": 291,
+    "gender": 0,
+    "weight": 100,
+    "name": "荣",
+    "en": "Vinh "
+  },
+  {
+    "id": 292,
+    "gender": 0,
+    "weight": 100,
+    "name": "秦",
+    "en": "Tần "
+  },
+  {
+    "id": 293,
+    "gender": 0,
+    "weight": 100,
+    "name": "桓",
+    "en": "Hoàn "
+  },
+  {
+    "id": 294,
+    "gender": 0,
+    "weight": 100,
+    "name": "别",
+    "en": "Biệt "
+  },
+  {
+    "id": 295,
+    "gender": 0,
+    "weight": 100,
+    "name": "洪",
+    "en": "Hồng "
+  },
+  {
+    "id": 296,
+    "gender": 0,
+    "weight": 100,
+    "name": "赵",
+    "en": "Triệu "
+  },
+  {
+    "id": 297,
+    "gender": 0,
+    "weight": 100,
+    "name": "终",
+    "en": "Chung "
+  },
+  {
+    "id": 298,
+    "gender": 0,
+    "weight": 100,
+    "name": "文",
+    "en": "Văn "
+  },
+  {
+    "id": 299,
+    "gender": 0,
+    "weight": 100,
+    "name": "纪",
+    "en": "Kỷ "
+  },
+  {
+    "id": 300,
+    "gender": 0,
+    "weight": 100,
+    "name": "宗",
+    "en": "Tông "
+  },
+  {
+    "id": 301,
+    "gender": 0,
+    "weight": 100,
+    "name": "孟",
+    "en": "Mạnh "
+  },
+  {
+    "id": 302,
+    "gender": 0,
+    "weight": 100,
+    "name": "郑",
+    "en": "Trịnh "
+  },
+  {
+    "id": 303,
+    "gender": 0,
+    "weight": 100,
+    "name": "井",
+    "en": "Tỉnh "
+  },
+  {
+    "id": 304,
+    "gender": 0,
+    "weight": 100,
+    "name": "怀",
+    "en": "Hoài "
+  },
+  {
+    "id": 305,
+    "gender": 0,
+    "weight": 100,
+    "name": "经",
+    "en": "Kinh "
+  },
+  {
+    "id": 306,
+    "gender": 0,
+    "weight": 100,
+    "name": "杨",
+    "en": "Dương "
+  },
+  {
+    "id": 307,
+    "gender": 0,
+    "weight": 100,
+    "name": "常",
+    "en": "Thường "
+  },
+  {
+    "id": 308,
+    "gender": 0,
+    "weight": 100,
+    "name": "袁",
+    "en": "Viên "
+  },
+  {
+    "id": 309,
+    "gender": 0,
+    "weight": 100,
+    "name": "石",
+    "en": "Thạch "
+  },
+  {
+    "id": 310,
+    "gender": 0,
+    "weight": 100,
+    "name": "龚",
+    "en": "Cung "
+  },
+  {
+    "id": 311,
+    "gender": 0,
+    "weight": 100,
+    "name": "相",
+    "en": "Tương "
+  },
+  {
+    "id": 312,
+    "gender": 0,
+    "weight": 100,
+    "name": "岑",
+    "en": "Sầm "
+  },
+  {
+    "id": 313,
+    "gender": 0,
+    "weight": 100,
+    "name": "束",
+    "en": "Thúc "
+  },
+  {
+    "id": 314,
+    "gender": 0,
+    "weight": 100,
+    "name": "章",
+    "en": "Chương "
+  },
+  {
+    "id": 315,
+    "gender": 0,
+    "weight": 100,
+    "name": "乐",
+    "en": "Nhạc "
+  },
+  {
+    "id": 316,
+    "gender": 0,
+    "weight": 100,
+    "name": "薛",
+    "en": "Tiết "
+  },
+  {
+    "id": 317,
+    "gender": 0,
+    "weight": 100,
+    "name": "安",
+    "en": "An "
+  },
+  {
+    "id": 318,
+    "gender": 0,
+    "weight": 100,
+    "name": "乌",
+    "en": "Ô "
+  },
+  {
+    "id": 319,
+    "gender": 0,
+    "weight": 100,
+    "name": "师",
+    "en": "Sư "
+  },
+  {
+    "id": 320,
+    "gender": 0,
+    "weight": 100,
+    "name": "水",
+    "en": "Thủy "
+  },
+  {
+    "id": 321,
+    "gender": 0,
+    "weight": 100,
+    "name": "顾",
+    "en": "Cố "
+  },
+  {
+    "id": 322,
+    "gender": 0,
+    "weight": 100,
+    "name": "宓",
+    "en": "Mật "
+  },
+  {
+    "id": 323,
+    "gender": 0,
+    "weight": 100,
+    "name": "单",
+    "en": "Thiện "
+  },
+  {
+    "id": 324,
+    "gender": 0,
+    "weight": 100,
+    "name": "时",
+    "en": "Thì "
+  },
+  {
+    "id": 325,
+    "gender": 0,
+    "weight": 100,
+    "name": "危",
+    "en": "Nguy "
+  },
+  {
+    "id": 326,
+    "gender": 0,
+    "weight": 100,
+    "name": "奚",
+    "en": "Hề "
+  },
+  {
+    "id": 327,
+    "gender": 0,
+    "weight": 100,
+    "name": "籍",
+    "en": "Tịch "
+  },
+  {
+    "id": 328,
+    "gender": 0,
+    "weight": 100,
+    "name": "惠",
+    "en": "Huệ "
+  },
+  {
+    "id": 329,
+    "gender": 0,
+    "weight": 100,
+    "name": "弓",
+    "en": "Cung "
+  },
+  {
+    "id": 330,
+    "gender": 0,
+    "weight": 100,
+    "name": "令狐",
+    "en": "Lệnh Hồ "
+  },
+  {
+    "id": 331,
+    "gender": 0,
+    "weight": 100,
+    "name": "劳",
+    "en": "Lao "
+  },
+  {
+    "id": 332,
+    "gender": 0,
+    "weight": 100,
+    "name": "冯",
+    "en": "Phùng "
+  },
+  {
+    "id": 333,
+    "gender": 0,
+    "weight": 100,
+    "name": "方",
+    "en": "Phương "
+  },
+  {
+    "id": 334,
+    "gender": 0,
+    "weight": 100,
+    "name": "双",
+    "en": "Song "
+  },
+  {
+    "id": 335,
+    "gender": 0,
+    "weight": 100,
+    "name": "东方",
+    "en": "Đông Phương "
+  },
+  {
+    "id": 336,
+    "gender": 0,
+    "weight": 100,
+    "name": "衡",
+    "en": "Hành "
+  },
+  {
+    "id": 337,
+    "gender": 0,
+    "weight": 100,
+    "name": "通",
+    "en": "Thông "
+  },
+  {
+    "id": 338,
+    "gender": 0,
+    "weight": 100,
+    "name": "支",
+    "en": "Chi "
+  },
+  {
+    "id": 339,
+    "gender": 0,
+    "weight": 100,
+    "name": "阮",
+    "en": "Nguyễn "
+  },
+  {
+    "id": 340,
+    "gender": 0,
+    "weight": 100,
+    "name": "金",
+    "en": "Kim "
+  },
+  {
+    "id": 341,
+    "gender": 0,
+    "weight": 100,
+    "name": "屠",
+    "en": "Đồ "
+  },
+  {
+    "id": 342,
+    "gender": 0,
+    "weight": 100,
+    "name": "缪",
+    "en": "Mâu "
+  },
+  {
+    "id": 343,
+    "gender": 0,
+    "weight": 100,
+    "name": "扈",
+    "en": "Hỗ "
+  },
+  {
+    "id": 344,
+    "gender": 0,
+    "weight": 100,
+    "name": "司徒",
+    "en": "Tư Đồ "
+  },
+  {
+    "id": 345,
+    "gender": 0,
+    "weight": 100,
+    "name": "向",
+    "en": "Hướng "
+  },
+  {
+    "id": 346,
+    "gender": 0,
+    "weight": 100,
+    "name": "公",
+    "en": "Công "
+  },
+  {
+    "id": 347,
+    "gender": 0,
+    "weight": 100,
+    "name": "毛",
+    "en": "Mao "
+  },
+  {
+    "id": 348,
+    "gender": 0,
+    "weight": 100,
+    "name": "谈",
+    "en": "Đàm "
+  },
+  {
+    "id": 349,
+    "gender": 0,
+    "weight": 100,
+    "name": "芮",
+    "en": "Nhuế "
+  },
+  {
+    "id": 350,
+    "gender": 0,
+    "weight": 100,
+    "name": "沃",
+    "en": "Ốc "
+  },
+  {
+    "id": 351,
+    "gender": 0,
+    "weight": 100,
+    "name": "尤",
+    "en": "Vưu "
+  },
+  {
+    "id": 352,
+    "gender": 0,
+    "weight": 100,
+    "name": "韦",
+    "en": "Vi "
+  },
+  {
+    "id": 353,
+    "gender": 0,
+    "weight": 100,
+    "name": "施",
+    "en": "Thi "
+  },
+  {
+    "id": 354,
+    "gender": 0,
+    "weight": 100,
+    "name": "韶",
+    "en": "Thiều "
+  },
+  {
+    "id": 355,
+    "gender": 0,
+    "weight": 100,
+    "name": "华",
+    "en": "Hoa "
+  },
+  {
+    "id": 356,
+    "gender": 0,
+    "weight": 100,
+    "name": "娄",
+    "en": "Lâu "
+  },
+  {
+    "id": 357,
+    "gender": 0,
+    "weight": 100,
+    "name": "谷",
+    "en": "Cốc "
+  },
+  {
+    "id": 358,
+    "gender": 0,
+    "weight": 100,
+    "name": "巢",
+    "en": "Sào "
+  },
+  {
+    "id": 359,
+    "gender": 0,
+    "weight": 100,
+    "name": "晁",
+    "en": "Triều "
+  },
+  {
+    "id": 360,
+    "gender": 0,
+    "weight": 100,
+    "name": "计",
+    "en": "Kế "
+  },
+  {
+    "id": 361,
+    "gender": 0,
+    "weight": 100,
+    "name": "尹",
+    "en": "Doãn "
+  },
+  {
+    "id": 362,
+    "gender": 0,
+    "weight": 100,
+    "name": "蓟",
+    "en": "Kế "
+  },
+  {
+    "id": 363,
+    "gender": 0,
+    "weight": 100,
+    "name": "宿",
+    "en": "Túc "
+  },
+  {
+    "id": 364,
+    "gender": 0,
+    "weight": 100,
+    "name": "和",
+    "en": "Hòa "
+  },
+  {
+    "id": 365,
+    "gender": 0,
+    "weight": 100,
+    "name": "江",
+    "en": "Giang "
+  },
+  {
+    "id": 366,
+    "gender": 0,
+    "weight": 100,
+    "name": "潘",
+    "en": "Phan "
+  },
+  {
+    "id": 367,
+    "gender": 0,
+    "weight": 100,
+    "name": "印",
+    "en": "Ấn "
+  },
+  {
+    "id": 368,
+    "gender": 0,
+    "weight": 100,
+    "name": "荆",
+    "en": "Kinh "
+  },
+  {
+    "id": 369,
+    "gender": 0,
+    "weight": 100,
+    "name": "陶",
+    "en": "Đào "
+  },
+  {
+    "id": 370,
+    "gender": 0,
+    "weight": 100,
+    "name": "符",
+    "en": "Phù "
+  },
+  {
+    "id": 371,
+    "gender": 0,
+    "weight": 100,
+    "name": "姚",
+    "en": "Diêu "
+  },
+  {
+    "id": 372,
+    "gender": 0,
+    "weight": 100,
+    "name": "南门",
+    "en": "Nam Môn "
+  },
+  {
+    "id": 373,
+    "gender": 0,
+    "weight": 100,
+    "name": "仰",
+    "en": "Ngưỡng "
+  },
+  {
+    "id": 374,
+    "gender": 0,
+    "weight": 100,
+    "name": "於",
+    "en": "Vu "
+  },
+  {
+    "id": 375,
+    "gender": 0,
+    "weight": 100,
+    "name": "喻",
+    "en": "Dụ "
+  },
+  {
+    "id": 376,
+    "gender": 0,
+    "weight": 100,
+    "name": "咸",
+    "en": "Hàm "
+  },
+  {
+    "id": 377,
+    "gender": 0,
+    "weight": 100,
+    "name": "郝",
+    "en": "Hách "
+  },
+  {
+    "id": 378,
+    "gender": 0,
+    "weight": 100,
+    "name": "诸葛",
+    "en": "Chư Cát "
+  },
+  {
+    "id": 379,
+    "gender": 0,
+    "weight": 100,
+    "name": "钱",
+    "en": "Tiền "
+  },
+  {
+    "id": 380,
+    "gender": 0,
+    "weight": 100,
+    "name": "濮阳",
+    "en": "Bộc Dương "
+  },
+  {
+    "id": 381,
+    "gender": 0,
+    "weight": 100,
+    "name": "卞",
+    "en": "Biện "
+  },
+  {
+    "id": 382,
+    "gender": 0,
+    "weight": 100,
+    "name": "裴",
+    "en": "Bùi "
+  },
+  {
+    "id": 383,
+    "gender": 0,
+    "weight": 100,
+    "name": "饶",
+    "en": "Nhiêu "
+  },
+  {
+    "id": 384,
+    "gender": 0,
+    "weight": 100,
+    "name": "元",
+    "en": "Nguyên "
+  },
+  {
+    "id": 385,
+    "gender": 0,
+    "weight": 100,
+    "name": "盖",
+    "en": "Cái "
+  },
+  {
+    "id": 386,
+    "gender": 0,
+    "weight": 100,
+    "name": "茹",
+    "en": "Như "
+  },
+  {
+    "id": 387,
+    "gender": 0,
+    "weight": 100,
+    "name": "凤",
+    "en": "Phượng "
+  },
+  {
+    "id": 388,
+    "gender": 0,
+    "weight": 100,
+    "name": "加",
+    "en": "Gia "
+  },
+  {
+    "id": 389,
+    "gender": 0,
+    "weight": 100,
+    "name": "松",
+    "en": "Tùng "
+  },
+  {
+    "id": 390,
+    "gender": 0,
+    "weight": 100,
+    "name": "詹",
+    "en": "Chiêm "
+  },
+  {
+    "id": 391,
+    "gender": 0,
+    "weight": 100,
+    "name": "卫",
+    "en": "Vệ "
+  },
+  {
+    "id": 392,
+    "gender": 0,
+    "weight": 100,
+    "name": "济",
+    "en": "Tế "
+  },
+  {
+    "id": 393,
+    "gender": 0,
+    "weight": 100,
+    "name": "索",
+    "en": "Tác "
+  },
+  {
+    "id": 394,
+    "gender": 0,
+    "weight": 100,
+    "name": "麻",
+    "en": "Ma "
+  },
+  {
+    "id": 395,
+    "gender": 0,
+    "weight": 100,
+    "name": "糜",
+    "en": "Mi "
+  },
+  {
+    "id": 396,
+    "gender": 0,
+    "weight": 100,
+    "name": "羿",
+    "en": "Nghệ "
+  },
+  {
+    "id": 397,
+    "gender": 0,
+    "weight": 100,
+    "name": "查",
+    "en": "Tra "
+  },
+  {
+    "id": 398,
+    "gender": 0,
+    "weight": 100,
+    "name": "杨",
+    "en": "Dương "
+  },
+  {
+    "id": 399,
+    "gender": 0,
+    "weight": 100,
+    "name": "徐",
+    "en": "Từ "
+  },
+  {
+    "id": 400,
+    "gender": 0,
+    "weight": 100,
+    "name": "全",
+    "en": "Toàn "
+  },
+  {
+    "id": 401,
+    "gender": 0,
+    "weight": 100,
+    "name": "丁",
+    "en": "Đinh "
+  },
+  {
+    "id": 402,
+    "gender": 0,
+    "weight": 100,
+    "name": "柏",
+    "en": "Bách "
+  },
+  {
+    "id": 403,
+    "gender": 0,
+    "weight": 100,
+    "name": "嵇",
+    "en": "Kê "
+  },
+  {
+    "id": 404,
+    "gender": 0,
+    "weight": 100,
+    "name": "禄",
+    "en": "Lộc "
+  },
+  {
+    "id": 405,
+    "gender": 0,
+    "weight": 100,
+    "name": "宰",
+    "en": "Tể "
+  },
+  {
+    "id": 406,
+    "gender": 0,
+    "weight": 100,
+    "name": "朱",
+    "en": "Chu "
+  },
+  {
+    "id": 407,
+    "gender": 0,
+    "weight": 100,
+    "name": "钮",
+    "en": "Nữu "
+  },
+  {
+    "id": 408,
+    "gender": 0,
+    "weight": 50,
+    "name": "太史",
+    "en": "Thái Sử "
+  },
+  {
+    "id": 409,
+    "gender": 0,
+    "weight": 50,
+    "name": "端木",
+    "en": "Đoan Mộc "
+  },
+  {
+    "id": 410,
+    "gender": 0,
+    "weight": 50,
+    "name": "司马",
+    "en": "Tư Mã "
+  },
+  {
+    "id": 411,
+    "gender": 0,
+    "weight": 50,
+    "name": "独孤",
+    "en": "Độc Cô "
+  },
+  {
+    "id": 412,
+    "gender": 0,
+    "weight": 0,
+    "name": "万俟",
+    "en": "Vạn Sĩ "
+  },
+  {
+    "id": 413,
+    "gender": 0,
+    "weight": 50,
+    "name": "尉迟",
+    "en": "Úy Trì "
+  },
+  {
+    "id": 414,
+    "gender": 0,
+    "weight": 0,
+    "name": "公羊",
+    "en": "Công Dương "
+  },
+  {
+    "id": 415,
+    "gender": 0,
+    "weight": 50,
+    "name": "赫连",
+    "en": "Hách Liên "
+  },
+  {
+    "id": 416,
+    "gender": 0,
+    "weight": 50,
+    "name": "澹台",
+    "en": "Đạm Đài "
+  },
+  {
+    "id": 417,
+    "gender": 0,
+    "weight": 0,
+    "name": "宗政",
+    "en": "Tông Chính "
+  },
+  {
+    "id": 418,
+    "gender": 0,
+    "weight": 50,
+    "name": "公冶",
+    "en": "Công Dã "
+  },
+  {
+    "id": 419,
+    "gender": 0,
+    "weight": 50,
+    "name": "太叔",
+    "en": "Thái Thúc "
+  },
+  {
+    "id": 420,
+    "gender": 0,
+    "weight": 50,
+    "name": "申屠",
+    "en": "Thân Đồ "
+  },
+  {
+    "id": 421,
+    "gender": 0,
+    "weight": 50,
+    "name": "鲜于",
+    "en": "Tiên Vu "
+  },
+  {
+    "id": 422,
+    "gender": 0,
+    "weight": 50,
+    "name": "闾丘",
+    "en": "Lư Khâu "
+  },
+  {
+    "id": 423,
+    "gender": 0,
+    "weight": 50,
+    "name": "子车",
+    "en": "Tử Xa "
+  },
+  {
+    "id": 424,
+    "gender": 0,
+    "weight": 0,
+    "name": "亓官",
+    "en": "Kỳ Quan "
+  },
+  {
+    "id": 425,
+    "gender": 0,
+    "weight": 50,
+    "name": "司寇",
+    "en": "Tư Khấu "
+  },
+  {
+    "id": 426,
+    "gender": 0,
+    "weight": 50,
+    "name": "公西",
+    "en": "Công Tây "
+  },
+  {
+    "id": 427,
+    "gender": 0,
+    "weight": 0,
+    "name": "颛孙",
+    "en": "Chuyên Tôn "
+  },
+  {
+    "id": 428,
+    "gender": 0,
+    "weight": 0,
+    "name": "壤驷",
+    "en": "Nhưỡng Tứ "
+  },
+  {
+    "id": 429,
+    "gender": 0,
+    "weight": 50,
+    "name": "公良",
+    "en": "Công Lương "
+  },
+  {
+    "id": 430,
+    "gender": 0,
+    "weight": 0,
+    "name": "漆雕",
+    "en": "Tất Điêu "
+  },
+  {
+    "id": 431,
+    "gender": 0,
+    "weight": 50,
+    "name": "乐正",
+    "en": "Nhạc Chính "
+  },
+  {
+    "id": 432,
+    "gender": 0,
+    "weight": 50,
+    "name": "宰父",
+    "en": "Tể Phụ "
+  },
+  {
+    "id": 433,
+    "gender": 0,
+    "weight": 0,
+    "name": "谷梁",
+    "en": "Cốc Lương "
+  },
+  {
+    "id": 434,
+    "gender": 0,
+    "weight": 50,
+    "name": "拓跋",
+    "en": "Thác Bạt "
+  },
+  {
+    "id": 435,
+    "gender": 0,
+    "weight": 0,
+    "name": "夹谷",
+    "en": "Giáp Cốc "
+  },
+  {
+    "id": 436,
+    "gender": 0,
+    "weight": 0,
+    "name": "段干",
+    "en": "Đoạn Can "
+  },
+  {
+    "id": 437,
+    "gender": 0,
+    "weight": 50,
+    "name": "东郭",
+    "en": "Đông Quách"
+  },
+  {
+    "id": 438,
+    "gender": 0,
+    "weight": 0,
+    "name": "羊舌",
+    "en": "Dương Thiệt "
+  },
+  {
+    "id": 439,
+    "gender": 0,
+    "weight": 0,
+    "name": "微生",
+    "en": "Vi Sinh "
+  },
+  {
+    "id": 440,
+    "gender": 0,
+    "weight": 0,
+    "name": "公户",
+    "en": "Công Hộ "
+  },
+  {
+    "id": 441,
+    "gender": 0,
+    "weight": 0,
+    "name": "公玉",
+    "en": "Công Ngọc "
+  },
+  {
+    "id": 442,
+    "gender": 0,
+    "weight": 0,
+    "name": "公仪",
+    "en": "Công Nghi "
+  },
+  {
+    "id": 443,
+    "gender": 0,
+    "weight": 0,
+    "name": "梁丘",
+    "en": "Lương Khâu "
+  },
+  {
+    "id": 444,
+    "gender": 0,
+    "weight": 50,
+    "name": "公仲",
+    "en": "Công Trọng "
+  },
+  {
+    "id": 445,
+    "gender": 0,
+    "weight": 0,
+    "name": "公上",
+    "en": "Công Thượng "
+  },
+  {
+    "id": 446,
+    "gender": 0,
+    "weight": 0,
+    "name": "公门",
+    "en": "Công Môn "
+  },
+  {
+    "id": 447,
+    "gender": 0,
+    "weight": 0,
+    "name": "公山",
+    "en": "Công Sơn "
+  },
+  {
+    "id": 448,
+    "gender": 0,
+    "weight": 50,
+    "name": "公坚",
+    "en": "Công Kiên "
+  },
+  {
+    "id": 449,
+    "gender": 0,
+    "weight": 50,
+    "name": "左丘",
+    "en": "Tả Khâu "
+  },
+  {
+    "id": 450,
+    "gender": 0,
+    "weight": 0,
+    "name": "公伯",
+    "en": "Công Bá "
+  },
+  {
+    "id": 451,
+    "gender": 0,
+    "weight": 0,
+    "name": "公祖",
+    "en": "Công Tổ "
+  },
+  {
+    "id": 452,
+    "gender": 0,
+    "weight": 50,
+    "name": "第五",
+    "en": "Đệ Ngũ "
+  },
+  {
+    "id": 453,
+    "gender": 0,
+    "weight": 0,
+    "name": "公乘",
+    "en": "Công Thừa "
+  },
+  {
+    "id": 454,
+    "gender": 0,
+    "weight": 0,
+    "name": "贯丘",
+    "en": "Quán Khâu "
+  },
+  {
+    "id": 455,
+    "gender": 0,
+    "weight": 0,
+    "name": "公皙",
+    "en": "Công Tích "
+  },
+  {
+    "id": 456,
+    "gender": 0,
+    "weight": 0,
+    "name": "南荣",
+    "en": "Nam Vinh "
+  },
+  {
+    "id": 457,
+    "gender": 0,
+    "weight": 50,
+    "name": "东里",
+    "en": "Đông Lý "
+  },
+  {
+    "id": 458,
+    "gender": 0,
+    "weight": 50,
+    "name": "东宫",
+    "en": "Đông Cung "
+  },
+  {
+    "id": 459,
+    "gender": 0,
+    "weight": 0,
+    "name": "仲长",
+    "en": "Trọng Trường "
+  },
+  {
+    "id": 460,
+    "gender": 0,
+    "weight": 0,
+    "name": "子书",
+    "en": "Tử Thư "
+  },
+  {
+    "id": 461,
+    "gender": 0,
+    "weight": 0,
+    "name": "子桑",
+    "en": "Tử Tang "
+  },
+  {
+    "id": 462,
+    "gender": 0,
+    "weight": 50,
+    "name": "即墨",
+    "en": "Tức Mặc "
+  },
+  {
+    "id": 463,
+    "gender": 0,
+    "weight": 0,
+    "name": "达奚",
+    "en": "Đạt Hề "
+  },
+  {
+    "id": 464,
+    "gender": 0,
+    "weight": 0,
+    "name": "褚师",
+    "en": "Chử Sư "
+  },
+  {
+    "id": 465,
+    "gender": 0,
+    "weight": 0,
+    "name": "吴铭",
+    "en": "Ngô Minh "
+  },
+  {
+    "id": 466,
+    "gender": 0,
+    "weight": 50,
+    "name": "纳兰",
+    "en": "Nạp Lan "
+  },
+  {
+    "id": 467,
+    "gender": 0,
+    "weight": 50,
+    "name": "归海",
+    "en": "Quy Hải "
+  },
+  {
+    "id": 468,
+    "gender": 0,
+    "weight": 0,
+    "name": "刘付",
+    "en": "Lưu Phó "
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "key": "refreshCost",
+    "value": 0
+  },
+  {
+    "id": 2,
+    "key": "costAdd",
+    "value": 5
+  },
+  {
+    "id": 3,
+    "key": "elementRequire",
+    "value": 20
+  },
+  {
+    "id": 4,
+    "key": "succeedRate",
+    "value": -20
+  },
+  {
+    "id": 5,
+    "key": "mainElementNum",
+    "value": 40
+  },
+  {
+    "id": 6,
+    "key": "pureAddA",
+    "value": -2
+  },
+  {
+    "id": 7,
+    "key": "pureAddB",
+    "value": -10
+  },
+  {
+    "id": 8,
+    "key": "refreshTime",
+    "value": 3
+  }
+]

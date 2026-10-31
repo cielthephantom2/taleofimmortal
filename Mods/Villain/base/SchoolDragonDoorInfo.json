@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "key": "dragonHide",
+    "value": 9901134
+  },
+  {
+    "id": 2,
+    "key": "intimacyMax",
+    "value": 500
+  },
+  {
+    "id": 3,
+    "key": "oneIntimacyMax",
+    "value": 100
+  },
+  {
+    "id": 4,
+    "key": "talkUpInti",
+    "value": 5
+  },
+  {
+    "id": 5,
+    "key": "downInti",
+    "value": 10
+  },
+  {
+    "id": 6,
+    "key": "dragonLuck1",
+    "value": 700007
+  },
+  {
+    "id": 7,
+    "key": "dragonLuck2",
+    "value": 700008
+  },
+  {
+    "id": 8,
+    "key": "dragonLuck3",
+    "value": 700009
+  },
+  {
+    "id": 9,
+    "key": "dragonLuck4",
+    "value": 700126
+  },
+  {
+    "id": 10,
+    "key": "dragonLuck5",
+    "value": 700188
+  },
+  {
+    "id": 11,
+    "key": "dragonLuck6_1",
+    "value": 700189
+  },
+  {
+    "id": 12,
+    "key": "dragonLuck6_2",
+    "value": 700190
+  },
+  {
+    "id": 13,
+    "key": "dragonUnit1",
+    "value": 700007
+  },
+  {
+    "id": 14,
+    "key": "dragonUnit2",
+    "value": 700008
+  },
+  {
+    "id": 15,
+    "key": "dragonUnit3",
+    "value": 700009
+  },
+  {
+    "id": 16,
+    "key": "dragonUnit4",
+    "value": 1931
+  },
+  {
+    "id": 17,
+    "key": "dragonUnit5",
+    "value": 1931
+  },
+  {
+    "id": 18,
+    "key": "dragonUnit6_1",
+    "value": 3100001
+  },
+  {
+    "id": 19,
+    "key": "dragonUnit6_2",
+    "value": 3100002
+  },
+  {
+    "id": 20,
+    "key": "dragonHalo6_1",
+    "value": 700189
+  },
+  {
+    "id": 21,
+    "key": "dragonHalo6_2",
+    "value": 700190
+  },
+  {
+    "id": 22,
+    "key": "dragonFate",
+    "value": 2803
+  },
+  {
+    "id": 23,
+    "key": "changeShapeCool",
+    "value": 500
+  },
+  {
+    "id": 24,
+    "key": "transDramaBoy",
+    "value": 1304650
+  },
+  {
+    "id": 25,
+    "key": "transDramaGril",
+    "value": 1304650
+  }
+]

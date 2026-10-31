@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "key": "searchRange",
+    "value": 20
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 3,
+    "key": "matchScoreParaB",
+    "value": -2
+  },
+  {
+    "id": 4,
+    "key": "closeScorePara",
+    "value": 50
+  },
+  {
+    "id": 5,
+    "key": "searchScoreRequire",
+    "value": 500
+  },
+  {
+    "id": 6,
+    "key": "listCountMax",
+    "value": 10
+  }
+]

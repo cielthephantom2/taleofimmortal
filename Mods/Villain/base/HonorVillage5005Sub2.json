@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "key": "pillClassName",
+    "value": "101|103"
+  },
+  {
+    "id": 2,
+    "key": "herbalClassName",
+    "value": "503"
+  },
+  {
+    "id": 3,
+    "key": "calculateParaA",
+    "value": "1000"
+  },
+  {
+    "id": 4,
+    "key": "calculateParaB",
+    "value": "10"
+  },
+  {
+    "id": 5,
+    "key": "calculateParaC",
+    "value": "1000"
+  },
+  {
+    "id": 6,
+    "key": "calculateParaD",
+    "value": "10"
+  },
+  {
+    "id": 7,
+    "key": "closeReduce",
+    "value": "-30"
+  },
+  {
+    "id": 8,
+    "key": "closeReduceDie",
+    "value": "-60"
+  },
+  {
+    "id": 9,
+    "key": "calculateParaE",
+    "value": "200"
+  }
+]

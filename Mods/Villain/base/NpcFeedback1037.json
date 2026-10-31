@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaB",
+    "value": -2
+  },
+  {
+    "id": 3,
+    "key": "closeScorePara",
+    "value": 30
+  },
+  {
+    "id": 4,
+    "key": "hateScorePara",
+    "value": 200
+  },
+  {
+    "id": 5,
+    "key": "closeRequire",
+    "value": 30
+  },
+  {
+    "id": 6,
+    "key": "eliteMatchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 7,
+    "key": "eliteMatchScoreParaB",
+    "value": -2
+  },
+  {
+    "id": 8,
+    "key": "eliteCloseScorePara",
+    "value": 30
+  },
+  {
+    "id": 9,
+    "key": "eliteHateScorePara",
+    "value": 200
+  },
+  {
+    "id": 10,
+    "key": "elitePowerAskRatio",
+    "value": 7000
+  }
+]

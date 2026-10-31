@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "key": "searchRange",
+    "value": 20
+  },
+  {
+    "id": 2,
+    "key": "matchScoreParaA",
+    "value": 3000
+  },
+  {
+    "id": 3,
+    "key": "matchScoreParaB",
+    "value": -2
+  },
+  {
+    "id": 4,
+    "key": "closeScorePara",
+    "value": 50
+  },
+  {
+    "id": 5,
+    "key": "hateScorePara",
+    "value": 50
+  },
+  {
+    "id": 6,
+    "key": "targetRequireScore",
+    "value": 1000
+  },
+  {
+    "id": 7,
+    "key": "listCountMax",
+    "value": 50
+  },
+  {
+    "id": 8,
+    "key": "closeListCountMax",
+    "value": 10
+  },
+  {
+    "id": 9,
+    "key": "askforCountMax",
+    "value": 50
+  },
+  {
+    "id": 10,
+    "key": "maxGrade",
+    "value": 2
+  },
+  {
+    "id": 11,
+    "key": "itemListLength",
+    "value": 5
+  },
+  {
+    "id": 12,
+    "key": "itemScoreParaA",
+    "value": 100
+  },
+  {
+    "id": 13,
+    "key": "itemScoreParaB",
+    "value": 1
+  }
+]

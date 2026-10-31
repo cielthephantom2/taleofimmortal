@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "key": "townBuyFailProb",
+    "value": 5
+  },
+  {
+    "id": 3,
+    "key": "townNextGradeProb",
+    "value": 0
+  },
+  {
+    "id": 4,
+    "key": "townThisGradeLevelMin",
+    "value": 2
+  },
+  {
+    "id": 5,
+    "key": "townThisGradeLevelMax",
+    "value": 4
+  },
+  {
+    "id": 6,
+    "key": "townNextGradeLevelMin",
+    "value": 1
+  },
+  {
+    "id": 7,
+    "key": "townNextGradeLevelMax",
+    "value": 3
+  },
+  {
+    "id": 8,
+    "key": "schoolBuyFailProb",
+    "value": 5
+  },
+  {
+    "id": 9,
+    "key": "schoolCostEnergyMin",
+    "value": 50
+  },
+  {
+    "id": 10,
+    "key": "schoolCostEnergyMax",
+    "value": 100
+  },
+  {
+    "id": 11,
+    "key": "schoolNextGradeProb",
+    "value": 0
+  },
+  {
+    "id": 12,
+    "key": "schoolThisGradeLevelMin",
+    "value": 2
+  },
+  {
+    "id": 13,
+    "key": "schoolThisGradeLevelMax",
+    "value": 5
+  },
+  {
+    "id": 14,
+    "key": "schoolNextGradeLevelMin",
+    "value": 1
+  },
+  {
+    "id": 15,
+    "key": "schoolNextGradeLevelMax",
+    "value": 4
+  }
+]

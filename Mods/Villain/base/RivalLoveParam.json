@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "key": "drama1",
+    "value": 8110201
+  },
+  {
+    "id": 2,
+    "key": "drama2",
+    "value": 8110202
+  },
+  {
+    "id": 3,
+    "key": "drama3",
+    "value": 8110204
+  },
+  {
+    "id": 4,
+    "key": "drama4",
+    "value": 8110210
+  },
+  {
+    "id": 5,
+    "key": "drama5",
+    "value": 8110212
+  },
+  {
+    "id": 6,
+    "key": "drama6",
+    "value": 8110214
+  },
+  {
+    "id": 7,
+    "key": "drama7",
+    "value": 8110215
+  },
+  {
+    "id": 8,
+    "key": "drama8",
+    "value": 8110217
+  },
+  {
+    "id": 9,
+    "key": "drama9",
+    "value": 8110218
+  },
+  {
+    "id": 10,
+    "key": "drama10",
+    "value": 8110219
+  },
+  {
+    "id": 11,
+    "key": "drama11",
+    "value": 8110220
+  },
+  {
+    "id": 12,
+    "key": "option1",
+    "value": 81102051
+  },
+  {
+    "id": 13,
+    "key": "option2",
+    "value": 81102054
+  },
+  {
+    "id": 14,
+    "key": "option3",
+    "value": 81102081
+  },
+  {
+    "id": 15,
+    "key": "option4",
+    "value": 81102052
+  },
+  {
+    "id": 16,
+    "key": "option5",
+    "value": 81102082
+  },
+  {
+    "id": 17,
+    "key": "option6",
+    "value": 81102211
+  },
+  {
+    "id": 18,
+    "key": "option7",
+    "value": 81102212
+  },
+  {
+    "id": 19,
+    "key": "option8",
+    "value": 81102053
+  },
+  {
+    "id": 20,
+    "key": "eventCd",
+    "value": 48
+  },
+  {
+    "id": 21,
+    "key": "time1",
+    "value": 3
+  },
+  {
+    "id": 22,
+    "key": "time2",
+    "value": 6
+  },
+  {
+    "id": 23,
+    "key": "playerGrade",
+    "value": 5
+  },
+  {
+    "id": 24,
+    "key": "triggerRate",
+    "value": 15
+  },
+  {
+    "id": 25,
+    "key": "minIntim",
+    "value": 0
+  },
+  {
+    "id": 26,
+    "key": "jealousRate",
+    "value": 100
+  },
+  {
+    "id": 27,
+    "key": "playerJealousDrama1",
+    "value": 8110301
+  },
+  {
+    "id": 28,
+    "key": "playerJealousDrama2",
+    "value": 8110302
+  },
+  {
+    "id": 29,
+    "key": "playerJealousDrama3",
+    "value": 8110303
+  },
+  {
+    "id": 30,
+    "key": "playerJealousDrama4",
+    "value": 8110304
+  },
+  {
+    "id": 31,
+    "key": "playerJealousDrama5",
+    "value": 8110305
+  },
+  {
+    "id": 32,
+    "key": "playerJealousDrama6",
+    "value": 8110309
+  },
+  {
+    "id": 33,
+    "key": "playerJealousOption1",
+    "value": 81103061
+  },
+  {
+    "id": 34,
+    "key": "playerJealousOption2",
+    "value": 81103062
+  },
+  {
+    "id": 35,
+    "key": "persuadeAcceptAdded",
+    "value": 3
+  }
+]

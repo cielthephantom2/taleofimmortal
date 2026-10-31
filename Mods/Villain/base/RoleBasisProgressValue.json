@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "key": "standardHP",
+    "value": 250.0
+  },
+  {
+    "id": 2,
+    "key": "paraHP_a",
+    "value": 0.01
+  },
+  {
+    "id": 3,
+    "key": "paraHP_b",
+    "value": 5.0
+  },
+  {
+    "id": 4,
+    "key": "standardMP",
+    "value": 150.0
+  },
+  {
+    "id": 5,
+    "key": "paraMP_a",
+    "value": 0.01
+  },
+  {
+    "id": 6,
+    "key": "paraMP_b",
+    "value": 3.0
+  },
+  {
+    "id": 7,
+    "key": "standardSP",
+    "value": 112.0
+  },
+  {
+    "id": 8,
+    "key": "paraSP_a",
+    "value": 0.01
+  },
+  {
+    "id": 9,
+    "key": "paraSP_b",
+    "value": 2.24
+  },
+  {
+    "id": 10,
+    "key": "standardAtk",
+    "value": 15.0
+  },
+  {
+    "id": 11,
+    "key": "paraAtk_a",
+    "value": 0.012
+  },
+  {
+    "id": 12,
+    "key": "paraAtk_b",
+    "value": 0.3
+  },
+  {
+    "id": 13,
+    "key": "standardDef",
+    "value": 5.0
+  },
+  {
+    "id": 14,
+    "key": "paraDef_a",
+    "value": 0.004
+  },
+  {
+    "id": 15,
+    "key": "paraDef_b",
+    "value": 0.1
+  },
+  {
+    "id": 16,
+    "key": "standardFeet",
+    "value": 500.0
+  },
+  {
+    "id": 17,
+    "key": "paraFeet_a",
+    "value": 0.012
+  },
+  {
+    "id": 18,
+    "key": "paraFeet_b",
+    "value": 10.0
+  },
+  {
+    "id": 19,
+    "key": "standardPfr",
+    "value": 50.0
+  },
+  {
+    "id": 20,
+    "key": "standardMfr",
+    "value": 50.0
+  },
+  {
+    "id": 21,
+    "key": "paraPfr_a",
+    "value": 0.01
+  },
+  {
+    "id": 22,
+    "key": "paraPfr_b",
+    "value": 1.0
+  },
+  {
+    "id": 23,
+    "key": "paraMfr_a",
+    "value": 0.01
+  },
+  {
+    "id": 24,
+    "key": "paraMfr_b",
+    "value": 1.0
+  },
+  {
+    "id": 25,
+    "key": "standardCrit",
+    "value": 15.0
+  },
+  {
+    "id": 26,
+    "key": "standardGuard",
+    "value": 9.0
+  },
+  {
+    "id": 27,
+    "key": "paraCrit_a",
+    "value": 0.01
+  },
+  {
+    "id": 28,
+    "key": "paraCrit_b",
+    "value": 0.3
+  },
+  {
+    "id": 29,
+    "key": "paraGuard_a",
+    "value": 0.006
+  },
+  {
+    "id": 30,
+    "key": "paraGuard_b",
+    "value": 0.18
+  },
+  {
+    "id": 31,
+    "key": "standardMsp",
+    "value": 350.0
+  },
+  {
+    "id": 32,
+    "key": "paraMsp_a",
+    "value": 0.01
+  },
+  {
+    "id": 33,
+    "key": "paraMsp_b",
+    "value": 7.0
+  },
+  {
+    "id": 34,
+    "key": "standardCritV",
+    "value": 200.0
+  },
+  {
+    "id": 35,
+    "key": "standardGuardV",
+    "value": 10.0
+  },
+  {
+    "id": 36,
+    "key": "paraCritV_a",
+    "value": 0.01
+  },
+  {
+    "id": 37,
+    "key": "paraCritV_b",
+    "value": 4.0
+  },
+  {
+    "id": 38,
+    "key": "paraGuardV_a",
+    "value": 0.01
+  },
+  {
+    "id": 39,
+    "key": "paraGuardV_b",
+    "value": 0.2
+  },
+  {
+    "id": 40,
+    "key": "standardWeaponBasis",
+    "value": 16.0
+  },
+  {
+    "id": 41,
+    "key": "standardMagicBasis",
+    "value": 16.0
+  },
+  {
+    "id": 42,
+    "key": "paraWeaponBasis_a",
+    "value": 0.01
+  },
+  {
+    "id": 43,
+    "key": "paraWeaponBasis_b",
+    "value": 0.32
+  },
+  {
+    "id": 44,
+    "key": "paraMagicBasis_a",
+    "value": 0.01
+  },
+  {
+    "id": 45,
+    "key": "paraMagicBasis_b",
+    "value": 0.32
+  },
+  {
+    "id": 46,
+    "key": "paraArtistryBasis_a",
+    "value": 0.01
+  },
+  {
+    "id": 47,
+    "key": "paraArtistryBasis_b",
+    "value": 0.32
+  },
+  {
+    "id": 48,
+    "key": "standardArtistryBasis",
+    "value": 16.0
+  },
+  {
+    "id": 49,
+    "key": "standardTalent",
+    "value": 80.0
+  },
+  {
+    "id": 50,
+    "key": "paraTalent_a",
+    "value": 0.01
+  },
+  {
+    "id": 51,
+    "key": "paraTalent_b",
+    "value": 1.6
+  },
+  {
+    "id": 52,
+    "key": "standardLuck",
+    "value": 80.0
+  },
+  {
+    "id": 53,
+    "key": "paraLuck_a",
+    "value": 0.01
+  },
+  {
+    "id": 54,
+    "key": "paraLuck_b",
+    "value": 1.6
+  },
+  {
+    "id": 55,
+    "key": "standardLife",
+    "value": 960.0
+  },
+  {
+    "id": 56,
+    "key": "paraLife_a",
+    "value": 0.01
+  },
+  {
+    "id": 57,
+    "key": "paraLife_b",
+    "value": 19.2
+  },
+  {
+    "id": 58,
+    "key": "standardBeauty",
+    "value": 100.0
+  },
+  {
+    "id": 59,
+    "key": "paraBeauty_a",
+    "value": 0.01
+  },
+  {
+    "id": 60,
+    "key": "paraBeauty_b",
+    "value": 2.0
+  },
+  {
+    "id": 61,
+    "key": "standardHealth",
+    "value": 100.0
+  },
+  {
+    "id": 62,
+    "key": "paraHealth_a",
+    "value": 0.01
+  },
+  {
+    "id": 63,
+    "key": "paraHealth_b",
+    "value": 2.0
+  },
+  {
+    "id": 64,
+    "key": "standardEnergy",
+    "value": 100.0
+  },
+  {
+    "id": 65,
+    "key": "paraEnergy_a",
+    "value": 0.01
+  },
+  {
+    "id": 66,
+    "key": "paraEnergy_b",
+    "value": 2.0
+  },
+  {
+    "id": 67,
+    "key": "standardMood",
+    "value": 100.0
+  },
+  {
+    "id": 68,
+    "key": "paraMood_a",
+    "value": 0.01
+  },
+  {
+    "id": 69,
+    "key": "paraMood_b",
+    "value": 2.0
+  },
+  {
+    "id": 70,
+    "key": "highValueLabelLower",
+    "value": 1.1
+  },
+  {
+    "id": 71,
+    "key": "highValueLabelUper",
+    "value": 1.4
+  }
+]

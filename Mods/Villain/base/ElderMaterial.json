@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "key": "atkBase",
+    "value": 36
+  },
+  {
+    "id": 2,
+    "key": "defBase",
+    "value": 24
+  },
+  {
+    "id": 3,
+    "key": "hpMaxBase",
+    "value": 789
+  },
+  {
+    "id": 4,
+    "key": "mpMaxBase",
+    "value": 89
+  },
+  {
+    "id": 5,
+    "key": "spMaxBase",
+    "value": 89
+  },
+  {
+    "id": 6,
+    "key": "attrPerMin",
+    "value": 40
+  },
+  {
+    "id": 7,
+    "key": "attrPerMax",
+    "value": 140
+  },
+  {
+    "id": 8,
+    "key": "attrPointMin",
+    "value": 400
+  },
+  {
+    "id": 9,
+    "key": "attrPointMax",
+    "value": 500
+  }
+]

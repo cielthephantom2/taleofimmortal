@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "key": "teachMinGrade",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "key": "teachMaxGrade",
+    "value": 99
+  },
+  {
+    "id": 3,
+    "key": "skillMinGrade",
+    "value": 1
+  },
+  {
+    "id": 4,
+    "key": "skillMaxGrade",
+    "value": 2
+  },
+  {
+    "id": 5,
+    "key": "refuseStudyCd",
+    "value": 6
+  },
+  {
+    "id": 6,
+    "key": "refuseTeachCd",
+    "value": 6
+  },
+  {
+    "id": 7,
+    "key": "npcActionTeachCd",
+    "value": 6
+  },
+  {
+    "id": 8,
+    "key": "npcActionStudyCd",
+    "value": 6
+  }
+]

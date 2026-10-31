@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "dungeonID": 7702,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28106611,
+    "effectName": "0",
+    "effectText": "yuehui_duiyizhong",
+    "endDrama": 0
+  },
+  {
+    "id": 2,
+    "dungeonID": 7702,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28106612,
+    "effectName": "0",
+    "effectText": "yuehui_lundaozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 3,
+    "dungeonID": 7702,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28106613,
+    "effectName": "0",
+    "effectText": "yuehui_pinmingzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 4,
+    "dungeonID": 7702,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 811111,
+    "effectName": "0",
+    "effectText": "yuehui_weiyuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 5,
+    "dungeonID": 7702,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 811112,
+    "effectName": "0",
+    "effectText": "yuehui_yinjiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 6,
+    "dungeonID": 7702,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28107911,
+    "effectName": "0",
+    "effectText": "yuehui_shanghuazhong",
+    "endDrama": 0
+  },
+  {
+    "id": 7,
+    "dungeonID": 7702,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28107912,
+    "effectName": "0",
+    "effectText": "yuehui_qiecuozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 8,
+    "dungeonID": 7702,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28107913,
+    "effectName": "xianliao",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 9,
+    "dungeonID": 7702,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 28107914,
+    "effectName": "0",
+    "effectText": "yuehui_shuangxiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 20,
+    "dungeonID": 7705,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400071,
+    "effectName": "duquYuehuiduiyi",
+    "effectText": "yuehui_duiyizhong",
+    "endDrama": 2940021
+  },
+  {
+    "id": 21,
+    "dungeonID": 7705,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400072,
+    "effectName": "duquYuehuilundao",
+    "effectText": "yuehui_lundaozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 22,
+    "dungeonID": 7705,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400073,
+    "effectName": "duquYuehuipinming",
+    "effectText": "yuehui_pinmingzhong",
+    "endDrama": 2940201
+  },
+  {
+    "id": 23,
+    "dungeonID": 7705,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400074,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 24,
+    "dungeonID": 7705,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400061,
+    "effectName": "duquYuehuiweiyu",
+    "effectText": "yuehui_weiyuzhong",
+    "endDrama": 2940301
+  },
+  {
+    "id": 25,
+    "dungeonID": 7705,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400062,
+    "effectName": "duquYuehuiyinjiu",
+    "effectText": "yuehui_yinjiuzhong",
+    "endDrama": 2940401
+  },
+  {
+    "id": 26,
+    "dungeonID": 7705,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400064,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 27,
+    "dungeonID": 7705,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400063,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 28,
+    "dungeonID": 7705,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400051,
+    "effectName": "duquYuehuishanghua",
+    "effectText": "yuehui_shanghuazhong",
+    "endDrama": 2940501
+  },
+  {
+    "id": 29,
+    "dungeonID": 7705,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400053,
+    "effectName": "xianliao",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 30,
+    "dungeonID": 7705,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400054,
+    "effectName": "duquYuehuishuangxiu",
+    "effectText": "yuehui_shuangxiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 31,
+    "dungeonID": 7705,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29400056,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 40,
+    "dungeonID": 7706,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500071,
+    "effectName": "duquYuehuiduiyi",
+    "effectText": "yuehui_duiyizhong",
+    "endDrama": 2950021
+  },
+  {
+    "id": 41,
+    "dungeonID": 7706,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500072,
+    "effectName": "duquYuehuilundao",
+    "effectText": "yuehui_lundaozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 42,
+    "dungeonID": 7706,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500073,
+    "effectName": "duquYuehuipinming",
+    "effectText": "yuehui_pinmingzhong",
+    "endDrama": 2950201
+  },
+  {
+    "id": 43,
+    "dungeonID": 7706,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500074,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 44,
+    "dungeonID": 7706,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500061,
+    "effectName": "duquYuehuiweiyu",
+    "effectText": "yuehui_weiyuzhong",
+    "endDrama": 2950301
+  },
+  {
+    "id": 45,
+    "dungeonID": 7706,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500062,
+    "effectName": "duquYuehuiyinjiu",
+    "effectText": "yuehui_yinjiuzhong",
+    "endDrama": 2950401
+  },
+  {
+    "id": 46,
+    "dungeonID": 7706,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500063,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 47,
+    "dungeonID": 7706,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500051,
+    "effectName": "duquYuehuishanghua",
+    "effectText": "yuehui_shanghuazhong",
+    "endDrama": 2950501
+  },
+  {
+    "id": 49,
+    "dungeonID": 7706,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500053,
+    "effectName": "xianliao",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 50,
+    "dungeonID": 7706,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500054,
+    "effectName": "duquYuehuishuangxiu",
+    "effectText": "yuehui_shuangxiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 51,
+    "dungeonID": 7706,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29500056,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 60,
+    "dungeonID": 7707,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600071,
+    "effectName": "duquYuehuiduiyi",
+    "effectText": "yuehui_duiyizhong",
+    "endDrama": 2960021
+  },
+  {
+    "id": 61,
+    "dungeonID": 7707,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600072,
+    "effectName": "duquYuehuilundao",
+    "effectText": "yuehui_lundaozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 62,
+    "dungeonID": 7707,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600073,
+    "effectName": "duquYuehuipinming",
+    "effectText": "yuehui_pinmingzhong",
+    "endDrama": 2960201
+  },
+  {
+    "id": 63,
+    "dungeonID": 7707,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600074,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 64,
+    "dungeonID": 7707,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600061,
+    "effectName": "duquYuehuiweiyu",
+    "effectText": "yuehui_weiyuzhong",
+    "endDrama": 2960301
+  },
+  {
+    "id": 65,
+    "dungeonID": 7707,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600062,
+    "effectName": "duquYuehuiyinjiu",
+    "effectText": "yuehui_yinjiuzhong",
+    "endDrama": 2960401
+  },
+  {
+    "id": 66,
+    "dungeonID": 7707,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600063,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 67,
+    "dungeonID": 7707,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600051,
+    "effectName": "duquYuehuishanghua",
+    "effectText": "yuehui_shanghuazhong",
+    "endDrama": 2960501
+  },
+  {
+    "id": 69,
+    "dungeonID": 7707,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600053,
+    "effectName": "xianliao",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 70,
+    "dungeonID": 7707,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600054,
+    "effectName": "duquYuehuishuangxiu",
+    "effectText": "yuehui_shuangxiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 71,
+    "dungeonID": 7707,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29600056,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 80,
+    "dungeonID": 7708,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700071,
+    "effectName": "duquYuehuiduiyi",
+    "effectText": "yuehui_duiyizhong",
+    "endDrama": 2970021
+  },
+  {
+    "id": 81,
+    "dungeonID": 7708,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700072,
+    "effectName": "duquYuehuilundao",
+    "effectText": "yuehui_lundaozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 82,
+    "dungeonID": 7708,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700073,
+    "effectName": "duquYuehuipinming",
+    "effectText": "yuehui_pinmingzhong",
+    "endDrama": 2970201
+  },
+  {
+    "id": 83,
+    "dungeonID": 7708,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700074,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 84,
+    "dungeonID": 7708,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700061,
+    "effectName": "duquYuehuiweiyu",
+    "effectText": "yuehui_weiyuzhong",
+    "endDrama": 2970301
+  },
+  {
+    "id": 85,
+    "dungeonID": 7708,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700062,
+    "effectName": "duquYuehuiyinjiu",
+    "effectText": "yuehui_yinjiuzhong",
+    "endDrama": 2970401
+  },
+  {
+    "id": 86,
+    "dungeonID": 7708,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700063,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 87,
+    "dungeonID": 7708,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700051,
+    "effectName": "duquYuehuishanghua",
+    "effectText": "yuehui_shanghuazhong",
+    "endDrama": 2970501
+  },
+  {
+    "id": 89,
+    "dungeonID": 7708,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700053,
+    "effectName": "xianliao",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 90,
+    "dungeonID": 7708,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700054,
+    "effectName": "duquYuehuishuangxiu",
+    "effectText": "yuehui_shuangxiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 91,
+    "dungeonID": 7708,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29700056,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 100,
+    "dungeonID": 7709,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800071,
+    "effectName": "duquYuehuiduiyi",
+    "effectText": "yuehui_duiyizhong",
+    "endDrama": 2980021
+  },
+  {
+    "id": 101,
+    "dungeonID": 7709,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800072,
+    "effectName": "duquYuehuilundao",
+    "effectText": "yuehui_lundaozhong",
+    "endDrama": 0
+  },
+  {
+    "id": 102,
+    "dungeonID": 7709,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800073,
+    "effectName": "duquYuehuipinming",
+    "effectText": "yuehui_pinmingzhong",
+    "endDrama": 2980201
+  },
+  {
+    "id": 103,
+    "dungeonID": 7709,
+    "buildId": 9181,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800074,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 104,
+    "dungeonID": 7709,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800061,
+    "effectName": "duquYuehuiweiyu",
+    "effectText": "yuehui_weiyuzhong",
+    "endDrama": 2980301
+  },
+  {
+    "id": 105,
+    "dungeonID": 7709,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800062,
+    "effectName": "duquYuehuiyinjiu",
+    "effectText": "yuehui_yinjiuzhong",
+    "endDrama": 2980401
+  },
+  {
+    "id": 106,
+    "dungeonID": 7709,
+    "buildId": 9191,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800063,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 107,
+    "dungeonID": 7709,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800051,
+    "effectName": "duquYuehuishanghua",
+    "effectText": "yuehui_shanghuazhong",
+    "endDrama": 2980501
+  },
+  {
+    "id": 109,
+    "dungeonID": 7709,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800053,
+    "effectName": "xianliao",
+    "effectText": "0",
+    "endDrama": 0
+  },
+  {
+    "id": 110,
+    "dungeonID": 7709,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800054,
+    "effectName": "duquYuehuishuangxiu",
+    "effectText": "yuehui_shuangxiuzhong",
+    "endDrama": 0
+  },
+  {
+    "id": 111,
+    "dungeonID": 7709,
+    "buildId": 9201,
+    "dramaText": "drama_dungeon91BuildText",
+    "optionId": 29800056,
+    "effectName": "0",
+    "effectText": "0",
+    "endDrama": 0
+  }
+]

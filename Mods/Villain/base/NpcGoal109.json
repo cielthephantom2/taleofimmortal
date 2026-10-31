@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "key": "searchRange",
+    "value": 10
+  },
+  {
+    "id": 2,
+    "key": "scoreRequire",
+    "value": 2000
+  },
+  {
+    "id": 3,
+    "key": "matchParaA",
+    "value": 2
+  },
+  {
+    "id": 4,
+    "key": "matchParaB",
+    "value": 3
+  },
+  {
+    "id": 5,
+    "key": "firstMatchNum",
+    "value": 3
+  },
+  {
+    "id": 6,
+    "key": "npcGoalWeight109",
+    "value": 15
+  },
+  {
+    "id": 7,
+    "key": "relationSetUnitNum0RefuseRate",
+    "value": 20
+  },
+  {
+    "id": 8,
+    "key": "relationSetUnitNum1RefuseRate",
+    "value": 40
+  },
+  {
+    "id": 9,
+    "key": "relationSetUnitNum2RefuseRate",
+    "value": 60
+  },
+  {
+    "id": 10,
+    "key": "relationSetUnitNum3RefuseRate",
+    "value": 80
+  },
+  {
+    "id": 11,
+    "key": "relationSetUnitNum4RefuseRate",
+    "value": 100
+  },
+  {
+    "id": 12,
+    "key": "relationSetToUnitNum0RefuseRate",
+    "value": 20
+  },
+  {
+    "id": 13,
+    "key": "relationSetToUnitNum1RefuseRate",
+    "value": 40
+  },
+  {
+    "id": 14,
+    "key": "relationSetToUnitNum2RefuseRate",
+    "value": 60
+  },
+  {
+    "id": 15,
+    "key": "relationSetToUnitNum3RefuseRate",
+    "value": 80
+  },
+  {
+    "id": 16,
+    "key": "relationSetToUnitNum4RefuseRate",
+    "value": 100
+  },
+  {
+    "id": 17,
+    "key": "relationSetNpcToPlayerCD",
+    "value": 15
+  },
+  {
+    "id": 18,
+    "key": "breakRelationReduceReputationGrade1",
+    "value": 200
+  },
+  {
+    "id": 19,
+    "key": "breakRelationReduceReputationGrade2",
+    "value": 200
+  },
+  {
+    "id": 20,
+    "key": "breakRelationReduceReputationGrade3",
+    "value": 500
+  },
+  {
+    "id": 21,
+    "key": "breakRelationReduceReputationGrade4",
+    "value": 500
+  },
+  {
+    "id": 22,
+    "key": "breakRelationReduceReputationGrade5",
+    "value": 1500
+  },
+  {
+    "id": 23,
+    "key": "breakRelationReduceReputationGrade6",
+    "value": 1500
+  },
+  {
+    "id": 24,
+    "key": "breakRelationReduceReputationGrade7",
+    "value": 3500
+  },
+  {
+    "id": 25,
+    "key": "breakRelationReduceReputationGrade8",
+    "value": 3500
+  },
+  {
+    "id": 26,
+    "key": "breakRelationReduceReputationGrade9",
+    "value": 8000
+  },
+  {
+    "id": 27,
+    "key": "breakRelationReduceReputationGrade10",
+    "value": 8000
+  }
+]

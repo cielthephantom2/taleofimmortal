@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "key": "npcID",
+    "value": "8201"
+  },
+  {
+    "id": 2,
+    "key": "dramaID",
+    "value": "9003000|9003011|9003023"
+  },
+  {
+    "id": 3,
+    "key": "skyMountDramaID",
+    "value": "2260000"
+  },
+  {
+    "id": 4,
+    "key": "lisiDramaID",
+    "value": "2201001|2201701|2270091|2270092"
+  },
+  {
+    "id": 5,
+    "key": "npcIDLisi",
+    "value": "6088"
+  },
+  {
+    "id": 6,
+    "key": "pandaTipShow",
+    "value": "dialogue_9003070_0|grade_0_9_10"
+  },
+  {
+    "id": 7,
+    "key": "mountShow",
+    "value": "or|dialogue_9003070_1|dialogue_2200001_1"
+  }
+]

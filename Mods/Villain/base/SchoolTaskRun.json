@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "xcasdzxcasdSection": [
+      100,
+      80
+    ],
+    "insaneProbability": [
+      8,
+      15
+    ],
+    "mortality": 20,
+    "insaneMortality": 40
+  },
+  {
+    "id": 2,
+    "xcasdzxcasdSection": [
+      79,
+      50
+    ],
+    "insaneProbability": [
+      13,
+      18
+    ],
+    "mortality": 20,
+    "insaneMortality": 45
+  },
+  {
+    "id": 3,
+    "xcasdzxcasdSection": [
+      49,
+      0
+    ],
+    "insaneProbability": [
+      18,
+      21
+    ],
+    "mortality": 25,
+    "insaneMortality": 50
+  },
+  {
+    "id": 4,
+    "xcasdzxcasdSection": [
+      -1,
+      -50
+    ],
+    "insaneProbability": [
+      21,
+      28
+    ],
+    "mortality": 30,
+    "insaneMortality": 70
+  },
+  {
+    "id": 5,
+    "xcasdzxcasdSection": [
+      -51,
+      -80
+    ],
+    "insaneProbability": [
+      28,
+      38
+    ],
+    "mortality": 30,
+    "insaneMortality": 80
+  },
+  {
+    "id": 6,
+    "xcasdzxcasdSection": [
+      -81,
+      -100
+    ],
+    "insaneProbability": [
+      38,
+      50
+    ],
+    "mortality": 30,
+    "insaneMortality": 90
+  }
+]

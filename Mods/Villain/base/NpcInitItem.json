@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "moneyDrop": 210111,
+    "itemDrop": 210121,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 2,
+    "moneyDrop": 210112,
+    "itemDrop": 210122,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 3,
+    "moneyDrop": 210113,
+    "itemDrop": 210123,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 4,
+    "moneyDrop": 210114,
+    "itemDrop": 210124,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 5,
+    "moneyDrop": 210115,
+    "itemDrop": 210125,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 6,
+    "moneyDrop": 210116,
+    "itemDrop": 210126,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 7,
+    "moneyDrop": 210117,
+    "itemDrop": 210127,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 8,
+    "moneyDrop": 210118,
+    "itemDrop": 210128,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 9,
+    "moneyDrop": 210119,
+    "itemDrop": 210129,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  },
+  {
+    "id": 10,
+    "moneyDrop": 210120,
+    "itemDrop": 210130,
+    "dropTimeMin": 1,
+    "dropTimeMax": 1
+  }
+]

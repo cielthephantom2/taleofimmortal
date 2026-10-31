@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "key": "clearTargetMin",
+    "value": 40
+  },
+  {
+    "id": 2,
+    "key": "clearTargetMax",
+    "value": 60
+  },
+  {
+    "id": 3,
+    "key": "itemLevelMax",
+    "value": 5
+  },
+  {
+    "id": 4,
+    "key": "costDayMin",
+    "value": 5
+  },
+  {
+    "id": 5,
+    "key": "costDayMax",
+    "value": 10
+  },
+  {
+    "id": 6,
+    "key": "weightBasePercent",
+    "value": 50
+  },
+  {
+    "id": 7,
+    "key": "weightUsedMore",
+    "value": 5
+  },
+  {
+    "id": 8,
+    "key": "weightUsedLow",
+    "value": -5
+  },
+  {
+    "id": 9,
+    "key": "itemScoreParaA",
+    "value": 100
+  },
+  {
+    "id": 10,
+    "key": "itemScoreParaB",
+    "value": 1
+  },
+  {
+    "id": 11,
+    "key": "martialMinLevel",
+    "value": 4
+  },
+  {
+    "id": 12,
+    "key": "martialMaxCount",
+    "value": 5
+  },
+  {
+    "id": 13,
+    "key": "itemPillMaxGrade",
+    "value": 2
+  },
+  {
+    "id": 14,
+    "key": "itemHobbyMaxCount",
+    "value": 2
+  }
+]

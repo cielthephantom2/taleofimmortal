@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "key": "createEventMinDis",
+    "value": "6"
+  },
+  {
+    "id": 2,
+    "key": "createEventMaxDis",
+    "value": "8"
+  },
+  {
+    "id": 3,
+    "key": "addLuck",
+    "value": "140"
+  },
+  {
+    "id": 4,
+    "key": "standUpDramaID",
+    "value": "0"
+  },
+  {
+    "id": 5,
+    "key": "standUpLogKey",
+    "value": "eventLogRoleInvite21352"
+  },
+  {
+    "id": 6,
+    "key": "intimAddCount",
+    "value": "3"
+  },
+  {
+    "id": 7,
+    "key": "intimAdd",
+    "value": "20"
+  },
+  {
+    "id": 8,
+    "key": "actionCountMax",
+    "value": "10"
+  },
+  {
+    "id": 9,
+    "key": "inviteCDTime",
+    "value": "3"
+  },
+  {
+    "id": 10,
+    "key": "xuenvTaskID",
+    "value": "2112252"
+  },
+  {
+    "id": 11,
+    "key": "xuenvEventID",
+    "value": "803202"
+  },
+  {
+    "id": 12,
+    "key": "xuenvExitDramaID",
+    "value": "2960008"
+  },
+  {
+    "id": 13,
+    "key": "xuenvIntimCountDramaID1",
+    "value": "2961300"
+  },
+  {
+    "id": 14,
+    "key": "xuenvIntimCountDramaID2",
+    "value": "2961301"
+  },
+  {
+    "id": 15,
+    "key": "xuenvIntimCountMaxDramaID",
+    "value": "2961302"
+  },
+  {
+    "id": 16,
+    "key": "xuenvInviteCDDramaID",
+    "value": "2981702"
+  },
+  {
+    "id": 17,
+    "key": "shuxianTaskID",
+    "value": "2112251"
+  },
+  {
+    "id": 18,
+    "key": "shuxianEventID",
+    "value": "803201"
+  },
+  {
+    "id": 19,
+    "key": "shuxianExitDramaID",
+    "value": "2950008"
+  },
+  {
+    "id": 20,
+    "key": "shuxianIntimCountDramaID1",
+    "value": "2951300"
+  },
+  {
+    "id": 21,
+    "key": "shuxianIntimCountDramaID2",
+    "value": "2951301"
+  },
+  {
+    "id": 22,
+    "key": "shuxianIntimCountMaxDramaID",
+    "value": "2951302"
+  },
+  {
+    "id": 23,
+    "key": "shuxianInviteCDDramaID",
+    "value": "2981701"
+  },
+  {
+    "id": 24,
+    "key": "longnvTaskID",
+    "value": "2112250"
+  },
+  {
+    "id": 25,
+    "key": "longnvEventID",
+    "value": "803200"
+  },
+  {
+    "id": 26,
+    "key": "longnvExitDramaID",
+    "value": "2940008"
+  },
+  {
+    "id": 27,
+    "key": "longnvIntimCountDramaID1",
+    "value": "2941300"
+  },
+  {
+    "id": 28,
+    "key": "longnvIntimCountDramaID2",
+    "value": "2941301"
+  },
+  {
+    "id": 29,
+    "key": "longnvIntimCountMaxDramaID",
+    "value": "2941302"
+  },
+  {
+    "id": 30,
+    "key": "longnvInviteCDDramaID",
+    "value": "2981700"
+  },
+  {
+    "id": 31,
+    "key": "muouTaskID",
+    "value": "2112253"
+  },
+  {
+    "id": 32,
+    "key": "muouEventID",
+    "value": "803203"
+  },
+  {
+    "id": 33,
+    "key": "muouExitDramaID",
+    "value": "2970008"
+  },
+  {
+    "id": 34,
+    "key": "muouIntimCountDramaID1",
+    "value": "2971500"
+  },
+  {
+    "id": 35,
+    "key": "muouIntimCountDramaID2",
+    "value": "2971501"
+  },
+  {
+    "id": 36,
+    "key": "muouIntimCountMaxDramaID",
+    "value": "2971502"
+  },
+  {
+    "id": 37,
+    "key": "muouInviteCDDramaID",
+    "value": "2981703"
+  },
+  {
+    "id": 38,
+    "key": "zhizhuTaskID",
+    "value": "2112254"
+  },
+  {
+    "id": 39,
+    "key": "zhizhuEventID",
+    "value": "803204"
+  },
+  {
+    "id": 40,
+    "key": "zhizhuExitDramaID",
+    "value": "2980005"
+  },
+  {
+    "id": 41,
+    "key": "zhizhuIntimCountDramaID1",
+    "value": "2981600"
+  },
+  {
+    "id": 42,
+    "key": "zhizhuIntimCountDramaID2",
+    "value": "2981601"
+  },
+  {
+    "id": 43,
+    "key": "zhizhuIntimCountMaxDramaID",
+    "value": "2981602"
+  },
+  {
+    "id": 44,
+    "key": "zhizhuInviteCDDramaID",
+    "value": "2981704"
+  }
+]

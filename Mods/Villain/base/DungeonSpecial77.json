@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "point": [
+      0,
+      0
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 2,
+    "point": [
+      1,
+      1
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 3,
+    "point": [
+      2,
+      2
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 4,
+    "point": [
+      3,
+      3
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 5,
+    "point": [
+      4,
+      4
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 6,
+    "point": [
+      5,
+      5
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 7,
+    "point": [
+      6,
+      6
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 8,
+    "point": [
+      7,
+      7
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 9,
+    "point": [
+      8,
+      8
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 10,
+    "point": [
+      9,
+      9
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 11,
+    "point": [
+      10,
+      10
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 12,
+    "point": [
+      11,
+      11
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 13,
+    "point": [
+      12,
+      12
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 14,
+    "point": [
+      13,
+      13
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 15,
+    "point": [
+      14,
+      14
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 16,
+    "point": [
+      15,
+      15
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 17,
+    "point": [
+      16,
+      16
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  },
+  {
+    "id": 18,
+    "point": [
+      17,
+      17
+    ],
+    "roomType": 1,
+    "scaleBaseID": 1,
+    "roomBaseID": 46,
+    "sceneBaseID": 4900
+  }
+]

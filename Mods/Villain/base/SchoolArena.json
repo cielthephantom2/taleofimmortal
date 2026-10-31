@@ -1,0 +1,349 @@
+[
+  {
+    "id": 1,
+    "key": "closeValue1",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 2,
+    "key": "requirePowerArea1",
+    "value": [
+      1000
+    ]
+  },
+  {
+    "id": 3,
+    "key": "requirePowerArea2",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "id": 4,
+    "key": "requirePowerArea3",
+    "value": [
+      4000
+    ]
+  },
+  {
+    "id": 5,
+    "key": "requirePowerArea4",
+    "value": [
+      8000
+    ]
+  },
+  {
+    "id": 6,
+    "key": "requirePowerArea5",
+    "value": [
+      16000
+    ]
+  },
+  {
+    "id": 7,
+    "key": "powerValueDec1",
+    "value": [
+      10,
+      100
+    ]
+  },
+  {
+    "id": 8,
+    "key": "powerValueDec2",
+    "value": [
+      20,
+      200
+    ]
+  },
+  {
+    "id": 9,
+    "key": "powerValueDec3",
+    "value": [
+      40,
+      400
+    ]
+  },
+  {
+    "id": 10,
+    "key": "powerValueDec4",
+    "value": [
+      80,
+      800
+    ]
+  },
+  {
+    "id": 11,
+    "key": "powerValueDec5",
+    "value": [
+      160,
+      1600
+    ]
+  },
+  {
+    "id": 12,
+    "key": "powerValue1",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 13,
+    "key": "powerValue2",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 14,
+    "key": "powerValue3",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 15,
+    "key": "powerValue4",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 16,
+    "key": "powerValue5",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 17,
+    "key": "leadListNumber1",
+    "value": [
+      0,
+      40
+    ]
+  },
+  {
+    "id": 18,
+    "key": "leadListNumber2",
+    "value": [
+      40,
+      70
+    ]
+  },
+  {
+    "id": 19,
+    "key": "leadListNumber3",
+    "value": [
+      40,
+      70
+    ]
+  },
+  {
+    "id": 20,
+    "key": "leadListNumber4",
+    "value": [
+      70,
+      100
+    ]
+  },
+  {
+    "id": 21,
+    "key": "leadListNumber5",
+    "value": [
+      50,
+      100
+    ]
+  },
+  {
+    "id": 22,
+    "key": "leadListNumber6",
+    "value": [
+      70,
+      100
+    ]
+  },
+  {
+    "id": 23,
+    "key": "initScore",
+    "value": [
+      1000
+    ]
+  },
+  {
+    "id": 24,
+    "key": "atkPara1",
+    "value": [
+      160
+    ]
+  },
+  {
+    "id": 25,
+    "key": "atkPara2",
+    "value": [
+      -10
+    ]
+  },
+  {
+    "id": 26,
+    "key": "atkPara3",
+    "value": [
+      -400
+    ]
+  },
+  {
+    "id": 27,
+    "key": "atkPara4",
+    "value": [
+      120
+    ]
+  },
+  {
+    "id": 28,
+    "key": "atkPara5",
+    "value": [
+      -1000
+    ]
+  },
+  {
+    "id": 29,
+    "key": "powerPara1",
+    "value": [
+      130
+    ]
+  },
+  {
+    "id": 30,
+    "key": "powerPara2",
+    "value": [
+      -10
+    ]
+  },
+  {
+    "id": 31,
+    "key": "powerPara3",
+    "value": [
+      -400
+    ]
+  },
+  {
+    "id": 32,
+    "key": "powerPara4",
+    "value": [
+      80
+    ]
+  },
+  {
+    "id": 33,
+    "key": "powerPara5",
+    "value": [
+      -1000
+    ]
+  },
+  {
+    "id": 34,
+    "key": "joinArenaVariate1",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 35,
+    "key": "joinArenaVariate2",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 36,
+    "key": "hpLimitLook",
+    "value": [
+      5000
+    ]
+  },
+  {
+    "id": 37,
+    "key": "leaveArenaProbability",
+    "value": [
+      10
+    ]
+  },
+  {
+    "id": 38,
+    "key": "leaveArenaHpValue",
+    "value": [
+      100
+    ]
+  },
+  {
+    "id": 39,
+    "key": "leaveArenaAddProbability",
+    "value": [
+      100
+    ]
+  },
+  {
+    "id": 40,
+    "key": "givePlayerValue",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "id": 41,
+    "key": "giveNonPlayerValue",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "id": 42,
+    "key": "giveIntimValue",
+    "value": [
+      500
+    ]
+  },
+  {
+    "id": 43,
+    "key": "giveRelativeValue",
+    "value": [
+      1000
+    ]
+  },
+  {
+    "id": 44,
+    "key": "giveApprenticeValue",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "id": 45,
+    "key": "givePowerValue",
+    "value": [
+      2000
+    ]
+  },
+  {
+    "id": 46,
+    "key": "giveCarriedPropsValue",
+    "value": [
+      -3000
+    ]
+  },
+  {
+    "id": 47,
+    "key": "healCarriedPropsValue",
+    "value": [
+      500
+    ]
+  },
+  {
+    "id": 48,
+    "key": "giveDeadValue",
+    "value": [
+      -9999
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "point": [
+      4,
+      0
+    ],
+    "monsterID": 7821,
+    "position": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "offset": null
+  }
+]

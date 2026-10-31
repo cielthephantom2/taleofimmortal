@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1001,
+    "key": "hideElixirTrainTime",
+    "value": "30"
+  },
+  {
+    "id": 1002,
+    "key": "hideElixirTrainRate",
+    "value": "300"
+  },
+  {
+    "id": 1003,
+    "key": "hideElixirTrainEndDrama",
+    "value": "6465132"
+  },
+  {
+    "id": 1004,
+    "key": "hideElixirExitDrama",
+    "value": "6465421"
+  }
+]

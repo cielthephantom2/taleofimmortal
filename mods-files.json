@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "1.7.108",
+  "version": "1.7.111",
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/\u8fd9\u4e2a\u76ee\u5f55\u4e0b\u7684\u6240\u6709\u6587\u4ef6\u90fd\u4f1a\u88ab\u4e00\u8d77\u5bfc\u51fa\uff08\u6253\u5f00\u67e5\u770b\u8bf4\u660e\uff09.txt",
@@ -229,8 +229,8 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "sha256": "0e4c217c3942829b55b9e9cf4d44c062f26b8e2d49e6bb5726a2ad4ea89f2f6f",
-      "bytes": 14228480
+      "sha256": "829a35ad7c72b1afc4eb1b6471f5de8ba8520f89924dd857eeb8d37ef9f5102f",
+      "bytes": 14235136
     },
     {
       "path": "Mods/Villain/base/Achievement.json",

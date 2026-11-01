@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "1.7.106",
+  "version": "1.7.107",
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/\u8fd9\u4e2a\u76ee\u5f55\u4e0b\u7684\u6240\u6709\u6587\u4ef6\u90fd\u4f1a\u88ab\u4e00\u8d77\u5bfc\u51fa\uff08\u6253\u5f00\u67e5\u770b\u8bf4\u660e\uff09.txt",
@@ -229,7 +229,7 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "sha256": "6e5660fe0c555d2eff70674792003a8b431246d699682ff649bc676b62d248f1",
+      "sha256": "8170e4cd64d61c58760255ed7e6725c112a62121eb9e77ce6040f9d496550f52",
       "bytes": 14227456
     },
     {

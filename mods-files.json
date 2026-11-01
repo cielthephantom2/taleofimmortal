@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "1.7.107",
+  "version": "1.7.108",
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/\u8fd9\u4e2a\u76ee\u5f55\u4e0b\u7684\u6240\u6709\u6587\u4ef6\u90fd\u4f1a\u88ab\u4e00\u8d77\u5bfc\u51fa\uff08\u6253\u5f00\u67e5\u770b\u8bf4\u660e\uff09.txt",
@@ -14,8 +14,8 @@
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExcel/ItemProps.json",
-      "sha256": "2ca51577a9888abc62fe87f8a3ac8887f3ced429134e790b51cb1305b910c4fa",
-      "bytes": 81
+      "sha256": "b0922114c84d26a176af02517d9ef2b5ce98b54059bf463ca0b1894d9cd487ee",
+      "bytes": 73
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExcel/SchoolStock.json",
@@ -229,8 +229,8 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "sha256": "8170e4cd64d61c58760255ed7e6725c112a62121eb9e77ce6040f9d496550f52",
-      "bytes": 14227456
+      "sha256": "0e4c217c3942829b55b9e9cf4d44c062f26b8e2d49e6bb5726a2ad4ea89f2f6f",
+      "bytes": 14228480
     },
     {
       "path": "Mods/Villain/base/Achievement.json",

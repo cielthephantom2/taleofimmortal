@@ -4,4052 +4,4052 @@
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/这个目录下的所有文件都会被一起导出（打开查看说明）.txt",
-      "size": 88,
+      "bytes": 88,
       "sha256": "014a86b3011eb0fc316f1998b56bf1ca0c7f00a3efe5519b5af1fe6780015c73"
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExcel/BuildingHospital.json",
-      "size": 943,
+      "bytes": 943,
       "sha256": "c8a62d5b3d67804ab1da02a55df0387220d8d60b441f58d61c16e6cc51039db4"
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExcel/ItemProps.json",
-      "size": 73,
+      "bytes": 73,
       "sha256": "b0922114c84d26a176af02517d9ef2b5ce98b54059bf463ca0b1894d9cd487ee"
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExcel/SchoolStock.json",
-      "size": 371,
+      "bytes": 371,
       "sha256": "0d014f24bb3c826098fb17bc7cddd33897d8e594355c59b048965aa7fad5d319"
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExcel/SchoolStore.json",
-      "size": 1233,
+      "bytes": 1233,
       "sha256": "bab5a994b39f34bf61f1c5ee155c67c5ce9d0566c19ef61ef77351fc75446045"
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModExportData.cache",
-      "size": 3544,
+      "bytes": 3544,
       "sha256": "7799fddaeb3cbc56180e70a89ef79509fbfdb94de236b3d202d3b3023a2dddde"
     },
     {
       "path": "ModExportData/Mod_nYOYTQ/ModProjectPreview.png",
-      "size": 13079340,
+      "bytes": 13079340,
       "sha256": "1e0e089c9c709f381f89177aac65629311b57acd822164d733b1950c2518c24b"
     },
     {
       "path": "Mods/dnlib.dll",
-      "size": 1167872,
+      "bytes": 1167872,
       "sha256": "648950f725fb0320e09c52dcaf81764916df96dc62e7429ba67daea0acb784ea"
     },
     {
       "path": "Mods/DoubleMonsterLoot.spawn-groups.txt",
-      "size": 4551,
+      "bytes": 4551,
       "sha256": "f5c945001c6801c2b2d8a6c3a1fd02981201bea42596c63153135b58eb8956b8"
     },
     {
       "path": "Mods/Fonts/alegreya-OFL.txt",
-      "size": 4395,
+      "bytes": 4395,
       "sha256": "f6f60d5d4cf4f4b1fc4e41353c897a2f5a16e6396c0cd8fa8bdfd2f4586a9a68"
     },
     {
       "path": "Mods/Fonts/alegreya-Regular.ttf",
-      "size": 267976,
+      "bytes": 267976,
       "sha256": "ccc427de7b5f2b01ae3112f157448259e76d2cebac0b9a9e4584a42001d577df"
     },
     {
       "path": "Mods/Fonts/bevietnampro-OFL.txt",
-      "size": 4397,
+      "bytes": 4397,
       "sha256": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85"
     },
     {
       "path": "Mods/Fonts/bevietnampro-Regular.ttf",
-      "size": 132948,
+      "bytes": 132948,
       "sha256": "8b703b0c503af67c6141e06a97a188b8f17de376ecf44c0e80863774064c9500"
     },
     {
       "path": "Mods/Fonts/bitter-OFL.txt",
-      "size": 4424,
+      "bytes": 4424,
       "sha256": "152a1e283e23b42c4940da4c72f2f5bebaa17969cb77c76d7af05903846006f1"
     },
     {
       "path": "Mods/Fonts/bitter-Regular.ttf",
-      "size": 201980,
+      "bytes": 201980,
       "sha256": "c0c5523ce76bee0a2952dcf123a5c9d705b081a01cfccfbccd0d83cfe9fb6336"
     },
     {
       "path": "Mods/Fonts/Charm-Bold.ttf",
-      "size": 135416,
+      "bytes": 135416,
       "sha256": "c0c142a444168658f48661d1249ceca619d09e2527dd7b13f814b59170f2e4d8"
     },
     {
       "path": "Mods/Fonts/Charm-Regular.ttf",
-      "size": 134652,
+      "bytes": 134652,
       "sha256": "9b39d97333fc801ac9da620df7321d93086b0a53462144a32efbf998b8dbb20b"
     },
     {
       "path": "Mods/Fonts/firasans-OFL.txt",
-      "size": 4370,
+      "bytes": 4370,
       "sha256": "8f24842e9174beda18a556c2ae7d54f5dc444340c19a3a9ef77e23bca366adbd"
     },
     {
       "path": "Mods/Fonts/firasans-Regular.ttf",
-      "size": 456996,
+      "bytes": 456996,
       "sha256": "8c71fcd55825e4070457346ce339d94b46d5be81888fd0e3a94070c12bddbf8a"
     },
     {
       "path": "Mods/Fonts/lexend-OFL.txt",
-      "size": 4436,
+      "bytes": 4436,
       "sha256": "5da8505887d0fa7fe963445fd58852707fda34adfeb65af25c99d152bab285bd"
     },
     {
       "path": "Mods/Fonts/lexend-Regular.ttf",
-      "size": 78340,
+      "bytes": 78340,
       "sha256": "76ef4a41a86bd1bfc67128017e5d4dc527bf33c07a3ce6f13344d83ca9984aac"
     },
     {
       "path": "Mods/Fonts/literata-OFL.txt",
-      "size": 4389,
+      "bytes": 4389,
       "sha256": "8742963604cd89dc81437811a850018fc03b2bfad686d7422c8235967c87614e"
     },
     {
       "path": "Mods/Fonts/literata-Regular.ttf",
-      "size": 270788,
+      "bytes": 270788,
       "sha256": "7ee2f6d7e1ce283a8ca1c4f43439e939c3df39561b6c08faf33e3e4ec5bcd4ba"
     },
     {
       "path": "Mods/Fonts/Lora-Bold.ttf",
-      "size": 133828,
+      "bytes": 133828,
       "sha256": "7d74015e950c2fb66519c7295b8155621d22200ae2ca2a4c6b43ce3c490cac87"
     },
     {
       "path": "Mods/Fonts/Lora-Medium.ttf",
-      "size": 134004,
+      "bytes": 134004,
       "sha256": "fd57ed9e3945de65de667f1919c2978b79937a13d246508fc4f64bb562e53196"
     },
     {
       "path": "Mods/Fonts/Lora-Regular.ttf",
-      "size": 133888,
+      "bytes": 133888,
       "sha256": "7ed00e7c9cdf16ab7e2fd2361fe45d4f0b61263cd60aae398b27b7ee08108827"
     },
     {
       "path": "Mods/Fonts/merriweather-OFL.txt",
-      "size": 4438,
+      "bytes": 4438,
       "sha256": "715bd349bfa6116f99e351e1548321dcfa25b91df65502d22ca8d624557697d2"
     },
     {
       "path": "Mods/Fonts/merriweather-Regular.ttf",
-      "size": 1075180,
+      "bytes": 1075180,
       "sha256": "8ffce542fd8ee6e3b4f13c112211a53ee0cb93a45e9c44d017a2aba015f6fffd"
     },
     {
       "path": "Mods/Fonts/notosans-OFL.txt",
-      "size": 4396,
+      "bytes": 4396,
       "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
     },
     {
       "path": "Mods/Fonts/notosans-Regular.ttf",
-      "size": 646160,
+      "bytes": 646160,
       "sha256": "cc70ffdf33f1d43ff5d02288c3e06141b9db99dcf1cf64f2503052ac62e48043"
     },
     {
       "path": "Mods/Fonts/notoserif-OFL.txt",
-      "size": 4396,
+      "bytes": 4396,
       "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
     },
     {
       "path": "Mods/Fonts/notoserif-Regular.ttf",
-      "size": 513124,
+      "bytes": 513124,
       "sha256": "6932cb4ca890ed7aa463615a09f51714eab787cbdf47363c6f7dba5dcd20a961"
     },
     {
       "path": "Mods/Fonts/nunito-OFL.txt",
-      "size": 4385,
+      "bytes": 4385,
       "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
     },
     {
       "path": "Mods/Fonts/nunito-Regular.ttf",
-      "size": 132392,
+      "bytes": 132392,
       "sha256": "44112d96ec046e6530aba9bc96218c013bd7b41063a2e7b185e41a308adceca3"
     },
     {
       "path": "Mods/Fonts/nunitosans-OFL.txt",
-      "size": 4393,
+      "bytes": 4393,
       "sha256": "efbb0c9e864cef973982d9a17567e6be5c3d1759695574586f3f18c7ecca064b"
     },
     {
       "path": "Mods/Fonts/nunitosans-Regular.ttf",
-      "size": 113504,
+      "bytes": 113504,
       "sha256": "ea06aa7c9f7e61663f3b61968ff372599f880430222ec974a99718ff119880e5"
     },
     {
       "path": "Mods/Fonts/roboto-OFL.txt",
-      "size": 4394,
+      "bytes": 4394,
       "sha256": "061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41"
     },
     {
       "path": "Mods/Fonts/roboto-Regular.ttf",
-      "size": 157584,
+      "bytes": 157584,
       "sha256": "54bfdc29fc53c8c00d231ac4f2e022b0a114fdcedc59e5574b470d795f309a53"
     },
     {
       "path": "Mods/Fonts/robotocondensed-OFL.txt",
-      "size": 4393,
+      "bytes": 4393,
       "sha256": "0e4cc6ece88573545be2ed25835363662a6182ba4a4c1b5c8feda52add30e8a6"
     },
     {
       "path": "Mods/Fonts/robotocondensed-Regular.ttf",
-      "size": 144196,
+      "bytes": 144196,
       "sha256": "5846e60635abfe6b14f773590037dcb366928ffd488f22b82e60b59c540b19bc"
     },
     {
       "path": "Mods/Fonts/sourcesans3-OFL.txt",
-      "size": 4579,
+      "bytes": 4579,
       "sha256": "09746787287a289323b0ec3cff4d1a4a801331b82b7207c1e186f5d26619a392"
     },
     {
       "path": "Mods/Fonts/sourcesans3-Regular.ttf",
-      "size": 379576,
+      "bytes": 379576,
       "sha256": "ee465c12f930e89559e0c3cec77583937977e6cb2c6e08f19a09b9878f394c9a"
     },
     {
       "path": "Mods/Fonts/sourceserif4-OFL.txt",
-      "size": 4400,
+      "bytes": 4400,
       "sha256": "5f94c3fd3a23131a417ab5a0c8452de57e70c3cfb9f604d88241f7065ebf9fd9"
     },
     {
       "path": "Mods/Fonts/sourceserif4-Regular.ttf",
-      "size": 330284,
+      "bytes": 330284,
       "sha256": "acfadc4b249155e73ff26f34a30a5eb8ec0fc5d8bf263de9086e66d7c973179e"
     },
     {
       "path": "Mods/GGBH_MOD.dll",
-      "size": 8192,
+      "bytes": 8192,
       "sha256": "d7ed43085f3f5ffd2fed441cc5468c2084402f320f407bd52768e7f08c43ddfa"
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "size": 14252032,
+      "bytes": 14252032,
       "sha256": "6493babeee09dc40008ae3bf29886f6770851debf8292ae291dc6b6c9b4b45b7"
     },
     {
       "path": "Mods/MusicVolumeTrace.dll",
-      "size": 5120,
+      "bytes": 5120,
       "sha256": "b107be1974784dfcece990c2c5fcf9ff82a8090c9f7a64a164e39d8b534e9d58"
     },
     {
       "path": "Mods/Villain.dll",
-      "size": 50176,
+      "bytes": 50176,
       "sha256": "76a21685bfec5f2c62437e6055fd110f2994c021c0c08308bab6c57dffa27754"
     },
     {
       "path": "Mods/Villain/base/Achievement.json",
-      "size": 43353,
+      "bytes": 43353,
       "sha256": "f1434486c06ab2dc0abdba72c7c55e7a9fd1fcfe63c225e99ace00fbb956fc20"
     },
     {
       "path": "Mods/Villain/base/AnimaWeapon.json",
-      "size": 459,
+      "bytes": 459,
       "sha256": "d62acc01b225b816cb54c40f3c595f3865d78cb4b72126d09cb7fd6e98aa03b1"
     },
     {
       "path": "Mods/Villain/base/AppellationGrant.json",
-      "size": 36929,
+      "bytes": 36929,
       "sha256": "6c34694446775809e7a145cf0f13dd420f9b12482a9b48101766ed76a7b452d5"
     },
     {
       "path": "Mods/Villain/base/AppellationSymbolNamed.json",
-      "size": 1295,
+      "bytes": 1295,
       "sha256": "17f6026a782a1508faef39151fe0be49d0c61744a17815d295bb5196f036f70b"
     },
     {
       "path": "Mods/Villain/base/AppellationTitle.json",
-      "size": 102269,
+      "bytes": 102269,
       "sha256": "cfd329f8b76dd0bf3c740d6f673f35aeb9a2b3edbb568c87356c07d910d8db17"
     },
     {
       "path": "Mods/Villain/base/ArtifactShape.json",
-      "size": 6660,
+      "bytes": 6660,
       "sha256": "b4a47b9fa75b216023386a5c617754a209204bffdea65bf35496072edba47fd9"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeCommon.json",
-      "size": 1211,
+      "bytes": 1211,
       "sha256": "51005b51f122a1958489bcf74a9f78ecf76ffa300ab8bbf22fe5a02aaf72ca27"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeFactoryMade.json",
-      "size": 489,
+      "bytes": 489,
       "sha256": "00532409f71a09726ce0dcaeaf448a005a396c103c74c28d4bfefad1d5093eca"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeMade.json",
-      "size": 1494,
+      "bytes": 1494,
       "sha256": "d4332636835c135e9bc569eae820f37570f96ed602b4e360ba2210c46b0b6bea"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeMaterial.json",
-      "size": 3675,
+      "bytes": 3675,
       "sha256": "e8aedd8b34545e97a0e9a7c0b2b37b4ada65079b3583a959bd8f984abe789b4a"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeMixed.json",
-      "size": 2372,
+      "bytes": 2372,
       "sha256": "e2f56ba7db34c7b2f81f561dc132f4c4ff9f740b7b24782debd03b8c587a479a"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeRefine.json",
-      "size": 903,
+      "bytes": 903,
       "sha256": "0ea63aca41a2606dc70b049a54c4fd8addf9fdaaa25fb40be371552ce73a0108"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeRepairSub.json",
-      "size": 1478,
+      "bytes": 1478,
       "sha256": "6b76b1397bdc9f31196cbce26161379935d7384f0a03aeb1cceb0699d888dfdf"
     },
     {
       "path": "Mods/Villain/base/ArtifactShapeUpgrade.json",
-      "size": 1875,
+      "bytes": 1875,
       "sha256": "2295b34e60b84dfefb10f174915c657079b4a58699f575dc711bf7e2e83db549"
     },
     {
       "path": "Mods/Villain/base/ArtifactSprite.json",
-      "size": 24161,
+      "bytes": 24161,
       "sha256": "f64cdf27f9f0b7a459f6665745adbc33a64f9092dc15de1e47fa230d760dd562"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteArt.json",
-      "size": 10836,
+      "bytes": 10836,
       "sha256": "6dde212a5ac61b1a1be2d7f3e240035dfffc1907786d9733258195edc36c4b75"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteClose.json",
-      "size": 619,
+      "bytes": 619,
       "sha256": "124bbe5d5c6ab48ca47084ec43511105b60274d86582fc3457e898bb226fafb5"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteDialogue.json",
-      "size": 25939,
+      "bytes": 25939,
       "sha256": "25e76395e36251a47a6b40e89e8e7679a224f2cc644f98ab73142e8ad32930ac"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteDialogueSub.json",
-      "size": 90978,
+      "bytes": 90978,
       "sha256": "e8f56ff375085674c29103357b875785c23de71f237fc8e748b30e3734687583"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteEquip.json",
-      "size": 1035,
+      "bytes": 1035,
       "sha256": "b59962a7778a4406be9fdabb7dc8ba9bb4b5ec9013f349d673a9dca6a64ea163"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteLevel.json",
-      "size": 11159,
+      "bytes": 11159,
       "sha256": "443d4dea982d0990cbf221120ebf4ecc70afd8a5c498b2c4f3f0f500359f56fa"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteSkill.json",
-      "size": 3156,
+      "bytes": 3156,
       "sha256": "7ee3127006b0f2a765f9c83d785c7f55f75f8ceca56c6ddc0a378178abac1fe2"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteStroy.json",
-      "size": 1138,
+      "bytes": 1138,
       "sha256": "30b0e22e8bdfbad55c0047a945624a4726b0ae5e92c8fcf6abe29ba3527037f4"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteTalent.json",
-      "size": 1211716,
+      "bytes": 1211716,
       "sha256": "9fe4862e9543b044793995ba26a6c89908f3ada4ddb764570e275e7ee338f399"
     },
     {
       "path": "Mods/Villain/base/ArtifactSpriteTalentCost.json",
-      "size": 2385,
+      "bytes": 2385,
       "sha256": "f0f9abfae5986732950c275accf51dc432f382434926d6b764b194eea26fd047"
     },
     {
       "path": "Mods/Villain/base/BattleAbilityBase.json",
-      "size": 30732,
+      "bytes": 30732,
       "sha256": "c245b61842393d9c96571a210b27de3bf60c9324dce094949d35d9db77545147"
     },
     {
       "path": "Mods/Villain/base/BattleAbilityCombine.json",
-      "size": 499087,
+      "bytes": 499087,
       "sha256": "26bf13af01c8ab7ffe463773b622d87b64eadd405aeabdf42f851916b7017dcc"
     },
     {
       "path": "Mods/Villain/base/BattleAbilitySuitBase.json",
-      "size": 23611,
+      "bytes": 23611,
       "sha256": "35dcc95f74bff2ad7669a804242cbd78d5b735434660c1988da8cdf00aaeeeef"
     },
     {
       "path": "Mods/Villain/base/BattleAIBossValue.json",
-      "size": 739117,
+      "bytes": 739117,
       "sha256": "246b52441f8c4dfe4261e67932de14f40fc8909678cdde880a424413bdf94a8e"
     },
     {
       "path": "Mods/Villain/base/BattleAIBossValueCrazy.json",
-      "size": 339779,
+      "bytes": 339779,
       "sha256": "19d979fdc438d844cbea02ced792c634de0841e8019f78dcc01c7c0139075378"
     },
     {
       "path": "Mods/Villain/base/BattleAIDefaultValue.json",
-      "size": 114231,
+      "bytes": 114231,
       "sha256": "a2a989b93497b83014e79e80614b73ebee68f91d0c2160de4c9f442ee09db67c"
     },
     {
       "path": "Mods/Villain/base/BattleArtifact.json",
-      "size": 1882,
+      "bytes": 1882,
       "sha256": "54b365220f7f81b3ef7b6743a6b9a5d7cba15779039bf8480d4a268606f36242"
     },
     {
       "path": "Mods/Villain/base/BattleBarrier.json",
-      "size": 6273,
+      "bytes": 6273,
       "sha256": "d210d9da4d0c0ed6e01883a522fe565d05d68dbb4c531bed8287746fc0dfa755"
     },
     {
       "path": "Mods/Villain/base/BattleBarrierReward.json",
-      "size": 32122,
+      "bytes": 32122,
       "sha256": "186431945e51fd51ccf52aa67247eea4453a30178f6226e5b2ba96b24f4a69c9"
     },
     {
       "path": "Mods/Villain/base/BattleEffect.json",
-      "size": 3612780,
+      "bytes": 3612780,
       "sha256": "786ea8464bb0800aa4eb3a730072e8ec521adf43da9323689f53386106049fd1"
     },
     {
       "path": "Mods/Villain/base/BattleEffectBasePower.json",
-      "size": 16287,
+      "bytes": 16287,
       "sha256": "fd1a635cd9b58b1839e6f8eb900709e4a8ae016ee6f9b26b49f98f1b2cd3f30d"
     },
     {
       "path": "Mods/Villain/base/BattleEffectClassName.json",
-      "size": 1513,
+      "bytes": 1513,
       "sha256": "12b8df0a1c1b846d110a0eaf9f725d44e49579a96d2d43abcb4ca63b442c6006"
     },
     {
       "path": "Mods/Villain/base/BattleEffectSelection.json",
-      "size": 50383,
+      "bytes": 50383,
       "sha256": "1a85bf6efb630f33ced06d66588fd7255f57ca8338584f20b61652553e4de8e4"
     },
     {
       "path": "Mods/Villain/base/BattleEffectTrigger.json",
-      "size": 1238,
+      "bytes": 1238,
       "sha256": "5312d1d6bb6d8912f4d1bc6fc301c4e9b093c7416bcebda3ce6f3acc093682e8"
     },
     {
       "path": "Mods/Villain/base/BattleFormulaCoefficient.json",
-      "size": 1079,
+      "bytes": 1079,
       "sha256": "6b2b8679b76b88973128d4eb3a34f038bb97ba41a85c451463227416c028124c"
     },
     {
       "path": "Mods/Villain/base/BattleFunctionList.json",
-      "size": 16898,
+      "bytes": 16898,
       "sha256": "6bf34dac023becf4b226ce3c0b55b578e5cb59b3714980de84f5d5104c37688d"
     },
     {
       "path": "Mods/Villain/base/BattleHaloAttack.json",
-      "size": 70434,
+      "bytes": 70434,
       "sha256": "c02c73fd413949d050aac9dcdbd0bd431087c5cc983b5b3f3e574f2edc419b52"
     },
     {
       "path": "Mods/Villain/base/BattleHaloBase.json",
-      "size": 415640,
+      "bytes": 415640,
       "sha256": "eaac32f3f49ab3401c8fb6e7a0250fdfadda740d1d4cd12de28d3b00cb96cefa"
     },
     {
       "path": "Mods/Villain/base/BattleHaloSpecialEffect.json",
-      "size": 15389,
+      "bytes": 15389,
       "sha256": "c498f98d8d0441a694483d01b924705878356db1238c81a5ad7dff1ef7f97ac6"
     },
     {
       "path": "Mods/Villain/base/BattleHaloSummon.json",
-      "size": 116832,
+      "bytes": 116832,
       "sha256": "23535b9d75736c701ffe74363a4f9c6e2b6ca9480478c9e25932e38f6b7c23e8"
     },
     {
       "path": "Mods/Villain/base/BattleMissile.json",
-      "size": 714036,
+      "bytes": 714036,
       "sha256": "bd1020e775ab487dce7fbb6a703d8637c1d18fc64923a1e5e8fe4346c7d21399"
     },
     {
       "path": "Mods/Villain/base/BattleShot96.json",
-      "size": 1317,
+      "bytes": 1317,
       "sha256": "6b44ec72067134a7ee35fa7369716c96a34c8d357d6b25743e5f0d96bedf7078"
     },
     {
       "path": "Mods/Villain/base/BattleShot97.json",
-      "size": 8664,
+      "bytes": 8664,
       "sha256": "cb3d77c565d130417c15b34cfa9acc787e3f634847a21242573aac4aa4d4148e"
     },
     {
       "path": "Mods/Villain/base/BattleShot98.json",
-      "size": 8813,
+      "bytes": 8813,
       "sha256": "44936813dfdf8b4c63cb1fdcef979297d0ce4b0e6f68d99f0b9b44fa40f5a632"
     },
     {
       "path": "Mods/Villain/base/BattleShot99.json",
-      "size": 20535,
+      "bytes": 20535,
       "sha256": "c9fa03dbda09549c415235c5f2d6bda118ae549c5a0ebe65df36b07e193e0c62"
     },
     {
       "path": "Mods/Villain/base/BattleSkillAttack.json",
-      "size": 677047,
+      "bytes": 677047,
       "sha256": "f9528477362b41b998ab082894930fbba1431b719a04a90cb20be98a92a8a93c"
     },
     {
       "path": "Mods/Villain/base/BattleSkillBase.json",
-      "size": 805132,
+      "bytes": 805132,
       "sha256": "989f4cae69618833dfa409b0ed45c06fbe27a414dbc570b460beb125ad6a479d"
     },
     {
       "path": "Mods/Villain/base/BattleSkillCombine.json",
-      "size": 838477,
+      "bytes": 838477,
       "sha256": "fe6b668bdf18bb73158715a27f2f684a6c01c99767298c41339b788a2d7b55fd"
     },
     {
       "path": "Mods/Villain/base/BattleSkillCondition.json",
-      "size": 28269,
+      "bytes": 28269,
       "sha256": "31e495cc0144d1c83d664bb915b6996c194f42e196f776b72688d3e0549a1405"
     },
     {
       "path": "Mods/Villain/base/BattleSkillCost.json",
-      "size": 40932,
+      "bytes": 40932,
       "sha256": "faa971b8e7c09764b7e5e35d44ecf1a835778a5e6f2aa50273ec8126a019e984"
     },
     {
       "path": "Mods/Villain/base/BattleSkillDao.json",
-      "size": 1581,
+      "bytes": 1581,
       "sha256": "b028fd4ebab6c49afe1b09ebeab55df01ea0010e4a9a464ebd5dd5a1ef862a57"
     },
     {
       "path": "Mods/Villain/base/BattleSkillDifficult.json",
-      "size": 385,
+      "bytes": 385,
       "sha256": "8e051dd4dad1196aa74e33cd18e2984a5d1dbea02625281a6b9740e9f02f4d4e"
     },
     {
       "path": "Mods/Villain/base/BattleSkillEffect.json",
-      "size": 241451,
+      "bytes": 241451,
       "sha256": "7e106ae49030205c2439aeadb638d98665bc07e3d1dae1f6a4f804c0dd8f7d9b"
     },
     {
       "path": "Mods/Villain/base/BattleSkillFlashCost.json",
-      "size": 4857,
+      "bytes": 4857,
       "sha256": "409319dcb4859e5afffde2497c0d471a0ba5d97196df960f1eca7df73d5409ff"
     },
     {
       "path": "Mods/Villain/base/BattleSkillForget.json",
-      "size": 7065,
+      "bytes": 7065,
       "sha256": "caca51dbb31b5e9d14e6cc8aea433a7c3511931d85b6b9450bf56f2ebcbdcc30"
     },
     {
       "path": "Mods/Villain/base/BattleSkillLearn.json",
-      "size": 3164,
+      "bytes": 3164,
       "sha256": "19c88796576c713ad7fb54de180433de7445045b8e57cd2da31dbc132d9fc610"
     },
     {
       "path": "Mods/Villain/base/BattleSkillLevel.json",
-      "size": 684,
+      "bytes": 684,
       "sha256": "ab217be7ac0a5374f662cdc659cfd1da9517164cfd4f702962bce31035b58ed2"
     },
     {
       "path": "Mods/Villain/base/BattleSkillMastery.json",
-      "size": 3253,
+      "bytes": 3253,
       "sha256": "2a0e5d8e2dac957ccba76052626ed42ade67bc107761f4eb5d592a5aa7a5f138"
     },
     {
       "path": "Mods/Villain/base/BattleSkillPrefixName.json",
-      "size": 48421,
+      "bytes": 48421,
       "sha256": "8b858d581dc12c02c37963f0e6dcaca76b049d5f1a5e5a78aeed14296885799a"
     },
     {
       "path": "Mods/Villain/base/BattleSkillPrefixValue.json",
-      "size": 1009329,
+      "bytes": 1009329,
       "sha256": "a4c6f9594fb73bf6fd46688258df6e8201f8e3997458efcfca59fe87fb75d6c0"
     },
     {
       "path": "Mods/Villain/base/BattleSkillRealizeCost.json",
-      "size": 816,
+      "bytes": 816,
       "sha256": "f1f3597062824150a3b108e02158a0cad70df414350efdca0cf22d6d83e3ce6e"
     },
     {
       "path": "Mods/Villain/base/BattleSkillSub.json",
-      "size": 288495,
+      "bytes": 288495,
       "sha256": "734f0b6c613753490732c753f0f2576c74f73618b558b14a7fbd0a43afd91e92"
     },
     {
       "path": "Mods/Villain/base/BattleSkillTrain.json",
-      "size": 141159,
+      "bytes": 141159,
       "sha256": "ef4bfb5e576e9fe61172045344cc2eff87b57fb731949110d31657222cbb0179"
     },
     {
       "path": "Mods/Villain/base/BattleSkillValue.json",
-      "size": 4642265,
+      "bytes": 4642265,
       "sha256": "ee05678cb909b2a1a62dc571c1f1848c1391cde431a26e3663ac3d13123225f1"
     },
     {
       "path": "Mods/Villain/base/BattleStepBase.json",
-      "size": 7642,
+      "bytes": 7642,
       "sha256": "e6ea1439fb0403ea1f235dda1a7bb7213a51e200b3437802086da88eec81691a"
     },
     {
       "path": "Mods/Villain/base/BattleStepCombine.json",
-      "size": 191264,
+      "bytes": 191264,
       "sha256": "b1e904ee5be876f068956967cd62be63100595c5dfdf946283def1f3e8d257d9"
     },
     {
       "path": "Mods/Villain/base/BattleStepEntry.json",
-      "size": 341,
+      "bytes": 341,
       "sha256": "498f74851092b175d0fc5168cbc7480edfe3825d47f966ed8c5a3a2fce04234c"
     },
     {
       "path": "Mods/Villain/base/BattleSubMissileTrigger.json",
-      "size": 2521,
+      "bytes": 2521,
       "sha256": "d5f618be985dc8c990327d57d9cd8017f1f0013eb2d598f248ed173a25d900d3"
     },
     {
       "path": "Mods/Villain/base/BattleTrail10.json",
-      "size": 6086,
+      "bytes": 6086,
       "sha256": "e7e3fcff5165140e14a382a0ae57f0cf93dcb395e99d4b3e39393a54f9fd50f0"
     },
     {
       "path": "Mods/Villain/base/BattleTrail11.json",
-      "size": 9887,
+      "bytes": 9887,
       "sha256": "cf7b528c1b6b5adc9d70140a1d4f7b9057c44103a0e0577a27be8f3de96b0fd6"
     },
     {
       "path": "Mods/Villain/base/BattleTrail12.json",
-      "size": 711,
+      "bytes": 711,
       "sha256": "102c12384e59069fd938303537f2dd4137da5ad0aebf9d781b38833e5a6ba475"
     },
     {
       "path": "Mods/Villain/base/BattleTrail13.json",
-      "size": 2729,
+      "bytes": 2729,
       "sha256": "ee51f1f956be7cf2a5d65115e7e2fddf067033d09e5c74f9058969c85332b549"
     },
     {
       "path": "Mods/Villain/base/BattleTrail14.json",
-      "size": 11662,
+      "bytes": 11662,
       "sha256": "79428a52b0c91fc464f42e27f3a1a39bf44ee9f41588829e6ac6328c2580bf39"
     },
     {
       "path": "Mods/Villain/base/BattleTrail15.json",
-      "size": 5872,
+      "bytes": 5872,
       "sha256": "9be242228209a6d7c8f60e1c810e91a774bbd4c735ee73e9e21e58143fd59849"
     },
     {
       "path": "Mods/Villain/base/BattleTrail17.json",
-      "size": 21751,
+      "bytes": 21751,
       "sha256": "d289fa27806b9d2caf8654cc4704a342415b6c0820d029302dac4b4b4690069b"
     },
     {
       "path": "Mods/Villain/base/BattleTrail18.json",
-      "size": 803,
+      "bytes": 803,
       "sha256": "4eec0c787a07c2eae9d0aa9b3ad769e543f7a6adee877ace26290e93dbaa67ef"
     },
     {
       "path": "Mods/Villain/base/BattleTrail19.json",
-      "size": 438,
+      "bytes": 438,
       "sha256": "2fb62e2fb40ba51a21ca552596fa137fc40aa47bcf61bc7a8c82a47593aa9555"
     },
     {
       "path": "Mods/Villain/base/BattleTrail21.json",
-      "size": 804,
+      "bytes": 804,
       "sha256": "bd8be6071bc7d80fd693380f79ef7ce99eb75d70c270846c670c254f5afc8970"
     },
     {
       "path": "Mods/Villain/base/BattleTrail22.json",
-      "size": 1002,
+      "bytes": 1002,
       "sha256": "b6321b048ab53ccf39ea693dd474e8386e355a9da5bf61a7773f96a2a32a300a"
     },
     {
       "path": "Mods/Villain/base/BattleTrail23.json",
-      "size": 9365,
+      "bytes": 9365,
       "sha256": "e200a5b4cbe9606297d44220716179360343fa7c84ad469a714a8d042ae4f314"
     },
     {
       "path": "Mods/Villain/base/BattleTrail24.json",
-      "size": 539,
+      "bytes": 539,
       "sha256": "3c3376bd88503d8d250a1b4bd9f3631b0650b318a84921d4a0b3ca4fe6c3d70f"
     },
     {
       "path": "Mods/Villain/base/BattleTrail25.json",
-      "size": 413,
+      "bytes": 413,
       "sha256": "68096da25c9b4a3ca1b45a984afc2159b7fb9124fefed953b822ae856139afa9"
     },
     {
       "path": "Mods/Villain/base/BattleTrail26.json",
-      "size": 2883,
+      "bytes": 2883,
       "sha256": "53f19cc230ce164a4651ff1565c0d1e712d818e58a2ba231ef191a3f55c26ecd"
     },
     {
       "path": "Mods/Villain/base/BattleTrail27.json",
-      "size": 1609,
+      "bytes": 1609,
       "sha256": "25ffb3e58fbd1fd489171659d40d484c2c5ffe97ea109c46d62e504ccf29fba7"
     },
     {
       "path": "Mods/Villain/base/BattleTrail28.json",
-      "size": 3405,
+      "bytes": 3405,
       "sha256": "30a6ba581d09fd784aac1365841411eb500f5ef06b08901ee307df101bba5780"
     },
     {
       "path": "Mods/Villain/base/BattleTrail29.json",
-      "size": 627,
+      "bytes": 627,
       "sha256": "a9ff24ee5f9105c0008c7462db92a9af7d6e6e9d855450f284a2e6914a6f8d8f"
     },
     {
       "path": "Mods/Villain/base/BattleTrail30.json",
-      "size": 7007,
+      "bytes": 7007,
       "sha256": "f06379235841899719d19b7a02b4229e6576fcf653206dd5bbce0beb54e4d437"
     },
     {
       "path": "Mods/Villain/base/BattleTrail31.json",
-      "size": 800,
+      "bytes": 800,
       "sha256": "919ce03a58892936a180d460b8abb3fb10a9a86dd4e997375873104c883a8fba"
     },
     {
       "path": "Mods/Villain/base/BattleTrail32.json",
-      "size": 1869,
+      "bytes": 1869,
       "sha256": "920050a0b4c5144ecf19fb484ec62333adbe845b98a545785d83be840d4cbd04"
     },
     {
       "path": "Mods/Villain/base/BattleTrail33.json",
-      "size": 1445,
+      "bytes": 1445,
       "sha256": "82e36f9b0030c8a31e2e7592a8671fdfe2090f1fa505a01513f498085a56c552"
     },
     {
       "path": "Mods/Villain/base/BattleTrail35.json",
-      "size": 720,
+      "bytes": 720,
       "sha256": "ccc2863ee747452fa8aec05212a3a9f727b41f9bb4ad932a1841f27e0782d385"
     },
     {
       "path": "Mods/Villain/base/BattleTrail36.json",
-      "size": 3580,
+      "bytes": 3580,
       "sha256": "0a19a80c250bfe65ed26ca2b228c4b58e6546674705eb76ac098357f459f3030"
     },
     {
       "path": "Mods/Villain/base/BattleTrail37.json",
-      "size": 1021,
+      "bytes": 1021,
       "sha256": "c794f57a09583d3e49cad17cef3de40ec7385ffeceda91b3659e9cd126a1ea55"
     },
     {
       "path": "Mods/Villain/base/BattleTrail40.json",
-      "size": 878,
+      "bytes": 878,
       "sha256": "4e18f7bdb921681bf278a8c6bf2146dff85fc921128e3ab814058e356a18d16f"
     },
     {
       "path": "Mods/Villain/base/BattleTrail70.json",
-      "size": 5433,
+      "bytes": 5433,
       "sha256": "252591dadaffa48612b2cdb6f7043b598d1ad6033913b7ff60b1fc5bba6d11fe"
     },
     {
       "path": "Mods/Villain/base/BattleTrail805.json",
-      "size": 13686,
+      "bytes": 13686,
       "sha256": "433db05a2625f63663f7b7b5c6bcc4791221c04098a327deb307d56d280ffe90"
     },
     {
       "path": "Mods/Villain/base/BattleTrail901.json",
-      "size": 1244,
+      "bytes": 1244,
       "sha256": "693638fb8ba3528c3b0cf05305185a05147a5c187a9c1ec62f8b44c2313a2c83"
     },
     {
       "path": "Mods/Villain/base/BattleTrail902.json",
-      "size": 1838,
+      "bytes": 1838,
       "sha256": "acfcb356241d0d344ab9bad426ed8c7b1b8a95a3c65cd3ce7264db740e5c6e2a"
     },
     {
       "path": "Mods/Villain/base/BattleTrail903.json",
-      "size": 855,
+      "bytes": 855,
       "sha256": "4ba395cfdce2d2520e3096fc89cfa5014dd77708c494449d90b85b760f17492a"
     },
     {
       "path": "Mods/Villain/base/BattleTrail906.json",
-      "size": 2922,
+      "bytes": 2922,
       "sha256": "873674453862269f3e132f3f94a241299abdead4c44fb533ff3ffeadd9631625"
     },
     {
       "path": "Mods/Villain/base/BattleTrail907.json",
-      "size": 1133,
+      "bytes": 1133,
       "sha256": "c24c6c30df55f2843423ccc24a07c93bb5108856a49b785a77c06e6466b9be07"
     },
     {
       "path": "Mods/Villain/base/BattleUnitAttr.json",
-      "size": 778201,
+      "bytes": 778201,
       "sha256": "ee941394deb7817a605a0a5108cf6cbb45d356a7072650b0ff9ed6610cf935f0"
     },
     {
       "path": "Mods/Villain/base/BattleUnitBase.json",
-      "size": 757496,
+      "bytes": 757496,
       "sha256": "a4ea29891638062a20caf85c31d424d2eddc4e095a15a680294a95c9d91870e4"
     },
     {
       "path": "Mods/Villain/base/BattleUnitDrop.json",
-      "size": 4399,
+      "bytes": 4399,
       "sha256": "345cbe4eed1cf27df103ef68f9023eba6867c85172388a648105de714e6459b2"
     },
     {
       "path": "Mods/Villain/base/BattleUnitLevel.json",
-      "size": 53111,
+      "bytes": 53111,
       "sha256": "9e38901dc4c2fc2fb9176130c185941ad990f9e721936ab02bd2bc66529069b1"
     },
     {
       "path": "Mods/Villain/base/BattleValueScale.json",
-      "size": 22809,
+      "bytes": 22809,
       "sha256": "c91e23490d1300203de800bd7c587cee031f88d9502ca1fd76c649fe60960878"
     },
     {
       "path": "Mods/Villain/base/BrokenAltar.json",
-      "size": 10997,
+      "bytes": 10997,
       "sha256": "dfb6555eb2c7038687a4fb6f57a8df3d33a63a0d86a15b82204d446c67bc8eeb"
     },
     {
       "path": "Mods/Villain/base/BrokenLevel.json",
-      "size": 673,
+      "bytes": 673,
       "sha256": "9066d05d66763fe82835d7bb43b2ddcee6ec47c673548ce49a997b9aa022f225"
     },
     {
       "path": "Mods/Villain/base/BuildingBook.json",
-      "size": 132790,
+      "bytes": 132790,
       "sha256": "e075fec18c54aa95b0ee490ec129409d1db78a8198ecaccacf868242ad658601"
     },
     {
       "path": "Mods/Villain/base/BuildingHospital.json",
-      "size": 3783,
+      "bytes": 3783,
       "sha256": "b8c5c56ff50493ef66c98cc63ac0eeb7b1b528ff1721ec336a717657ce287bf0"
     },
     {
       "path": "Mods/Villain/base/BuildingMeditation.json",
-      "size": 9630,
+      "bytes": 9630,
       "sha256": "6f030fc4eac1d7267f0afa95de4ae4690b49c8f7e9bc73a4ee419ca9bdb178c1"
     },
     {
       "path": "Mods/Villain/base/BuildingStorageImmortal.json",
-      "size": 710,
+      "bytes": 710,
       "sha256": "ca3c9d202e2bb4fdd700a79df85591882d6f6976da1763296f1ebc19acb90b8a"
     },
     {
       "path": "Mods/Villain/base/CareerAssess.json",
-      "size": 10204,
+      "bytes": 10204,
       "sha256": "f9c0d8fed10bfd8eb8f0eb944c80ffce5dc62ee2d46449b44539836a294508a5"
     },
     {
       "path": "Mods/Villain/base/CareerLog101.json",
-      "size": 2380,
+      "bytes": 2380,
       "sha256": "f57e946a82278b1301cbbf357c98f0da7a2267b7cd468bc3cdfd6872ca7d1733"
     },
     {
       "path": "Mods/Villain/base/CareerLog102.json",
-      "size": 8919,
+      "bytes": 8919,
       "sha256": "ba324a04a29956165efb04499ccf60b54827839edfd65720e5c039947d5cdf74"
     },
     {
       "path": "Mods/Villain/base/CareerLog103.json",
-      "size": 1376,
+      "bytes": 1376,
       "sha256": "f7c276efc593a054f3c5639a605ce1c4e8926cc3545fcb45b43ebd03d998b220"
     },
     {
       "path": "Mods/Villain/base/CareerLog104.json",
-      "size": 685,
+      "bytes": 685,
       "sha256": "b092166761ac49e1b6804517fe4845273aa2c8330748ca85dec596e985def5b0"
     },
     {
       "path": "Mods/Villain/base/CareerLog107.json",
-      "size": 1332,
+      "bytes": 1332,
       "sha256": "dc6607d91275bf437cbdd0cda1fc9b429b0661b32ce9a47058737dbb46ea80ce"
     },
     {
       "path": "Mods/Villain/base/CareerLogBase.json",
-      "size": 20698,
+      "bytes": 20698,
       "sha256": "7b10ace111eaae7d76a6e5b612770d1e236237c8faef6366941f573f235c358f"
     },
     {
       "path": "Mods/Villain/base/ClothChange.json",
-      "size": 454,
+      "bytes": 454,
       "sha256": "a1ab8eed44411825c00704bf7794ca105475969c24d69703d660d661cc87b176"
     },
     {
       "path": "Mods/Villain/base/ClothItem.json",
-      "size": 99923,
+      "bytes": 99923,
       "sha256": "4ae3f3e0e3ea4b122ebcc1d55322fa85b264d43a09eeb6a6b9c4a0572117e319"
     },
     {
       "path": "Mods/Villain/base/DamgeTestGradeAttrbute.json",
-      "size": 1902,
+      "bytes": 1902,
       "sha256": "1086b8b6d6ff1735d3a33badb6acd9047329080834a3c48fbe86f17b5e5dd11c"
     },
     {
       "path": "Mods/Villain/base/DefaultHandle.json",
-      "size": 2322,
+      "bytes": 2322,
       "sha256": "4a2c125525833f1e1279283087b8897ae41671a89c4c6026daf29a10695892dc"
     },
     {
       "path": "Mods/Villain/base/DefaultKeys.json",
-      "size": 5472,
+      "bytes": 5472,
       "sha256": "e370cb6e295247af91c4dd0df8ce8eb38b9ec3b496ccc4fcbd69089556c8b897"
     },
     {
       "path": "Mods/Villain/base/DevilDemonAbsorb.json",
-      "size": 2238,
+      "bytes": 2238,
       "sha256": "0975ddad1518297d355780ca23c1641cfadb9687c615a787049779d1227817d3"
     },
     {
       "path": "Mods/Villain/base/DevilDemonBase.json",
-      "size": 1064,
+      "bytes": 1064,
       "sha256": "170e93d64b822b840cf99a93de5995042fbdbf92b014508fc468f598d5b62c51"
     },
     {
       "path": "Mods/Villain/base/DevilDemonDrama.json",
-      "size": 322,
+      "bytes": 322,
       "sha256": "62155bab9c7defef9ac32affd1f9783b6a7dda70fea9de9ff587c7db18189769"
     },
     {
       "path": "Mods/Villain/base/DevilDemonParamer.json",
-      "size": 511,
+      "bytes": 511,
       "sha256": "c934935426729263f5b3ef778ba8e64eefe809ffdfa716bc4c9e51a0301eae23"
     },
     {
       "path": "Mods/Villain/base/DevilDemonTeam.json",
-      "size": 1027,
+      "bytes": 1027,
       "sha256": "9cd85a65e58822c393ff7e84d7e58bd198a05901bc12d14d012174e30b9a2938"
     },
     {
       "path": "Mods/Villain/base/DevilDemonWork.json",
-      "size": 1099,
+      "bytes": 1099,
       "sha256": "7f933745189b53844e5ed65238974f7fe7fb47d9667792d7ae6731f24b9cb6af"
     },
     {
       "path": "Mods/Villain/base/DevilDemonWorkExp.json",
-      "size": 15383,
+      "bytes": 15383,
       "sha256": "8e97ffbe04460d7503317ed923e1944c9543644d4182a5b62775732f44c63570"
     },
     {
       "path": "Mods/Villain/base/DramaCondition.json",
-      "size": 1385,
+      "bytes": 1385,
       "sha256": "0d0adbf3ffe07fd7922b68ba7c2d415ca258a213bde0b848e4bc91b90d987ca6"
     },
     {
       "path": "Mods/Villain/base/DramaDialogue.json",
-      "size": 8950014,
+      "bytes": 8950014,
       "sha256": "1db5b1f3c15bded590f4f52310bba4319c4f7b758e000c79e1d8efe0f3f96d22"
     },
     {
       "path": "Mods/Villain/base/DramaFunctionGroup.json",
-      "size": 3805,
+      "bytes": 3805,
       "sha256": "888b3d4eed900a65ca6256c3ac1c2dfd9f17503200230be8c61f2bdbfac5bcf6"
     },
     {
       "path": "Mods/Villain/base/DramaInfo1.json",
-      "size": 2172,
+      "bytes": 2172,
       "sha256": "7eb11808fc532a74aafbc47fcd5436f60351edd722347636cbfa132ad8b7dde8"
     },
     {
       "path": "Mods/Villain/base/DramaModel.json",
-      "size": 66904,
+      "bytes": 66904,
       "sha256": "da55e8ac83852e8be919e148bbd3dcb989023708dd9ea3a326c067e036928820"
     },
     {
       "path": "Mods/Villain/base/DramaNpc.json",
-      "size": 83414,
+      "bytes": 83414,
       "sha256": "cd501be4d26639f5c8fd545b32befde193bcf9ee10ec828ee782629bc6f3195a"
     },
     {
       "path": "Mods/Villain/base/DramaOptions.json",
-      "size": 2056272,
+      "bytes": 2056272,
       "sha256": "d2f2c728e2c0a5989b2a211f408c372b452bc841acb57e12fd1e9fa10f1cb6d6"
     },
     {
       "path": "Mods/Villain/base/DramaPackage.json",
-      "size": 24767,
+      "bytes": 24767,
       "sha256": "b844116d9f82d1fabee0136886e42abb6e5f48ada59c4fb088e8186aa1998c04"
     },
     {
       "path": "Mods/Villain/base/DramaPackageActive.json",
-      "size": 402830,
+      "bytes": 402830,
       "sha256": "a9d31cdc31c1dc04dbb1dee11747a1c20150aa85272ceac51ffd9a626476d95d"
     },
     {
       "path": "Mods/Villain/base/DramaPackageCreateUnit.json",
-      "size": 855,
+      "bytes": 855,
       "sha256": "9518224867f8f41b6b29692a1c01b359d9b56cafc4139d6252604a6c90938f9c"
     },
     {
       "path": "Mods/Villain/base/DramaPackageLogLocal.json",
-      "size": 15933,
+      "bytes": 15933,
       "sha256": "e5f10bdbac1075eec9d7b6939eeb58fab5b131e91b18dbe6ac6d72a07653c2ee"
     },
     {
       "path": "Mods/Villain/base/DramaPackageReplaceText.json",
-      "size": 18036,
+      "bytes": 18036,
       "sha256": "30f5282fed974fe844fbdd292dcd69818093b8d3c973e434ca7e2d2f9e74b7a9"
     },
     {
       "path": "Mods/Villain/base/DramaPackageStep.json",
-      "size": 20945,
+      "bytes": 20945,
       "sha256": "a55de6f89ae25ccf553801623878fc70b7a9aa4d008a84b7860d30cc6cb9e697"
     },
     {
       "path": "Mods/Villain/base/DramaPackageUnitAction.json",
-      "size": 202639,
+      "bytes": 202639,
       "sha256": "299b9fe9d241751b9d92eeb012a62434c15cfc8cdf12afc175ba36b05b9f4590"
     },
     {
       "path": "Mods/Villain/base/DramaPackageUnitFeedBack.json",
-      "size": 259943,
+      "bytes": 259943,
       "sha256": "d2e1bbae8d00a6cffd86d45173a17412022b44f75e232faa69090086648982bc"
     },
     {
       "path": "Mods/Villain/base/DramaTrigger.json",
-      "size": 194294,
+      "bytes": 194294,
       "sha256": "9a6a279aab6a636bcac11c39e5c27c9508fc8c2108f72e0d972d826584cc1273"
     },
     {
       "path": "Mods/Villain/base/DrawLotResult.json",
-      "size": 975,
+      "bytes": 975,
       "sha256": "5cdcb25c242f1dc6e7f855b2f315241c0dd7c5f5b7970588390222ee26940826"
     },
     {
       "path": "Mods/Villain/base/DungeonBase.json",
-      "size": 1018666,
+      "bytes": 1018666,
       "sha256": "78639b203435d3085aec902ce96cc26175b63454769a03642d4b16c285c54c6d"
     },
     {
       "path": "Mods/Villain/base/DungeonEffect1001.json",
-      "size": 106268,
+      "bytes": 106268,
       "sha256": "2b63930bb8c2a7d95d93e9b0e372f94318ba91eef41031612f4540bc75899b76"
     },
     {
       "path": "Mods/Villain/base/DungeonEffect1002.json",
-      "size": 2604,
+      "bytes": 2604,
       "sha256": "021f57170eab471f76dcaa15063ffcc1a16f966e5e6c49d5d705d72736111c0f"
     },
     {
       "path": "Mods/Villain/base/DungeonEffectBase.json",
-      "size": 937,
+      "bytes": 937,
       "sha256": "dddbec2d6ec95cf62598a3c27cc0e3959c7bb3eebc12193ce3abb092ed64cd78"
     },
     {
       "path": "Mods/Villain/base/DungeonEnemyDesc.json",
-      "size": 514,
+      "bytes": 514,
       "sha256": "82e032e0e9a817ddb42cb71efbad96c988d3db96e69f54231570df162b916bec"
     },
     {
       "path": "Mods/Villain/base/DungeonPowerDesc.json",
-      "size": 424,
+      "bytes": 424,
       "sha256": "83ceb3a0e20c9b0f5d51ebbb72fc4687108c31c99895b79f0cc9617a71faef66"
     },
     {
       "path": "Mods/Villain/base/DungeonRoomBase.json",
-      "size": 15845,
+      "bytes": 15845,
       "sha256": "d78d9b90e3fdebc37eaf4078cd34a5ef0f8cd7c22141b1a581bf7ad281f0722c"
     },
     {
       "path": "Mods/Villain/base/DungeonScaleBase.json",
-      "size": 10961,
+      "bytes": 10961,
       "sha256": "efb0d4508ebb99a5a2fc35aabe4bba226de92d7dcd8a7d0accb32ca1fc24b630"
     },
     {
       "path": "Mods/Villain/base/DungeonSceneBase.json",
-      "size": 55031,
+      "bytes": 55031,
       "sha256": "1cd4f5863c307b72c1a68b345594b45919ffd0a120f30778233a14785f675e14"
     },
     {
       "path": "Mods/Villain/base/DungeonSceneObject.json",
-      "size": 191642,
+      "bytes": 191642,
       "sha256": "9245f67357907334ea07943cb4926332b056254925310460925dd71106ec1e3e"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial47.json",
-      "size": 27666,
+      "bytes": 27666,
       "sha256": "7f2ba26de2a06a51d99f6d7dd4ae77f4ace58fc0754183cf67986fdb888fb5f3"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial48.json",
-      "size": 1473,
+      "bytes": 1473,
       "sha256": "8bdb082755af500179210a74e7894e3a5542e28d7be7c894e8f45273ddeac6ce"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial49.json",
-      "size": 1333,
+      "bytes": 1333,
       "sha256": "ed805e6596613fff647097e794bb639ced85a19ba5f31eb6788e2d0c952e0f6e"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial51.json",
-      "size": 7953,
+      "bytes": 7953,
       "sha256": "a27981727c036049052a85737a780cfbca051f5b9846408ca6883fd2d9aded6e"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial56Trigger.json",
-      "size": 1654,
+      "bytes": 1654,
       "sha256": "c4be4b65678d10514dfc3cf0a561fd9f0bd18e298dd4c4dfc569d2c94dbe8ad5"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial60.json",
-      "size": 1006,
+      "bytes": 1006,
       "sha256": "159639fc18d7e6f03ae172a2b7ac9fdcccdf7c8f64ed54a5448a95bcfa78b43e"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial61.json",
-      "size": 3050,
+      "bytes": 3050,
       "sha256": "cef830ed6350e8fac132112ef504b8aae401b6f03fa605279eb8b5d7261115d6"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial65.json",
-      "size": 6689,
+      "bytes": 6689,
       "sha256": "f726c25387a1c0e5866ff8fb58f138f097db1c78e059b555ab3d8cd161c0ba58"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial73.json",
-      "size": 3976,
+      "bytes": 3976,
       "sha256": "d05a218697124deecebffe6f15b1902c40462fd60eebe341c7e01b0a7b979e8f"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial74.json",
-      "size": 3409,
+      "bytes": 3409,
       "sha256": "c76e4225730721e46631b95270b618594b77e9b1d4b3d44089072ded6902fea1"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial75.json",
-      "size": 1210,
+      "bytes": 1210,
       "sha256": "e44422bce44266b4a1d336768d48c34ca812d12f54172cfe5f4d131ae6ec9f98"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial75System.json",
-      "size": 377,
+      "bytes": 377,
       "sha256": "492fae186f0519c8044acd930d3456daf5bf57be5032cf98c222161d728fc5e4"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial77.json",
-      "size": 2890,
+      "bytes": 2890,
       "sha256": "da34417bf4bf801d131cc730c2d91ff7b9a482c28c766db5a5f79f9e42c78b1a"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial83.json",
-      "size": 1307,
+      "bytes": 1307,
       "sha256": "c995e0b869676c37770f391ce2a6d49f27e3d19c96b3f27e6346e265b968bd52"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial84.json",
-      "size": 1007,
+      "bytes": 1007,
       "sha256": "5b333c5579705ddf0f4e2e308530fa47af164f182f7e5c28fa9aa7729ded329b"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial85.json",
-      "size": 682,
+      "bytes": 682,
       "sha256": "8dbb7a814a64deacc5258f03c4b741fa08ce9b017f1001095dfd8fa37134b040"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial86.json",
-      "size": 971,
+      "bytes": 971,
       "sha256": "58d29f846e867ff84b5a8402f92e45a12ab1cb2d42817861a152ce65c0355490"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial87.json",
-      "size": 2181,
+      "bytes": 2181,
       "sha256": "270a761ce2eac6ae9c59198ce8c4605009cafbf7673240cfbb84765613c09a55"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial88.json",
-      "size": 3400,
+      "bytes": 3400,
       "sha256": "87e48184d935fa3788ec6b3ddaa58d626867c8e5a17f96885ed084a61c8e7070"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecial91.json",
-      "size": 15273,
+      "bytes": 15273,
       "sha256": "790ce3196b77ac4c9f2731cbaae0ee9e025cda7a10e043e1d7a77f7eef2af2bf"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecialRoom1.json",
-      "size": 12410,
+      "bytes": 12410,
       "sha256": "1c919c5a98ab2e07a4f9f72f506a715c6896a298cc8837d233e67233933de7db"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecialRoom31.json",
-      "size": 3011,
+      "bytes": 3011,
       "sha256": "d2c6a427e80407e97cfc4b1a2d03f47b318b54454249decbfe2de0a88f4db3b4"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecialRoom77Parameters.json",
-      "size": 4322,
+      "bytes": 4322,
       "sha256": "6eaba20a367f01f43ca37c3996a045a31c2af52be247aaed11765034246e8bda"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecialRoomBase.json",
-      "size": 13870,
+      "bytes": 13870,
       "sha256": "b27a20bcf4616fd952b4bbb730e7ecd1764a455a1ce9b12829fe001a9586d32c"
     },
     {
       "path": "Mods/Villain/base/DungeonSpecialRoomTrigger.json",
-      "size": 907,
+      "bytes": 907,
       "sha256": "0b95de6cd858e96b938f3f35ef0dd67936c92d56f31a41a74700480633a8f2a6"
     },
     {
       "path": "Mods/Villain/base/DungeonTrigger.json",
-      "size": 192457,
+      "bytes": 192457,
       "sha256": "88c4837bcbc752e91c08f1575c70e4f3a59f1224c35b17c5c2a37a37ae8fb8b0"
     },
     {
       "path": "Mods/Villain/base/DungeonUnitBase.json",
-      "size": 300279,
+      "bytes": 300279,
       "sha256": "a545995a700f25077939469b692e1cb0aa89432ccc8bad81b25d4c544dc7966f"
     },
     {
       "path": "Mods/Villain/base/ElderBase.json",
-      "size": 1458,
+      "bytes": 1458,
       "sha256": "659e8e279984203bf68cd31c3f5e01a395682699d2b944196169d8798bc77d1e"
     },
     {
       "path": "Mods/Villain/base/ElderCostItem.json",
-      "size": 667,
+      "bytes": 667,
       "sha256": "ae0bb74f309e13556f6675f730cf2127f41f7a6d97f80be5efbc9af55bfa2bc9"
     },
     {
       "path": "Mods/Villain/base/ElderGetExp.json",
-      "size": 1325,
+      "bytes": 1325,
       "sha256": "f4b1170dc86fee624460d51db0547af6d813e28fac8435ca0fb0b9cae5242331"
     },
     {
       "path": "Mods/Villain/base/ElderLevel.json",
-      "size": 7169,
+      "bytes": 7169,
       "sha256": "7ff5e8b407bbd4715dd17007656968f979be6028aac3138f20259759051a9f85"
     },
     {
       "path": "Mods/Villain/base/ElderMaterial.json",
-      "size": 614,
+      "bytes": 614,
       "sha256": "fa445f7a9b8ae4b2f4852f41947a15cf2cde27215b02773fa30f799db317cb6d"
     },
     {
       "path": "Mods/Villain/base/FairyChickenBase.json",
-      "size": 11058,
+      "bytes": 11058,
       "sha256": "fa2d2afcc51f418175e9f18ec96316f3b2cd8cf2a71df03405976670bf129b25"
     },
     {
       "path": "Mods/Villain/base/FairyChickenColor.json",
-      "size": 235,
+      "bytes": 235,
       "sha256": "bb69a9c8c4b665473a455afaaa9c34ee811efd757f8e9a28c1e634aa501dda80"
     },
     {
       "path": "Mods/Villain/base/FairyChickenDress.json",
-      "size": 11518,
+      "bytes": 11518,
       "sha256": "7c24ef54648d5243c4bd6ce793985de9aa17d1fd937e08ea154c167a0d1f2c7b"
     },
     {
       "path": "Mods/Villain/base/FairyChickenFarm.json",
-      "size": 1041,
+      "bytes": 1041,
       "sha256": "4ed1406ae60abf5b74ae31bd4f81d26d9d2757fb1c6b9cbb6f2ce31a7651bf13"
     },
     {
       "path": "Mods/Villain/base/FairyChickenFarmEvents.json",
-      "size": 2432,
+      "bytes": 2432,
       "sha256": "ce3a369a8ce4c9251aef8f190d1b0c5fe3c61eae16a293f271068ff76d90e4e0"
     },
     {
       "path": "Mods/Villain/base/FairyChickenRestraint.json",
-      "size": 379,
+      "bytes": 379,
       "sha256": "1dc262df342e0d709d28afdfd8f9160efdccf3a84beebadb960ca276ea1a2f3b"
     },
     {
       "path": "Mods/Villain/base/FairyChickenSkillBase.json",
-      "size": 16355,
+      "bytes": 16355,
       "sha256": "b4ee87a1d247a4f7b76e096c8b2523ce9131c2c3f6f74f179eac9ee6442864cd"
     },
     {
       "path": "Mods/Villain/base/FairyChickenStore.json",
-      "size": 19429,
+      "bytes": 19429,
       "sha256": "8a860654fda5637dd1930e0ddf51dd434ea19330b5e20ebe808e359d58ded15e"
     },
     {
       "path": "Mods/Villain/base/FairyChickenSystemBase.json",
-      "size": 2640,
+      "bytes": 2640,
       "sha256": "3c2a268d9a4be528a7e708b1340119d73257d2f3baafc8d684b6d6cbccbd119d"
     },
     {
       "path": "Mods/Villain/base/FairyLeagueParameters.json",
-      "size": 2138,
+      "bytes": 2138,
       "sha256": "50ee08af47ebcbfff82b1dffae7299f53c1fd4a2d829b85ed81053d13d3cd73a"
     },
     {
       "path": "Mods/Villain/base/FairyLeagueStoreParameters.json",
-      "size": 2472,
+      "bytes": 2472,
       "sha256": "6f8dfb1e8a1130bec6a6cf6b2150b5059a6953c71f3f7284cf7063a0532d823e"
     },
     {
       "path": "Mods/Villain/base/FairyLeagueStoreProp.json",
-      "size": 2835,
+      "bytes": 2835,
       "sha256": "fb7a02166e977b1d87862463c62bc2621fad4a81df130ecb813a890967472a8d"
     },
     {
       "path": "Mods/Villain/base/FairyLeagueTaskReward.json",
-      "size": 8140,
+      "bytes": 8140,
       "sha256": "d12949d47c735c934988a275b7c0f2f43976acd140e8ed5c7ddcaa2ddc462a68"
     },
     {
       "path": "Mods/Villain/base/FateFeature.json",
-      "size": 50423,
+      "bytes": 50423,
       "sha256": "c1351e25e39b54b71b6f8ed944674513b1c376ed985387740740ca67aad1bc9e"
     },
     {
       "path": "Mods/Villain/base/FateFeatureGroup.json",
-      "size": 32421,
+      "bytes": 32421,
       "sha256": "9a63a87da599924271c9ae8811999f7d2b071c41d0818eb27f050dfd505e8ff9"
     },
     {
       "path": "Mods/Villain/base/FateGradeRequire.json",
-      "size": 13863,
+      "bytes": 13863,
       "sha256": "463aed1ce982b4cf9eb3ee212b7706f5793cc3fb4fa788761738e4ea6ca54f07"
     },
     {
       "path": "Mods/Villain/base/FieldSkillBase.json",
-      "size": 740,
+      "bytes": 740,
       "sha256": "e4a93496db28f2e474d6fb7f6463207ce27acc11088c0e51c932218e7f646ff4"
     },
     {
       "path": "Mods/Villain/base/FieldSkillItem.json",
-      "size": 1867,
+      "bytes": 1867,
       "sha256": "40f8626d6e9edb5e3ed6901a53ae34fd89bd17f7fd9530bba477111ac79b7785"
     },
     {
       "path": "Mods/Villain/base/FieldSkillType.json",
-      "size": 4361,
+      "bytes": 4361,
       "sha256": "062f6d0f71f015d23deb203d43d8d4e0890722ae17b3ef379937e09cc62dc176"
     },
     {
       "path": "Mods/Villain/base/FishingBase.json",
-      "size": 8423,
+      "bytes": 8423,
       "sha256": "0ab9ce703793fcf3a9711dc49118b1c573f5a468d45f277187d87cf9bcaedae6"
     },
     {
       "path": "Mods/Villain/base/FishingDifficult.json",
-      "size": 5265,
+      "bytes": 5265,
       "sha256": "a985de90a5e0f46a82d001af7f1b66816ea74ae56862520865aaea2c7e861b2b"
     },
     {
       "path": "Mods/Villain/base/FishingWaterSources.json",
-      "size": 508,
+      "bytes": 508,
       "sha256": "07c7e0c1301dc5fbbcb58c38b1d767a2e69e59fbd8cdf13b3804991d6ddf6224"
     },
     {
       "path": "Mods/Villain/base/FiveFlowerInSchool.json",
-      "size": 21909,
+      "bytes": 21909,
       "sha256": "4ae85fbc019c1dfaa313f705525d8224ea79df27c987d1766233095a508c29ad"
     },
     {
       "path": "Mods/Villain/base/FiveFlowerInvite.json",
-      "size": 3651,
+      "bytes": 3651,
       "sha256": "9e1e230a3c60a328d2be9da7be6bc6e21f6f775220949fd8b126dcde3ddb9826"
     },
     {
       "path": "Mods/Villain/base/FortuitousEvent.json",
-      "size": 438486,
+      "bytes": 438486,
       "sha256": "28614607cbe8b804f8c7c61ddd524906914626977df39e2b9f733f2c47d8cb3a"
     },
     {
       "path": "Mods/Villain/base/FortuitousParameters.json",
-      "size": 498,
+      "bytes": 498,
       "sha256": "0d72ba5de4e916167b5e504d95c83191fdcc57ea2ec16e6830224f3d7c396216"
     },
     {
       "path": "Mods/Villain/base/GameDifficultyCrazy.json",
-      "size": 2695,
+      "bytes": 2695,
       "sha256": "eabe945c09cfb2c899a768003ceb0fc95a59f540510700b48c4fbd46b297947e"
     },
     {
       "path": "Mods/Villain/base/GameDifficultyValue.json",
-      "size": 2012,
+      "bytes": 2012,
       "sha256": "467aaff90ca2a3745d5d16993cd4ca61c1e4cd79108645d2ea311ed9c9b5041e"
     },
     {
       "path": "Mods/Villain/base/GameHandleCode.json",
-      "size": 1194,
+      "bytes": 1194,
       "sha256": "4da6f82a6d1fdc44bb18ec5bcd52dd363f1e0311816cdbecf9a3ec6fd27e4cbf"
     },
     {
       "path": "Mods/Villain/base/GameItemCost.json",
-      "size": 44850,
+      "bytes": 44850,
       "sha256": "511942098792f1d45440beb921a8d80141679d0e1af47fd7240c1032fb8a5a1a"
     },
     {
       "path": "Mods/Villain/base/GameItemReward.json",
-      "size": 8755611,
+      "bytes": 8755611,
       "sha256": "b66e70b07c20839054e577422e815b0c9171d87c18c5cb1aea9407b67628df22"
     },
     {
       "path": "Mods/Villain/base/GameItemRewardAbilitySuit.json",
-      "size": 28562,
+      "bytes": 28562,
       "sha256": "89be569420404950b8971268abc66e30f6520127b9f429c25a30fbbaf7dac585"
     },
     {
       "path": "Mods/Villain/base/GameItemRewardArtifact.json",
-      "size": 56603,
+      "bytes": 56603,
       "sha256": "00febd8a424c7258e043f10f89f9bdd4de6962440c4a6d1f96acdb5a6e42e954"
     },
     {
       "path": "Mods/Villain/base/GameItemRewardNoInfluence.json",
-      "size": 2030,
+      "bytes": 2030,
       "sha256": "48c5e61697b60147f857666614a7ee7040c739af63e3e8e9acd9b5e1d3953e61"
     },
     {
       "path": "Mods/Villain/base/GameKeyCode.json",
-      "size": 11043,
+      "bytes": 11043,
       "sha256": "4039b71b429bb336f632bb20a8b5b9b16e9a34a27a29e1b0d1328fa0568d02e4"
     },
     {
       "path": "Mods/Villain/base/GameLoadScenesBG.json",
-      "size": 3303,
+      "bytes": 3303,
       "sha256": "db92a507f111bf22a14850cebebe0a9cc5f8386a8dae6f7496a7721a2ad37adf"
     },
     {
       "path": "Mods/Villain/base/GameLoadScenesTip.json",
-      "size": 2449,
+      "bytes": 2449,
       "sha256": "5ad5ff7a2f7c5ee536bbb5fadda56b81ed75ab6a6e46e860d1750a6e093a7c90"
     },
     {
       "path": "Mods/Villain/base/GameParameter.json",
-      "size": 2352,
+      "bytes": 2352,
       "sha256": "aad38ef1b5898afc4360490b93b5de37f527d2d896b43c11e8b19b62b62b7307"
     },
     {
       "path": "Mods/Villain/base/GamePlan.json",
-      "size": 1005,
+      "bytes": 1005,
       "sha256": "131ff5f73839c5a9b7e86ed698151f5d0d09e20be9bc9579742b42bb0650510a"
     },
     {
       "path": "Mods/Villain/base/GameSettingCursor.json",
-      "size": 2485,
+      "bytes": 2485,
       "sha256": "1f4e552942ba82086cbc684e06beba0584c4012df75dec437f20e8ba0300bfe8"
     },
     {
       "path": "Mods/Villain/base/GameUnitDifficulty.json",
-      "size": 23437,
+      "bytes": 23437,
       "sha256": "848d2084fea22828fcb9c6017d86db5b2a6fd9520bca153de5cd981dd324f4c9"
     },
     {
       "path": "Mods/Villain/base/GameVote.json",
-      "size": 7973,
+      "bytes": 7973,
       "sha256": "0659eb78380e6b0f09b8227e409994390f4d966006b31561ac943804a1f2ed1c"
     },
     {
       "path": "Mods/Villain/base/GeomancyEvent.json",
-      "size": 3902,
+      "bytes": 3902,
       "sha256": "7458696a693e7a3b72715365f5dfa8c66746b83b13af148ad4db551b9de7463b"
     },
     {
       "path": "Mods/Villain/base/GeomancyGame.json",
-      "size": 46054,
+      "bytes": 46054,
       "sha256": "e17df33d213e1bf2394c670ff69e3c7fce546f5d43fdcc34f4ee80c48b6f781f"
     },
     {
       "path": "Mods/Villain/base/GeomancyQuantity.json",
-      "size": 1653,
+      "bytes": 1653,
       "sha256": "6bf23e0a7faaf06f3c313d31df768e9dc4535cbc3b909bc08add8f0bcdd16319"
     },
     {
       "path": "Mods/Villain/base/GeomancyResult.json",
-      "size": 1170,
+      "bytes": 1170,
       "sha256": "b112c3b390f065895c71b87f747b9ce8f24ec8d6a551ea89fb3fb03882130076"
     },
     {
       "path": "Mods/Villain/base/GeomancySkill.json",
-      "size": 11093,
+      "bytes": 11093,
       "sha256": "e8f7c8214d4f678a9b2b1c519004c19573d05f66248726f0a33f23f18ce9cd13"
     },
     {
       "path": "Mods/Villain/base/GeomancyTalent.json",
-      "size": 12075,
+      "bytes": 12075,
       "sha256": "b828bc084ce18d2d96a7d615577dd1c48b387f3d705e36676a086f53834a785f"
     },
     {
       "path": "Mods/Villain/base/GhostMountainBossProduce.json",
-      "size": 1831,
+      "bytes": 1831,
       "sha256": "cbb446e0254c97d4f11f8df3b549dc875d8b5e5345fe3ee97173d500344914b8"
     },
     {
       "path": "Mods/Villain/base/GhostMountainSalvage.json",
-      "size": 63763,
+      "bytes": 63763,
       "sha256": "901ff436761a4aa5b7fc3cc42fa022e553dee8cdd9522aca3d848e8e6d223951"
     },
     {
       "path": "Mods/Villain/base/GhostMountainSalvagePillar.json",
-      "size": 5193,
+      "bytes": 5193,
       "sha256": "cb7e99c80e80d1e4807aaa967a7e0195b724f3f019c2144054e0cf89d3adc6d4"
     },
     {
       "path": "Mods/Villain/base/GodEyeBaseCost.json",
-      "size": 442,
+      "bytes": 442,
       "sha256": "6fa271da3e501c2369b56dac0fafbeded70b8ec448b0a5fa41cdd585d6577794"
     },
     {
       "path": "Mods/Villain/base/GodEyeExtraCost.json",
-      "size": 397,
+      "bytes": 397,
       "sha256": "35b7787d1a5c0e76b1bc0c75ad373301bba74e54e8ca5c51442aa34892be852a"
     },
     {
       "path": "Mods/Villain/base/GodEyePar.json",
-      "size": 1359,
+      "bytes": 1359,
       "sha256": "64da1a388fd432b7da71b19afa65ad8b94dfc480fc8cb0e04399e19d28793365"
     },
     {
       "path": "Mods/Villain/base/GodEyeSkills.json",
-      "size": 27726,
+      "bytes": 27726,
       "sha256": "31e4b282e2029b5c04899fe93698698cfa3beeb6f209a934269955221bcd7571"
     },
     {
       "path": "Mods/Villain/base/GuideBase.json",
-      "size": 89611,
+      "bytes": 89611,
       "sha256": "c68e6a2fa58bcd5da486c151286e65fd39fa580107737c6e2e72291767994a1a"
     },
     {
       "path": "Mods/Villain/base/HerdBattle77Log.json",
-      "size": 427,
+      "bytes": 427,
       "sha256": "0aa04b4c7d9936dc41f3452e6c32b2c1a27323dfdefc4b2b19c89b7e223e449d"
     },
     {
       "path": "Mods/Villain/base/HerdNpcClothes.json",
-      "size": 3489,
+      "bytes": 3489,
       "sha256": "3887252e2339504b8c54a5d695868d214dd1b7edd6eb744d8d72249b972fd9f7"
     },
     {
       "path": "Mods/Villain/base/HerdNpcFortuitous.json",
-      "size": 22764,
+      "bytes": 22764,
       "sha256": "523a08d604e0bf1483db39b484fc1f19ba14809f4cad182b4d6ffe97b24fd4ca"
     },
     {
       "path": "Mods/Villain/base/HerdNpcLevel.json",
-      "size": 4775,
+      "bytes": 4775,
       "sha256": "dc3279ce223cd1a8e602e2ab8572ff9380b561116c4e4c889f01d7df7cc83597"
     },
     {
       "path": "Mods/Villain/base/HerdNPCNameFirst.json",
-      "size": 501,
+      "bytes": 501,
       "sha256": "24be1994f4e1f351c1420e5f2b8b01f376d589657724d6c0ded26e1fab953fa1"
     },
     {
       "path": "Mods/Villain/base/HerdNpcParameters.json",
-      "size": 2433,
+      "bytes": 2433,
       "sha256": "ecb25933177dd64c48daccb9e53dfb9b89cbc4a43dcace650e5f50a4113b529e"
     },
     {
       "path": "Mods/Villain/base/HerdNpcSkill.json",
-      "size": 12082,
+      "bytes": 12082,
       "sha256": "3425aa9404a9a82f9550fa56396031d9e1d6f002153ee8bc7d0c8e4282bcc383"
     },
     {
       "path": "Mods/Villain/base/HerdWakingAttr.json",
-      "size": 3428,
+      "bytes": 3428,
       "sha256": "ed313a7f4a8febef4c636a5b09c9f1cca1ec6163ebaa6467c02b8cfe321cf28f"
     },
     {
       "path": "Mods/Villain/base/HeresyAssignAction.json",
-      "size": 3936,
+      "bytes": 3936,
       "sha256": "c42b2019d80f7ec3955fa751bcd090d6b0186540fbc9c5693692db16d2a6e7fa"
     },
     {
       "path": "Mods/Villain/base/HeresyBass.json",
-      "size": 1257,
+      "bytes": 1257,
       "sha256": "17096cd40ce9094a4e7b41522cf8bad390792f3d47d091316e0995b99b0311e0"
     },
     {
       "path": "Mods/Villain/base/HeresyParamate.json",
-      "size": 935,
+      "bytes": 935,
       "sha256": "abab230c4d7b6c0633c1f07658e7f58d257610970ebb4b35694d6eaea518272b"
     },
     {
       "path": "Mods/Villain/base/HolyMineBase.json",
-      "size": 831,
+      "bytes": 831,
       "sha256": "a120270d7db261121239afb0cf44de200559d8fb5cf5283fbd9cd719c5815c28"
     },
     {
       "path": "Mods/Villain/base/HolyMineFeature.json",
-      "size": 1065,
+      "bytes": 1065,
       "sha256": "1f868b64b38f734f9474dd250ac25f1820db50277496827dab418ba2dcc727cb"
     },
     {
       "path": "Mods/Villain/base/HonorHillDungeon.json",
-      "size": 4468,
+      "bytes": 4468,
       "sha256": "7f6a0a084bbd16fa8fd500ed4f6fa5f88f2b133ad5d7932ed4734bd915ce2d46"
     },
     {
       "path": "Mods/Villain/base/HonorHillRankingInit.json",
-      "size": 4957,
+      "bytes": 4957,
       "sha256": "94fc7793cf21b2bcf9dd7dbac4e34929242a3c4fdca0e9cfcf65de240cd55e27"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5002Sub1.json",
-      "size": 2114,
+      "bytes": 2114,
       "sha256": "3a40fa3ce1c466a9adb66a75c0b38e87e5026c4144d5558996d6ce38a742a882"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5002Sub2.json",
-      "size": 5803,
+      "bytes": 5803,
       "sha256": "a0895b341e79b1e5f55be55bc1f61a6e3acd80bd93a55199f6ce8d23d74708e1"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5003.json",
-      "size": 23263,
+      "bytes": 23263,
       "sha256": "728c6a8429dceae9a594be86550e3f033fa5897d7113584afc7a83066a8a75cb"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5004.json",
-      "size": 4186,
+      "bytes": 4186,
       "sha256": "6a2cb033640244da7d7f26a3b763bf149da1e9079c3d5fdb680aa1caf5e7db67"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5005.json",
-      "size": 5418,
+      "bytes": 5418,
       "sha256": "e63565881697fa57bdfab2adb2078880f23f8de19b850ede19857c45b184b9d2"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5005Sub1.json",
-      "size": 1672,
+      "bytes": 1672,
       "sha256": "2b3b0f4702fd8e5e06414d80bea4974a68e7849971fa5f92dbdcb368732f53af"
     },
     {
       "path": "Mods/Villain/base/HonorVillage5005Sub2.json",
-      "size": 679,
+      "bytes": 679,
       "sha256": "b94f79185f5bd59e6a67f2538d1b5d87f78bc19578c9d2fc417fc34ae3baf747"
     },
     {
       "path": "Mods/Villain/base/HonorVillageBase.json",
-      "size": 331,
+      "bytes": 331,
       "sha256": "9cccbbf109fc0eaa002dd35e504e90b29ef3e3fdef5d07fd44a24fa6614caf6b"
     },
     {
       "path": "Mods/Villain/base/HonorVillagePara.json",
-      "size": 617,
+      "bytes": 617,
       "sha256": "3065a4d1bb3e774490715d2b9da0ad5e6632ec059e9ef0d1ade6559797e403b5"
     },
     {
       "path": "Mods/Villain/base/ImmortalHuman.json",
-      "size": 6031,
+      "bytes": 6031,
       "sha256": "ecef4b9f0162fc0c0c34f668564501cc340b2b764b6f0d1fc336cb9c8612946d"
     },
     {
       "path": "Mods/Villain/base/ImmortalMethod.json",
-      "size": 6072,
+      "bytes": 6072,
       "sha256": "fc3cefe37220dd427ab338d329fdeb13d3cdfe08b84646f2fe2a8ec8eab1d0ea"
     },
     {
       "path": "Mods/Villain/base/ImmortalMethodBase1.json",
-      "size": 464,
+      "bytes": 464,
       "sha256": "cfeb196f2b8ab34dbf2493450d51c9ed7fc4991290f47117a0df8deeebd20c68"
     },
     {
       "path": "Mods/Villain/base/ImmortalPoint.json",
-      "size": 7869,
+      "bytes": 7869,
       "sha256": "44d4c54f72de09ada98a8fc8cb1f5f30e6bdbaf06e9149e4949797eb46a56556"
     },
     {
       "path": "Mods/Villain/base/ImmortalPosition.json",
-      "size": 3114,
+      "bytes": 3114,
       "sha256": "c3fc53d9130587f96783369080137e0b279f44b734e5913b3bc5e4e81b4a7c14"
     },
     {
       "path": "Mods/Villain/base/ImmortalStore.json",
-      "size": 960,
+      "bytes": 960,
       "sha256": "dbb08573d6e7676e53952ed1bdf2c0c56ac4914d7c1fb43ab6ee80b55714bf75"
     },
     {
       "path": "Mods/Villain/base/ItemBook.json",
-      "size": 4005,
+      "bytes": 4005,
       "sha256": "d8e89f3bbd989ad8a065a153c670e462d604ccbf5091154ba9f9796a6f38316d"
     },
     {
       "path": "Mods/Villain/base/ItemChest.json",
-      "size": 5151,
+      "bytes": 5151,
       "sha256": "8535a29a8ef72ddad85c193f62266a1e6b90e4eafbc8588632320702aaf22485"
     },
     {
       "path": "Mods/Villain/base/ItemChestDrops.json",
-      "size": 669,
+      "bytes": 669,
       "sha256": "d928db314d685caecc1cb7134924f241ec357abd21ea5ba3c701981b0b090d04"
     },
     {
       "path": "Mods/Villain/base/ItemFate.json",
-      "size": 577,
+      "bytes": 577,
       "sha256": "88cda49973f68afccd0000cda287a4dc8ac3f4832d00307601150375a60a4f1b"
     },
     {
       "path": "Mods/Villain/base/ItemFunction.json",
-      "size": 7533,
+      "bytes": 7533,
       "sha256": "a54d3846f27afb0d7c5807e554c4be09f08c098fb20b5e47515681f997f01238"
     },
     {
       "path": "Mods/Villain/base/ItemGloom.json",
-      "size": 5940,
+      "bytes": 5940,
       "sha256": "63a6dde169a33eeb26f03cf4ffa57a35d28e4d70f4003c3d55f0348902105736"
     },
     {
       "path": "Mods/Villain/base/ItemHerbal.json",
-      "size": 15186,
+      "bytes": 15186,
       "sha256": "6b0fabf988428959bc9add9e724fcb0216ab61418cc0e05ae6fdd41a1d3c7d1a"
     },
     {
       "path": "Mods/Villain/base/ItemHobby.json",
-      "size": 16305,
+      "bytes": 16305,
       "sha256": "2ddb100155fb78cd5984192412cfc36197063990f56888bb5baaa30a113b871f"
     },
     {
       "path": "Mods/Villain/base/ItemHorse.json",
-      "size": 12035,
+      "bytes": 12035,
       "sha256": "572daafdb6594e104ad3c1b4966c67929d8235760146a8228347cb1ab22f5396"
     },
     {
       "path": "Mods/Villain/base/ItemLevelDesc.json",
-      "size": 333,
+      "bytes": 333,
       "sha256": "02823ec41aa3fa9550571c4ce54a06407ade2cc36d42148a1907c07077276f1e"
     },
     {
       "path": "Mods/Villain/base/ItemLotusSeed.json",
-      "size": 2123,
+      "bytes": 2123,
       "sha256": "8b75835c20cdde3c960176779cd2659ca48b5bd716650a9819d2452aad8a6572"
     },
     {
       "path": "Mods/Villain/base/ItemMapSearch.json",
-      "size": 1030,
+      "bytes": 1030,
       "sha256": "7036aa735449e6aa2b5b45eaaa6ba71700030c53e13f574dd215e309d250675c"
     },
     {
       "path": "Mods/Villain/base/ItemPill.json",
-      "size": 652711,
+      "bytes": 652711,
       "sha256": "684d922d71813621e2dfade6de68481b94424fc1c8a65d5f1e7a8089757dda7b"
     },
     {
       "path": "Mods/Villain/base/ItemPillSpRequire.json",
-      "size": 650,
+      "bytes": 650,
       "sha256": "56229076e66a902d2f3a7348fa1d3923ac2c0123e391f5e5ad8d6b0bdb73b9d7"
     },
     {
       "path": "Mods/Villain/base/ItemProps.json",
-      "size": 1231530,
+      "bytes": 1231530,
       "sha256": "3594fae632ef0b97c8019db94bd2660d90c82a44788d2d071132f21ab43e5fd9"
     },
     {
       "path": "Mods/Villain/base/ItemRarityMaterials.json",
-      "size": 10523,
+      "bytes": 10523,
       "sha256": "43a53131047f72037c25deff9b70c899d2746f27be6b5267a2909a15d90b4108"
     },
     {
       "path": "Mods/Villain/base/ItemSkill.json",
-      "size": 60663,
+      "bytes": 60663,
       "sha256": "5c2db5e5245fcb36478c77242f9e4dba854088a30dfe0fc6b5f0aeeadb0989a3"
     },
     {
       "path": "Mods/Villain/base/ItemTransfer.json",
-      "size": 466,
+      "bytes": 466,
       "sha256": "153a5cfcc0fc03c98f123a4747f4558d0e3e0e9ce98a458efdbb735cc7127a43"
     },
     {
       "path": "Mods/Villain/base/ItemTreasureMap.json",
-      "size": 2151,
+      "bytes": 2151,
       "sha256": "6e6c21a28286d92d4bddd4ec7eb684ee019371ce646ce435d7b1b4591529de14"
     },
     {
       "path": "Mods/Villain/base/ItemType.json",
-      "size": 16110,
+      "bytes": 16110,
       "sha256": "58214b6aae8bf80b6d34315e29adaed0b2d7f0ab9b13960efb8100a0df731852"
     },
     {
       "path": "Mods/Villain/base/ItemTypeFixed.json",
-      "size": 7953,
+      "bytes": 7953,
       "sha256": "51e3b4e066c6a9df8946481c6a256911aaa050a2b11f050d7becef372884564e"
     },
     {
       "path": "Mods/Villain/base/LetterBase.json",
-      "size": 4516,
+      "bytes": 4516,
       "sha256": "b805e921c9a7477c45491cbd7a84aabe3c1d226dcc1af36341f04e8967947304"
     },
     {
       "path": "Mods/Villain/base/LocalText.json",
-      "size": 22376894,
+      "bytes": 22376894,
       "sha256": "efdc587ed8877009a6a36b21e80a256cc35b2f477adf8ca6e3e2607d619a6a5f"
     },
     {
       "path": "Mods/Villain/base/LogLocalVocal.json",
-      "size": 912,
+      "bytes": 912,
       "sha256": "2b9727dc39e5ce12b77d2d2dacac512e6252a4dc46c343538b8e9fc213930228"
     },
     {
       "path": "Mods/Villain/base/lotusSwordEffects.json",
-      "size": 690,
+      "bytes": 690,
       "sha256": "7e38842617c39d4cfbeed55be92df9770bdf865ade9ee659d493e3659c7a05eb"
     },
     {
       "path": "Mods/Villain/base/lotusSwordParamer.json",
-      "size": 2874,
+      "bytes": 2874,
       "sha256": "b766cca19c2ca3b02a2b22d1e07b7037e9708b02422ebdd4c5095d1f3deef398"
     },
     {
       "path": "Mods/Villain/base/lotusSwordSeedGrow.json",
-      "size": 1145,
+      "bytes": 1145,
       "sha256": "273016be80badc8084cc4b5c429e8ce4b5001f37479d073e94075459cfe69745"
     },
     {
       "path": "Mods/Villain/base/MagicName.json",
-      "size": 512,
+      "bytes": 512,
       "sha256": "f79750122540bf199f0fdb8be3bc30711baffdae0aef3e42f4988c2e72661a09"
     },
     {
       "path": "Mods/Villain/base/MakePillBase.json",
-      "size": 1589,
+      "bytes": 1589,
       "sha256": "ac9cc4a0f759a9f5fb2760dac15b454c2f3d5a570f8995847a16632134f03321"
     },
     {
       "path": "Mods/Villain/base/MakePillFormula.json",
-      "size": 104616,
+      "bytes": 104616,
       "sha256": "9180208d08d60177fb4a8d0a6a36ef6d733ddf6ec3b370241fc2706fe50d1e82"
     },
     {
       "path": "Mods/Villain/base/MakePillFurnace.json",
-      "size": 8288,
+      "bytes": 8288,
       "sha256": "3d549120bfdd6f2d7a548189b86a2227d345e843402e97df4c3c6e340af22fa0"
     },
     {
       "path": "Mods/Villain/base/MakePillLevel.json",
-      "size": 829,
+      "bytes": 829,
       "sha256": "0f7e1dd856a8266a389c8575a6c66078fce030b9be713cfdeaed2157f2e0cc46"
     },
     {
       "path": "Mods/Villain/base/MakePillSkill.json",
-      "size": 11821,
+      "bytes": 11821,
       "sha256": "848168d528a680efb262f177c512684650c0bc34b5e0c7fa3ed0ff48f0e7385d"
     },
     {
       "path": "Mods/Villain/base/MapData.json",
-      "size": 2034,
+      "bytes": 2034,
       "sha256": "23df4d856d61709324b71f45eb3c8a83050c5e9cbb02254adf38d93f2586cd92"
     },
     {
       "path": "Mods/Villain/base/MapPosition.json",
-      "size": 63773,
+      "bytes": 63773,
       "sha256": "bddcd85ae546cb176048bbf108e73e62cbf5c0ebf0a2ebf6889277234cdcf1e6"
     },
     {
       "path": "Mods/Villain/base/MobilePaperBg.json",
-      "size": 955,
+      "bytes": 955,
       "sha256": "062ab6ef2bb9cbaa00b3b679dc36bd5d6f464113a185b10530c5e0a5f4e473a6"
     },
     {
       "path": "Mods/Villain/base/ModCondition.json",
-      "size": 163994,
+      "bytes": 163994,
       "sha256": "a6aefb0a43c0139b2e2507a44ddccad79bb89d698893abe68bf0c23a3b0a69f1"
     },
     {
       "path": "Mods/Villain/base/ModEnum.json",
-      "size": 63424,
+      "bytes": 63424,
       "sha256": "5bba61c2d00617f0501530b1eb08fdce5726b35568569d539708b0793c8a0b62"
     },
     {
       "path": "Mods/Villain/base/ModFunction.json",
-      "size": 149929,
+      "bytes": 149929,
       "sha256": "fecd9dba6bf7997b79da91627599218a63036a920a5324a3811596f951e1fe49"
     },
     {
       "path": "Mods/Villain/base/ModRoleEffectType1.json",
-      "size": 13536,
+      "bytes": 13536,
       "sha256": "1643404049e5a554e212c317019eec956dff8c29b1e247bc4b7041753ee7f4c2"
     },
     {
       "path": "Mods/Villain/base/ModRoleEffectType2.json",
-      "size": 1988,
+      "bytes": 1988,
       "sha256": "0ad8943d76bb9ad5325bb160660e38290cebafd618dd79b09925b6282f61cb90"
     },
     {
       "path": "Mods/Villain/base/ModRoleEffectType3.json",
-      "size": 70764,
+      "bytes": 70764,
       "sha256": "bc7c54a9f894c5143f913e9a1d622ed5d7af7184bb96dfe173a9af0c0df7033e"
     },
     {
       "path": "Mods/Villain/base/ModTags.json",
-      "size": 926,
+      "bytes": 926,
       "sha256": "6e85cc4ad11dbb7c1db1e506c077db2e9d4792017c7495b869e6afff707ed0f6"
     },
     {
       "path": "Mods/Villain/base/ModTextBlock.json",
-      "size": 469052,
+      "bytes": 469052,
       "sha256": "9d87bd1dd6bd9ded4802d255fb4484dc173bc006dcab209072bb8c5d72a75c18"
     },
     {
       "path": "Mods/Villain/base/MonthLogBase.json",
-      "size": 51062,
+      "bytes": 51062,
       "sha256": "e89a3a6ff95e5344a77a670ea18e02e8b7da83a27b99cb580989e4c014a09145"
     },
     {
       "path": "Mods/Villain/base/MoveCam.json",
-      "size": 4801,
+      "bytes": 4801,
       "sha256": "595d429dedcb71a40cde6a4ee84cb0203168bb40171251c05c1d9aec7c3642c9"
     },
     {
       "path": "Mods/Villain/base/NewTipTask.json",
-      "size": 1662,
+      "bytes": 1662,
       "sha256": "556cb62a077876b7008cd768a21c18616d64d863d74583f39877ee17958ccd17"
     },
     {
       "path": "Mods/Villain/base/NpcAction1001.json",
-      "size": 1170,
+      "bytes": 1170,
       "sha256": "90ede4d69af08bba67b36864b74ee94052268e7b424e04f5d9a1e804b1f7a847"
     },
     {
       "path": "Mods/Villain/base/NpcAction1003.json",
-      "size": 942,
+      "bytes": 942,
       "sha256": "c0f47ee56696ef4f2104d8adfd1f5d8c1e975200dc24925e34f8284944983e3d"
     },
     {
       "path": "Mods/Villain/base/NpcAction1004.json",
-      "size": 965,
+      "bytes": 965,
       "sha256": "dc6e6e375988ca405877e4fed70434f8b8cab598f3ffe1122974be3f7c33ca64"
     },
     {
       "path": "Mods/Villain/base/NpcAction1012.json",
-      "size": 652,
+      "bytes": 652,
       "sha256": "203fa1ef5b5dfff5f22ad4bfeb8496a86c64e1088497d0d92fdc141655a20347"
     },
     {
       "path": "Mods/Villain/base/NpcAction1016.json",
-      "size": 1669,
+      "bytes": 1669,
       "sha256": "298c3fdf7590bb767ec243be72a90eaa3157c3c2b63966776ea8e5bcb2123c0e"
     },
     {
       "path": "Mods/Villain/base/NpcAction1020.json",
-      "size": 794,
+      "bytes": 794,
       "sha256": "1d851cc12effa27984257a8e786df8a57081525fff61cfa824ce0ef054c36fed"
     },
     {
       "path": "Mods/Villain/base/NpcAction1024.json",
-      "size": 1017,
+      "bytes": 1017,
       "sha256": "e023362a1bcc829517bef3b9dbb86f40ef1a1707d5c66d88fdc2eb7c327639e2"
     },
     {
       "path": "Mods/Villain/base/NpcAction1025.json",
-      "size": 434,
+      "bytes": 434,
       "sha256": "972b8957c59806aa093a92a338be3d8da375a699f9e75367bd79ec6058641443"
     },
     {
       "path": "Mods/Villain/base/NpcAction1027.json",
-      "size": 1008,
+      "bytes": 1008,
       "sha256": "1c2dbcff93eeeffbf92ee936a66f2194ef7e90c13b900a5d5e1718e875d47ea8"
     },
     {
       "path": "Mods/Villain/base/NpcAction1028.json",
-      "size": 724,
+      "bytes": 724,
       "sha256": "457c38b7d870d3e10ae2ab7f7656a4123a30ab31e829f4b3343a2fc6f182e41a"
     },
     {
       "path": "Mods/Villain/base/NpcAction1030.json",
-      "size": 439,
+      "bytes": 439,
       "sha256": "10a7aa1e003f24f1a01c1200a9373b4f97ffeb3c6642daced4dd1357b07ee176"
     },
     {
       "path": "Mods/Villain/base/NpcAction1031.json",
-      "size": 504,
+      "bytes": 504,
       "sha256": "fa9ef8fa3eadba098ede3503c1274474bb05dca937449d9c14aba5abeb0efd01"
     },
     {
       "path": "Mods/Villain/base/NpcAction1032.json",
-      "size": 589,
+      "bytes": 589,
       "sha256": "0c847245e9887585354a3f223763bd4e480ad58abe9785f6c1864a523ab45e88"
     },
     {
       "path": "Mods/Villain/base/NpcAction1033.json",
-      "size": 589,
+      "bytes": 589,
       "sha256": "ecf0863c2b13034861fb3d14d8d11e5c585a2fb73fc8f9be3d904b831f562a13"
     },
     {
       "path": "Mods/Villain/base/NpcAction1037.json",
-      "size": 434,
+      "bytes": 434,
       "sha256": "668d4355ad5019ddebc61232d3355ba4485a5c80c22c5db5174d88035c64ffd0"
     },
     {
       "path": "Mods/Villain/base/NpcAction1038.json",
-      "size": 566,
+      "bytes": 566,
       "sha256": "ac0f2613b591ea72c8f05a10a9aefd6b5d41ba420c1f18bcf6316cf559b9faa8"
     },
     {
       "path": "Mods/Villain/base/NpcAction1040.json",
-      "size": 4137,
+      "bytes": 4137,
       "sha256": "f0884cb1141e0e935ebed029e116f13ff1681b1df68329b4cac70e5ac0387832"
     },
     {
       "path": "Mods/Villain/base/NpcAction1042.json",
-      "size": 433,
+      "bytes": 433,
       "sha256": "f03fc46e5ee6721b1de077ce13294b9e7a8e61f74d662646b7debcf5c6db3282"
     },
     {
       "path": "Mods/Villain/base/NpcAction1044.json",
-      "size": 569,
+      "bytes": 569,
       "sha256": "90fd7d703d90a24492a09232b7fc716ba64e437b7182bc7c8f9b9f8bc1c96422"
     },
     {
       "path": "Mods/Villain/base/NpcAction1051.json",
-      "size": 4007,
+      "bytes": 4007,
       "sha256": "d1009aa0ccc815e48176501641495a3d891a7877acecaabb4e298414fb3aebe7"
     },
     {
       "path": "Mods/Villain/base/NpcAction1052.json",
-      "size": 4086,
+      "bytes": 4086,
       "sha256": "649d6cad90174edac092075865626e2cba44abf3559ff84db135085a6a7362b1"
     },
     {
       "path": "Mods/Villain/base/NpcAction2002.json",
-      "size": 18510,
+      "bytes": 18510,
       "sha256": "68b3b79cdd238127be7bb51b28bd0c895172a87e1f42e1b3b63609f84856a309"
     },
     {
       "path": "Mods/Villain/base/NpcAction2003.json",
-      "size": 7604,
+      "bytes": 7604,
       "sha256": "4dc10b7ffe1f54dd12d892163c39d2f3c9c7471c49f4793683d7a2deeb56caad"
     },
     {
       "path": "Mods/Villain/base/NpcActionBase.json",
-      "size": 11234,
+      "bytes": 11234,
       "sha256": "cded49c11eb6fa385e21dbcd0d5d1ce69f3d141c1fbc3d813f01a5cc0f55f591"
     },
     {
       "path": "Mods/Villain/base/NpcActionFilter.json",
-      "size": 575,
+      "bytes": 575,
       "sha256": "ca99fe4d6c3309a721fbdf9f3de2f93cd29ce89233f9f926566ecea8755407aa"
     },
     {
       "path": "Mods/Villain/base/NpcAdvancedAction.json",
-      "size": 4760,
+      "bytes": 4760,
       "sha256": "8ae77442a8951009c1b80fdd00987a5da63100e9483212a68d2b50041cbce340"
     },
     {
       "path": "Mods/Villain/base/NpcAttrStable.json",
-      "size": 21419,
+      "bytes": 21419,
       "sha256": "02d614c8d26c06b45b57b63d2b553538275b93b09e188bc1d9e8ee2c51b0b475"
     },
     {
       "path": "Mods/Villain/base/NpcBattle.json",
-      "size": 437,
+      "bytes": 437,
       "sha256": "965e27a5bb91f0acb9e12716eb4ff16c974af70fd8b6b9f391560f0a81f6442b"
     },
     {
       "path": "Mods/Villain/base/NpcBattleAI.json",
-      "size": 7830,
+      "bytes": 7830,
       "sha256": "8e166d396c31f431e3a3f8b01f4504ecb1422e7ee2e30d40215307967ccd4fb8"
     },
     {
       "path": "Mods/Villain/base/NpcBattleSimArtifact.json",
-      "size": 6956,
+      "bytes": 6956,
       "sha256": "0945bd4ca97a43b2eb819569b0647ba6da55e72b2e9ce76cfd15a93728b0b427"
     },
     {
       "path": "Mods/Villain/base/NpcBattleSimPrefix.json",
-      "size": 34022,
+      "bytes": 34022,
       "sha256": "d7dedcc9a6e7b74b5538787730582d73b85cb8a319a6d4a3cc9ded0d0a443145"
     },
     {
       "path": "Mods/Villain/base/NpcBattleSimSkill.json",
-      "size": 40001,
+      "bytes": 40001,
       "sha256": "814555e7e3b9fc624af1a911dfc1a09001e402e0f19ca1b629d5b6b981401e22"
     },
     {
       "path": "Mods/Villain/base/NpcBattleSkill.json",
-      "size": 47622,
+      "bytes": 47622,
       "sha256": "33e5693fbefb106579c098f995d0a106488cbbe5dfc8d9b111a4fc1328a92f38"
     },
     {
       "path": "Mods/Villain/base/NpcBreakWithRelation.json",
-      "size": 389,
+      "bytes": 389,
       "sha256": "0eda48c0827300d903137405fc1f12eb97079c6bf62c56a193287d82e02ecbe2"
     },
     {
       "path": "Mods/Villain/base/NpcBuyBook.json",
-      "size": 1092,
+      "bytes": 1092,
       "sha256": "7d9cb131a33bfbb98d3199f341923e363fbd4dde511a854f1536a44f79915225"
     },
     {
       "path": "Mods/Villain/base/NpcCondition.json",
-      "size": 252959,
+      "bytes": 252959,
       "sha256": "0525d76f2c8d0dc10b25f26f1bb9b8cd0b452dfd03b004b0bb191ecd7060d380"
     },
     {
       "path": "Mods/Villain/base/NpcCountControl.json",
-      "size": 633,
+      "bytes": 633,
       "sha256": "0117d37f9b40e61194682d249aba305c8ba0618820d1ce4970e80d529064b548"
     },
     {
       "path": "Mods/Villain/base/NpcDungeon.json",
-      "size": 716,
+      "bytes": 716,
       "sha256": "d3a413cef6d41accd0a028998f71e4dfe0b0e2630f55f922fcc5c5e5bfc2806f"
     },
     {
       "path": "Mods/Villain/base/NpcEliteEvent.json",
-      "size": 973,
+      "bytes": 973,
       "sha256": "c81dac92be56cf17a413e6263579f7055426fd3bb76123df72c09cb3b5d5009a"
     },
     {
       "path": "Mods/Villain/base/NpcEquipItem.json",
-      "size": 358,
+      "bytes": 358,
       "sha256": "d9f5f8ddc9f2d074f2d6198f71f4699f4f76e20903b35526035c88bf7ad3d6b1"
     },
     {
       "path": "Mods/Villain/base/NpcFavouriteItem.json",
-      "size": 710,
+      "bytes": 710,
       "sha256": "bdae9bbe645cd613bd6be1e40ebf7b7558f65080f7ca41e7aa4c754910bb39f2"
     },
     {
       "path": "Mods/Villain/base/NpcFavouriteLooks.json",
-      "size": 1375,
+      "bytes": 1375,
       "sha256": "10b1326c7fe12af3160929eb85aff580328d134b6bb7eae9a2b9b16128ccda3c"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1001.json",
-      "size": 1210,
+      "bytes": 1210,
       "sha256": "314928b767adf5a3381fa6d748e3862338af99cc35a761b985dc50f51392e894"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1003.json",
-      "size": 1408,
+      "bytes": 1408,
       "sha256": "fbf116173cfc7a909d0d5853bcc371e8e104d30a2d0722ce856374f3629368a3"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback101.json",
-      "size": 986,
+      "bytes": 986,
       "sha256": "c388009c6dc9d5767d428c7c559771fbe86cc97d3926871b77e8a1e1f34072ed"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1012.json",
-      "size": 1705,
+      "bytes": 1705,
       "sha256": "bff6948e99b8d304f1c33f3307fad8fb88d88a2aec018f3d698868edfea2e7bc"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1013.json",
-      "size": 1342,
+      "bytes": 1342,
       "sha256": "c8c446acecbc6f549117da2bdcb893c07ecd28e1c6ddad97f705627475ed0be6"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback102.json",
-      "size": 1606,
+      "bytes": 1606,
       "sha256": "d82a544156025c41aa3a01c7d5bf28671fee4b662e16b3b883cd90a642c86be6"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1020.json",
-      "size": 1466,
+      "bytes": 1466,
       "sha256": "dc0eaa0ff765e0ce995cfd59ac0e1941aceac80b12d215836145bdbab862226b"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1028.json",
-      "size": 1330,
+      "bytes": 1330,
       "sha256": "2bffb24b8cd7e18b2f545166db192059376a7e252f188a486050b456c19bd59e"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback103.json",
-      "size": 838,
+      "bytes": 838,
       "sha256": "9a22b02ca6ece2bb3fe40aa040906cd8e65eb793c83e22cddd2fd6812fe8fe61"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1030.json",
-      "size": 1660,
+      "bytes": 1660,
       "sha256": "b33976e8b1b2a44293ae18cee7c7aea9c3b9fe2c2bd10a38c2448110053a931e"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback1037.json",
-      "size": 756,
+      "bytes": 756,
       "sha256": "f144be552c397af889d819e1e330768b48678497ff18347216427f4277fc03d1"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback104.json",
-      "size": 4358,
+      "bytes": 4358,
       "sha256": "e70d6ee66cbb8a1561023b7c9210c9a0e7c209d8f54023e091d95311f8cc87e4"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback107.json",
-      "size": 511,
+      "bytes": 511,
       "sha256": "64b1ce055e44638e5d099254169df6a5170fdc93ace527448a2e3743bc468ce7"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback110.json",
-      "size": 351,
+      "bytes": 351,
       "sha256": "cca6f1049f02f7c14b1ba35355b1f44478c2bf6fd8e8257b57b5e2741977a990"
     },
     {
       "path": "Mods/Villain/base/NpcFeedback115.json",
-      "size": 1624,
+      "bytes": 1624,
       "sha256": "250d13f20171ca8506fb9e3f20be78e248af04e6d34aa696d4db743e9ea203c4"
     },
     {
       "path": "Mods/Villain/base/NpcFeedbackDefault.json",
-      "size": 7990,
+      "bytes": 7990,
       "sha256": "36687bacca4c52a0ff92186a4db888ff5c9bcbf0dd6f0f4489ef9bfbc184b0e5"
     },
     {
       "path": "Mods/Villain/base/NpcFiveFlowersGrade.json",
-      "size": 315,
+      "bytes": 315,
       "sha256": "0fa394104b5560e7cefb24635416931b59bf784cc0ea0f5304ac3b88b5ba4632"
     },
     {
       "path": "Mods/Villain/base/NpcFortuitous.json",
-      "size": 3117,
+      "bytes": 3117,
       "sha256": "0c5fd55ab48e48691468595b3b85afb35593123b53020178a2351886bb1a1eed"
     },
     {
       "path": "Mods/Villain/base/NpcGoal101Sub.json",
-      "size": 4385,
+      "bytes": 4385,
       "sha256": "3c797997618972fa6976894be0799a0c3b73ca429280c26cb5eff6fceb2f7f54"
     },
     {
       "path": "Mods/Villain/base/NpcGoal102.json",
-      "size": 864,
+      "bytes": 864,
       "sha256": "269a1464e83a50ad74ebe1a66a12b276ecb89807c5d7e9c9f3dc44f5ac3b853e"
     },
     {
       "path": "Mods/Villain/base/NpcGoal104.json",
-      "size": 547,
+      "bytes": 547,
       "sha256": "04084d3b9d863d979094b07db1b8f4ec3e4430ef1fc5919bbf194a77f8c520fd"
     },
     {
       "path": "Mods/Villain/base/NpcGoal107Sub.json",
-      "size": 1444,
+      "bytes": 1444,
       "sha256": "5018431e11c977c4e2baf5576a3be5d983aecf0a65e2ce5f1e6f0538ceeaf087"
     },
     {
       "path": "Mods/Villain/base/NpcGoal108.json",
-      "size": 642,
+      "bytes": 642,
       "sha256": "3213ecdad9133eaf816756ad5e8d86ceb8dd157e26c42278c442eafd148d3a70"
     },
     {
       "path": "Mods/Villain/base/NpcGoal109.json",
-      "size": 2351,
+      "bytes": 2351,
       "sha256": "23030558b0f272183cd9f2b17d268a303ac3296f6e7c8deb73bc8e7324879638"
     },
     {
       "path": "Mods/Villain/base/NpcGoal110.json",
-      "size": 436,
+      "bytes": 436,
       "sha256": "a291b29bd52420315e9fccfa5b43ecb4ae4d159fe132589902baf49354d6b30a"
     },
     {
       "path": "Mods/Villain/base/NpcGoal111.json",
-      "size": 574,
+      "bytes": 574,
       "sha256": "ba5d6938d791400ebee813051e98ff6933b6ab46b17a944563e3d0f325bd13c4"
     },
     {
       "path": "Mods/Villain/base/NpcGoal112.json",
-      "size": 7522,
+      "bytes": 7522,
       "sha256": "791ac34a55d7d80901ca1095d25ad0f9e32423041a7fcf30d5df6768ec61b3a5"
     },
     {
       "path": "Mods/Villain/base/NpcGoal119.json",
-      "size": 707,
+      "bytes": 707,
       "sha256": "107b6f1e4b62f5ef19de6b6fb68d30aaea88bdb0e0e2f52931412943f8727fd5"
     },
     {
       "path": "Mods/Villain/base/NpcGoal121.json",
-      "size": 436,
+      "bytes": 436,
       "sha256": "a291b29bd52420315e9fccfa5b43ecb4ae4d159fe132589902baf49354d6b30a"
     },
     {
       "path": "Mods/Villain/base/NpcGoal124.json",
-      "size": 924,
+      "bytes": 924,
       "sha256": "70f03ddbbd3da8372cd6fa202597fcc9744dc11b88ac29f93c5afc5a31e601c4"
     },
     {
       "path": "Mods/Villain/base/NpcGoal140.json",
-      "size": 389,
+      "bytes": 389,
       "sha256": "c48240e9c1f7135222336a6848c12ec9f1b413e21af6578bdac8121cf54376de"
     },
     {
       "path": "Mods/Villain/base/NpcGoal141.json",
-      "size": 3782,
+      "bytes": 3782,
       "sha256": "31892147d5ff4e760c2bda1e854eb877c2d15277eb1aeee2401154f17208d7f3"
     },
     {
       "path": "Mods/Villain/base/NpcGoal142.json",
-      "size": 3721,
+      "bytes": 3721,
       "sha256": "86af8a82636381920f4b696e7a61934540b9075fd5b526009a5aff158a6a8cec"
     },
     {
       "path": "Mods/Villain/base/NpcGoal144.json",
-      "size": 570,
+      "bytes": 570,
       "sha256": "d98be17d8d2a2277fecd06ebf39ccae24c2550e09a505565f9469cbc06a37e00"
     },
     {
       "path": "Mods/Villain/base/NpcGoal145.json",
-      "size": 1878,
+      "bytes": 1878,
       "sha256": "8ae600c8221dba6b5c5ee9aa6633e2a8d274940195ce71f5c6f975040dd52b99"
     },
     {
       "path": "Mods/Villain/base/NpcGoal206.json",
-      "size": 356,
+      "bytes": 356,
       "sha256": "daaf53c7ddbe13b846bd7ec1817b85f9fc8bfbdaf515e5c1db12c14a8e465f9e"
     },
     {
       "path": "Mods/Villain/base/NpcGoalBase.json",
-      "size": 15264,
+      "bytes": 15264,
       "sha256": "b90c6ea961421a9418a847f9b662eeea4165d5bca6174bbb5ca40a87bee96006"
     },
     {
       "path": "Mods/Villain/base/NpcHeroes.json",
-      "size": 11173,
+      "bytes": 11173,
       "sha256": "636e3d960b43d79fae7e550bac01c97f5af88ebdaba53faece3a797180c4b39d"
     },
     {
       "path": "Mods/Villain/base/NpcHeroesBas.json",
-      "size": 2745,
+      "bytes": 2745,
       "sha256": "04df617010295063495a769379b6e04d8ac1358d9285586c9bd80f6836489762"
     },
     {
       "path": "Mods/Villain/base/NpcHeroesParn.json",
-      "size": 437,
+      "bytes": 437,
       "sha256": "11e178f81ced32145868eaf124f450eb762bdfc114cfca1c5208a53ae86d2513"
     },
     {
       "path": "Mods/Villain/base/NpcInitAttrBase.json",
-      "size": 21846,
+      "bytes": 21846,
       "sha256": "cc3125b8855683991faf85a43dd7d9351e94e23938de2628bc2b58e058e5416a"
     },
     {
       "path": "Mods/Villain/base/NpcInitAttrGrow.json",
-      "size": 1845,
+      "bytes": 1845,
       "sha256": "d5f4f2c4f3d8f2d1d117f56b386ba9b09de12dbaad77796f4074ab5ccbcb93df"
     },
     {
       "path": "Mods/Villain/base/NpcInitCharacter.json",
-      "size": 2923,
+      "bytes": 2923,
       "sha256": "42bcb8c42972723200541ed128c352f90c8bd33c27e55c563d9a91bba955124b"
     },
     {
       "path": "Mods/Villain/base/NpcInitFeature.json",
-      "size": 41074,
+      "bytes": 41074,
       "sha256": "02b92aba8dbe2e762e69fb1f9ca63d419c6eed5997a94014399ff59f5672f82e"
     },
     {
       "path": "Mods/Villain/base/NpcInitGradeSchool.json",
-      "size": 10001,
+      "bytes": 10001,
       "sha256": "546b4cc31bc6ab9e3532cb375682f4b2d506bab6f4048180053ec97d929830e2"
     },
     {
       "path": "Mods/Villain/base/NpcInitGradeTown.json",
-      "size": 3600,
+      "bytes": 3600,
       "sha256": "69a16b53aaac4822a7711f974c8f7b945b508066c00a77365b79e0bfd0711e0d"
     },
     {
       "path": "Mods/Villain/base/NpcInitHobby.json",
-      "size": 2408,
+      "bytes": 2408,
       "sha256": "0a65c00249d606f0478c70be13aec5b9f03f54312dbcce6d55331d7ea4b6b369"
     },
     {
       "path": "Mods/Villain/base/NpcInitItem.json",
-      "size": 1214,
+      "bytes": 1214,
       "sha256": "e4becfdfd111b667b42deb885c6eb264aa66f6133bf7e409e705d68b814da0b0"
     },
     {
       "path": "Mods/Villain/base/NpcInitMoney.json",
-      "size": 950,
+      "bytes": 950,
       "sha256": "b19ad4766b88897e209010b05e9ec3da32742f25b16ae66be37c3708e59e2d3e"
     },
     {
       "path": "Mods/Villain/base/NpcInitParameters.json",
-      "size": 1200,
+      "bytes": 1200,
       "sha256": "c677a64a68d786ca55362eae1d3d2a5b088522548babce00c8354d31bd30462d"
     },
     {
       "path": "Mods/Villain/base/NpcInitSkill.json",
-      "size": 9627,
+      "bytes": 9627,
       "sha256": "5b34718621edf0db4dd0ac7a7eab326dc9ee2b1a358033416020269a0afaa481"
     },
     {
       "path": "Mods/Villain/base/NpcLetterBase.json",
-      "size": 425,
+      "bytes": 425,
       "sha256": "f66f744823ccf6682ebf7211c6b27fe444f10e59f1a6b94fd2b95dd963af603c"
     },
     {
       "path": "Mods/Villain/base/NpcLunaticCount.json",
-      "size": 1338,
+      "bytes": 1338,
       "sha256": "f9a8d48670693052962a5bcdce132a3c5de2c896adda053bd776026ec0d91cf2"
     },
     {
       "path": "Mods/Villain/base/NpcMatch.json",
-      "size": 617,
+      "bytes": 617,
       "sha256": "d3d5ac730ce0ce0799ad5a6196cf884e2c5efc689b5929e7feaff72806487919"
     },
     {
       "path": "Mods/Villain/base/NpcMemory.json",
-      "size": 1025,
+      "bytes": 1025,
       "sha256": "2ce0d01d1cb548f5b9e66931df9838c6255c6cb0eac29997b20723168486ad21"
     },
     {
       "path": "Mods/Villain/base/NpcMovement.json",
-      "size": 658,
+      "bytes": 658,
       "sha256": "a7cf55e0f5ebeccb2e13024849c89775efccac4a8c01ea7bcb5240611c17aaba"
     },
     {
       "path": "Mods/Villain/base/NpcNameFirst.json",
-      "size": 65264,
+      "bytes": 65264,
       "sha256": "a4a209a52774d9b34cc174689f6b03b18bc27404bd03ccc943e42360693483d7"
     },
     {
       "path": "Mods/Villain/base/NpcNameLast.json",
-      "size": 238193,
+      "bytes": 238193,
       "sha256": "1080ef288af23e2e16b2a7e7b9026becd748b240c357a57e112a733913b9b403"
     },
     {
       "path": "Mods/Villain/base/NpcPartBase.json",
-      "size": 2343,
+      "bytes": 2343,
       "sha256": "5bd5d746e6894aa4037ffb60c9b2521144bdfea7d157602709f5f68f1272a122"
     },
     {
       "path": "Mods/Villain/base/NpcPartFitting.json",
-      "size": 5486,
+      "bytes": 5486,
       "sha256": "7f5978f6b137cce632c84b39658dece5620e9cdc9e35a9f808f6ae14adefaed3"
     },
     {
       "path": "Mods/Villain/base/NpcRefill.json",
-      "size": 1380,
+      "bytes": 1380,
       "sha256": "fef3998adc73d76be7498860ef0459dcb0af8357396887bbfed76d559d7455f3"
     },
     {
       "path": "Mods/Villain/base/NpcSocialRelation.json",
-      "size": 3892,
+      "bytes": 3892,
       "sha256": "4f66f3c491f2dfb07df76641bae88a625997130e0acc020ee7cdc58e6b28f676"
     },
     {
       "path": "Mods/Villain/base/NpcSpecial.json",
-      "size": 5278,
+      "bytes": 5278,
       "sha256": "5317547568110ee0f0f3fb6f8054d2bee1f544fed04cc817ba32a705121507ab"
     },
     {
       "path": "Mods/Villain/base/NpcStandardGoal.json",
-      "size": 7256,
+      "bytes": 7256,
       "sha256": "877f02bb687c43506489e3e415f24ec64059acce297a348631e8f08a2abfee91"
     },
     {
       "path": "Mods/Villain/base/NpcTroubleBase.json",
-      "size": 1531,
+      "bytes": 1531,
       "sha256": "c5e7af0ef9d1284b20ff38aa8bd1138eb93a6b7b10e83bc579526e75ddd0d3bc"
     },
     {
       "path": "Mods/Villain/base/NpcTroublePart.json",
-      "size": 2108,
+      "bytes": 2108,
       "sha256": "aa013696aa1205d5c4336f105c7d2d941359bcd284cc0df04b3eeab6198994c0"
     },
     {
       "path": "Mods/Villain/base/ParentBlessDrama.json",
-      "size": 1771,
+      "bytes": 1771,
       "sha256": "c0d6a2427b707f06c92f3dc72e87caac510d5b9b023c80c7e59ea5338de6e1e9"
     },
     {
       "path": "Mods/Villain/base/ParentBlessNPCTrait.json",
-      "size": 6614,
+      "bytes": 6614,
       "sha256": "6f2f62fc813ed8796421f72dd641562834e178a57f6fb964beb867319d3a2435"
     },
     {
       "path": "Mods/Villain/base/ParentBlessParamer.json",
-      "size": 3881,
+      "bytes": 3881,
       "sha256": "1503b3f422c561b4060bb6fdb63358a4f5b038c2c5524312f0e78d9ca9429e32"
     },
     {
       "path": "Mods/Villain/base/PassiveMethod.json",
-      "size": 23456,
+      "bytes": 23456,
       "sha256": "21c3a315f336d97422281baf122e1a41da7d415f37d2fc5984fc27bd2bcab940"
     },
     {
       "path": "Mods/Villain/base/PassiveMethodType31.json",
-      "size": 2413,
+      "bytes": 2413,
       "sha256": "3df08feb404b7680650eaa99962347e446dc8fde0e1babf4100827ec09bef296"
     },
     {
       "path": "Mods/Villain/base/PillSchoolFight.json",
-      "size": 3634,
+      "bytes": 3634,
       "sha256": "22b6af13bde344c9713031cc022ff29efd2daed1e92d3894367db5e78909a24f"
     },
     {
       "path": "Mods/Villain/base/PiscesParam.json",
-      "size": 868,
+      "bytes": 868,
       "sha256": "174b1d493941175786504144b2aedf00b84e5bc236751a8b08dfc253b1f673d6"
     },
     {
       "path": "Mods/Villain/base/PotmonBase.json",
-      "size": 52266,
+      "bytes": 52266,
       "sha256": "747196109a228b39a503f320298ce2b54c5189bd45f49704122f18116ab10b9c"
     },
     {
       "path": "Mods/Villain/base/PotmonBattle.json",
-      "size": 798,
+      "bytes": 798,
       "sha256": "c8063c7fab75ad2cd6f61cd1e36254e5516491f3062248ecd3741185e47d830c"
     },
     {
       "path": "Mods/Villain/base/PotmonBattleExp.json",
-      "size": 1404,
+      "bytes": 1404,
       "sha256": "d728a22d8947aed111acd9f27d952b56aa64096276ac5593ae60efe419670499"
     },
     {
       "path": "Mods/Villain/base/PotmonBattleSkill.json",
-      "size": 25859,
+      "bytes": 25859,
       "sha256": "e0096ef8b18aceba5e0f5c68b8b217bd7bf920e17ea7bcfb6c840d604c9072df"
     },
     {
       "path": "Mods/Villain/base/PotmonConverPropertyScale.json",
-      "size": 6116,
+      "bytes": 6116,
       "sha256": "e0dd2b886cbc53b8417ba92203b15caaa36193e7556f01d1e5c384f91f2f5f82"
     },
     {
       "path": "Mods/Villain/base/PotmonFurryGradeLevel.json",
-      "size": 4458,
+      "bytes": 4458,
       "sha256": "5aa16c758027174e495d4761482e082ce9da420137d3cf359bdd1b24fb9cc15c"
     },
     {
       "path": "Mods/Villain/base/PotmonGradeLevel.json",
-      "size": 1061,
+      "bytes": 1061,
       "sha256": "29d60b458e147be71a00762e1b0ce6401a87628e4bb14c55e4dcea3c8f22afab"
     },
     {
       "path": "Mods/Villain/base/PotmonLogFunction.json",
-      "size": 3249,
+      "bytes": 3249,
       "sha256": "84b0077abdb868d5f32e7bdab5641728db63eedc31b2226dff89152a7ad66051"
     },
     {
       "path": "Mods/Villain/base/PotmonMap.json",
-      "size": 1304,
+      "bytes": 1304,
       "sha256": "67ba2538bcf0ab1b7e06b249947d827acfdc7f4f5c95ff5bd958d0e7da277b3d"
     },
     {
       "path": "Mods/Villain/base/PotmonParamer.json",
-      "size": 2170,
+      "bytes": 2170,
       "sha256": "b37bfbcd1ab6fde6fbcd8381d695442c4b054689b36f01ad2d954a95b41c7078"
     },
     {
       "path": "Mods/Villain/base/PotmonPropertyScale.json",
-      "size": 19421,
+      "bytes": 19421,
       "sha256": "a3c10092375198b11d63d4ef2a97906da0aa60a8bdaed484628145e726791275"
     },
     {
       "path": "Mods/Villain/base/PotmonRomanTarget.json",
-      "size": 3653,
+      "bytes": 3653,
       "sha256": "e6e6ccb342db1cf66b4524ff71e97c592f7ee060520fc998ef2843c41b869e29"
     },
     {
       "path": "Mods/Villain/base/PotmonSkill.json",
-      "size": 70569,
+      "bytes": 70569,
       "sha256": "a9b9bf7071e097e96ed7118221df249477b48797a9e8d499e5bced55ff5fbf25"
     },
     {
       "path": "Mods/Villain/base/PotmonSkillAid.json",
-      "size": 25073,
+      "bytes": 25073,
       "sha256": "32806d2ba0062e7a7b1253f3a7bec78ff547a36d80e5ab8cc74439455d0488b1"
     },
     {
       "path": "Mods/Villain/base/PotmonSkillFixOutput.json",
-      "size": 428,
+      "bytes": 428,
       "sha256": "9210a56c3b009a2e69606cd03facacc810fbca52f3b26a0144dd775d81b028ca"
     },
     {
       "path": "Mods/Villain/base/PotmonSkillLife.json",
-      "size": 154895,
+      "bytes": 154895,
       "sha256": "129766f161fec76d5187fc613a1d05462c90b794fed7e8399c42373fb3b6e41a"
     },
     {
       "path": "Mods/Villain/base/PotmonSkillStudy.json",
-      "size": 787419,
+      "bytes": 787419,
       "sha256": "3f477cdaa4907985d52a5b15d07ced5c3cef9f30a35b6168b3c2674e2d7591bb"
     },
     {
       "path": "Mods/Villain/base/PotmonUnitAction.json",
-      "size": 868,
+      "bytes": 868,
       "sha256": "cc199c0296505814d8f0f6471a02d9e46fd5a4bdd02e8b5a81944fec0e2ff797"
     },
     {
       "path": "Mods/Villain/base/PotmonUnitFeedBack.json",
-      "size": 2149,
+      "bytes": 2149,
       "sha256": "11437552e3609673344c88f65dd60416561a184b080857bd3aa2ef75c4e46dfe"
     },
     {
       "path": "Mods/Villain/base/RingBase.json",
-      "size": 4082,
+      "bytes": 4082,
       "sha256": "f0a84d1f1d91e52be29de54e4a5a99650ccfd7a6f2ed0ac0a6f8847d04c2056e"
     },
     {
       "path": "Mods/Villain/base/RivalLoveParam.json",
-      "size": 2555,
+      "bytes": 2555,
       "sha256": "4cfe1f903d7a46c25acaeaaa28ad2c549b1df9ba398944ff063c4db7f8a3bdc4"
     },
     {
       "path": "Mods/Villain/base/RoleAskfor.json",
-      "size": 1161,
+      "bytes": 1161,
       "sha256": "24d4d375b8c4502ff7777c0e32a535e8180297f36008e7a4cf5a5aeb9bc8f5b2"
     },
     {
       "path": "Mods/Villain/base/RoleAttributeCoefficient.json",
-      "size": 521,
+      "bytes": 521,
       "sha256": "0c9bc4c134279dd4b5858ef14ff64ff8119adde19ddbaac98bbb8002060c21ea"
     },
     {
       "path": "Mods/Villain/base/RoleAttributeDesc.json",
-      "size": 5218,
+      "bytes": 5218,
       "sha256": "670422ce54d8addbcca5ce111edf98b7513db86edcfe21b33357d984c9bc4607"
     },
     {
       "path": "Mods/Villain/base/RoleAttributeLimit.json",
-      "size": 7768,
+      "bytes": 7768,
       "sha256": "26143840322f27e402bd934f78e60f77dcfeaa075d6d86c65734b0cffb2fe1bc"
     },
     {
       "path": "Mods/Villain/base/RoleAttributePower.json",
-      "size": 6197,
+      "bytes": 6197,
       "sha256": "cbf35a398246c21907f4b68e8e6ab4c2cba3183f1295c20d952706217bb13b25"
     },
     {
       "path": "Mods/Villain/base/RoleBasisProgressValue.json",
-      "size": 5162,
+      "bytes": 5162,
       "sha256": "f3661e267c281afffc5fb1cc63e9e5513c908c1830f62309053817c8d1b8845c"
     },
     {
       "path": "Mods/Villain/base/RoleBattle.json",
-      "size": 5699,
+      "bytes": 5699,
       "sha256": "a3d2ee7542a379f30687d7c3a382737c18047ab68b1638d7667ff9218f59ba25"
     },
     {
       "path": "Mods/Villain/base/RoleBattleChicken.json",
-      "size": 496,
+      "bytes": 496,
       "sha256": "81f2db30816725ab25b5e0e21a9a1e05383c2fd919de86f91883a258a59538b3"
     },
     {
       "path": "Mods/Villain/base/RoleBattleSub.json",
-      "size": 1298,
+      "bytes": 1298,
       "sha256": "fc6e0306c808333c44b8952d2d015140aedbc9b33ea86b6fd7d07d5bf3ae8961"
     },
     {
       "path": "Mods/Villain/base/RoleBeauty.json",
-      "size": 551,
+      "bytes": 551,
       "sha256": "5f05671ad34be18e2f2ea9f21c4ae1e8c10f0a92ff4e6387aa09cbaa93b4cbb6"
     },
     {
       "path": "Mods/Villain/base/RoleCall.json",
-      "size": 8744,
+      "bytes": 8744,
       "sha256": "8f76708ff15deb7fcc707cdecc258a402472bfd3d643998415807b824e0db0cf"
     },
     {
       "path": "Mods/Villain/base/RoleChat.json",
-      "size": 2555,
+      "bytes": 2555,
       "sha256": "050135c76062f39725203961b474e551281b0b0ef526c0a2055ea1a2e6933d19"
     },
     {
       "path": "Mods/Villain/base/RoleClose.json",
-      "size": 1686,
+      "bytes": 1686,
       "sha256": "cc858e3b00ab44c9c21c0547aed5318d934018a9564f90f512675d8a9a22a682"
     },
     {
       "path": "Mods/Villain/base/RoleConvoy.json",
-      "size": 774,
+      "bytes": 774,
       "sha256": "d88d42c7c4e999c30dbeddef13eaef0477ea8a61aeda568002b46b1b85f4f6e7"
     },
     {
       "path": "Mods/Villain/base/RoleCreateCharacter.json",
-      "size": 10578,
+      "bytes": 10578,
       "sha256": "4855c91e5d156dcaee02de0319e1521b00a7b9bc2d85e07e6c917990e4c7bcb4"
     },
     {
       "path": "Mods/Villain/base/RoleCreateFeature.json",
-      "size": 505636,
+      "bytes": 505636,
       "sha256": "6a344d2734b7c7b9ed41e2ed6d25e4460f3333527a0bc5bd79eb2914fc2cb271"
     },
     {
       "path": "Mods/Villain/base/RoleCreateHobby.json",
-      "size": 2624,
+      "bytes": 2624,
       "sha256": "1600266d908b1955e2e67287e01dc744867f826cc88842ae1d3586858d1d7805"
     },
     {
       "path": "Mods/Villain/base/RoleDiscovery.json",
-      "size": 5780,
+      "bytes": 5780,
       "sha256": "02966cfd72651e8c71f03896dc876e50ee7b833f0f29c32fd2896147e1ec0d63"
     },
     {
       "path": "Mods/Villain/base/RoleDress.json",
-      "size": 481268,
+      "bytes": 481268,
       "sha256": "19606746a74d68ab1fdf2a9e122176c206e6dac06c561b9e8810222300288e26"
     },
     {
       "path": "Mods/Villain/base/RoleDressCombination.json",
-      "size": 1811,
+      "bytes": 1811,
       "sha256": "03cd51ec6b61d49093f7718f3ad9d8e8e0149c8524b8acad1c8c02bfd9d30b8a"
     },
     {
       "path": "Mods/Villain/base/RoleDrill.json",
-      "size": 1328,
+      "bytes": 1328,
       "sha256": "161c233bd0211d1b495da999d583ad9a339f98953ce2b934a635dbb4683e89e7"
     },
     {
       "path": "Mods/Villain/base/RoleDying.json",
-      "size": 1847,
+      "bytes": 1847,
       "sha256": "1d1b9c45d30830b38d734623d0a48dc56853c8c9b510d439c74f5fc8e8810f0d"
     },
     {
       "path": "Mods/Villain/base/RoleEffect.json",
-      "size": 316727,
+      "bytes": 316727,
       "sha256": "f1d98f4f15e915ed4fdb163b6650eed769f1e40b4d675333b169e9f0be2db80f"
     },
     {
       "path": "Mods/Villain/base/RoleElixirParam.json",
-      "size": 346,
+      "bytes": 346,
       "sha256": "a5d9a881189c809bd32bf903d07b14401ebb3b1594901d6eb938037b9000f5a7"
     },
     {
       "path": "Mods/Villain/base/RoleEscape.json",
-      "size": 2380,
+      "bytes": 2380,
       "sha256": "b3991bee8a439d334c9f9604ddd01e598533065c94b228eda153fd55bd691111"
     },
     {
       "path": "Mods/Villain/base/RoleFace.json",
-      "size": 1147,
+      "bytes": 1147,
       "sha256": "ae7adeea9cf1cd63ebf8685d34d66240d4b79657af1f0c7a6b4447619b97dfc1"
     },
     {
       "path": "Mods/Villain/base/RoleFunction.json",
-      "size": 1348,
+      "bytes": 1348,
       "sha256": "acf1aedebacbe14f0b061e35404a32e65c27cb59be87888ac692bbff62809b46"
     },
     {
       "path": "Mods/Villain/base/RoleGive.json",
-      "size": 800,
+      "bytes": 800,
       "sha256": "b153fb5c4b83ed6c0d3ac1a6614100622a10274f04a735751c797f5745c680ad"
     },
     {
       "path": "Mods/Villain/base/RoleGrade.json",
-      "size": 56554,
+      "bytes": 56554,
       "sha256": "d25fa94496735388b850d4c6c719e209046c4623babe9d680652657226e4bb08"
     },
     {
       "path": "Mods/Villain/base/RoleGroupSeekProp.json",
-      "size": 3688,
+      "bytes": 3688,
       "sha256": "946dfc985dc0c1d638ec76b1f80731ff7420ca089f5f69ad7535bfb5f962ed44"
     },
     {
       "path": "Mods/Villain/base/RoleGroupSeekPropSub.json",
-      "size": 2403,
+      "bytes": 2403,
       "sha256": "c35fb36a19d461a8fb1050a279e58ad55bd014509d2f2072127a6b51f1b11d00"
     },
     {
       "path": "Mods/Villain/base/RoleInitAttibute.json",
-      "size": 4753,
+      "bytes": 4753,
       "sha256": "33e05a10e34bc7b0e5e881d0ac2649949068656b3081c2200e12ac56739b57c1"
     },
     {
       "path": "Mods/Villain/base/RoleInvite.json",
-      "size": 560,
+      "bytes": 560,
       "sha256": "772b69d21354d1c6878d0544ad506331edd651a1326b04f2cc33755b22c9c251"
     },
     {
       "path": "Mods/Villain/base/RoleItemPower.json",
-      "size": 5530,
+      "bytes": 5530,
       "sha256": "983de1ac0a54e9defac7e82239d5101ffe1d9190a5854289496dd6d5e062bff3"
     },
     {
       "path": "Mods/Villain/base/RoleKill.json",
-      "size": 883,
+      "bytes": 883,
       "sha256": "53cebc06825f2bfc7d93aaadd5479ae1b64929e868da7095eb5b1be29426bc45"
     },
     {
       "path": "Mods/Villain/base/RoleLogBase.json",
-      "size": 3477,
+      "bytes": 3477,
       "sha256": "ae704f6e64070cf6d21403d027e3a33a4767c30068a084a3ad4a47e78e34bc40"
     },
     {
       "path": "Mods/Villain/base/RoleLoginTip.json",
-      "size": 577,
+      "bytes": 577,
       "sha256": "911aced007abb161a256cc906bc252d20f1719b14b1d63a918be7b3f07eaec42"
     },
     {
       "path": "Mods/Villain/base/RoleLogLocal.json",
-      "size": 21924055,
+      "bytes": 21924055,
       "sha256": "91489d0e7eed4dad8d6924ef51b348d30548e12264d3b8af98f9e0e526b1462a"
     },
     {
       "path": "Mods/Villain/base/RoleMark.json",
-      "size": 614,
+      "bytes": 614,
       "sha256": "efcb8af3b430e7859b459e640dbdbd36d8977eb5b633e89fa52b49952a2392f0"
     },
     {
       "path": "Mods/Villain/base/RoleMartialGradeGrid.json",
-      "size": 3737,
+      "bytes": 3737,
       "sha256": "37ed46857344acc286684910d8d75a72d766fa607bf6f912ecdb8329afa14cf4"
     },
     {
       "path": "Mods/Villain/base/RoleMoodFeature.json",
-      "size": 1815,
+      "bytes": 1815,
       "sha256": "1c96d4182b58031fb62e6ed32b32c967cecb61ad94ef42395aa66a7073012d30"
     },
     {
       "path": "Mods/Villain/base/RolePoisonAction.json",
-      "size": 13862,
+      "bytes": 13862,
       "sha256": "55a422a10fcb2bf49fb901b3a3a806f74ce24e3a963275897455731331888d8e"
     },
     {
       "path": "Mods/Villain/base/RolePoisonActionType.json",
-      "size": 1156,
+      "bytes": 1156,
       "sha256": "c52458a2bc4253b10bdec96d988d5c4dd23c63c759a98ac35aeac21f2026ee62"
     },
     {
       "path": "Mods/Villain/base/RoleRelation.json",
-      "size": 17147,
+      "bytes": 17147,
       "sha256": "e309e6651e84ae36da2b73ba2ee007c2fa413c9b6af9390bcd0f5e806e157f9f"
     },
     {
       "path": "Mods/Villain/base/RoleRelease.json",
-      "size": 358,
+      "bytes": 358,
       "sha256": "9f36292e867443020a710128c047c3733690b68fe2b54b4dfba71843f79935de"
     },
     {
       "path": "Mods/Villain/base/RoleReputation.json",
-      "size": 966,
+      "bytes": 966,
       "sha256": "f9394d93f15a411184df55099e61a8ff36c52c033d3fe37358a5ba98d6e61ddb"
     },
     {
       "path": "Mods/Villain/base/RoleRollDiceBet.json",
-      "size": 4811,
+      "bytes": 4811,
       "sha256": "00eb7733e80a44c966640e0e126a20d3b1f20706d7b7f7ee46a5534489794da2"
     },
     {
       "path": "Mods/Villain/base/RoleRutElixirAction.json",
-      "size": 8303,
+      "bytes": 8303,
       "sha256": "191a67c507d985d1f53f2d0385a566d5cc4484f5fcb9a98b2f585c3887ea4d7f"
     },
     {
       "path": "Mods/Villain/base/RoleSave.json",
-      "size": 666,
+      "bytes": 666,
       "sha256": "28415a78c4b34e3ad17f134f01fad9c6b0854dca1058ee4f33b088f5d99cb4a7"
     },
     {
       "path": "Mods/Villain/base/RoleSkillPower.json",
-      "size": 34787,
+      "bytes": 34787,
       "sha256": "440ee121851d79612eb9844f67e3b352f37ab3001a3706c824add01444071ee7"
     },
     {
       "path": "Mods/Villain/base/RoleStealItem.json",
-      "size": 3619,
+      "bytes": 3619,
       "sha256": "ed8e4c8300f633710b562f896d1d5c7797aa3ca51dad0db3556f85803411058d"
     },
     {
       "path": "Mods/Villain/base/RoleTrains.json",
-      "size": 785,
+      "bytes": 785,
       "sha256": "872afdefa8662f64ae3cc8c6b4da19c58c5c1ed5b09b767cf5da9c99d60d04de"
     },
     {
       "path": "Mods/Villain/base/RuleDungeonBase.json",
-      "size": 550,
+      "bytes": 550,
       "sha256": "921007f344d326c4dfd279046cd6c86200f82c3d4c0a9f85a995fc4ca6259419"
     },
     {
       "path": "Mods/Villain/base/RuleDungeonDrop.json",
-      "size": 1257,
+      "bytes": 1257,
       "sha256": "92f2366e4ee63427e0ad773284b167bc9d2dba6152f19ba24f1f06d2e5078e77"
     },
     {
       "path": "Mods/Villain/base/RuleDungeonEffect.json",
-      "size": 10694,
+      "bytes": 10694,
       "sha256": "32b34f3eab3c42df488d257791c1d9898cd22e58f766bdb4f7aa44df518bef1a"
     },
     {
       "path": "Mods/Villain/base/RuleDungeonName.json",
-      "size": 2073,
+      "bytes": 2073,
       "sha256": "f492f67a0c191ecd874f07c7ca127fc76eb99c4109c89015124573df65d2f818"
     },
     {
       "path": "Mods/Villain/base/RuleDungeonRoom.json",
-      "size": 282,
+      "bytes": 282,
       "sha256": "de146e9363df5e65978302366dd850355e3f856d15783884686c35c81b5a3e4c"
     },
     {
       "path": "Mods/Villain/base/RuneFormula.json",
-      "size": 13254,
+      "bytes": 13254,
       "sha256": "a283bd44b76826cdcc70069bfc1f6423e5c61562e236032bc36147c42320e943"
     },
     {
       "path": "Mods/Villain/base/RuneParameters.json",
-      "size": 439,
+      "bytes": 439,
       "sha256": "cad89c5cf1276fe7f5bf9a029a72c354d120e4af287b376beaeaa1db9235850f"
     },
     {
       "path": "Mods/Villain/base/RuneWriting.json",
-      "size": 5260,
+      "bytes": 5260,
       "sha256": "561c2c367e74bfcde072d3f27b6a16f6b4456a288a13e39d82c52fb27de0b329"
     },
     {
       "path": "Mods/Villain/base/SchoolAdvantage.json",
-      "size": 42338,
+      "bytes": 42338,
       "sha256": "09c6c09218496062443c9139932da94dc44a6d0b7982bc6a63f05c1260425f53"
     },
     {
       "path": "Mods/Villain/base/SchoolApprove.json",
-      "size": 13159,
+      "bytes": 13159,
       "sha256": "d095940158d55a74d4341320de92191d26ec1d60d66d1903e48299b38cba38bc"
     },
     {
       "path": "Mods/Villain/base/SchoolAreaHelp.json",
-      "size": 752,
+      "bytes": 752,
       "sha256": "d1487af34036f967db89d0ec662d1f9812906a38e2ee28147f4f6798f2b5562c"
     },
     {
       "path": "Mods/Villain/base/SchoolArena.json",
-      "size": 4443,
+      "bytes": 4443,
       "sha256": "bd14c30347fb88c5747ad2630c0b0ebbf8c2375992d45f1eaa8d207c4a8035bc"
     },
     {
       "path": "Mods/Villain/base/SchoolAura.json",
-      "size": 891,
+      "bytes": 891,
       "sha256": "3c4b959cd4cd5ebb755727313d8140fa2c70c0708ede4bc7800eb690e08d790e"
     },
     {
       "path": "Mods/Villain/base/SchoolBattle.json",
-      "size": 748,
+      "bytes": 748,
       "sha256": "da190ce0790deaa8d5c5de6b4e6fbc2b40d1fc6545d8fb0f8ec931ab19e7645f"
     },
     {
       "path": "Mods/Villain/base/SchoolBigFight.json",
-      "size": 6951,
+      "bytes": 6951,
       "sha256": "1efefeaefcbda61864860c1244b15bb68a3b657b1a1229e32699694c84c9da45"
     },
     {
       "path": "Mods/Villain/base/SchoolBigFightDrama.json",
-      "size": 4776,
+      "bytes": 4776,
       "sha256": "706a81dbf5506c11f9b50c3d8ad7f8e967b39c263b98febe96d030bd5c094d90"
     },
     {
       "path": "Mods/Villain/base/SchoolBigFightEvent1.json",
-      "size": 14638,
+      "bytes": 14638,
       "sha256": "175316912df62cbe29a0e3cc136e31a42ead57a6807d57e08a9f03718de85a26"
     },
     {
       "path": "Mods/Villain/base/SchoolBigFightReward.json",
-      "size": 3251,
+      "bytes": 3251,
       "sha256": "4bcd1f978a034aebc1e434aec72a45d859e33b2756cd15165fbab95e0b911c75"
     },
     {
       "path": "Mods/Villain/base/SchoolBladeHouse.json",
-      "size": 630,
+      "bytes": 630,
       "sha256": "45c2939ec4a729b7bb37c6af43a1e062319c5f6e0a6fd27e5126172b0c286acf"
     },
     {
       "path": "Mods/Villain/base/SchoolBuilding.json",
-      "size": 2494,
+      "bytes": 2494,
       "sha256": "5426182f0677e0570fe175db7c5f296ec5ec011edccebf3c02e49af4e7f83794"
     },
     {
       "path": "Mods/Villain/base/SchoolClose.json",
-      "size": 527,
+      "bytes": 527,
       "sha256": "82c120b893127081a748605de235382f9e98cfe22b8ad7c7f0d5e7da4f5b8e14"
     },
     {
       "path": "Mods/Villain/base/SchoolConsultFAQ.json",
-      "size": 3503,
+      "bytes": 3503,
       "sha256": "3b8c3dde3db28610e96ad6684801c06df312c2dddcb7b8e2dfad3a8d99eed96a"
     },
     {
       "path": "Mods/Villain/base/SchoolDepartment.json",
-      "size": 558,
+      "bytes": 558,
       "sha256": "6035192f88cd3e89d44b95c4ea404881870609fcd5ce8c201be80f3131dafe4d"
     },
     {
       "path": "Mods/Villain/base/SchoolDepartmentAI.json",
-      "size": 1331,
+      "bytes": 1331,
       "sha256": "df9916a70aa07a85d6b57c2649bceaef7f94c44a1b22975bd6d5834dc3f4cee3"
     },
     {
       "path": "Mods/Villain/base/SchoolDepartmentRun.json",
-      "size": 1401,
+      "bytes": 1401,
       "sha256": "78ab39c07cc184ff0ee619a5b64f6461fc79e231cbe4b66d7f84ba0d2f1dcbfa"
     },
     {
       "path": "Mods/Villain/base/SchoolDragonArtifactDialog.json",
-      "size": 4428,
+      "bytes": 4428,
       "sha256": "5de8408af9bf00672bbe7dd38dab477764c71dab8ab2ef2e569bca68f4f940b0"
     },
     {
       "path": "Mods/Villain/base/SchoolDragonDoor.json",
-      "size": 2794,
+      "bytes": 2794,
       "sha256": "e5ef87f580990326efd64d1263dd7935b0962798181466523747165417bc38a3"
     },
     {
       "path": "Mods/Villain/base/SchoolDragonDoorBuff.json",
-      "size": 769,
+      "bytes": 769,
       "sha256": "ff3b0ee6aaf00f9d0b9d1ff7cdaa8307dec2713954e212b7054e9ee7559ef753"
     },
     {
       "path": "Mods/Villain/base/SchoolDragonDoorEffect.json",
-      "size": 520,
+      "bytes": 520,
       "sha256": "21573224f3e304bcef6dfbe2c76d8e8f80f05082bc13dd1ef37734f86dfef1b7"
     },
     {
       "path": "Mods/Villain/base/SchoolDragonDoorInfo.json",
-      "size": 1843,
+      "bytes": 1843,
       "sha256": "cbd62b65b25346c10ff091e0935eea03cae11ae782b727c5454a2a8dd3f5a4e4"
     },
     {
       "path": "Mods/Villain/base/SchoolDuty.json",
-      "size": 689,
+      "bytes": 689,
       "sha256": "9eb4c0a00bf2091d3cd21f79afc5ca4e028f420c6434b4db1dee5a7e1fd52704"
     },
     {
       "path": "Mods/Villain/base/SchoolEquipRoom.json",
-      "size": 996,
+      "bytes": 996,
       "sha256": "133c8a03f2d5cb668ed8a9d1aa780de5616d81ddba2defc78deebd522f53c8eb"
     },
     {
       "path": "Mods/Villain/base/SchoolFate.json",
-      "size": 1634,
+      "bytes": 1634,
       "sha256": "144c71bdceb2d4554cae4183e383176866cbf9334a1a729476d798bf2caacc90"
     },
     {
       "path": "Mods/Villain/base/SchoolFight.json",
-      "size": 1688,
+      "bytes": 1688,
       "sha256": "8cd0a0f97a3449ca84da3b0400362434ca09600a54fe3242628be1698079ae11"
     },
     {
       "path": "Mods/Villain/base/SchoolFightBigElder.json",
-      "size": 1154,
+      "bytes": 1154,
       "sha256": "baa2aab864306b83928ba3c00cc76319cc69ddd5608c46327cfa09d51ef19cb8"
     },
     {
       "path": "Mods/Villain/base/SchoolFightDrama.json",
-      "size": 1685,
+      "bytes": 1685,
       "sha256": "8a2677275cfa3c8b4a44ecdbe8b43fe87730faf70a3e46ed5a4ae79121a697d9"
     },
     {
       "path": "Mods/Villain/base/SchoolFightElder.json",
-      "size": 984,
+      "bytes": 984,
       "sha256": "1c61dcba68831092d1bd4700a8b9405ffd0c495a1d6ec41c5ce87655f07c5de1"
     },
     {
       "path": "Mods/Villain/base/SchoolFightInherit.json",
-      "size": 959,
+      "bytes": 959,
       "sha256": "6809a31059fc813219f06162dc48df9e9feffa579d4691113f2a52ab56516ac2"
     },
     {
       "path": "Mods/Villain/base/SchoolFightNpcSchoolMain.json",
-      "size": 914,
+      "bytes": 914,
       "sha256": "3a0f33ca11476fc0b6bc4230ffb1b50579b3afae0511009bd2e4d75795008e19"
     },
     {
       "path": "Mods/Villain/base/SchoolFightPost.json",
-      "size": 7731,
+      "bytes": 7731,
       "sha256": "80b6f212fdef84b23a5a12fdbebd16eccd16fa090ae66c662a31ee413bad252e"
     },
     {
       "path": "Mods/Villain/base/SchoolFightReward.json",
-      "size": 4630,
+      "bytes": 4630,
       "sha256": "617bbbe9a1238fce4aa5bbd0b01922ff53b1609a2e5bcebadaaf7c1586efb748"
     },
     {
       "path": "Mods/Villain/base/SchoolFightSchoolMain.json",
-      "size": 2595,
+      "bytes": 2595,
       "sha256": "489b31be590b6efe0a37322450c54f05460323c3db70fa41a6a312a0b439b267"
     },
     {
       "path": "Mods/Villain/base/SchoolFingerHouse.json",
-      "size": 630,
+      "bytes": 630,
       "sha256": "45c2939ec4a729b7bb37c6af43a1e062319c5f6e0a6fd27e5126172b0c286acf"
     },
     {
       "path": "Mods/Villain/base/SchoolFistHouse.json",
-      "size": 630,
+      "bytes": 630,
       "sha256": "45c2939ec4a729b7bb37c6af43a1e062319c5f6e0a6fd27e5126172b0c286acf"
     },
     {
       "path": "Mods/Villain/base/SchoolFixedEffect.json",
-      "size": 510,
+      "bytes": 510,
       "sha256": "c4bc5de80434453ba45555a29fe371cf40a77e450a162f83190aff8f4753a420"
     },
     {
       "path": "Mods/Villain/base/SchoolFunction.json",
-      "size": 1166,
+      "bytes": 1166,
       "sha256": "effd4c8f41a950197daf3ffbd0ab2c828614812665d3a5871aa740b1062b2f7e"
     },
     {
       "path": "Mods/Villain/base/SchoolGeologyRoom.json",
-      "size": 1026,
+      "bytes": 1026,
       "sha256": "da07ed3581a2f6f4581a5035bdd75785ba689c22881a4b10e23e4da01b35b322"
     },
     {
       "path": "Mods/Villain/base/SchoolGodBeast.json",
-      "size": 1825,
+      "bytes": 1825,
       "sha256": "2e8b20829bf7b2b1e5400ee1c0f000076e35a042dbab6b7b2344fbd6275ef910"
     },
     {
       "path": "Mods/Villain/base/SchoolGodBeastFeedProp.json",
-      "size": 7363,
+      "bytes": 7363,
       "sha256": "26dc058ec05483b23fd77efe9650d40c976e0b279bab82f3a3c8880f8a0dc26f"
     },
     {
       "path": "Mods/Villain/base/SchoolGodBeastGetReward.json",
-      "size": 467,
+      "bytes": 467,
       "sha256": "587b14821c0bf6312c3923d0f3c040aa6451b6d178754c13860dd8d0b4cb4135"
     },
     {
       "path": "Mods/Villain/base/SchoolGodBeastInfo.json",
-      "size": 423,
+      "bytes": 423,
       "sha256": "bda859a6407a2f7b6ed74dc376349a89dad9a42ac35a628dbc0d37dac7b1b6d2"
     },
     {
       "path": "Mods/Villain/base/SchoolGodBeastInterval.json",
-      "size": 1694,
+      "bytes": 1694,
       "sha256": "129682e60ed1b3e9baf51055b96a97e15b07a1c19b227d99636496277cfadf9c"
     },
     {
       "path": "Mods/Villain/base/SchoolGodExcrete.json",
-      "size": 2675,
+      "bytes": 2675,
       "sha256": "938cc3c7092ce9e08805a8410193d1e15b258d01a54aed48b39829bffb5f74e3"
     },
     {
       "path": "Mods/Villain/base/SchoolGroupClose.json",
-      "size": 1376,
+      "bytes": 1376,
       "sha256": "0f4982faf1e277fbf1072eb833acc0180e08083fcf105fbc6c7c422a9f659424"
     },
     {
       "path": "Mods/Villain/base/SchoolHerbalGarden.json",
-      "size": 1016,
+      "bytes": 1016,
       "sha256": "2399bef6c88b5655d91204a9c7028e14c5a789cbf56aaf98d444b2fead71f749"
     },
     {
       "path": "Mods/Villain/base/SchoolHospital.json",
-      "size": 1606,
+      "bytes": 1606,
       "sha256": "a46c847f68dd3bb1873bf35c63899c02233f1a3e3475e732cffa4b497293be0b"
     },
     {
       "path": "Mods/Villain/base/SchoolInheritedInfo.json",
-      "size": 2667,
+      "bytes": 2667,
       "sha256": "68d0669d2efef8c44b382aca4a4e63044294d74213cd3f748b71d9cb9c87a9c0"
     },
     {
       "path": "Mods/Villain/base/SchoolInitScale.json",
-      "size": 7677,
+      "bytes": 7677,
       "sha256": "b3a2f0c93e3e16a9c7d1bc7ba55dd3c5e2bf1d7e2f767127d1446dcc981c43b1"
     },
     {
       "path": "Mods/Villain/base/SchoolIntim.json",
-      "size": 766,
+      "bytes": 766,
       "sha256": "3a707938744820cf2ce85b56faf7d9c248e20b90cdab88984ba444c453848d7e"
     },
     {
       "path": "Mods/Villain/base/SchoolIntimEvent.json",
-      "size": 3648,
+      "bytes": 3648,
       "sha256": "ed3539569755d3667e2a33adda44bcbc534a48677e507af978a5baebb8c797a0"
     },
     {
       "path": "Mods/Villain/base/SchoolLibrary.json",
-      "size": 22656,
+      "bytes": 22656,
       "sha256": "f0807306d51f797f953bef0f29653c71d9e66b38c30fbfabc9749ff340f03096"
     },
     {
       "path": "Mods/Villain/base/SchoolLibrarySub2.json",
-      "size": 2442,
+      "bytes": 2442,
       "sha256": "a7b00c2a351690ab2c06bca41c4fb679eea0bcd734fa079a7e8c591b6d5bc89f"
     },
     {
       "path": "Mods/Villain/base/SchoolLibraySub.json",
-      "size": 11704,
+      "bytes": 11704,
       "sha256": "235aeac10380a1aafd6cae7c3b08a1a15e35643caddb74102d5edbf24a6b190e"
     },
     {
       "path": "Mods/Villain/base/SchoolLocalScale.json",
-      "size": 956,
+      "bytes": 956,
       "sha256": "8408cd7ce84f20e94abb673768e7de86ff8e63b78fad7f705e07d1de19e1db88"
     },
     {
       "path": "Mods/Villain/base/SchoolLog.json",
-      "size": 15089,
+      "bytes": 15089,
       "sha256": "edbe274692d6939096360a7ae1a886a8538b861f57f8c5f5da62c102478c476d"
     },
     {
       "path": "Mods/Villain/base/SchoolLoyalty.json",
-      "size": 2774,
+      "bytes": 2774,
       "sha256": "fec646f9ead539ded257936135ab7f4a6785c3868319e0cd6f1979625794e848"
     },
     {
       "path": "Mods/Villain/base/SchoolMainHall.json",
-      "size": 4317,
+      "bytes": 4317,
       "sha256": "3c07bdc83e11c6a285ba0485140ac333102cc6141779faccb7d0385dc5d6f556"
     },
     {
       "path": "Mods/Villain/base/SchoolMemberDomain.json",
-      "size": 70137,
+      "bytes": 70137,
       "sha256": "f2b5fc836a0c0428c264ef376604f932384074a3e2b5048ffaf07f047cf994dd"
     },
     {
       "path": "Mods/Villain/base/SchoolMove.json",
-      "size": 140,
+      "bytes": 140,
       "sha256": "9210ec2487411bfb620b9c5d2af27737c995e7746c5a6a06d74024b6f8b85a85"
     },
     {
       "path": "Mods/Villain/base/SchoolMystTreasureProd.json",
-      "size": 1960,
+      "bytes": 1960,
       "sha256": "58b7c1634811c65d0b311d27f5b70ecb40d3edc26a0bc871830fcb4c0b4f002f"
     },
     {
       "path": "Mods/Villain/base/SchoolName.json",
-      "size": 19901,
+      "bytes": 19901,
       "sha256": "7a96128324c40f35add1dc004e58f39cd541129da6fcc89079bbb5cd4c018c66"
     },
     {
       "path": "Mods/Villain/base/SchoolNextAreaParam.json",
-      "size": 568,
+      "bytes": 568,
       "sha256": "170cd1d27ff766e82fdd66dfef9659410ae84e04f03cf83e533026e7b7afb7df"
     },
     {
       "path": "Mods/Villain/base/SchoolParameters.json",
-      "size": 3918,
+      "bytes": 3918,
       "sha256": "f1b957d09b8bd7ca8b30aa9cadefd11257bfa61a4026307dcb686179a7136af6"
     },
     {
       "path": "Mods/Villain/base/SchoolParameters1.json",
-      "size": 3648,
+      "bytes": 3648,
       "sha256": "206cbc3fb66af43a29cb841660263f0aa71d34978729f0cebd075267e68e2cb4"
     },
     {
       "path": "Mods/Villain/base/SchoolPillOutput.json",
-      "size": 2418,
+      "bytes": 2418,
       "sha256": "121bfbd9f24cf81a2842c6e480ab265d0d165d2c51468b48344330076c4167e7"
     },
     {
       "path": "Mods/Villain/base/SchoolPlamHouse.json",
-      "size": 630,
+      "bytes": 630,
       "sha256": "45c2939ec4a729b7bb37c6af43a1e062319c5f6e0a6fd27e5126172b0c286acf"
     },
     {
       "path": "Mods/Villain/base/SchoolPointDrama.json",
-      "size": 1647,
+      "bytes": 1647,
       "sha256": "26f8616ee146e113827e9e6f616c2d646b7458ba86e516a70a879c1c8fb02c5b"
     },
     {
       "path": "Mods/Villain/base/SchoolPost.json",
-      "size": 11915,
+      "bytes": 11915,
       "sha256": "29f591bef4b1852f50d3983055be745d23c209a2aebd8fade2c3abe400a9a286"
     },
     {
       "path": "Mods/Villain/base/SchoolPostParam.json",
-      "size": 9583,
+      "bytes": 9583,
       "sha256": "be16c84f488d5659caff858e61ceef8cf95186514c0e71d25cd43af2adee18f4"
     },
     {
       "path": "Mods/Villain/base/SchoolPostParam1.json",
-      "size": 5806,
+      "bytes": 5806,
       "sha256": "6dd9dfc75e2ff4302d0e9c7608c6efee88e4e7364b579e2d2cbb48acfe0acd58"
     },
     {
       "path": "Mods/Villain/base/SchoolPrescriptLoft.json",
-      "size": 1041,
+      "bytes": 1041,
       "sha256": "260df05a08f00615c5ecb7c4383b1a3e964e2c6b590ab63b769cc6e67d67edde"
     },
     {
       "path": "Mods/Villain/base/SchoolPromoteEffec.json",
-      "size": 1148,
+      "bytes": 1148,
       "sha256": "2554d8322c9bdbc4f7cbb2881d0c8970125a4e7ad0773987ba157cc372c9024d"
     },
     {
       "path": "Mods/Villain/base/SchoolProsperous.json",
-      "size": 1175,
+      "bytes": 1175,
       "sha256": "3bc784d3dc2683ae3af2268a0840d64d6db1aed4d63ea8c941faaa5c8efa3a04"
     },
     {
       "path": "Mods/Villain/base/SchoolRefiningPool.json",
-      "size": 1206,
+      "bytes": 1206,
       "sha256": "9822b797344fa42f6325f02f9380014e74db724ac902fcb0ae1cca2d165a6dfe"
     },
     {
       "path": "Mods/Villain/base/SchoolRefiningPoolEntry.json",
-      "size": 4519,
+      "bytes": 4519,
       "sha256": "3a3b31f6ffa91c3b1d9053a60bfcd47ca4202793d237b46588a2608a31d3522a"
     },
     {
       "path": "Mods/Villain/base/SchoolRefiningPoolEntryLevel.json",
-      "size": 11127,
+      "bytes": 11127,
       "sha256": "6518deb89bbc086439705248afded4267a5aa1c80406e3240263a2d90f117893"
     },
     {
       "path": "Mods/Villain/base/SchoolRelocateBoatDialogue.json",
-      "size": 956,
+      "bytes": 956,
       "sha256": "fa747044513078f5916d34b4394172b9aedafb083dbe3edf8e7d2214f5e2b18f"
     },
     {
       "path": "Mods/Villain/base/SchoolReviveCost.json",
-      "size": 642,
+      "bytes": 642,
       "sha256": "bb12dce06cca79d2ecc876f67000a6aa27485274a55b6c241e224f49cf0e35a8"
     },
     {
       "path": "Mods/Villain/base/SchoolRoleCall.json",
-      "size": 1624,
+      "bytes": 1624,
       "sha256": "b8ee3ecdebade35935e7af4224823c788ae2646766a481194de18227f31c60ac"
     },
     {
       "path": "Mods/Villain/base/SchoolRule.json",
-      "size": 3729,
+      "bytes": 3729,
       "sha256": "34490487c4ec2aaa7c08acfaa41e346966c746ea1ad77b5ada53ae80bb9868bf"
     },
     {
       "path": "Mods/Villain/base/SchoolSlogan.json",
-      "size": 30733,
+      "bytes": 30733,
       "sha256": "1928e737bfbd284fd9303a673c6e05daff98e2cb04b572f2d35c8cd44d7de522"
     },
     {
       "path": "Mods/Villain/base/SchoolSmall.json",
-      "size": 1613,
+      "bytes": 1613,
       "sha256": "6656963fdcbf120defb414e3ed113d00904fcedaf2305f77400276861f881147"
     },
     {
       "path": "Mods/Villain/base/SchoolSpearHouse.json",
-      "size": 630,
+      "bytes": 630,
       "sha256": "45c2939ec4a729b7bb37c6af43a1e062319c5f6e0a6fd27e5126172b0c286acf"
     },
     {
       "path": "Mods/Villain/base/SchoolStable.json",
-      "size": 27026,
+      "bytes": 27026,
       "sha256": "119ab23f6452e610186dad7df97e2d6df916a8731ecb2325d88be7fe26ff8561"
     },
     {
       "path": "Mods/Villain/base/SchoolStand.json",
-      "size": 1757,
+      "bytes": 1757,
       "sha256": "3ea316c92947e9436e2fcdba041fcf11dd648658170e5e5fa9831c7ce9cd313e"
     },
     {
       "path": "Mods/Villain/base/SchoolStock.json",
-      "size": 187261,
+      "bytes": 187261,
       "sha256": "82a7974a77955a22c4596f243548b715311135a0d7df4db034c3ed93ecb70d75"
     },
     {
       "path": "Mods/Villain/base/SchoolStockSub.json",
-      "size": 1040,
+      "bytes": 1040,
       "sha256": "39d7cdc82d0ad0e23234072282715811e93f5b2d99d31453951b779e7dfc3013"
     },
     {
       "path": "Mods/Villain/base/SchoolStore.json",
-      "size": 42103,
+      "bytes": 42103,
       "sha256": "f62fba298a5d230946d150481013c7e2a5049afea0568f1a2ab5f08fe3bc9bce"
     },
     {
       "path": "Mods/Villain/base/SchoolSwordHouse.json",
-      "size": 630,
+      "bytes": 630,
       "sha256": "45c2939ec4a729b7bb37c6af43a1e062319c5f6e0a6fd27e5126172b0c286acf"
     },
     {
       "path": "Mods/Villain/base/SchoolSymbolRoom.json",
-      "size": 1011,
+      "bytes": 1011,
       "sha256": "267c86ebb41020e13417f83157e21990720c98aebac93e5dc06286b092dc15be"
     },
     {
       "path": "Mods/Villain/base/SchoolTactic.json",
-      "size": 312,
+      "bytes": 312,
       "sha256": "303a2d33e7d0ba7082708f9ea297733aac4533290f27a7c82154b28380de34ef"
     },
     {
       "path": "Mods/Villain/base/SchoolTask.json",
-      "size": 2629,
+      "bytes": 2629,
       "sha256": "65f17cf8933ca0c782bad590f976c11c25132dad58dd4400609c16ed07fb49d8"
     },
     {
       "path": "Mods/Villain/base/SchoolTask102.json",
-      "size": 6863,
+      "bytes": 6863,
       "sha256": "cabcea7df311416de90be22ad8e174c8879b9863826b6e16ce44a6879d5d9d63"
     },
     {
       "path": "Mods/Villain/base/SchoolTask103.json",
-      "size": 597,
+      "bytes": 597,
       "sha256": "777c762435523a243f3a90cac345f9d0b760f4ca974641294840ae476b2179f6"
     },
     {
       "path": "Mods/Villain/base/SchoolTask107.json",
-      "size": 582,
+      "bytes": 582,
       "sha256": "710ab6112034056c1009ff1783e2e0d6e6cb3229d2b79bebf5613d5b78882216"
     },
     {
       "path": "Mods/Villain/base/SchoolTask111.json",
-      "size": 667,
+      "bytes": 667,
       "sha256": "141bbe56b57ae43e86871e302290c82db58d2895170718f911bb7b87303bbe23"
     },
     {
       "path": "Mods/Villain/base/SchoolTask112.json",
-      "size": 2175,
+      "bytes": 2175,
       "sha256": "574a7535fa83c3fe5ea6a18fb36db25851160161ce2eb69c81766a21c8def391"
     },
     {
       "path": "Mods/Villain/base/SchoolTask113.json",
-      "size": 283,
+      "bytes": 283,
       "sha256": "429059708a1e64957b316f0badfc1618ad7e373c5868355770f2588be8157903"
     },
     {
       "path": "Mods/Villain/base/SchoolTask115.json",
-      "size": 283,
+      "bytes": 283,
       "sha256": "0a098472f35055aa0569abb0b3efe8af30d05ef793895d869b6297bec5036b23"
     },
     {
       "path": "Mods/Villain/base/SchoolTask116.json",
-      "size": 12183,
+      "bytes": 12183,
       "sha256": "d0da8e3d24bdb9028a3b63c9a1e973a6de3d85f88f517e03d0790090f40b4204"
     },
     {
       "path": "Mods/Villain/base/SchoolTask117.json",
-      "size": 1752,
+      "bytes": 1752,
       "sha256": "4f95d40d83c437f380d810ac8c9599c85ba56142b194e9672f2a446208172b11"
     },
     {
       "path": "Mods/Villain/base/SchoolTask118.json",
-      "size": 3378,
+      "bytes": 3378,
       "sha256": "97f73c4b769605d78e073d8d013f76a940c1c5c19f8c8fca106214b0799c2d46"
     },
     {
       "path": "Mods/Villain/base/SchoolTaskAllot.json",
-      "size": 268961,
+      "bytes": 268961,
       "sha256": "00754ba9eb8666c340917be91256e1784e02ef582df73bed9c2b631a9baea626"
     },
     {
       "path": "Mods/Villain/base/SchoolTaskHall.json",
-      "size": 975,
+      "bytes": 975,
       "sha256": "ddc3779eca91e4ba3740590bdf032d8273f0b82889fe249b915e250c6586a1b1"
     },
     {
       "path": "Mods/Villain/base/SchoolTaskRun.json",
-      "size": 1142,
+      "bytes": 1142,
       "sha256": "a6f974959963c70680ba9df22dd700d31579e1f6bb626601a3d2d6a09da62ef4"
     },
     {
       "path": "Mods/Villain/base/SchoolTaskTypeBase.json",
-      "size": 159415,
+      "bytes": 159415,
       "sha256": "4ce97ac9bd165371f6a3cd736d9bdaf932877806388cd027ef5002808edbe035"
     },
     {
       "path": "Mods/Villain/base/SchoolTerritory.json",
-      "size": 17932,
+      "bytes": 17932,
       "sha256": "3481d7574b19e5c6d83c2e08ac6ca375202aadd31878ef508598b7dd4899cae2"
     },
     {
       "path": "Mods/Villain/base/SchoolTrainingHall.json",
-      "size": 20250,
+      "bytes": 20250,
       "sha256": "88e94ea014cb13667f2c338f093657c41bb854273e35518c7871ae4242e4d830"
     },
     {
       "path": "Mods/Villain/base/SchoolTransmit.json",
-      "size": 428,
+      "bytes": 428,
       "sha256": "68182a785bec6a672e6cfa0efb20be58899328bc056587ecf0f15f01263dcacb"
     },
     {
       "path": "Mods/Villain/base/SchoolType.json",
-      "size": 997,
+      "bytes": 997,
       "sha256": "71ff5edc04b6b837d81a7219351f2d0ae427293615194de32b583202ed96dd17"
     },
     {
       "path": "Mods/Villain/base/SchoolWarAreaInfo.json",
-      "size": 5670,
+      "bytes": 5670,
       "sha256": "881986e0f9a687675490db4dd0e16ed6dfad5a4ba726dd72dfc0777bb76df2fa"
     },
     {
       "path": "Mods/Villain/base/SchoolWarBattleInfo.json",
-      "size": 1412,
+      "bytes": 1412,
       "sha256": "9085bb5ff0282b337d72ca9ad5cb2a0d09c4202f1b7630f6b0ecb46c49a20979"
     },
     {
       "path": "Mods/Villain/base/SchoolWarBoss.json",
-      "size": 599,
+      "bytes": 599,
       "sha256": "4d0fb254b536b7361452fe1d6c423a670b2ad3e34f89733948c802aaadbff32f"
     },
     {
       "path": "Mods/Villain/base/SchoolWarBossBattleInfo.json",
-      "size": 181,
+      "bytes": 181,
       "sha256": "e28589f211f770fa4394aeeaca997e342ec383887dcc0f129938e666ed9ff2ee"
     },
     {
       "path": "Mods/Villain/base/SchoolWarBossHumanNum.json",
-      "size": 2276,
+      "bytes": 2276,
       "sha256": "9388f8ef1a3374432a783326c4a89e968cf6048f3c2da8e554a4af635a2b8240"
     },
     {
       "path": "Mods/Villain/base/SchoolWarInfo.json",
-      "size": 5038,
+      "bytes": 5038,
       "sha256": "f9217ea6bc9cb11bb9f0ea0329e29b8322a48517c211aed7e87edfd550fe3466"
     },
     {
       "path": "Mods/Villain/base/SchoolWorld.json",
-      "size": 582,
+      "bytes": 582,
       "sha256": "ea32c3d4fbac6eb36f68e1d16127b87f6884cd6d2c8d9aa86192702f6f81f5ae"
     },
     {
       "path": "Mods/Villain/base/SchoolWorldRob.json",
-      "size": 569,
+      "bytes": 569,
       "sha256": "6f37da6971994acfde041c1762232b54b6801c43be0167d4060ddbee40130548"
     },
     {
       "path": "Mods/Villain/base/SkillCombineGrade.json",
-      "size": 935,
+      "bytes": 935,
       "sha256": "5d04ce6d0eccdb300c7840fcab6976743900d1f870aa71055f7f63f983727917"
     },
     {
       "path": "Mods/Villain/base/SkillEffectDesc.json",
-      "size": 16931,
+      "bytes": 16931,
       "sha256": "23733a0215045792208fe270d2087f5c8f5116deed2c390bc5220b3a6bb78b39"
     },
     {
       "path": "Mods/Villain/base/SkillFieldDesc.json",
-      "size": 4310,
+      "bytes": 4310,
       "sha256": "26d802500409b5ea5a872c1b1fcbbf9476aa4020c4c9edaad7c5ec7803e94b12"
     },
     {
       "path": "Mods/Villain/base/SoulDevourSwordDevour.json",
-      "size": 1066,
+      "bytes": 1066,
       "sha256": "f4133552b70ea59182bff892ffa0a3db800f100056cc1465a2c30347915e55a8"
     },
     {
       "path": "Mods/Villain/base/SoulDevourSwordEffects.json",
-      "size": 1069,
+      "bytes": 1069,
       "sha256": "5c1b9d739c1972725fcf5407a12043e5ebc6de7a5f3343498c16f1d1aa95c157"
     },
     {
       "path": "Mods/Villain/base/SoulDevourSwordParamer.json",
-      "size": 7339,
+      "bytes": 7339,
       "sha256": "dbd72b12f8b3297861633f3636697bd3a8ea79ea33ae341af18fae91f4fa3dda"
     },
     {
       "path": "Mods/Villain/base/SoundGroups.json",
-      "size": 15125,
+      "bytes": 15125,
       "sha256": "90db3d698f6e9b408c44370b0428d555a659f63913b1cd00e3a5d5c803a4f6c3"
     },
     {
       "path": "Mods/Villain/base/SoundLowPass.json",
-      "size": 431,
+      "bytes": 431,
       "sha256": "8c499ee0083ea6d063c153ad87773f944057de78d9fd63a35fd92584f97ec613"
     },
     {
       "path": "Mods/Villain/base/SoundsEffectPitch.json",
-      "size": 58811,
+      "bytes": 58811,
       "sha256": "ca2f28a9a6bee8d9d1040fa0d8da17b4aedf9748de7a92ad35a816ed857800aa"
     },
     {
       "path": "Mods/Villain/base/SpecificBattleSkill.json",
-      "size": 4875,
+      "bytes": 4875,
       "sha256": "812d5376683512a302e6f59d7cfa729944164eab3e626c4eee9aacf44cc17870"
     },
     {
       "path": "Mods/Villain/base/SpecificNpcCreate.json",
-      "size": 847,
+      "bytes": 847,
       "sha256": "496734fc3a5e38c59a4f20b0285a7e1902bb3826681433515a63fdad3f6d8b7e"
     },
     {
       "path": "Mods/Villain/base/SpecificSkillAttack.json",
-      "size": 2688,
+      "bytes": 2688,
       "sha256": "dc6d23a31eb7e82fadb0f4bd8f1d409fa0362b4f269b5151d100d89bedf6217a"
     },
     {
       "path": "Mods/Villain/base/StartGameTip.json",
-      "size": 48252,
+      "bytes": 48252,
       "sha256": "8902e36259025e5f2028819f062ba8d3d77284f8334a8d157b6f31e66259b72a"
     },
     {
       "path": "Mods/Villain/base/StoneDaoTask.json",
-      "size": 5355,
+      "bytes": 5355,
       "sha256": "a1ec8f955144fa7d0523d700828c2c95a3c15f200c9d18c3a4d61bc312a71604"
     },
     {
       "path": "Mods/Villain/base/StoreWorld.json",
-      "size": 11111,
+      "bytes": 11111,
       "sha256": "d1f2e90006692c7e74d356af0ee2567eb8f483902e6dfc8f06b14ac65e64c289"
     },
     {
       "path": "Mods/Villain/base/TaoistHeart.json",
-      "size": 23690,
+      "bytes": 23690,
       "sha256": "38bacb6b71a7b516ddf65ec4a354e2aef26fd5abb9d2e0dfa4ab6cee8d19eea4"
     },
     {
       "path": "Mods/Villain/base/TaoistHeartEffect.json",
-      "size": 22315,
+      "bytes": 22315,
       "sha256": "a0342fc247a351b44792c18d89690c6b3f5e5d6196739961ff3e9fb7f7a27918"
     },
     {
       "path": "Mods/Villain/base/TaoistHeartParameters.json",
-      "size": 1967,
+      "bytes": 1967,
       "sha256": "137187288a44f1abab42bce72011dfac8a24a4b5bff7d62006b96739ca73fea7"
     },
     {
       "path": "Mods/Villain/base/TaoistHeartSkillGroupName.json",
-      "size": 1299,
+      "bytes": 1299,
       "sha256": "4ece1fd6f5d86db374463922b8fe66a52968eb6ce78cf73c73d28a352a711f6b"
     },
     {
       "path": "Mods/Villain/base/TaoistSeed.json",
-      "size": 12246,
+      "bytes": 12246,
       "sha256": "cf859186b5b73a15d7adb7f71f8c3ca7dcfab7256c97c61f20e2a8768eda9677"
     },
     {
       "path": "Mods/Villain/base/Task101.json",
-      "size": 5539,
+      "bytes": 5539,
       "sha256": "e5aadadf5c67b8b691e04c6141c04f54b4193c246292e26eb096cc855377250c"
     },
     {
       "path": "Mods/Villain/base/Task103.json",
-      "size": 1445,
+      "bytes": 1445,
       "sha256": "0e9e85ded390a2e6dda38343bcdc8f20975dd6ac1fccbffbbd14eb2ffb11c4d3"
     },
     {
       "path": "Mods/Villain/base/Task108.json",
-      "size": 4165,
+      "bytes": 4165,
       "sha256": "d0f690d474541ccdeb48ba4391cb0d0550208247535cc1d2a7707e4917309e7a"
     },
     {
       "path": "Mods/Villain/base/Task109.json",
-      "size": 4754,
+      "bytes": 4754,
       "sha256": "7731aadfd0354c0916afefafd907bdcd5335ef74dbda014110e26d15950c0712"
     },
     {
       "path": "Mods/Villain/base/Task110.json",
-      "size": 49690,
+      "bytes": 49690,
       "sha256": "ca2bbec4810e0b1addf77d49a2c0a1c156860560217be70ba774a02be7c73874"
     },
     {
       "path": "Mods/Villain/base/Task111.json",
-      "size": 6530,
+      "bytes": 6530,
       "sha256": "076f371e25f75f0c188e2082fdeb9596605d6a67d4232d64bf651b49975e04a8"
     },
     {
       "path": "Mods/Villain/base/Task112.json",
-      "size": 3823,
+      "bytes": 3823,
       "sha256": "5115b29904d0024dc89292520bda6f8725d8fd8c6b2414909bce0d2c6576b517"
     },
     {
       "path": "Mods/Villain/base/Task113.json",
-      "size": 7143,
+      "bytes": 7143,
       "sha256": "7c32009d4b52f20b3d701d182f5d26956807fc008366d4304ae8078996c9281e"
     },
     {
       "path": "Mods/Villain/base/Task114.json",
-      "size": 7233,
+      "bytes": 7233,
       "sha256": "38d9d4aea9418623271338ab14ef1da5857dd4dedfb94a4b685fc511be525851"
     },
     {
       "path": "Mods/Villain/base/Task115.json",
-      "size": 5853,
+      "bytes": 5853,
       "sha256": "0da484a8ccb0d1c8724819ceeef240c032fd66af27698be3b4e5671c435c3269"
     },
     {
       "path": "Mods/Villain/base/Task116.json",
-      "size": 5518,
+      "bytes": 5518,
       "sha256": "ba642c91398d119aa893c8b7b4bbe76d3ef82de13a49099232fb6fd78fd62750"
     },
     {
       "path": "Mods/Villain/base/Task117.json",
-      "size": 1298,
+      "bytes": 1298,
       "sha256": "89d84be4af611df8d5b02702368e5fda00b67f243ec0e3e283fa9ebf234e1bd0"
     },
     {
       "path": "Mods/Villain/base/Task118.json",
-      "size": 1007,
+      "bytes": 1007,
       "sha256": "d08cce42a4e670a0707dd7c58d62900197138fe4d240f20357260621b277e461"
     },
     {
       "path": "Mods/Villain/base/Task128.json",
-      "size": 1328,
+      "bytes": 1328,
       "sha256": "9a9a4e0ec4be3eae137aaf9d2ad774bb01bf1caf5ce6c25f17fc8dcaca9fc0ab"
     },
     {
       "path": "Mods/Villain/base/Task130.json",
-      "size": 1035,
+      "bytes": 1035,
       "sha256": "7b0f0470320eaa793347cfe7f226a0cbece012967d02a7f643667d7683f40b7f"
     },
     {
       "path": "Mods/Villain/base/TaskBase.json",
-      "size": 469675,
+      "bytes": 469675,
       "sha256": "a2a20c9ecad09714dfdd2603fe53f9cf38367106a8e3f97ea5372c3f6f608388"
     },
     {
       "path": "Mods/Villain/base/TaskLevel.json",
-      "size": 309,
+      "bytes": 309,
       "sha256": "3c7d1e98bc165dce527f731287dd35a6aec171918246d8aefe36f6f475167d6b"
     },
     {
       "path": "Mods/Villain/base/TestAttr.json",
-      "size": 60332,
+      "bytes": 60332,
       "sha256": "81a45cc7314ecb2849494d6730e855b5b9a5e4066d3059ccaee2f10a4dc62d8a"
     },
     {
       "path": "Mods/Villain/base/TextBlock.json",
-      "size": 694931,
+      "bytes": 694931,
       "sha256": "ddd3211cbb5035ebebff831bd36ba4fb6081eccab101f73fe664e4928c24286e"
     },
     {
       "path": "Mods/Villain/base/TownAuction.json",
-      "size": 1155,
+      "bytes": 1155,
       "sha256": "971b28bd64d29370d6c3fcde46421b1e63cbb3f6cd92f64dbbe4039d0719dc49"
     },
     {
       "path": "Mods/Villain/base/TownAuctionDrama.json",
-      "size": 2204,
+      "bytes": 2204,
       "sha256": "778712afed94d508721617f542241e9c4ebc8bed4d982ed0fd271ea56140bd78"
     },
     {
       "path": "Mods/Villain/base/TownAuctionProp.json",
-      "size": 6267,
+      "bytes": 6267,
       "sha256": "688161ee6b24446c674f72c67fcc6b218a8d4bd2c11e33c63340e52bce7730ab"
     },
     {
       "path": "Mods/Villain/base/TownAuctionSpecialItem.json",
-      "size": 987,
+      "bytes": 987,
       "sha256": "7f879a9b3140458e393c3dee33c50888f1ab9c3c97d1225cee8063bbce21bff6"
     },
     {
       "path": "Mods/Villain/base/TownBookstore.json",
-      "size": 1036,
+      "bytes": 1036,
       "sha256": "4af984de57fdbfc91f99bac3078d12ad2869c12e14d453f01f18e9f3b165a4c0"
     },
     {
       "path": "Mods/Villain/base/TownBounty.json",
-      "size": 29969,
+      "bytes": 29969,
       "sha256": "9f50897123099e9383cb868f7f02a5a1d857c25d384b28f89cc6bb67ac0c01dc"
     },
     {
       "path": "Mods/Villain/base/TownBuilding.json",
-      "size": 2209,
+      "bytes": 2209,
       "sha256": "4fa373efbd6e3f8598747a8d7ebc2f3fe8320f64d3e3e194f35646b6e45e7683"
     },
     {
       "path": "Mods/Villain/base/TownFactotySell.json",
-      "size": 3364,
+      "bytes": 3364,
       "sha256": "71390d4f8b2164d1c616989467939dcea53d73fa44834e8c7fb9f696dbaba221"
     },
     {
       "path": "Mods/Villain/base/TownFactotySellArtifact.json",
-      "size": 673,
+      "bytes": 673,
       "sha256": "46ac5f7ad7969bde5c728ad3e45ee7ab33e904edc280be76b591cf8e3dbda3ae"
     },
     {
       "path": "Mods/Villain/base/TownFight.json",
-      "size": 856,
+      "bytes": 856,
       "sha256": "fe6a00308a18ac6cb532e92574ccd2b22b46405acf24318a976c0edd78d58f0d"
     },
     {
       "path": "Mods/Villain/base/TownFightDrama.json",
-      "size": 1197,
+      "bytes": 1197,
       "sha256": "a43cce78e12162df8dadfb9ee51c4d2189e959fe444e90a58178451b48393b3b"
     },
     {
       "path": "Mods/Villain/base/TownFightSub.json",
-      "size": 842,
+      "bytes": 842,
       "sha256": "fa71c8751ba9733e4815b7a91233a0eb7ca4186ba30643915f854efb2e0822ae"
     },
     {
       "path": "Mods/Villain/base/TownGirl.json",
-      "size": 2437,
+      "bytes": 2437,
       "sha256": "275ba1e718e151d7e4da455fe5ea55e29017a99ca76f1a0a4f0664a5175b47f4"
     },
     {
       "path": "Mods/Villain/base/TownHotel.json",
-      "size": 536,
+      "bytes": 536,
       "sha256": "8fe08de96e47ed6c4c9fcc70f6ac6b289e782b6cc13dd4a38578926054847dcc"
     },
     {
       "path": "Mods/Villain/base/TownLevel.json",
-      "size": 490,
+      "bytes": 490,
       "sha256": "c990e99fc01716fe8936d6140ed5b6ac78cb0400c659a7983bb00bb4d38ff1a0"
     },
     {
       "path": "Mods/Villain/base/TownMarketBase.json",
-      "size": 3814,
+      "bytes": 3814,
       "sha256": "d81a4f6f244ffdac7e442c9b42e8f3aafbf69381520a20dfeb3aff3d8c204408"
     },
     {
       "path": "Mods/Villain/base/TownMarketBook.json",
-      "size": 6471,
+      "bytes": 6471,
       "sha256": "09bcbf2c0ee2998f7a35c413045518e80b6a72bd19b80de4caed51b21a5b30c9"
     },
     {
       "path": "Mods/Villain/base/TownMarketItem.json",
-      "size": 76942,
+      "bytes": 76942,
       "sha256": "f77a5a4d6b9555fde02762e478db5cfd9814fb0342e29c7399b91cdd7e3c377a"
     },
     {
       "path": "Mods/Villain/base/TownMystery.json",
-      "size": 776,
+      "bytes": 776,
       "sha256": "96466b800ff23d481e2ebec117e15815cf2d9e782d72da4d5791394b125faac0"
     },
     {
       "path": "Mods/Villain/base/TownName.json",
-      "size": 12196,
+      "bytes": 12196,
       "sha256": "edfb7657b965e75be9985968ea3a6705054532aa0a624ff9af3c12113414fe18"
     },
     {
       "path": "Mods/Villain/base/TownNpcInfo.json",
-      "size": 7246,
+      "bytes": 7246,
       "sha256": "dce8ff5f2b7fe75a532120a833254c36d5dc8267308798f5ac4cca1f1c09ba33"
     },
     {
       "path": "Mods/Villain/base/TownPub.json",
-      "size": 7936,
+      "bytes": 7936,
       "sha256": "8a3e8418aa19b8af85a4bc80f19f94d25bc16a2f27370d99a4bf8361327827c2"
     },
     {
       "path": "Mods/Villain/base/TownPubDrama.json",
-      "size": 10702,
+      "bytes": 10702,
       "sha256": "26e5b73d45a4b64a9c8f04fc337a4892fb4693c27c93a6e8a2f6c14abf5bbdf6"
     },
     {
       "path": "Mods/Villain/base/TownPubSub.json",
-      "size": 7477,
+      "bytes": 7477,
       "sha256": "91801d0594a925975c1c7f8314c3dc3a60c4cceca46734a65d80ee526b794035"
     },
     {
       "path": "Mods/Villain/base/TownRefine.json",
-      "size": 4395,
+      "bytes": 4395,
       "sha256": "085ca7e94b93bbb047eedd0f6b67987ba14aa58356553a2e958588dcdad8eb3d"
     },
     {
       "path": "Mods/Villain/base/TownTransmit.json",
-      "size": 572,
+      "bytes": 572,
       "sha256": "161a913c5febf754c10a3373d5390eba2c778a646f8865df241ad6363194f751"
     },
     {
       "path": "Mods/Villain/base/UnitActionTrigger.json",
-      "size": 33938,
+      "bytes": 33938,
       "sha256": "5776d4eca974bca68bc9019411da2394aae2b3bc159def0972f7fd895c01b1e0"
     },
     {
       "path": "Mods/Villain/base/WeaponName.json",
-      "size": 775,
+      "bytes": 775,
       "sha256": "73ffd79be3e0d11302d1b37f974dfe07934eb01e839ba55c598c7bbeb1d45bd9"
     },
     {
       "path": "Mods/Villain/base/WeatherChangAddRate.json",
-      "size": 7806,
+      "bytes": 7806,
       "sha256": "eb5596226f486e4d824ea367f8667fc26a8ae295019b5ee388a360c2d50bc386"
     },
     {
       "path": "Mods/Villain/base/WeatherEffect.json",
-      "size": 24821,
+      "bytes": 24821,
       "sha256": "d06af5e45b22664b241eb9ded4d06c0428e93e1e4cf29fadbc24dec93562bad1"
     },
     {
       "path": "Mods/Villain/base/WeatherLayout.json",
-      "size": 992,
+      "bytes": 992,
       "sha256": "712e51663cb829086d207d2893855418be05a5205017b00d2240164c98f71e73"
     },
     {
       "path": "Mods/Villain/base/WingmanBase.json",
-      "size": 5086,
+      "bytes": 5086,
       "sha256": "9c932a3ed624dbb09024ffa02fc3a60f50c072d984c084ca84b90e30a40ebb12"
     },
     {
       "path": "Mods/Villain/base/WingmanEffect.json",
-      "size": 2453,
+      "bytes": 2453,
       "sha256": "8b0d4eab57a47522bb8acb6e8fec555f36e3c1072c8d426270826d5d9458bc43"
     },
     {
       "path": "Mods/Villain/base/WingmanFixValue.json",
-      "size": 31420,
+      "bytes": 31420,
       "sha256": "85f3b77f87a2ba7dd7a13709a973c13afc4275a367fd981a1647d7f45cb64ca3"
     },
     {
       "path": "Mods/Villain/base/WorldAreaBase.json",
-      "size": 5293,
+      "bytes": 5293,
       "sha256": "a0ba74948ffcedca903d5c3f302009088c13235c6cb24d657d99f47f35da8342"
     },
     {
       "path": "Mods/Villain/base/WorldAreaParameters.json",
-      "size": 1641,
+      "bytes": 1641,
       "sha256": "c8ae70b502e964812c8c8e0d77013061789ecb495ac3c57acfaf2bca8cc29fce"
     },
     {
       "path": "Mods/Villain/base/WorldAreaPosition.json",
-      "size": 1104,
+      "bytes": 1104,
       "sha256": "3869a6ea4020ffa5d8ba1dd91485a7239f8c2d4d6c1f0d91546d885460aae47e"
     },
     {
       "path": "Mods/Villain/base/WorldAreaSpecial.json",
-      "size": 28025,
+      "bytes": 28025,
       "sha256": "e187f3f51e24a7f99a8a4ba63527169c13de8af34eee93a93c0bb060411c7f73"
     },
     {
       "path": "Mods/Villain/base/WorldBlockAttribute.json",
-      "size": 6077,
+      "bytes": 6077,
       "sha256": "32dc74cf60e2db30a4aab5ce099e11881c1fe6e04e6dd3f3b0e545a831c22748"
     },
     {
       "path": "Mods/Villain/base/WorldBlockGetExp.json",
-      "size": 1769,
+      "bytes": 1769,
       "sha256": "aeb74780b59cda4bfc570c489f01bed8a1aeecde551688bd6c6d55d29f934585"
     },
     {
       "path": "Mods/Villain/base/WorldBlockHerb.json",
-      "size": 35574,
+      "bytes": 35574,
       "sha256": "7e3d5071f20112075b42876a2627a22271ba7f66f3df5a6f098978601d5db860"
     },
     {
       "path": "Mods/Villain/base/WorldBlockMine.json",
-      "size": 2902,
+      "bytes": 2902,
       "sha256": "caf277452197bf3838ba91029e8d1583b1d9bec91139ac25a844e02570064783"
     },
     {
       "path": "Mods/Villain/base/WorldBlockMineBook.json",
-      "size": 10270,
+      "bytes": 10270,
       "sha256": "7f9aaaa6829cfafec5a1af4f57f6496571e70a1e3f4b5aba91ffe450ca160509"
     },
     {
       "path": "Mods/Villain/base/WorldBuilding10001.json",
-      "size": 2352,
+      "bytes": 2352,
       "sha256": "96e35f51fe7770014c92261283e928993454f636d121104f8c1c8875968045a5"
     },
     {
       "path": "Mods/Villain/base/WorldBuilding10005.json",
-      "size": 28807,
+      "bytes": 28807,
       "sha256": "52d119cee402309c433ac550b856046589234ce99f185dbf7599cf71c5b1bd93"
     },
     {
       "path": "Mods/Villain/base/WorldBuilding10008.json",
-      "size": 5224,
+      "bytes": 5224,
       "sha256": "bcdff5267c0f7c3d369a40fc497493d6f900debaa87fe545a1c207f7c7046007"
     },
     {
       "path": "Mods/Villain/base/WorldBuildingBase.json",
-      "size": 532,
+      "bytes": 532,
       "sha256": "0fd63a7d3ca8a61c7d12c03ac1480b2f8bc9ccbed31c32f3358e9cb50fbb37ab"
     },
     {
       "path": "Mods/Villain/base/WorldCreateCmd.json",
-      "size": 3145,
+      "bytes": 3145,
       "sha256": "6f4f41b3edbd8f71d918636fb399b9f5a3c4c7fc3079e1fc765c085cf4a4335d"
     },
     {
       "path": "Mods/Villain/base/WorldDungeonLevel.json",
-      "size": 4817,
+      "bytes": 4817,
       "sha256": "86d0a1900196ebcfa4ea602ab2be03b4c8402ac32dc7182e05d78d396df419b9"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEvent2.json",
-      "size": 15820,
+      "bytes": 15820,
       "sha256": "46a3a506ffeacd224fd479076251e6f0715fbe526155964490e014fc19cf88b4"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEvent2Effect.json",
-      "size": 6070,
+      "bytes": 6070,
       "sha256": "b9101f605c1c7aa3ab118b15fe53addc02271202ccf8200f3facf75f8140931d"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEvent4.json",
-      "size": 634,
+      "bytes": 634,
       "sha256": "e61f28d1d4d4c9d78e588240aa24e379d21b37c4af8ff5832a315dd81f4237f6"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEvent7.json",
-      "size": 14559,
+      "bytes": 14559,
       "sha256": "b7bd47e16c2d3c0323869bf7541835be87a09b56ca63774487d89141e5493b33"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEvent7Sub.json",
-      "size": 1089,
+      "bytes": 1089,
       "sha256": "74243ef434ab51e1e3c342dbfde39e411aeca0be0d88bfd827201e02fde20b46"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEventBase.json",
-      "size": 772463,
+      "bytes": 772463,
       "sha256": "5d495d9517a8f15f0993f15b9a9f831890ca73054822dcdeedbaac9ebc23f111"
     },
     {
       "path": "Mods/Villain/base/WorldFortuitousEventIcon.json",
-      "size": 10125,
+      "bytes": 10125,
       "sha256": "c1431303004d18ee02a3f4c63fad68072529febf4629c7407f781da210bc226a"
     },
     {
       "path": "Mods/Villain/base/WorldGridInfoTip.json",
-      "size": 2672,
+      "bytes": 2672,
       "sha256": "7a2ae23e06e0fde4c298f88eadc2974ae3919f66a2a169dd83c32abcface7e71"
     },
     {
       "path": "Mods/Villain/base/WorldJinhuaVillage.json",
-      "size": 2821,
+      "bytes": 2821,
       "sha256": "40dbeef11b935e11ad9253c34155629f570f0bd26ca64ede68774d6e2f79201c"
     },
     {
       "path": "Mods/Villain/base/WorldMonsterArea.json",
-      "size": 721,
+      "bytes": 721,
       "sha256": "cded2d9f02a78c47eae17f77de356603f6ebf2e109def9b59ae9b4eedbdf25d0"
     },
     {
       "path": "Mods/Villain/base/WorldMonsterAreaMatch.json",
-      "size": 8032,
+      "bytes": 8032,
       "sha256": "46b2c9af23e2a998c007255927f4367b977254dc62bb73641a982cbc3dda3bb2"
     },
     {
       "path": "Mods/Villain/base/WorldMonsterRefresh.json",
-      "size": 673,
+      "bytes": 673,
       "sha256": "0f200620f8fde9fe475ab8cb480f96e89e3268087f9c769824a5287640c7661b"
     },
     {
       "path": "Mods/Villain/base/WorldMonsterSpecialArea.json",
-      "size": 2568,
+      "bytes": 2568,
       "sha256": "b2ea66c75a8864214818db46c2024b225368766a2ebc561e8d9068dd60c56e39"
     },
     {
       "path": "Mods/Villain/base/WorldParameters.json",
-      "size": 931,
+      "bytes": 931,
       "sha256": "c3e4530565a55f0aec09ac78bc1daa55644f30212bd19388a43e2650cdac7f9b"
     },
     {
       "path": "Mods/Villain/base/WorldTaskSign.json",
-      "size": 8836,
+      "bytes": 8836,
       "sha256": "34f75344ac50751c8f9cba08f52b39b3a28a6c904fa6e235b6d9ac34a01466b5"
     },
     {
       "path": "Mods/Villain/base/WorldTerr1001.json",
-      "size": 5815,
+      "bytes": 5815,
       "sha256": "167a7b409dc9d5e357a5baaa9f74fd1fdd244fe0c6eed7aabe3826c1ce469128"
     },
     {
       "path": "Mods/Villain/base/WorldTerrainDecorate.json",
-      "size": 143424,
+      "bytes": 143424,
       "sha256": "e1206d854287445e366905c2c2a0563c482bc1783c14bb82c554935c78e9faf2"
     },
     {
       "path": "Mods/Villain/base/WorldTerrainType.json",
-      "size": 2799,
+      "bytes": 2799,
       "sha256": "df17862bcbfb6e1dfae0301e9212d3c985838f2a31ba51604a59633753b9c7f4"
     },
     {
       "path": "Mods/Villain/base/WorldVillage1.json",
-      "size": 814,
+      "bytes": 814,
       "sha256": "4c8d64780436ce265054fe30caae345c6e258a4705ea9dd56b23fc9e19335977"
     },
     {
       "path": "Mods/Villain/base/yinyangEyeParamer.json",
-      "size": 4099,
+      "bytes": 4099,
       "sha256": "3b654ba64f98cabe5a103799389366244dbe4ffab1893c973f16f5544be52369"
     },
     {
       "path": "Mods/Villain/base/yinyangEyeSoul.json",
-      "size": 16617,
+      "bytes": 16617,
       "sha256": "56a9f80cff2453eea6cdddb8f6005f3fcdc4fa6bdcdf648f9b4ab11970889538"
     },
     {
       "path": "Mods/Villain/config.ini",
-      "size": 78,
+      "bytes": 78,
       "sha256": "e53ec66411284a92bbbcc649d778a0b81af3d598e8bafe51c03d4612c57ac8e7"
     },
     {
       "path": "Mods/Villain/patch_vh/BattleSkillPrefixName.json",
-      "size": 33083,
+      "bytes": 33083,
       "sha256": "a7f00c53f8fc453bc9c59a05d96b671ce3f4b5e81f4380cb5ee6bd8435b33676"
     },
     {
       "path": "Mods/Villain/patch_vh/GuideBase.json",
-      "size": 65771,
+      "bytes": 65771,
       "sha256": "90e9538c6d9f2e321c55b8cc6a11f13821b82b0cbd44de65ddfa5c9c5586849f"
     },
     {
       "path": "Mods/Villain/patch_vh/HerdNPCNameFirst.json",
-      "size": 341,
+      "bytes": 341,
       "sha256": "8afcfcb5bea6b996cc950c9d62f868652f8542eff3d2ae7d2956ea38b2c96887"
     },
     {
       "path": "Mods/Villain/patch_vh/LocalText.json",
-      "size": 14348591,
+      "bytes": 14348591,
       "sha256": "0dcd667cae2830c555b18838937c5075c668ed48e7b05ea2da3fd2c7aa80506f"
     },
     {
       "path": "Mods/Villain/patch_vh/NpcNameFirst.json",
-      "size": 50716,
+      "bytes": 50716,
       "sha256": "c278907fec6faecfa1315f7f5450c84dc8ee1aad91b106068df4ba7915545e1c"
     },
     {
       "path": "Mods/Villain/patch_vh/NpcNameLast.json",
-      "size": 171946,
+      "bytes": 171946,
       "sha256": "31f08ac1f3df1582efff09c350dbb934de64999fcc381850481dd5fd524df18e"
     },
     {
       "path": "Mods/Villain/patch_vh/RoleLogLocal.json",
-      "size": 15845572,
+      "bytes": 15845572,
       "sha256": "b0b925060d88966f2c40fa2c9e9963cc01dc7bb08cb8e92a876c765a3bb72293"
     },
     {
       "path": "UserData/VietnameseUILayout/profiles.json",
-      "size": 23758,
+      "bytes": 23758,
       "sha256": "9c7cefd2cfbee00d7283497cabe45adc26c986b65a3063decb2f79ba3417c8c9"
     }
   ]

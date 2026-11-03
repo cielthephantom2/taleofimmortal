@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "version": "1.7.120",
+  "version": "1.7.124",
   "files": [
     {
-      "path": "ModExportData/Mod_nYOYTQ/ModAssets/\u8fd9\u4e2a\u76ee\u5f55\u4e0b\u7684\u6240\u6709\u6587\u4ef6\u90fd\u4f1a\u88ab\u4e00\u8d77\u5bfc\u51fa\uff08\u6253\u5f00\u67e5\u770b\u8bf4\u660e\uff09.txt",
+      "path": "ModExportData/Mod_nYOYTQ/ModAssets/这个目录下的所有文件都会被一起导出（打开查看说明）.txt",
       "sha256": "014a86b3011eb0fc316f1998b56bf1ca0c7f00a3efe5519b5af1fe6780015c73",
       "bytes": 88
     },
@@ -229,8 +229,18 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "sha256": "a3b5a92fe68e3044ee43481613d658c209f6054d95e47ac1371ab43743458cdf",
-      "bytes": 14245888
+      "sha256": "298f1661edf843d9b5b2f5059b7d4a8649a635f462b32df3830b9ec48f2c479d",
+      "bytes": 14247424
+    },
+    {
+      "path": "Mods/MusicVolumeTrace.dll",
+      "sha256": "b107be1974784dfcece990c2c5fcf9ff82a8090c9f7a64a164e39d8b534e9d58",
+      "bytes": 5120
+    },
+    {
+      "path": "Mods/Villain.dll",
+      "sha256": "76a21685bfec5f2c62437e6055fd110f2994c021c0c08308bab6c57dffa27754",
+      "bytes": 50176
     },
     {
       "path": "Mods/Villain/base/Achievement.json",
@@ -4036,11 +4046,6 @@
       "path": "Mods/Villain/patch_vh/RoleLogLocal.json",
       "sha256": "b0b925060d88966f2c40fa2c9e9963cc01dc7bb08cb8e92a876c765a3bb72293",
       "bytes": 15845572
-    },
-    {
-      "path": "Mods/Villain.dll",
-      "sha256": "76a21685bfec5f2c62437e6055fd110f2994c021c0c08308bab6c57dffa27754",
-      "bytes": 50176
     },
     {
       "path": "UserData/VietnameseUILayout/profiles.json",

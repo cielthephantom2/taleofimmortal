@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "1.7.124",
+  "version": "1.7.128",
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/这个目录下的所有文件都会被一起导出（打开查看说明）.txt",
@@ -229,8 +229,8 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "sha256": "298f1661edf843d9b5b2f5059b7d4a8649a635f462b32df3830b9ec48f2c479d",
-      "bytes": 14247424
+      "sha256": "65445db27202a02a5c74782b2295ca9b96f92cabad408dad5d3f56a6ad017f3d",
+      "bytes": 14249472
     },
     {
       "path": "Mods/MusicVolumeTrace.dll",

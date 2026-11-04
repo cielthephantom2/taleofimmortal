@@ -1,0 +1,106 @@
+{
+  "game_root": "../..",
+  "api_key_env": "TRANSLATOR_API_KEY",
+  "model": "ag/gemini-3.8-flash-low(low)",
+  "batch_size": 100,
+  "max_source_characters_per_batch": 6000,
+  "parallel_requests": 5,
+  "requests_per_minute": 10,
+  "request_timeout_seconds": 180,
+  "http_retries": 0,
+  "validation_retries": 0,
+  "max_output_tokens": 32768,
+  "temperature": 0.3,
+  "generation_overrides": {},
+  "glossary_file": "glossary.json",
+  "name_fragments_file": "name_fragments.json",
+  "item_names_file": "../../TranslationExports/item_names_review/approved_item_names.json",
+  "skill_fate_names_file": "../../TranslationExports/skills_fates_review/approved_names.json",
+  "approved_format_exceptions_file": "approved_format_exceptions.json",
+  "style_file": "style.txt",
+  "state_directory": "state",
+  "preserve_target_edge_whitespace": true,
+  "reject_remaining_chinese": true,
+  "deduplicate_within_context": true,
+  "files": [
+    {
+      "path": "Mods/Villain/patch_vh/LocalText.json",
+      "id_field": "id",
+      "key_field": "key",
+      "fields": {
+        "ch": "en"
+      },
+      "exclude_key_globs": [
+        "startGameTip*",
+        "gamePlan*",
+        "planTip",
+        "banbenjihua",
+        "update_title",
+        "ui_UpdateHistory*",
+        "logUpdate*",
+        "Thanks*",
+        "conclusionText*",
+        "wenjuan*",
+        "jianyi_*",
+		"mod*",
+        "mod_huodong",
+        "mod_huodongneirong"
+      ]
+    },
+    {
+      "path": "Mods/Villain/patch_vh/RoleLogLocal.json",
+      "id_field": "id",
+      "key_field": "keyID",
+      "context_fields": [
+        "part",
+        "goal",
+        "active",
+        "characterGroup",
+        "emotionID"
+      ],
+      "fields": {
+        "ch": "en"
+      }
+    },
+    {
+      "path": "Mods/Villain/patch_vh/BattleSkillPrefixName.json",
+      "id_field": "id",
+      "fields": {
+        "text": "en"
+      }
+    },
+    {
+      "path": "Mods/Villain/patch_vh/NpcNameFirst.json",
+      "id_field": "id",
+      "fields": {
+        "name": "en"
+      }
+    },
+    {
+      "path": "Mods/Villain/patch_vh/NpcNameLast.json",
+      "id_field": "id",
+      "fields": {
+        "name": "en"
+      }
+    },
+    {
+      "path": "Mods/Villain/patch_vh/GuideBase.json",
+      "id_field": "id",
+      "fields": {
+        "desc": "descEN",
+        "desc_hande": "descEN_hande"
+      }
+    },
+    {
+      "path": "Mods/Villain/patch_vh/HerdNPCNameFirst.json",
+      "id_field": "id",
+      "fields": {
+        "name": "en"
+      }
+    }
+  ],
+  "base_url": "https://lynn-view-denver-letter.trycloudflare.com/v1",
+  "api_key_file": "credentials.local.json",
+  "json_mode": true,
+  "defer_failed_items": true
+}

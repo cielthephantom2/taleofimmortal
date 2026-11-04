@@ -1,0 +1,657 @@
+{
+  "version": 1,
+  "policy": "Chỉ chấp nhận đúng file/key/nguồn/đích này; không nới kiểm tra số/biến ở mục khác.",
+  "entries": [
+    {
+      "file": "LocalText.json",
+      "key": "item_name6091036",
+      "source": "星耀宫秘史残卷(一)",
+      "vi": "Tinh Diệu Cung Bí Sử Tàn Quyển (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6091046",
+      "source": "星耀宫秘史残卷(二)",
+      "vi": "Tinh Diệu Cung Bí Sử Tàn Quyển (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6091056",
+      "source": "星耀宫秘史残卷(三)",
+      "vi": "Tinh Diệu Cung Bí Sử Tàn Quyển (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6091066",
+      "source": "星耀宫秘史残卷(四)",
+      "vi": "Tinh Diệu Cung Bí Sử Tàn Quyển (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6091076",
+      "source": "星耀宫秘史残卷(五)",
+      "vi": "Tinh Diệu Cung Bí Sử Tàn Quyển (Quyển 5)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051196",
+      "source": "炼丹通论（一）",
+      "vi": "Luyện Đan Thông Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051206",
+      "source": "炼丹通论（二）",
+      "vi": "Luyện Đan Thông Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051216",
+      "source": "炼丹通论（三）",
+      "vi": "Luyện Đan Thông Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051226",
+      "source": "炼丹通论（四）",
+      "vi": "Luyện Đan Thông Luận (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051256",
+      "source": "风水通论（一）",
+      "vi": "Phong Thủy Thông Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051266",
+      "source": "风水通论（二）",
+      "vi": "Phong Thủy Thông Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051276",
+      "source": "风水通论（三）",
+      "vi": "Phong Thủy Thông Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051296",
+      "source": "药材通论（一）",
+      "vi": "Dược Tài Thông Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051306",
+      "source": "药材通论（二）",
+      "vi": "Dược Tài Thông Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051316",
+      "source": "药材通论（三）",
+      "vi": "Dược Tài Thông Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051326",
+      "source": "药材通论（四）",
+      "vi": "Dược Tài Thông Luận (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051346",
+      "source": "矿材通论（一）",
+      "vi": "Khoáng Tài Thông Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051356",
+      "source": "矿材通论（二）",
+      "vi": "Khoáng Tài Thông Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051366",
+      "source": "矿材通论（三）",
+      "vi": "Khoáng Tài Thông Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051376",
+      "source": "矿材通论（四）",
+      "vi": "Khoáng Tài Thông Luận (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051396",
+      "source": "画符通论（一）",
+      "vi": "Họa Phù Thông Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051406",
+      "source": "画符通论（二）",
+      "vi": "Họa Phù Thông Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051416",
+      "source": "画符通论（三）",
+      "vi": "Họa Phù Thông Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name1051426",
+      "source": "画符通论（四）",
+      "vi": "Họa Phù Thông Luận (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161392",
+      "source": "炼器通论（一）",
+      "vi": "Luyện Khí Thông Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161393",
+      "source": "炼器通论（二）",
+      "vi": "Luyện Khí Thông Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161394",
+      "source": "炼器通论（三）",
+      "vi": "Luyện Khí Thông Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161395",
+      "source": "炼器通论（四）",
+      "vi": "Luyện Khí Thông Luận (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161397",
+      "source": "金丹论（一）",
+      "vi": "Kim Đan Luận (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161398",
+      "source": "金丹论（二）",
+      "vi": "Kim Đan Luận (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161399",
+      "source": "金丹论（三）",
+      "vi": "Kim Đan Luận (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161400",
+      "source": "金丹论（四）",
+      "vi": "Kim Đan Luận (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161402",
+      "source": "青囊集（一）",
+      "vi": "Thanh Nang Tập (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161403",
+      "source": "青囊集（二）",
+      "vi": "Thanh Nang Tập (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161404",
+      "source": "青囊集（三）",
+      "vi": "Thanh Nang Tập (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161405",
+      "source": "青囊集（四）",
+      "vi": "Thanh Nang Tập (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161407",
+      "source": "百草经（一）",
+      "vi": "Bách Thảo Kinh (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161408",
+      "source": "百草经（二）",
+      "vi": "Bách Thảo Kinh (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161409",
+      "source": "百草经（三）",
+      "vi": "Bách Thảo Kinh (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161410",
+      "source": "百草经（四）",
+      "vi": "Bách Thảo Kinh (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161412",
+      "source": "玉璧书（一）",
+      "vi": "Ngọc Bích Thư (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161413",
+      "source": "玉璧书（二）",
+      "vi": "Ngọc Bích Thư (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161414",
+      "source": "玉璧书（三）",
+      "vi": "Ngọc Bích Thư (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161415",
+      "source": "玉璧书（四）",
+      "vi": "Ngọc Bích Thư (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161417",
+      "source": "器形录（一）",
+      "vi": "Khí Hình Lục (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161418",
+      "source": "器形录（二）",
+      "vi": "Khí Hình Lục (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161419",
+      "source": "器形录（三）",
+      "vi": "Khí Hình Lục (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6161420",
+      "source": "器形录（四）",
+      "vi": "Khí Hình Lục (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011012",
+      "source": "寻风（一）",
+      "vi": "Tầm Phong (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011013",
+      "source": "寻风（二）",
+      "vi": "Tầm Phong (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011014",
+      "source": "寻风（三）",
+      "vi": "Tầm Phong (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011015",
+      "source": "寻风（四）",
+      "vi": "Tầm Phong (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011062",
+      "source": "九星连珠（一）",
+      "vi": "Cửu Tinh Liên Châu (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011063",
+      "source": "九星连珠（二）",
+      "vi": "Cửu Tinh Liên Châu (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011064",
+      "source": "九星连珠（三）",
+      "vi": "Cửu Tinh Liên Châu (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011065",
+      "source": "九星连珠（四）",
+      "vi": "Cửu Tinh Liên Châu (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011052",
+      "source": "阴阳（一）",
+      "vi": "Âm Dương (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011053",
+      "source": "阴阳（二）",
+      "vi": "Âm Dương (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011054",
+      "source": "阴阳（三）",
+      "vi": "Âm Dương (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011055",
+      "source": "阴阳（四）",
+      "vi": "Âm Dương (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011022",
+      "source": "飞星（一）",
+      "vi": "Phi Tinh (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011023",
+      "source": "飞星（二）",
+      "vi": "Phi Tinh (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011024",
+      "source": "飞星（三）",
+      "vi": "Phi Tinh (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011025",
+      "source": "飞星（四）",
+      "vi": "Phi Tinh (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011042",
+      "source": "定岳（一）",
+      "vi": "Định Nhạc (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011043",
+      "source": "定岳（二）",
+      "vi": "Định Nhạc (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011044",
+      "source": "定岳（三）",
+      "vi": "Định Nhạc (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011045",
+      "source": "定岳（四）",
+      "vi": "Định Nhạc (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011032",
+      "source": "巽风（一）",
+      "vi": "Tốn Phong (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011033",
+      "source": "巽风（二）",
+      "vi": "Tốn Phong (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011034",
+      "source": "巽风（三）",
+      "vi": "Tốn Phong (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011035",
+      "source": "巽风（四）",
+      "vi": "Tốn Phong (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011072",
+      "source": "天魂鬼契（一）",
+      "vi": "Thiên Hồn Quỷ Khế (Quyển 1)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011073",
+      "source": "天魂鬼契（二）",
+      "vi": "Thiên Hồn Quỷ Khế (Quyển 2)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011074",
+      "source": "天魂鬼契（三）",
+      "vi": "Thiên Hồn Quỷ Khế (Quyển 3)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name2011075",
+      "source": "天魂鬼契（四）",
+      "vi": "Thiên Hồn Quỷ Khế (Quyển 4)",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "role_feature_postnatal_name9000003",
+      "source": "通用道心效果-1",
+      "vi": "Thông Dụng Đạo Tâm Hiệu Quả - 1",
+      "reason": "Chỉ khác khoảng trắng quanh dấu số âm/phần trăm; trị số không đổi."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "role_feature_postnatal_name9000004",
+      "source": "通用道心效果-2",
+      "vi": "Thông Dụng Đạo Tâm Hiệu Quả - 2",
+      "reason": "Chỉ khác khoảng trắng quanh dấu số âm/phần trăm; trị số không đổi."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6391031",
+      "source": "《百晓佚闻·灵虬降世》卷一",
+      "vi": "《Bách Hiểu Dật Văn · Linh Cầu Giáng Thế》 · Quyển 1",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6391032",
+      "source": "《百晓佚闻·灵虬降世》卷二",
+      "vi": "《Bách Hiểu Dật Văn · Linh Cầu Giáng Thế》 · Quyển 2",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6391033",
+      "source": "《百晓佚闻·灵虬降世》卷三",
+      "vi": "《Bách Hiểu Dật Văn · Linh Cầu Giáng Thế》 · Quyển 3",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name6391034",
+      "source": "《百晓佚闻·灵虬降世》卷四",
+      "vi": "《Bách Hiểu Dật Văn · Linh Cầu Giáng Thế》 · Quyển 4",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000305",
+      "source": "《剑修往事》卷一",
+      "vi": "《Kiếm Tu Vãng Sự》 · Quyển 1",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000306",
+      "source": "《剑修往事》卷二",
+      "vi": "《Kiếm Tu Vãng Sự》 · Quyển 2",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000307",
+      "source": "《剑修往事》卷三",
+      "vi": "《Kiếm Tu Vãng Sự》 · Quyển 3",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000308",
+      "source": "《剑修往事》卷四",
+      "vi": "《Kiếm Tu Vãng Sự》 · Quyển 4",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000182",
+      "source": "秘窟留书之一",
+      "vi": "Thư lưu lại trong bí quật · Phần 1",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000183",
+      "source": "秘窟留书之二",
+      "vi": "Thư lưu lại trong bí quật · Phần 2",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000185",
+      "source": "岁时宝匣之一",
+      "vi": "Tuế Thời Bảo Hạp · Phần 1",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name7000186",
+      "source": "岁时宝匣之二",
+      "vi": "Tuế Thời Bảo Hạp · Phần 2",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name8103207",
+      "source": "残破的记事薄之一",
+      "vi": "Sổ ghi chép rách nát · Phần 1",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "item_name8103208",
+      "source": "残破的记事薄之二",
+      "vi": "Sổ ghi chép rách nát · Phần 2",
+      "reason": "Số quyển/phần chữ Hán chuyển thành chữ số; số thứ tự đã đối chiếu."
+    },
+    {
+      "file": "LocalText.json",
+      "key": "role_feature_postnatal_name80130536",
+      "source": "攻击增加33%",
+      "vi": "Công Kích Tăng Gia 33 %",
+      "reason": "Chỉ khác khoảng trắng quanh dấu số âm/phần trăm; trị số không đổi."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "description": "Ví dụ tham khảo, không tự động nạp. Thêm quy tắc cần dùng vào glossary.json/terms.",
+  "terms": [
+    {
+      "id": "attack-dialogue",
+      "source": "攻击",
+      "vi": "tấn công",
+      "files": ["LocalText.json"],
+      "key_globs": ["drama_dialogue*"],
+      "note": "Trong hội thoại, dùng động từ tấn công khi phù hợp; tránh áp nhãn Công kích một cách máy móc."
+    },
+    {
+      "id": "attack-stat",
+      "source": "攻击",
+      "vi": "Công kích",
+      "files": ["LocalText.json"],
+      "key_globs": ["player_gongji", "modEnum*"],
+      "note": "Tên chỉ số trong giao diện."
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+# source<TAB>Vietnamese<TAB>domain<TAB>strict/hint<TAB>note
+境界	cảnh giới	cultivation	strict	Phân biệt cảnh giới với địa giới.
+修炼	tu luyện	cultivation	strict	
+修仙	tu tiên	cultivation	strict	
+修真	tu chân	cultivation	strict	
+修仙者	tu sĩ	cultivation	hint	Có thể dùng người tu tiên tùy ngữ pháp.
+修真者	tu sĩ	cultivation	hint	
+修士	tu sĩ	cultivation	strict	
+炼气	Luyện Khí	cultivation	hint	Cảnh giới; không nhầm 炼器 là luyện chế pháp khí.
+筑基	Trúc Cơ	cultivation	strict	
+结晶	Kết Tinh	cultivation	hint	Tên cảnh giới viết hoa; kết tinh thông thường dịch nghĩa.
+金丹	Kim Đan	cultivation	strict	
+具灵	Cụ Linh	cultivation	strict	
+元婴	Nguyên Anh	cultivation	strict	
+化神	Hóa Thần	cultivation	strict	
+悟道	Ngộ Đạo	cultivation	hint	Tên cảnh giới viết hoa; hành động là ngộ đạo.
+羽化	Vũ Hóa	cultivation	strict	
+登仙	Đăng Tiên	cultivation	strict	
+初期	sơ kỳ	cultivation	strict	
+中期	trung kỳ	cultivation	strict	
+后期	hậu kỳ	cultivation	strict	
+大圆满	đại viên mãn	cultivation	strict	
+圆满	viên mãn	cultivation	strict	
+瓶颈	bình cảnh	cultivation	strict	Trạng thái tu luyện bế tắc.
+突破材料	nguyên liệu đột phá	cultivation	strict	
+天道筑基	Thiên Đạo Trúc Cơ	cultivation	strict	
+地道筑基	Địa Đạo Trúc Cơ	cultivation	strict	
+人道筑基	Nhân Đạo Trúc Cơ	cultivation	strict	
+天道元婴	Thiên Đạo Nguyên Anh	cultivation	strict	
+地道元婴	Địa Đạo Nguyên Anh	cultivation	strict	
+人道元婴	Nhân Đạo Nguyên Anh	cultivation	strict	
+雷劫	lôi kiếp	cultivation	strict	
+天劫	thiên kiếp	cultivation	strict	
+渡劫	độ kiếp	cultivation	strict	
+逆天改命	Nghịch Thiên Cải Mệnh	cultivation	strict	Tên hệ thống lựa chọn khi đột phá.
+先天气运	Tiên thiên khí vận	cultivation	strict	
+后天气运	hậu thiên khí vận	cultivation	strict	
+气运	khí vận	cultivation	strict	Không dùng để thay toàn bộ tên khí vận đã duyệt.
+天赋	thiên phú	cultivation	strict	
+道心	đạo tâm	cultivation	strict	
+道种	đạo chủng	cultivation	strict	
+道魂	đạo hồn	cultivation	strict	
+道界	đạo giới	cultivation	strict	
+道则	đạo tắc	cultivation	strict	
+道力	đạo lực	cultivation	strict	
+道点	đạo điểm	cultivation	strict	Điểm dùng để trang bị công pháp.
+道意	đạo ý	cultivation	strict	
+领域	lĩnh vực	cultivation	hint	Tùy ngữ cảnh có thể là phạm vi chuyên môn.
+神魂	thần hồn	cultivation	strict	
+元魂	nguyên hồn	cultivation	strict	
+残魂	tàn hồn	cultivation	strict	
+神识	thần thức	cultivation	strict	
+识海	thức hải	cultivation	strict	
+魂力	hồn lực	cultivation	strict	
+寿元	thọ nguyên	cultivation	strict	
+寿命	tuổi thọ	cultivation	hint	
+坐化	tọa hóa	cultivation	strict	
+夺舍	đoạt xá	cultivation	strict	
+走火入魔	tẩu hỏa nhập ma	cultivation	strict	
+经脉	kinh mạch	cultivation	strict	
+丹田	đan điền	cultivation	strict	
+气血	khí huyết	cultivation	strict	
+肉身	nhục thân	cultivation	strict	
+根骨	căn cốt	cultivation	strict	
+气息	khí tức	cultivation	strict	
+灵气	linh khí	cultivation	strict	
+灵力	linh lực	stats	strict	
+念力	niệm lực	stats	strict	
+体力	thể lực	stats	strict	
+精力	tinh lực	stats	strict	
+健康	sức khỏe	stats	strict	
+活力	sinh lực	stats	strict	
+悟性	ngộ tính	stats	strict	
+资质	tư chất	stats	strict	
+灵根	linh căn	stats	strict	
+战斗资质	tư chất chiến đấu	stats	strict	
+功法资质	tư chất công pháp	stats	strict	
+技艺	kỹ nghệ	stats	strict	
+魅力	mị lực	stats	strict	Không đồng nhất với dung mạo trong mọi câu.
+声望	danh vọng	stats	strict	
+名誉	danh dự	stats	hint	Phân biệt danh vọng và danh dự theo tên chỉ số.
+亲密度	độ thân mật	stats	strict	
+好感度	độ hảo cảm	stats	strict	
+忠诚度	độ trung thành	stats	strict	
+安定度	độ ổn định	stats	strict	
+脚力	cước lực	stats	strict	
+幸运	may mắn	stats	strict	
+会心	hội tâm	stats	strict	Tên chỉ số; không dịch thành hiểu ý khi nói cơ chế.
+护心	hộ tâm	stats	strict	
+会心倍率	hệ số hội tâm	stats	strict	
+会心伤害	sát thương hội tâm	stats	strict	
+暴击伤害	sát thương chí mạng	stats	strict	
+暴击率	tỷ lệ chí mạng	stats	strict	
+暴击	chí mạng	stats	strict	
+攻击	công kích	stats	hint	Nhãn chỉ số là Công kích; động từ hội thoại có thể là tấn công.
+防御	phòng ngự	stats	strict	
+伤害	sát thương	combat	strict	Trong chỉ số và chiến đấu; lời thoại gây tổn thương tình cảm dịch tự nhiên.
+伤害减免	giảm sát thương	combat	strict	
+免伤	giảm sát thương	combat	strict	Không tự diễn giải thành miễn nhiễm hoàn toàn.
+伤害加成	cộng thêm sát thương	combat	hint	Giữ rõ phần trăm cộng thêm và hệ số nhân.
+伤害反弹	phản sát thương	combat	strict	
+反伤	phản sát thương	combat	strict	
+真实伤害	sát thương chuẩn	combat	strict	
+持续伤害	sát thương duy trì	combat	strict	
+范围伤害	sát thương diện rộng	combat	strict	
+攻击速度	tốc độ công kích	combat	strict	
+移动速度	tốc độ di chuyển	combat	strict	
+攻击范围	phạm vi công kích	combat	strict	
+攻击距离	cự ly công kích	combat	strict	
+穿透	xuyên thấu	combat	strict	
+击退	đẩy lùi	combat	strict	
+击飞	hất tung	combat	strict	
+吸血	hút máu	combat	strict	
+护盾	lá chắn	combat	strict	Tên kỹ năng riêng chứa 盾 vẫn theo bản tên đã duyệt.
+霸体	bá thể	combat	strict	
+无敌	vô địch	combat	hint	Trạng thái miễn sát thương; giữ nghĩa theo cơ chế nguồn.
+眩晕	choáng	combat	strict	
+晕眩	choáng	combat	strict	
+沉默	câm lặng	combat	strict	
+麻痹	tê liệt	combat	strict	
+冻结	đóng băng	combat	strict	
+减速	giảm tốc	combat	strict	
+禁锢	trói chân	combat	hint	Trạng thái hạn chế di chuyển; không tự suy diễn khóa mọi kỹ năng.
+致盲	mù	combat	strict	
+恐惧	sợ hãi	combat	hint	Tên trạng thái và cảm xúc có thể khác cách viết.
+魅惑	mê hoặc	combat	strict	
+嘲讽	khiêu khích	combat	hint	Có thể là lời chế giễu trong hội thoại.
+流血	xuất huyết	combat	strict	
+灼烧	thiêu đốt	combat	strict	
+燃烧	thiêu đốt	combat	hint	Hành động đốt thông thường dịch tự nhiên.
+中毒	trúng độc	combat	strict	
+毒伤	sát thương độc	combat	strict	
+内伤	nội thương	combat	strict	
+重伤	trọng thương	combat	strict	Tên khí vận viết Trọng Thương khi được gọi như tên riêng.
+轻伤	khinh thương	combat	hint	Trong văn xuôi có thể là bị thương nhẹ.
+虚弱	suy yếu	combat	strict	
+破甲	phá giáp	combat	strict	
+破防	phá phòng ngự	combat	strict	
+蓄力	tụ lực	combat	strict	
+引爆	kích nổ	combat	strict	
+闪避	né tránh	combat	strict	
+闪躲	né tránh	combat	strict	
+分身	phân thân	combat	strict	
+召唤物	vật triệu hồi	combat	strict	
+召唤	triệu hồi	combat	strict	
+傀儡	khôi lỗi	combat	strict	
+冷却时间	thời gian hồi chiêu	combat	strict	Cấm dịch làm mát.
+冷却	hồi chiêu	combat	strict	
+持续时间	thời gian duy trì	combat	strict	
+叠加	cộng dồn	combat	strict	
+层数	số tầng	combat	strict	
+充能	tích năng	combat	strict	
+命中	trúng đích	combat	hint	Tùy cấu trúc câu có thể là đánh trúng.
+技能	kỹ năng	skills	strict	
+功法	công pháp	skills	strict	
+武技	võ kỹ	skills	strict	
+灵技	linh kỹ	skills	strict	
+绝技	tuyệt kỹ	skills	strict	
+神通	thần thông	skills	strict	
+身法	thân pháp	skills	strict	
+心法	tâm pháp	skills	strict	
+秘籍	bí tịch	skills	strict	
+秘法	bí pháp	skills	strict	
+招式	chiêu thức	skills	strict	
+剑法	kiếm pháp	skills	strict	
+刀法	đao pháp	skills	strict	
+枪法	thương pháp	skills	strict	
+拳法	quyền pháp	skills	strict	
+掌法	chưởng pháp	skills	strict	
+指法	chỉ pháp	skills	strict	
+剑气	kiếm khí	skills	strict	
+剑阵	kiếm trận	skills	strict	
+飞剑	phi kiếm	skills	strict	
+剑斩	Kiếm Trảm	skills	strict	Hiệu ứng chiến đấu dùng cùng tên trong mô tả.
+剑心	Kiếm Tâm	skills	strict	
+刀气	đao khí	skills	strict	
+枪魂	Thương Hồn	skills	strict	
+道法	đạo pháp	skills	strict	
+熟练度	độ thuần thục	skills	strict	
+修炼难度	độ khó tu luyện	skills	strict	
+修炼阶段	giai đoạn tu luyện	skills	strict	
+发挥效率	hiệu suất phát huy	skills	strict	
+标准威力	uy lực tiêu chuẩn	skills	strict	
+威力	uy lực	skills	strict	Không nhầm với chỉ số công kích.
+词条	dòng thuộc tính	skills	strict	Không dịch từ khóa theo nghĩa ngôn ngữ học.
+参悟	tham ngộ	skills	strict	
+领悟	lĩnh ngộ	skills	strict	
+传承	truyền thừa	skills	strict	
+传授	truyền dạy	skills	strict	
+宗门	tông môn	sect	strict	
+宗主	tông chủ	sect	strict	
+掌门	chưởng môn	sect	strict	
+大长老	đại trưởng lão	sect	strict	
+太上长老	thái thượng trưởng lão	sect	strict	
+长老	trưởng lão	sect	strict	
+真传弟子	đệ tử chân truyền	sect	strict	
+内门弟子	đệ tử nội môn	sect	strict	
+外门弟子	đệ tử ngoại môn	sect	strict	
+记名弟子	đệ tử ký danh	sect	strict	
+弟子	đệ tử	sect	strict	
+宗门贡献	cống hiến tông môn	sect	strict	
+贡献点	điểm cống hiến	sect	strict	
+分舵	phân đà	sect	strict	
+分宗	phân tông	sect	strict	
+总舵	tổng đà	sect	strict	
+领地	lãnh địa	sect	strict	
+宗门大比	đại tỷ tông môn	sect	strict	
+宗门战	chiến tranh tông môn	sect	strict	
+宗门秘法	bí pháp tông môn	sect	strict	
+藏经阁	Tàng Kinh Các	sect	strict	Tên công trình.
+议事大堂	Nghị Sự Đại Đường	sect	strict	
+任务厅	Nhiệm Vụ Sảnh	sect	strict	
+护宗大阵	Hộ Tông Đại Trận	sect	strict	
+炼丹房	Luyện Đan Phòng	sect	strict	
+铸器房	Chú Khí Phòng	sect	strict	
+演武堂	Diễn Võ Đường	sect	strict	
+聚灵阵	Tụ Linh Trận	sect	strict	
+灵阁	Linh Các	sect	strict	
+地下坊市	Địa Hạ Phường Thị	sect	strict	
+炼丹	luyện đan	crafting	strict	
+炼器	luyện khí	crafting	strict	Chế tác pháp khí, không phải cảnh giới Luyện Khí 炼气.
+炼制	luyện chế	crafting	strict	
+精炼	tinh luyện	crafting	strict	
+淬炼	thối luyện	crafting	strict	
+熔炼	dung luyện	crafting	strict	
+丹方	đan phương	crafting	strict	
+丹炉	đan lô	crafting	strict	
+药材	dược liệu	crafting	strict	
+灵药	linh dược	crafting	strict	
+灵草	linh thảo	crafting	strict	
+药性	dược tính	crafting	strict	
+药力	dược lực	crafting	strict	
+药效	dược hiệu	crafting	strict	
+药渣	cặn thuốc	crafting	strict	
+杂质	tạp chất	crafting	strict	
+纯度	độ tinh khiết	crafting	strict	
+成丹	thành đan	crafting	strict	
+丹药	đan dược	crafting	strict	
+符箓	phù lục	crafting	strict	
+画符	họa phù	crafting	strict	
+符纸	giấy vẽ phù	crafting	strict	
+符咒	phù chú	crafting	strict	
+灵符	linh phù	crafting	strict	
+风水	phong thủy	crafting	strict	
+堪舆	kham dư	crafting	strict	
+矿材	khoáng liệu	crafting	strict	
+矿石	quặng	crafting	strict	
+采矿	khai khoáng	crafting	strict	
+采集	thu thập	crafting	strict	
+法宝	pháp bảo	artifacts	strict	
+法器	pháp khí	artifacts	strict	
+器灵	khí linh	artifacts	strict	Không nhầm 灵气=linh khí.
+器形	khí hình	artifacts	strict	Phần vật thể của pháp bảo trong hệ thống luyện khí.
+本命契约	khế ước bản mệnh	artifacts	strict	
+本命法宝	pháp bảo bản mệnh	artifacts	strict	
+耐久度	độ bền	artifacts	strict	
+融合	dung hợp	artifacts	strict	
+器灵天赋	thiên phú khí linh	artifacts	strict	
+器灵技能	kỹ năng khí linh	artifacts	strict	
+灵石	linh thạch	items	strict	Cấm linh đá, đá linh.
+灵珠	linh châu	items	strict	
+魂石	hồn thạch	items	strict	
+储物袋	túi trữ vật	items	strict	
+储物戒	nhẫn trữ vật	items	strict	
+储物戒指	nhẫn trữ vật	items	strict	
+坐骑	tọa kỵ	items	strict	
+材料	nguyên liệu	items	strict	
+碎片	mảnh vỡ	items	hint	Với tên riêng bộ phận vẫn theo bản đã duyệt.
+残卷	tàn quyển	items	strict	
+残页	trang sách rời	items	hint	Có thể dùng trang sách còn sót lại theo ngữ cảnh.
+配方	công thức	items	strict	
+道具	vật phẩm	items	strict	
+装备	trang bị	items	strict	
+品级	phẩm cấp	items	strict	
+品质	phẩm chất	items	strict	
+一品	nhất phẩm	items	strict	Đặt sau tên đan dược khi nguồn nêu phẩm cấp.
+二品	nhị phẩm	items	strict	
+三品	tam phẩm	items	strict	
+四品	tứ phẩm	items	strict	
+五品	ngũ phẩm	items	strict	
+六品	lục phẩm	items	strict	
+拍卖行	phòng đấu giá	commerce	strict	
+拍卖会	buổi đấu giá	commerce	strict	
+拍卖	đấu giá	commerce	strict	
+竞拍	trả giá	commerce	hint	Trong đấu giá, không đồng nhất với mặc cả.
+起拍价	giá khởi điểm	commerce	strict	
+成交价	giá giao dịch	commerce	hint	
+交易	giao dịch	commerce	strict	
+出售	bán	commerce	strict	
+购买	mua	commerce	strict	
+商店	cửa hàng	commerce	strict	
+坊市	phường thị	commerce	strict	
+酒馆	tửu quán	commerce	strict	
+客栈	khách điếm	commerce	strict	
+城主	thành chủ	world	strict	
+城镇	thành trấn	world	strict	
+村庄	thôn trang	world	strict	
+部落	bộ lạc	world	strict	
+传送阵	truyền tống trận	world	strict	
+传送符	truyền tống phù	world	strict	
+秘境	bí cảnh	world	strict	
+洞府	động phủ	world	strict	
+遗迹	di tích	world	strict	
+禁地	cấm địa	world	strict	
+灵泉	linh tuyền	world	strict	
+奇遇	kỳ ngộ	world	strict	
+机缘	cơ duyên	world	strict	
+妖兽	yêu thú	world	strict	
+大妖兽	đại yêu thú	world	strict	
+妖巢	sào huyệt yêu thú	world	strict	
+兽潮	thú triều	world	strict	
+魔物	ma vật	world	strict	
+正道	chính đạo	world	strict	
+魔道	ma đạo	world	strict	
+散修	tán tu	world	strict	
+人族	nhân tộc	world	strict	
+妖族	yêu tộc	world	strict	
+魔族	ma tộc	world	strict	
+仙界	tiên giới	world	strict	
+八荒	Bát Hoang	world	strict	
+永宁州	Vĩnh Ninh Châu	world	strict	
+华封州	Hoa Phong Châu	world	strict	
+云陌州	Vân Mạch Châu	world	strict	
+暮仙州	Mộ Tiên Châu	world	strict	
+赤幽州	Xích U Châu	world	strict	
+雷泽	Lôi Trạch	world	strict	
+十万大山	Thập Vạn Đại Sơn	world	strict	
+无极之境	Vô Cực Chi Cảnh	world	strict	
+不归之境	Bất Quy Chi Cảnh	world	strict	
+天元山	Thiên Nguyên Sơn	world	strict	
+愚公	Ngu Công	world	strict	
+愚村	Ngu Thôn	world	strict	
+武罗	Vũ La	world	strict	
+后羿	Hậu Nghệ	world	strict	
+刑天	Hình Thiên	world	strict	
+精卫	Tinh Vệ	world	strict	
+夸父	Khoa Phụ	world	strict	
+道侣	đạo lữ	social	strict	
+双修	song tu	social	strict	
+结义	kết nghĩa	social	strict	
+义兄	nghĩa huynh	social	strict	
+义弟	nghĩa đệ	social	strict	
+义姐	nghĩa tỷ	social	strict	
+义妹	nghĩa muội	social	strict	
+义父	nghĩa phụ	social	strict	
+义母	nghĩa mẫu	social	strict	
+义子	nghĩa tử	social	strict	
+义女	nghĩa nữ	social	strict	
+师父	sư phụ	social	strict	
+师傅	sư phụ	social	hint	Có thể là thợ lành nghề khi không nói quan hệ sư môn.
+师尊	sư tôn	social	strict	
+徒弟	đồ đệ	social	strict	
+师兄	sư huynh	social	strict	
+师弟	sư đệ	social	strict	
+师姐	sư tỷ	social	strict	
+师妹	sư muội	social	strict	
+师门	sư môn	social	strict	
+同门	đồng môn	social	strict	
+父亲	phụ thân	social	strict	
+母亲	mẫu thân	social	strict	
+夫君	phu quân	social	strict	
+娘子	nương tử	social	strict	
+道友	đạo hữu	social	strict	
+仙友	tiên hữu	social	strict	
+前辈	tiền bối	social	strict	
+晚辈	vãn bối	social	strict	
+老夫	lão phu	social	strict	
+老朽	lão hủ	social	strict	
+在下	tại hạ	social	hint	Chỉ tự xưng khi đúng ngữ cảnh, không ép khi là từ chỉ vị trí.
+贫道	bần đạo	social	strict	
+贫僧	bần tăng	social	strict	
+切磋	luận bàn	social	strict	Đấu giao hữu; không đồng nhất với luận đạo 论道.
+论道	luận đạo	social	strict	
+指点	chỉ điểm	social	strict	
+传功	truyền công	social	strict	
+拜师	bái sư	social	strict	
+收徒	nhận đồ đệ	social	hint	
+交谈	trò chuyện	social	strict	
+赠送	tặng	social	hint	
+仇人	kẻ thù	social	hint	
+仇恨	thù hận	social	strict	
+报仇	báo thù	social	strict	
+复仇	báo thù	social	strict	
+夺取	cướp đoạt	social	hint	
+概率	xác suất	mechanics	strict	
+几率	xác suất	mechanics	strict	
+倍率	hệ số	mechanics	strict	
+倍数	hệ số	mechanics	strict	
+百分比	phần trăm	mechanics	strict	
+上限	tối đa	mechanics	hint	Không tự chuyển thành mức hiện tại.
+下限	tối thiểu	mechanics	hint	
+恢复	hồi phục	mechanics	hint	Dùng cho tài nguyên nhân vật; khôi phục bản lưu là ngữ cảnh khác.
+回复	hồi phục	mechanics	hint	Động từ trả lời trong hội thoại phải dịch là đáp/lời đáp.
+掉落	rơi	mechanics	hint	Vật phẩm rơi; hành động nhân vật rơi xuống dịch theo câu.
+掉落率	tỷ lệ rơi đồ	mechanics	strict	
+掉落概率	xác suất rơi đồ	mechanics	strict	
+持续	duy trì	mechanics	hint	
+范围	phạm vi	mechanics	strict	
+消耗	tiêu hao	mechanics	strict	
+触发	kích hoạt	mechanics	hint	
+解锁	mở khóa	mechanics	strict	
+封印	phong ấn	mechanics	strict	
+封锁	phong tỏa	mechanics	strict	
+普通	Bình Thường	ui	hint	Tên độ khó hoặc phẩm chất; trong văn xuôi dịch bình thường.
+困难	Khó	ui	hint	Tên độ khó; trong văn xuôi dịch theo nghĩa.
+极难	Cực Khó	ui	hint	
+地狱	Địa Ngục	ui	hint	Tên độ khó viết hoa.
+洪荒	Hồng Hoang	ui	strict	Tên độ khó/hệ thống.
+背包	túi đồ	ui	strict	
+仓库	kho đồ	ui	strict	
+任务	nhiệm vụ	ui	strict	
+主线任务	nhiệm vụ chính tuyến	ui	strict	
+支线任务	nhiệm vụ phụ tuyến	ui	strict	
+奖励	phần thưởng	ui	strict	
+存档	bản lưu	ui	strict	
+读档	tải bản lưu	ui	strict	
+保存	lưu	ui	hint	
+设置	thiết lập	ui	hint	
+界面	giao diện	ui	strict	
+按键	phím	ui	hint	
+鼠标	chuột	ui	hint	
+分辨率	độ phân giải	ui	strict	
+全屏	toàn màn hình	ui	strict	
+窗口模式	chế độ cửa sổ	ui	strict	
+音量	âm lượng	ui	strict	
+自动保存	tự động lưu	ui	strict	
+确认	xác nhận	ui	strict	
+取消	hủy	ui	strict	
+返回	trở về	ui	hint	
+退出	thoát	ui	hint	
+炼妖壶	Luyện Yêu Hồ	relics	strict	Tên bảo vật khởi đầu.
+昊天眼	Hạo Thiên Nhãn	relics	strict	Tên bảo vật; không đồng nhất mọi từ 天眼 với bảo vật này.
+双鱼佩	Song Ngư Bội	relics	strict	Tên bảo vật khởi đầu.
+双鱼玉佩	Song Ngư Ngọc Bội	relics	strict	Giữ chữ Ngọc khi nguồn có 玉.
+壶妖	hồ yêu	relics	strict	Yêu thú trong Luyện Yêu Hồ; phân biệt hồ ly 狐妖.
+壶灵	hồ linh	relics	strict	
+化形	hóa hình	relics	strict	
+历练	lịch luyện	relics	strict	
+仙祠	tiên từ	relics	strict	Nơi thờ tiên, không dịch thành tông môn.
+神祠	thần từ	relics	strict	
+仙法	tiên pháp	relics	strict	
+仙力	tiên lực	relics	strict	
+仙术	tiên thuật	relics	strict	
+仙缘	tiên duyên	relics	strict	
+仙盟	tiên minh	relics	strict	
+御龙山庄	Ngự Long Sơn Trang	world	strict	
+星耀宫	Tinh Diệu Cung	world	strict	
+噬魂塔	Phệ Hồn Tháp	world	strict	
+陨幽谷	Vẫn U Cốc	world	strict	
+镇邪峰	Trấn Tà Phong	world	strict	
+封神天梯	Phong Thần Thiên Thê	world	strict	
+通灵秘境	Thông Linh Bí Cảnh	world	strict	
+玄灵秘境	Huyền Linh Bí Cảnh	world	strict	
+升仙大会	Thăng Tiên Đại Hội	world	strict	
+登仙大会	Đăng Tiên Đại Hội	world	strict	
+琅琊阁	Lang Gia Các	world	strict	
+竹妖	Trúc Yêu	world	strict	
+树妖	Thụ Yêu	world	strict	
+树精	Thụ Tinh	world	strict	
+魔猿	Ma Viên	world	strict	Không dịch thành Quỷ Vương.
+尸王	Thi Vương	world	strict	
+九尾狐	Cửu Vĩ Hồ	world	strict	
+九尾狐妖	Cửu Vĩ Hồ Yêu	world	strict	
+六尾狐妖	Lục Vĩ Hồ Yêu	world	strict	
+开明兽	Khai Minh Thú	world	strict	
+三足乌	Tam Túc Ô	world	strict	
+天狗	Thiên Cẩu	world	strict	
+蛟龙	giao long	world	strict	
+旱魃	Hạn Bạt	world	strict	
+勾陈	Câu Trần	world	strict	
+腾蛇	Đằng Xà	world	strict	
+玄武	Huyền Vũ	world	strict	
+青龙	Thanh Long	world	strict	
+白虎	Bạch Hổ	world	strict	
+朱雀	Chu Tước	world	strict	
+镇灵	trấn linh	cultivation	strict	
+魂魄	hồn phách	cultivation	strict	
+魂魄晶体	tinh thể hồn phách	artifacts	strict	
+引魂珠	Dẫn Hồn Châu	artifacts	strict	
+五行	ngũ hành	cultivation	strict	
+阴阳	âm dương	cultivation	strict	
+元气	nguyên khí	cultivation	strict	
+煞气	sát khí	cultivation	strict	
+怨气	oán khí	cultivation	strict	
+死气	tử khí	cultivation	strict	
+生气	sinh khí	cultivation	hint	Tài nguyên/sinh lực là sinh khí; giận dữ trong hội thoại phải dịch tức giận.
+灵脉	linh mạch	cultivation	strict	
+灵体	linh thể	cultivation	strict	
+灵骨	linh cốt	cultivation	strict	
+灵血	linh huyết	cultivation	strict	
+灵宠	linh sủng	world	strict	
+灵兽	linh thú	world	strict	
+妖力	yêu lực	world	strict	
+妖气	yêu khí	world	strict	
+妖丹	yêu đan	items	strict	
+妖核	yêu hạch	items	strict	
+灵核	linh hạch	items	strict	
+剑修	kiếm tu	cultivation	strict	
+魔修	ma tu	cultivation	strict	
+邪修	tà tu	cultivation	strict	
+体修	thể tu	cultivation	strict	
+符修	phù tu	cultivation	strict	
+丹修	đan tu	cultivation	strict	
+阵法	trận pháp	cultivation	strict	
+阵眼	trận nhãn	cultivation	strict	
+禁制	cấm chế	cultivation	strict	
+禁术	cấm thuật	cultivation	strict	
+疗伤	chữa thương	cultivation	strict	
+闭关	bế quan	cultivation	strict	
+出关	xuất quan	cultivation	strict	
+入定	nhập định	cultivation	strict	
+吐纳	thổ nạp	cultivation	strict	
+打坐	đả tọa	cultivation	strict	
+炼化	luyện hóa	cultivation	strict	
+灵液	linh dịch	items	strict	
+药园	dược viên	crafting	strict	
+百年	trăm năm	items	hint	Dược liệu nêu niên đại; tên riêng Bách Niên vẫn theo tên đã duyệt.
+千年	nghìn năm	items	hint	
+万年	vạn năm	items	hint	
+相公	tướng công	social	strict	
+妻子	thê tử	social	strict	
+丈夫	phu quân	social	hint	Đúng quan hệ vợ chồng; không ép khi nguồn mang nghĩa đại trượng phu.
+夫人	phu nhân	social	strict	
+师娘	sư nương	social	strict	
+师叔	sư thúc	social	strict	
+师伯	sư bá	social	strict	
+师祖	sư tổ	social	strict	
+祖师	tổ sư	social	strict	
+阁下	các hạ	social	strict	
+小友	tiểu hữu	social	strict	
+小辈	tiểu bối	social	strict	
+道兄	đạo huynh	social	strict	
+兄台	huynh đài	social	strict	
+兄长	huynh trưởng	social	strict	
+兄弟	huynh đệ	social	hint	Chọn huynh/đệ theo người đang nói và quan hệ, không đoán ai lớn hơn.
+姐姐	tỷ tỷ	social	hint	Không gọi người đối thoại là tỷ tỷ khi nguồn chỉ nói về người thứ ba.
+妹妹	muội muội	social	hint	
+哥哥	huynh	social	hint	
+弟弟	đệ đệ	social	hint	
+爷爷	tổ phụ	social	hint	Lời tự xưng hống hách không nhất thiết là quan hệ huyết thống.
+奶奶	tổ mẫu	social	hint	
+娘亲	mẫu thân	social	strict	
+爹爹	phụ thân	social	strict	
+孩儿	hài nhi	social	strict	
+本座	bổn tọa	social	strict	
+本尊	bổn tôn	social	strict	
+本仙	bổn tiên	social	strict	
+老身	lão thân	social	strict	Nữ nhân lớn tuổi tự xưng.
+妾身	thiếp thân	social	strict	Nữ nhân tự xưng theo vai vế.
+奴家	nô gia	social	strict	
+恩公	ân công	social	strict	
+恩人	ân nhân	social	strict	
+徒儿	đồ nhi	social	strict	
+属性	thuộc tính	ui	strict	
+基础属性	thuộc tính cơ bản	ui	strict	
+外貌	ngoại hình	ui	strict	
+姓名	họ tên	ui	strict	
+性别	giới tính	ui	strict	
+种族	chủng tộc	ui	strict	
+年龄	tuổi	ui	hint	
+角色	nhân vật	ui	strict	
+道号	đạo hiệu	ui	strict	
+称号	danh hiệu	ui	strict	
+成就	thành tựu	ui	strict	
+排行榜	bảng xếp hạng	ui	strict	
+战绩	chiến tích	ui	strict	
+轮回	luân hồi	cultivation	strict	
+转世	chuyển thế	cultivation	strict	
+重生	trọng sinh	cultivation	strict	
+复活	hồi sinh	mechanics	strict	
+死亡	tử vong	mechanics	hint	Trong hội thoại có thể là chết, bỏ mạng, vẫn lạc.
+击杀	tiêu diệt	combat	hint	Lời thoại có thể dùng giết/hạ sát theo giọng điệu.
+敌人	kẻ địch	combat	strict	
+友方	phe ta	combat	strict	
+敌方	phe địch	combat	strict	
+目标	mục tiêu	combat	strict	
+击败	đánh bại	combat	strict	
+胜利	chiến thắng	combat	strict	
+失败	thất bại	combat	strict	
+战斗	chiến đấu	combat	strict	
+逃跑	bỏ chạy	combat	hint	
+逃脱	thoát thân	combat	hint	
+追杀	truy sát	combat	strict	
+追踪	truy tung	combat	hint	
+治疗	trị liệu	combat	hint	Trong câu có thể là chữa trị; không ép khi văn xuôi gượng.
+免疫	miễn nhiễm	combat	strict	
+抗性	kháng tính	stats	strict	
+减伤	giảm sát thương	combat	strict	
+增伤	tăng sát thương	combat	strict	
+幸运值	chỉ số may mắn	stats	strict	
+经验	kinh nghiệm	mechanics	strict	
+经验值	điểm kinh nghiệm	mechanics	strict	
+学习	học	mechanics	hint	
+遗忘	quên	mechanics	hint	
+升级	nâng cấp	mechanics	strict	
+重置	đặt lại	mechanics	strict	
+修复	sửa	ui	hint	Lịch sử cập nhật dùng sửa lỗi; pháp bảo dùng sửa chữa.
+配置	cấu hình	ui	strict	
+模组	mod	ui	strict	
+创意工坊	Workshop	ui	strict	Tên dịch vụ, không ép Hán–Việt.
+联机	chơi mạng	ui	strict	
+单机	chơi đơn	ui	strict	
+多人	nhiều người	ui	hint	
+主机	máy chủ	ui	hint	Trong chơi mạng; thiết bị console dịch theo ngữ cảnh.
+连接	kết nối	ui	strict	
+断开连接	ngắt kết nối	ui	strict	
+自动战斗	tự động chiến đấu	ui	strict	
+战斗速度	tốc độ chiến đấu	ui	strict	
+游戏速度	tốc độ trò chơi	ui	strict	
+新手教程	hướng dẫn tân thủ	ui	strict	
+剧情	cốt truyện	ui	strict	
+对话	hội thoại	ui	strict	
+日志	nhật ký	ui	strict	

@@ -1,0 +1,65 @@
+{
+  "game_root": "../..",
+  "api_key_env": "TRANSLATOR_API_KEY",
+  "model": "ag/gemini-3.8-flash-low(low)",
+  "batch_size": 25,
+  "max_source_characters_per_batch": 6000,
+  "parallel_requests": 2,
+  "requests_per_minute": 10,
+  "request_timeout_seconds": 180,
+  "http_retries": 0,
+  "validation_retries": 0,
+  "max_output_tokens": 32768,
+  "temperature": 0.3,
+  "generation_overrides": {},
+  "glossary_file": "glossary.json",
+  "name_fragments_file": "name_fragments.json",
+  "item_names_file": "../../TranslationExports/item_names_review/approved_item_names.json",
+  "skill_fate_names_file": "../../TranslationExports/skills_fates_review/approved_names.json",
+  "style_file": "style.txt",
+  "state_directory": "state_sample10_offset10",
+  "preserve_target_edge_whitespace": true,
+  "reject_remaining_chinese": true,
+  "deduplicate_within_context": true,
+  "files": [
+    {
+      "path": "Mods/Villain/patch_vh/LocalText.json",
+      "id_field": "id",
+      "key_field": "key",
+      "fields": {
+        "ch": "en"
+      },
+      "include_key_globs": [
+        "drama_dialogue610066",
+        "drama_dialogue610067",
+        "drama_dialogue610068",
+        "drama_dialogue610069",
+        "drama_dialogue610070",
+        "drama_dialogue610071",
+        "drama_dialogue610072",
+        "drama_dialogue610073",
+        "drama_dialogue610074",
+        "drama_dialogue610075"
+      ],
+      "exclude_key_globs": [
+        "startGameTip*",
+        "gamePlan*",
+        "planTip",
+        "banbenjihua",
+        "update_title",
+        "ui_UpdateHistory*",
+        "logUpdate*",
+        "Thanks*",
+        "conclusionText*",
+        "wenjuan*",
+        "jianyi_*",
+        "mod_huodong",
+        "mod_huodongneirong"
+      ]
+    }
+  ],
+  "base_url": "https://lynn-view-denver-letter.trycloudflare.com/v1",
+  "api_key_file": "credentials.local.json",
+  "json_mode": true,
+  "defer_failed_items": true
+}

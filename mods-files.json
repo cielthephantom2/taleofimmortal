@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "version": "1.7.142",
+  "version": "1.7.149",
   "files": [
     {
       "path": "ModExportData/Mod_nYOYTQ/ModAssets/这个目录下的所有文件都会被一起导出（打开查看说明）.txt",
@@ -38,14 +38,34 @@
       "sha256": "1e0e089c9c709f381f89177aac65629311b57acd822164d733b1950c2518c24b"
     },
     {
-      "path": "Mods/dnlib.dll",
-      "bytes": 1167872,
-      "sha256": "648950f725fb0320e09c52dcaf81764916df96dc62e7429ba67daea0acb784ea"
-    },
-    {
       "path": "Mods/DoubleMonsterLoot.spawn-groups.txt",
       "bytes": 4551,
       "sha256": "f5c945001c6801c2b2d8a6c3a1fd02981201bea42596c63153135b58eb8956b8"
+    },
+    {
+      "path": "Mods/Fonts/Charm-Bold.ttf",
+      "bytes": 135416,
+      "sha256": "c0c142a444168658f48661d1249ceca619d09e2527dd7b13f814b59170f2e4d8"
+    },
+    {
+      "path": "Mods/Fonts/Charm-Regular.ttf",
+      "bytes": 134652,
+      "sha256": "9b39d97333fc801ac9da620df7321d93086b0a53462144a32efbf998b8dbb20b"
+    },
+    {
+      "path": "Mods/Fonts/Lora-Bold.ttf",
+      "bytes": 133828,
+      "sha256": "7d74015e950c2fb66519c7295b8155621d22200ae2ca2a4c6b43ce3c490cac87"
+    },
+    {
+      "path": "Mods/Fonts/Lora-Medium.ttf",
+      "bytes": 134004,
+      "sha256": "fd57ed9e3945de65de667f1919c2978b79937a13d246508fc4f64bb562e53196"
+    },
+    {
+      "path": "Mods/Fonts/Lora-Regular.ttf",
+      "bytes": 133888,
+      "sha256": "7ed00e7c9cdf16ab7e2fd2361fe45d4f0b61263cd60aae398b27b7ee08108827"
     },
     {
       "path": "Mods/Fonts/alegreya-OFL.txt",
@@ -78,16 +98,6 @@
       "sha256": "c0c5523ce76bee0a2952dcf123a5c9d705b081a01cfccfbccd0d83cfe9fb6336"
     },
     {
-      "path": "Mods/Fonts/Charm-Bold.ttf",
-      "bytes": 135416,
-      "sha256": "c0c142a444168658f48661d1249ceca619d09e2527dd7b13f814b59170f2e4d8"
-    },
-    {
-      "path": "Mods/Fonts/Charm-Regular.ttf",
-      "bytes": 134652,
-      "sha256": "9b39d97333fc801ac9da620df7321d93086b0a53462144a32efbf998b8dbb20b"
-    },
-    {
       "path": "Mods/Fonts/firasans-OFL.txt",
       "bytes": 4370,
       "sha256": "8f24842e9174beda18a556c2ae7d54f5dc444340c19a3a9ef77e23bca366adbd"
@@ -116,21 +126,6 @@
       "path": "Mods/Fonts/literata-Regular.ttf",
       "bytes": 270788,
       "sha256": "7ee2f6d7e1ce283a8ca1c4f43439e939c3df39561b6c08faf33e3e4ec5bcd4ba"
-    },
-    {
-      "path": "Mods/Fonts/Lora-Bold.ttf",
-      "bytes": 133828,
-      "sha256": "7d74015e950c2fb66519c7295b8155621d22200ae2ca2a4c6b43ce3c490cac87"
-    },
-    {
-      "path": "Mods/Fonts/Lora-Medium.ttf",
-      "bytes": 134004,
-      "sha256": "fd57ed9e3945de65de667f1919c2978b79937a13d246508fc4f64bb562e53196"
-    },
-    {
-      "path": "Mods/Fonts/Lora-Regular.ttf",
-      "bytes": 133888,
-      "sha256": "7ed00e7c9cdf16ab7e2fd2361fe45d4f0b61263cd60aae398b27b7ee08108827"
     },
     {
       "path": "Mods/Fonts/merriweather-OFL.txt",
@@ -229,8 +224,8 @@
     },
     {
       "path": "Mods/ImmortalModSuite.dll",
-      "bytes": 14305792,
-      "sha256": "055ba741c28bf505ec0fa2d6dbf06ed330c1e12b007511557b4e1a202272e895"
+      "bytes": 14313984,
+      "sha256": "bee7ba708553ad1ee612f662520cd1995d383ae58631bebbf80013b0a0b0c395"
     },
     {
       "path": "Mods/MusicVolumeTrace.dll",
@@ -368,21 +363,6 @@
       "sha256": "f0f9abfae5986732950c275accf51dc432f382434926d6b764b194eea26fd047"
     },
     {
-      "path": "Mods/Villain/base/BattleAbilityBase.json",
-      "bytes": 30732,
-      "sha256": "c245b61842393d9c96571a210b27de3bf60c9324dce094949d35d9db77545147"
-    },
-    {
-      "path": "Mods/Villain/base/BattleAbilityCombine.json",
-      "bytes": 499087,
-      "sha256": "26bf13af01c8ab7ffe463773b622d87b64eadd405aeabdf42f851916b7017dcc"
-    },
-    {
-      "path": "Mods/Villain/base/BattleAbilitySuitBase.json",
-      "bytes": 23611,
-      "sha256": "35dcc95f74bff2ad7669a804242cbd78d5b735434660c1988da8cdf00aaeeeef"
-    },
-    {
       "path": "Mods/Villain/base/BattleAIBossValue.json",
       "bytes": 739117,
       "sha256": "246b52441f8c4dfe4261e67932de14f40fc8909678cdde880a424413bdf94a8e"
@@ -396,6 +376,21 @@
       "path": "Mods/Villain/base/BattleAIDefaultValue.json",
       "bytes": 114231,
       "sha256": "a2a989b93497b83014e79e80614b73ebee68f91d0c2160de4c9f442ee09db67c"
+    },
+    {
+      "path": "Mods/Villain/base/BattleAbilityBase.json",
+      "bytes": 30732,
+      "sha256": "c245b61842393d9c96571a210b27de3bf60c9324dce094949d35d9db77545147"
+    },
+    {
+      "path": "Mods/Villain/base/BattleAbilityCombine.json",
+      "bytes": 499087,
+      "sha256": "26bf13af01c8ab7ffe463773b622d87b64eadd405aeabdf42f851916b7017dcc"
+    },
+    {
+      "path": "Mods/Villain/base/BattleAbilitySuitBase.json",
+      "bytes": 23611,
+      "sha256": "35dcc95f74bff2ad7669a804242cbd78d5b735434660c1988da8cdf00aaeeeef"
     },
     {
       "path": "Mods/Villain/base/BattleArtifact.json",
@@ -1503,6 +1498,11 @@
       "sha256": "0aa04b4c7d9936dc41f3452e6c32b2c1a27323dfdefc4b2b19c89b7e223e449d"
     },
     {
+      "path": "Mods/Villain/base/HerdNPCNameFirst.json",
+      "bytes": 501,
+      "sha256": "24be1994f4e1f351c1420e5f2b8b01f376d589657724d6c0ded26e1fab953fa1"
+    },
+    {
       "path": "Mods/Villain/base/HerdNpcClothes.json",
       "bytes": 3489,
       "sha256": "3887252e2339504b8c54a5d695868d214dd1b7edd6eb744d8d72249b972fd9f7"
@@ -1516,11 +1516,6 @@
       "path": "Mods/Villain/base/HerdNpcLevel.json",
       "bytes": 4775,
       "sha256": "dc3279ce223cd1a8e602e2ab8572ff9380b561116c4e4c889f01d7df7cc83597"
-    },
-    {
-      "path": "Mods/Villain/base/HerdNPCNameFirst.json",
-      "bytes": 501,
-      "sha256": "24be1994f4e1f351c1420e5f2b8b01f376d589657724d6c0ded26e1fab953fa1"
     },
     {
       "path": "Mods/Villain/base/HerdNpcParameters.json",
@@ -1766,21 +1761,6 @@
       "path": "Mods/Villain/base/LogLocalVocal.json",
       "bytes": 912,
       "sha256": "2b9727dc39e5ce12b77d2d2dacac512e6252a4dc46c343538b8e9fc213930228"
-    },
-    {
-      "path": "Mods/Villain/base/lotusSwordEffects.json",
-      "bytes": 690,
-      "sha256": "7e38842617c39d4cfbeed55be92df9770bdf865ade9ee659d493e3659c7a05eb"
-    },
-    {
-      "path": "Mods/Villain/base/lotusSwordParamer.json",
-      "bytes": 2874,
-      "sha256": "b766cca19c2ca3b02a2b22d1e07b7037e9708b02422ebdd4c5095d1f3deef398"
-    },
-    {
-      "path": "Mods/Villain/base/lotusSwordSeedGrow.json",
-      "bytes": 1145,
-      "sha256": "273016be80badc8084cc4b5c429e8ce4b5001f37479d073e94075459cfe69745"
     },
     {
       "path": "Mods/Villain/base/MagicName.json",
@@ -2743,14 +2723,14 @@
       "sha256": "ae704f6e64070cf6d21403d027e3a33a4767c30068a084a3ad4a47e78e34bc40"
     },
     {
-      "path": "Mods/Villain/base/RoleLoginTip.json",
-      "bytes": 577,
-      "sha256": "911aced007abb161a256cc906bc252d20f1719b14b1d63a918be7b3f07eaec42"
-    },
-    {
       "path": "Mods/Villain/base/RoleLogLocal.json",
       "bytes": 21924055,
       "sha256": "91489d0e7eed4dad8d6924ef51b348d30548e12264d3b8af98f9e0e526b1462a"
+    },
+    {
+      "path": "Mods/Villain/base/RoleLoginTip.json",
+      "bytes": 577,
+      "sha256": "911aced007abb161a256cc906bc252d20f1719b14b1d63a918be7b3f07eaec42"
     },
     {
       "path": "Mods/Villain/base/RoleMark.json",
@@ -3998,6 +3978,21 @@
       "sha256": "4c8d64780436ce265054fe30caae345c6e258a4705ea9dd56b23fc9e19335977"
     },
     {
+      "path": "Mods/Villain/base/lotusSwordEffects.json",
+      "bytes": 690,
+      "sha256": "7e38842617c39d4cfbeed55be92df9770bdf865ade9ee659d493e3659c7a05eb"
+    },
+    {
+      "path": "Mods/Villain/base/lotusSwordParamer.json",
+      "bytes": 2874,
+      "sha256": "b766cca19c2ca3b02a2b22d1e07b7037e9708b02422ebdd4c5095d1f3deef398"
+    },
+    {
+      "path": "Mods/Villain/base/lotusSwordSeedGrow.json",
+      "bytes": 1145,
+      "sha256": "273016be80badc8084cc4b5c429e8ce4b5001f37479d073e94075459cfe69745"
+    },
+    {
       "path": "Mods/Villain/base/yinyangEyeParamer.json",
       "bytes": 4099,
       "sha256": "3b654ba64f98cabe5a103799389366244dbe4ffab1893c973f16f5544be52369"
@@ -4046,6 +4041,11 @@
       "path": "Mods/Villain/patch_vh/RoleLogLocal.json",
       "bytes": 15845572,
       "sha256": "b0b925060d88966f2c40fa2c9e9963cc01dc7bb08cb8e92a876c765a3bb72293"
+    },
+    {
+      "path": "Mods/dnlib.dll",
+      "bytes": 1167872,
+      "sha256": "648950f725fb0320e09c52dcaf81764916df96dc62e7429ba67daea0acb784ea"
     },
     {
       "path": "UserData/VietnameseUILayout/profiles.json",

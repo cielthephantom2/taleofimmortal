@@ -1,8 +1,8 @@
 {
-  "version": "1.7.142",
   "schema": 1,
-  "sha256": "055ba741c28bf505ec0fa2d6dbf06ed330c1e12b007511557b4e1a202272e895",
+  "version": "1.7.149",
   "path": "Mods/ImmortalModSuite.dll",
-  "bytes": 14305792,
+  "bytes": 14313984,
+  "sha256": "bee7ba708553ad1ee612f662520cd1995d383ae58631bebbf80013b0a0b0c395",
   "dll": "Mods/ImmortalModSuite.dll"
 }
